@@ -1,9 +1,64 @@
 [
   {
+    "nanoid": "pxjrbdjAUkD2To",
+    "name": "13 Festival",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CYPaX2UVL5PBUV",
+    "name": "13 Humor",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "At9xDVwnRJnJwN",
+    "name": "13 Kids",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bl19xd6Od9LNtI",
     "name": "13 Realities",
     "iptv_urls": [
       "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sFxGybHHfJgVTf",
+    "name": "13 Teleseries",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qrJk7Z0w2ndHZn",
+    "name": "13C",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -125,7 +180,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/du_UdfDCfXQ"
+      "https://www.youtube-nocookie.com/embed/6HFLlFnqsU4"
     ],
     "language": "spa",
     "country": "cl",
@@ -169,17 +224,6 @@
     "name": "Dance FM",
     "iptv_urls": [
       "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6AKwsDAUNYtLKH",
-    "name": "Décima TV (Ancud)",
-    "iptv_urls": [
-      "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -290,19 +334,8 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iMNmq1hbyvM"
+      "https://www.youtube-nocookie.com/embed/MJn2MahIDQA"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rFCQYWbNPQlvWE",
-    "name": "MTNA TV",
-    "iptv_urls": [
-      "https://live.mtna.tv/hls/mtna/mtna.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -391,6 +424,18 @@
     "name": "Santa María Televisión",
     "iptv_urls": [
       "https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0C2d9cgVcqnI9d",
+    "name": "SoloBáilalo",
+    "iptv_urls": [
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+      "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -546,6 +591,17 @@
     "name": "TVN3",
     "iptv_urls": [
       "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xTf3bbxqRJQgMl",
+    "name": "TVO San Vicente",
+    "iptv_urls": [
+      "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -103,7 +103,7 @@
     "name": "Archie's Weird Mysteries",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uoKwxbe8U_o"
+      "https://www.youtube-nocookie.com/embed/OhODczlzgA0"
     ],
     "language": "eng",
     "country": "uk",
@@ -129,17 +129,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics",
-    "iptv_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -328,6 +317,17 @@
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1ov4rKCt7xdyVW",
+    "name": "Japanim TV",
+    "iptv_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "be",
     "isGeoBlocked": false
   },
   {

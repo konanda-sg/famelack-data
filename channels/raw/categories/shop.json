@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rtbi6hxyaPNSIn",
-    "name": "1001 Noites",
-    "iptv_urls": [
-      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ugGAivxJyE8GHx",
     "name": "AAC Television",
     "iptv_urls": [],
@@ -217,17 +206,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWubgLKIN9lBtR",
-    "name": "Handystar",
-    "iptv_urls": [
-      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -976,6 +954,17 @@
     "youtube_urls": [],
     "language": "ukr",
     "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VRSVNzRuNbdCXJ",
+    "name": "Ювелирочка",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/LqF6fhpn9eY"
+    ],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

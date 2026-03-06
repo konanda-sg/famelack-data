@@ -70,7 +70,7 @@
     "name": "Archie's Weird Mysteries",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uoKwxbe8U_o"
+      "https://www.youtube-nocookie.com/embed/OhODczlzgA0"
     ],
     "language": "eng",
     "country": "uk",
@@ -114,7 +114,7 @@
     "name": "Banijay Engine: Full Custom Garage",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b9FdY_lT7I4"
+      "https://www.youtube-nocookie.com/embed/0SJZQsG_xQ4"
     ],
     "language": "eng",
     "country": "uk",
@@ -1202,17 +1202,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/YDvsBbKfLPA"
     ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
-    "iptv_urls": [
-      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

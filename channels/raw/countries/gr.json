@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eCehtdFo2W9HPb",
+    "name": "Alert",
+    "iptv_urls": [
+      "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ell",
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iaXW6RecjncP1a",
     "name": "ART TV",
     "iptv_urls": [

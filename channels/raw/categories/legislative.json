@@ -44,17 +44,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MYnHsDG9stKwV8",
-    "name": "ARTV Canal Parlamento",
-    "iptv_urls": [
-      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "iptv_urls": [],
@@ -863,17 +852,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t3PBninbMM8gDW",
-    "name": "Országgyűlés (Törvényalkotási bizottság)",
-    "iptv_urls": [
-      "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hun",
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iPhkcC76kYpp0C",
     "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
@@ -882,17 +860,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1022,7 +989,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/edn4lUhYZsM"
+      "https://www.youtube-nocookie.com/embed/Eg-xWwfGMKw"
     ],
     "language": "por",
     "country": "br",
@@ -1032,8 +999,20 @@
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "iptv_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "hin",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7uZQEY7iiyput2",
+    "name": "Sansad TV 2",
+    "iptv_urls": [
+      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
+      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -1144,7 +1123,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B3f-TN7ab8A"
+      "https://www.youtube-nocookie.com/embed/3f2NXt4edRw"
     ],
     "language": "por",
     "country": "br",

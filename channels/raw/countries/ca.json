@@ -25,8 +25,7 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -85,6 +84,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3yOkUIhwGzemcz",
+    "name": "Canal Savoir",
+    "iptv_urls": [
+      "https://hls.savoir.media/live/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -240,6 +250,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/4F4GZ8IZo4U"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N0k9-RDTOFw"
     ],
     "language": "eng",
     "country": "ca",
@@ -489,7 +510,7 @@
       "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vBnErz43N1A"
+      "https://www.youtube-nocookie.com/embed/QhahoVG0BfI"
     ],
     "language": "eng",
     "country": "ca",
@@ -996,7 +1017,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PciB2WvB-Zs"
+      "https://www.youtube-nocookie.com/embed/EQIfK42qT9w"
     ],
     "language": "eng",
     "country": "ca",
@@ -1007,7 +1028,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fzxEyT0I57s"
+      "https://www.youtube-nocookie.com/embed/IiAJ7COJowg"
     ],
     "language": "eng",
     "country": "ca",
@@ -1018,7 +1039,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MN1N72_8898"
+      "https://www.youtube-nocookie.com/embed/Ejl5EqvFcHw"
     ],
     "language": "eng",
     "country": "ca",

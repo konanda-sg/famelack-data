@@ -100,17 +100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics",
-    "iptv_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YVXMNDK2rpUCOO",
     "name": "dlaCiebie.tv",
     "iptv_urls": [
@@ -183,17 +172,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/bgbUqi3cUi8"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ulzRgEHfvju1VV",
-    "name": "Mazowsze.tv",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatvplayout7/giatv-211328/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -574,6 +552,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YlvIJtIuRi0z8J",
+    "name": "TVP Historia",
+    "iptv_urls": [
+      "https://lowa8026-cmyk.github.io/tvpvod/399702.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Se7x9HGaZbNY8X",
     "name": "TVP Info",
     "iptv_urls": [
@@ -625,6 +614,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

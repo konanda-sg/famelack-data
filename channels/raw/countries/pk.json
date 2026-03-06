@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YgGt3xJqUzjNuF",
-    "name": "92 NEWS HD",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xEL8-fp5UaI"
-    ],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q9MeF0SCQHRY97",
     "name": "Aaj TV",
     "iptv_urls": [],
@@ -59,7 +48,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SwCNT1fCqv4"
+      "https://www.youtube-nocookie.com/embed/Yv5UUMUCWd4"
     ],
     "language": "sd",
     "country": "pk",
@@ -379,7 +368,7 @@
     "name": "KTN NEWS TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dD5k9VkLGoA"
+      "https://www.youtube-nocookie.com/embed/UQlSRPK1EDg"
     ],
     "language": "sd",
     "country": "pk",
@@ -459,7 +448,7 @@
     "name": "PTV World",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kGgSX_KZw1w"
+      "https://www.youtube-nocookie.com/embed/W_8DAB44cEA"
     ],
     "language": "eng",
     "country": "pk",
@@ -503,7 +492,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8MbzxxCRXjo"
+      "https://www.youtube-nocookie.com/embed/tcQsmglp4bA"
     ],
     "language": "sd",
     "country": "pk",

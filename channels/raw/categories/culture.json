@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "qrJk7Z0w2ndHZn",
+    "name": "13C",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pNO1A2SnOPsV3y",
     "name": "AABC TV",
     "iptv_urls": [
@@ -204,6 +215,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "m1fqGkSb3kQ4GK",
+    "name": "Ciracu TV",
+    "iptv_urls": [
+      "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pXvSXoe4kL9IM4",
     "name": "Classic Arts Showcase",
     "iptv_urls": [
@@ -230,6 +252,7 @@
     "name": "DD Bharati",
     "iptv_urls": [
       "https://cdn-1.pishow.tv/live/10/master.m3u8",
+      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
@@ -276,9 +299,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5VAqVtAJLz9Qp2",
+    "nanoid": "FCckxA9xKjRmBd",
     "name": "DD Urdu",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://cdn-4.pishow.tv/live/8/master.m3u8",
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i--xfotJs7w"
     ],
@@ -419,17 +445,6 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -952,6 +967,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "p4obNYU8nK7E4h",
+    "name": "TVE RS",
+    "iptv_urls": [
+      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AgdBh1G6zjQQ1P",
     "name": "TVR Cultural",
     "iptv_urls": [
@@ -996,14 +1022,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "UNISUL TV",
     "iptv_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
     ],
     "youtube_urls": [],
-    "language": "",
-    "country": "vn",
+    "language": "por",
+    "country": "br",
     "isGeoBlocked": false
   },
   {

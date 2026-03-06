@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mlTXxUmbTG3Ish",
+    "name": "Controversia TV",
+    "iptv_urls": [
+      "https://live.obslivestream.com/controversiatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nGBdTroCUbAU0I",
     "name": "CR Televisión Moyobamba",
     "iptv_urls": [

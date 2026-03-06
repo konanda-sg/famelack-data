@@ -6,7 +6,7 @@
       "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DvG0x1BHqLM"
+      "https://www.youtube-nocookie.com/embed/AWC40elqVJc"
     ],
     "language": "sqi",
     "country": "al",
@@ -18,9 +18,7 @@
     "iptv_urls": [
       "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rNeMNlTKd48"
-    ],
+    "youtube_urls": [],
     "language": "sqi",
     "country": "al",
     "isGeoBlocked": false

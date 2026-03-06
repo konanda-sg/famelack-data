@@ -104,9 +104,7 @@
     "iptv_urls": [
       "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wjKnaEvwlKw"
-    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "au",
     "isGeoBlocked": false
@@ -171,7 +169,7 @@
     "name": "Force Thirteen Earthquakes",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aNblBgLUf5I"
+      "https://www.youtube-nocookie.com/embed/62qNMQiP40s"
     ],
     "language": "eng",
     "country": "au",

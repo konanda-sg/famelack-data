@@ -535,17 +535,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWubgLKIN9lBtR",
-    "name": "Handystar",
-    "iptv_urls": [
-      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9akXuoxRiw2xMb",
     "name": "Hell's Kitchen Germany",
     "iptv_urls": [
@@ -718,6 +707,17 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "iptv_urls": [
+      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -1080,10 +1080,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SE1h1zk5kvUylr",
-    "name": "Rakuten TV Thrillers Germany",
+    "nanoid": "gaIbE0ft11ifJV",
+    "name": "Rakuten TV Romance Movies Germany",
     "iptv_urls": [
-      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
+      "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1330,6 +1330,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nUHCgjRUR5TBtm",
+    "name": "Studio 47",
+    "iptv_urls": [
+      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
