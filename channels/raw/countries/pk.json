@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YgGt3xJqUzjNuF",
+    "name": "92 NEWS HD",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0qibTEWsk0A"
+    ],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "q9MeF0SCQHRY97",
     "name": "Aaj TV",
     "iptv_urls": [],
@@ -448,7 +459,7 @@
     "name": "PTV World",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/W_8DAB44cEA"
+      "https://www.youtube-nocookie.com/embed/sVvdM0iBzCY"
     ],
     "language": "eng",
     "country": "pk",

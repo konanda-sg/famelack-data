@@ -77,6 +77,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c1gByRg7bGFR8Z",
+    "name": "Atomic Academy TV",
+    "iptv_urls": [
+      "https://atomic.streamnet.ro/academia.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HHRin5dp3UTQFP",
     "name": "Atomic TV",
     "iptv_urls": [
@@ -202,28 +213,6 @@
     "name": "Kanal D",
     "iptv_urls": [
       "https://stream1.kanald.ro/iphone/knd-live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3hq4NpWZFKw05F",
-    "name": "Kiss TV",
-    "iptv_urls": [
-      "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NodY8gBnmYHwO8",
-    "name": "Magic TV",
-    "iptv_urls": [
-      "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
     ],
     "youtube_urls": [],
     "language": "ron",
@@ -363,17 +352,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ANI4hASUhHAk6D",
-    "name": "Rock TV",
-    "iptv_urls": [
-      "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ron",
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o5xFTwZ5XqqWJt",
     "name": "Tele7ABC HD",
     "iptv_urls": [
@@ -424,6 +402,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/SyZbp3TS0cw"
     ],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rMcJnRPCctPt1F",
+    "name": "TVR 1",
+    "iptv_urls": [
+      "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "ron",
     "country": "ro",
     "isGeoBlocked": false

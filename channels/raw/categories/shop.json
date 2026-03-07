@@ -48,7 +48,7 @@
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_SyFPd3KXR8"
+      "https://www.youtube-nocookie.com/embed/vDjP0_VEHZc"
     ],
     "language": "ukr",
     "country": "ua",
@@ -81,7 +81,7 @@
     "name": "CoinVaultTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JFc5oIf02zk"
+      "https://www.youtube-nocookie.com/embed/ZBKOq3Hlxqk"
     ],
     "language": "eng",
     "country": "us",
@@ -206,6 +206,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KWubgLKIN9lBtR",
+    "name": "Handystar",
+    "iptv_urls": [
+      "https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "de",
     "isGeoBlocked": false
   },
   {

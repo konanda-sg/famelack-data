@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H8TtlIKgrW2bwo",
+    "name": "Antena Seis TV",
+    "iptv_urls": [
+      "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "iptv_urls": [
@@ -63,6 +74,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O4M3Z3Jo7F6qrX",
+    "name": "Cartago Medios TV",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -155,6 +177,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2TkyCEIMqFLsTQ",
+    "name": "IQ Channel",
+    "iptv_urls": [
+      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L0Xj3EMr6sq9Oz",
     "name": "Los Santos TV",
     "iptv_urls": [
@@ -170,7 +203,7 @@
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uK1oes1u5no"
+      "https://www.youtube-nocookie.com/embed/kREeI-HuF6g"
     ],
     "language": "spa",
     "country": "cr",
@@ -221,17 +254,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
-    "iptv_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RYVkiPv8DNw6UC",
     "name": "Sarapiqui TV",
     "iptv_urls": [
@@ -247,28 +269,6 @@
     "name": "TDtv",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FY9JMfvI9sWSMw",
-    "name": "TeleBrunca",
-    "iptv_urls": [
-      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GHvLc9YKjbjb4r",
-    "name": "Telefides",
-    "iptv_urls": [
-      "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -324,6 +324,17 @@
     "name": "TV Sur Canal 14",
     "iptv_urls": [
       "https://k20.usastreams.com:8081/tvsur/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sue3ShLLkmrNlc",
+    "name": "Urbano TV",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

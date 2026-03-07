@@ -132,28 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sJtHUQ2FEosClO",
-    "name": "Educa TV",
-    "iptv_urls": [
-      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c6puAkcPu1cmVK",
-    "name": "El Sol Network TV",
-    "iptv_urls": [
-      "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XUbd7x9yt2DTFl",
     "name": "FM Mundo",
     "iptv_urls": [
@@ -246,17 +224,6 @@
     "name": "Latacunga TV",
     "iptv_urls": [
       "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2UL8hACEyKl0pF",
-    "name": "Loreto TV",
-    "iptv_urls": [
-      "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -367,17 +334,6 @@
     "name": "Oromar TV",
     "iptv_urls": [
       "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "if95kHJ4URww0a",
-    "name": "PJ Digital Radio TV",
-    "iptv_urls": [
-      "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -510,6 +466,17 @@
     "name": "Señal Positiva TV",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8108/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gU9qpItJjz9ZDd",
+    "name": "Sono Onda TV",
+    "iptv_urls": [
+      "https://live.obslivestream.com/sonoondatv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

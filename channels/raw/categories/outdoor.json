@@ -67,17 +67,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
-    "iptv_urls": [
-      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "khm",
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cGi1H67DnO2cou",
     "name": "DD Kisan HD",
     "iptv_urls": [

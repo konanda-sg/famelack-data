@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZQE8Kkj7LLaHHY",
-    "name": "BVG",
-    "iptv_urls": [
-      "https://mumt05.tangotv.in/BVG/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "iptv_urls": [
@@ -126,9 +115,7 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5WrMIAqm6cs"
-    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -389,17 +376,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sfr4boA9nNaI9M",
-    "name": "DLTV 15",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv15.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AY9El1RUmBJaPD",
     "name": "Earthquake Alert Channel",
     "iptv_urls": [],
@@ -464,17 +440,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sJtHUQ2FEosClO",
-    "name": "Educa TV",
-    "iptv_urls": [
-      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
     "isGeoBlocked": false
   },
   {
@@ -753,6 +718,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "iptv_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fas",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tCMMSwaVSeASoi",
     "name": "PBS KET Louisville KY (WKMJ-TV)",
     "iptv_urls": [
@@ -894,17 +870,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TnpnbHf11tv1Pa",
-    "name": "Señal España (XHUNES-TDT)",
-    "iptv_urls": [
-      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

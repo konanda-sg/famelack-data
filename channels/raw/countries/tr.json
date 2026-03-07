@@ -318,9 +318,7 @@
     "iptv_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5WrMIAqm6cs"
-    ],
+    "youtube_urls": [],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
@@ -493,6 +491,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qgqjKHkHjQzR2F",
+    "name": "Finans Turk TV",
+    "iptv_urls": [
+      "https://yayin30.haber100.com/live/finansturk/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fN7GQX8c6GD2uU",
     "name": "GEM Pixel",
     "iptv_urls": [
@@ -601,7 +610,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/L1BrIDsbwHI"
+      "https://www.youtube-nocookie.com/embed/VafwCRv0fxQ"
     ],
     "language": "tur",
     "country": "tr",
@@ -784,6 +793,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "axZRIy6sk182NP",
+    "name": "Konya Olay TV",
+    "iptv_urls": [
+      "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bxi4Hq4FcCvPGc",
     "name": "KRT TV",
     "iptv_urls": [],
@@ -821,7 +841,7 @@
     "name": "Lider Haber",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YNoi9AjMoLE"
+      "https://www.youtube-nocookie.com/embed/KFVn2INDl0w"
     ],
     "language": "tur",
     "country": "tr",
@@ -898,6 +918,17 @@
     "name": "Number 1 Ask",
     "iptv_urls": [
       "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qe2ak6SCt98R2p",
+    "name": "Number 1 Damar",
+    "iptv_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tur",

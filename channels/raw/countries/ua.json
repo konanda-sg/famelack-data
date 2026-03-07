@@ -22,11 +22,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H0fTRstAnfWOk3",
+    "name": "Avers",
+    "iptv_urls": [
+      "https://avers.pp.ua/hls/efir.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ukr",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_SyFPd3KXR8"
+      "https://www.youtube-nocookie.com/embed/vDjP0_VEHZc"
     ],
     "language": "ukr",
     "country": "ua",
@@ -154,20 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TSbUr1OhqLkxuT",
-    "name": "TVA",
-    "iptv_urls": [
-      "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
-      "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8",
-      "https://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hthUrV2rQO5a6H",
     "name": "Ланет.TV",
     "iptv_urls": [
@@ -175,17 +172,6 @@
     ],
     "youtube_urls": [],
     "language": "ukr",
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8guglX3waEEweH",
-    "name": "Луганск 24",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },

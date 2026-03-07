@@ -122,17 +122,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tmyWgccdmOYhkf",
-    "name": "Miracle TV+",
-    "iptv_urls": [
-      "https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZAUkvtxFBpmUA2",
     "name": "NCI",
     "iptv_urls": [
@@ -192,17 +181,6 @@
     "name": "Serie Max",
     "iptv_urls": [
       "https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "twgsMNbK1cPcS5",
-    "name": "TV La Capitale",
-    "iptv_urls": [
-      "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

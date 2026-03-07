@@ -365,17 +365,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4TFbQdQIR6USV5",
-    "name": "DBM TV",
-    "iptv_urls": [
-      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WxYEpzQmBTG6Du",
     "name": "Drive TV",
     "iptv_urls": [
@@ -903,6 +892,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aRYM4hJmBP444c",
+    "name": "My Gospel TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "frxoUV6KIlJwd1",
     "name": "MyTime Movie Network France",
     "iptv_urls": [
@@ -1281,8 +1281,7 @@
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "iptv_urls": [
-      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
-      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
+      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -1405,6 +1404,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

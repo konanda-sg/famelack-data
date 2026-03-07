@@ -127,7 +127,7 @@
       "https://canalgov-stream.ebc.com.br/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A6h5YsVcw38"
+      "https://www.youtube-nocookie.com/embed/eg_Ts0rz61Y"
     ],
     "language": "por",
     "country": "br",
@@ -465,17 +465,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aZACmqFHyDlfSs",
-    "name": "Galveston County TV",
-    "iptv_urls": [
-      "https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jNKciKxgIk0NeD",
     "name": "Gilroy CMAP TV Channel 17",
     "iptv_urls": [
@@ -597,17 +586,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sKpGu4p0lFyUMb",
-    "name": "Legislative Assembly of British Columbia Committee A",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NLIFoRpmAx5nwO",
     "name": "Legislative Assembly of El Salvador",
     "iptv_urls": [
@@ -705,17 +683,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c9GCwVR0qdOyVK",
-    "name": "MBG TV",
-    "iptv_urls": [
-      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -845,17 +812,6 @@
     "name": "Orange Government Access TV (Orange CT)",
     "iptv_urls": [
       "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "iptv_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -999,7 +955,8 @@
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "iptv_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -1123,7 +1080,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3f2NXt4edRw"
+      "https://www.youtube-nocookie.com/embed/nXJ8OdZrJHs"
     ],
     "language": "por",
     "country": "br",

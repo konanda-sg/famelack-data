@@ -25,7 +25,8 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -256,6 +257,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hTAa42S6ckdNs5",
     "name": "Garfield & Friends",
     "iptv_urls": [],
@@ -428,17 +440,6 @@
     "name": "Legislative Assembly of British Columbia",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sKpGu4p0lFyUMb",
-    "name": "Legislative Assembly of British Columbia Committee A",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -712,17 +713,6 @@
     ],
     "youtube_urls": [],
     "language": "pan",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1149,7 +1139,7 @@
     "name": "TV Témis",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mzfVGoHwvxM"
+      "https://www.youtube-nocookie.com/embed/8a-ItTH4Kk0"
     ],
     "language": "fra",
     "country": "ca",
