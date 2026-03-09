@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fYJAPR9lP0wgId",
-    "name": "Beautiful Life TV",
-    "iptv_urls": [
-      "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "L3TjzrSDP4bXza",
     "name": "CGNTV Chinese",
     "iptv_urls": [
@@ -48,7 +37,7 @@
     "name": "CTITV News 中天新聞",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/r7cqMRGPALk"
+      "https://www.youtube-nocookie.com/embed/a065vYsYrqk"
     ],
     "language": "zho",
     "country": "tw",
@@ -105,28 +94,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/w87VGpgd90U"
     ],
-    "language": "zho",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ij10cHMBBd4XeY",
-    "name": "GOOD TV CH1 綜合台",
-    "iptv_urls": [
-      "https://live.streamingfast.net/osmflivech1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0YVHxDTXA7CGGH",
-    "name": "GOOD TV CH2 真理台",
-    "iptv_urls": [
-      "https://live.streamingfast.net/osmflivech2.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "zho",
     "country": "tw",
     "isGeoBlocked": false

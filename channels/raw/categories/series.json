@@ -405,17 +405,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NzbEHkjHn6g"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "shcIHFUgDcxTI6",
     "name": "Mcleod's Daughters",
     "iptv_urls": [
@@ -700,6 +689,17 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "XqX1P3iuCUKE9s",
+    "name": "TV Series 1 As Panteras",
+    "iptv_urls": [
+      "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "41ap4CgxZB4KsE",
     "name": "TVE Star",
     "iptv_urls": [
@@ -806,17 +806,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

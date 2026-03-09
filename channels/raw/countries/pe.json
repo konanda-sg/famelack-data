@@ -187,6 +187,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dXHXpcJZT8sCe9",
+    "name": "La Fabulosa Radio y TV",
+    "iptv_urls": [
+      "https://eu1.servers10.com:8081/8004/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qm7kjjw4XjKxtz",
     "name": "Mega TV Jaen",
     "iptv_urls": [
@@ -297,6 +308,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WPq32gb81NkkvQ",
+    "name": "RN Televisión",
+    "iptv_urls": [
+      "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3xHIJhktLp5hmp",
     "name": "RPP TV",
     "iptv_urls": [
@@ -331,32 +353,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NWQzBG1ASDZW7k",
-    "name": "Sol Televisión",
-    "iptv_urls": [
-      "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FMvg6xgrss4nnA",
     "name": "Telecolor Yurimaguas",
     "iptv_urls": [
       "https://live.obslivestream.com/telecolormux/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wmJ1QxQIvPF4LM",
-    "name": "Teleselva",
-    "iptv_urls": [
-      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -474,6 +474,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fk1iDtmlMQq6pc",
+    "name": "Uranio TV (Yurimaguas)",
+    "iptv_urls": [
+      "https://live.obslivestream.com/uraniotv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "raXRAftVOpO8Gu",
     "name": "Vía Altomayo",
     "iptv_urls": [
@@ -489,6 +500,17 @@
     "name": "Vía Televisión (720P)",
     "iptv_urls": [
       "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dpLqGa5wjsNEE1",
+    "name": "Viva TV Yurimaguas",
+    "iptv_urls": [
+      "https://live.obslivestream.com/vivatv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

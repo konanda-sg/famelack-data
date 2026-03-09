@@ -1,5 +1,17 @@
 [
   {
+    "nanoid": "Zpcb6dPZj431wJ",
+    "name": "Abante TV",
+    "iptv_urls": [
+      "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+      "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "k1le9DNzsDpeDQ",
     "name": "DZRH News TV",
     "iptv_urls": [],
@@ -26,6 +38,17 @@
     "name": "Mindanow Network TV",
     "iptv_urls": [
       "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g2M151IR177r4N",
+    "name": "Nudge Sports Channel",
+    "iptv_urls": [
+      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

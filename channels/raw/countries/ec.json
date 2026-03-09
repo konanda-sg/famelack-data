@@ -231,6 +231,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2UL8hACEyKl0pF",
+    "name": "Loreto TV",
+    "iptv_urls": [
+      "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Sp6sHwr9vDmxjt",
     "name": "Mágica Tv",
     "iptv_urls": [
@@ -400,6 +411,17 @@
     "name": "Radio Impacto 2",
     "iptv_urls": [
       "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QpaipzMOWMjyyR",
+    "name": "Radio Monumental TV",
+    "iptv_urls": [
+      "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

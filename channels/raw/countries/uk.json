@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SCCSu7TMHcxg2h",
-    "name": "Akaal Channel",
-    "iptv_urls": [
-      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pan",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "iptv_urls": [
@@ -82,17 +71,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-x7O3_7amaM"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hDMTpIP2tlNJNl",
-    "name": "Banijay Crime: Britain's Biggest Heists",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eu6Jn1C_fXw"
     ],
     "language": "eng",
     "country": "uk",
@@ -329,6 +307,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "upZUS4jnd1EPJG",
+    "name": "Chelsea Football Club",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/TyiE65_zAVc"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1Rki2QXOUbCd5",
     "name": "Classic Mr Bean",
     "iptv_urls": [],
@@ -358,6 +347,17 @@
     ],
     "youtube_urls": [],
     "language": "",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFuB4amnCAnzu2",
+    "name": "Crafter's TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/qfaGhDx86_U"
+    ],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -402,17 +402,6 @@
     ],
     "youtube_urls": [],
     "language": "urd",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5kiyNMVCX6ciCD",
-    "name": "Eggheads",
-    "iptv_urls": [
-      "https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },

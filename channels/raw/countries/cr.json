@@ -44,10 +44,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
     "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -62,17 +62,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O4M3Z3Jo7F6qrX",
-    "name": "Cartago Medios TV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -268,6 +257,17 @@
     "name": "TeleBrunca",
     "iptv_urls": [
       "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GHvLc9YKjbjb4r",
+    "name": "Telefides",
+    "iptv_urls": [
+      "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

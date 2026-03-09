@@ -419,6 +419,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "B7oUuXqbWsfBhP",
+    "name": "OGGY",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9wmNt-7e0bg"
+    ],
+    "language": "eng",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YQjVrcxLsl4KlI",
     "name": "Pingvīns",
     "iptv_urls": [

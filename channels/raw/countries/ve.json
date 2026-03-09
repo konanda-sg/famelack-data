@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OBFGqgcPLTbi6p",
     "name": "Canal 21 Táchira",
     "iptv_urls": [
@@ -59,6 +70,17 @@
     "name": "Canal Once",
     "iptv_urls": [
       "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -176,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cUYxQqIrjcxxmY",
     "name": "Norteña TV",
     "iptv_urls": [
@@ -258,6 +269,17 @@
     "iptv_urls": [
       "https://tv.webtuya.com:3726/hybrid/play.m3u8",
       "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hWg7qzmsLufJ67",
+    "name": "Telecentro",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -445,6 +467,17 @@
     "name": "Venevisión Internacional",
     "iptv_urls": [
       "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "baPvUzzfHutjpv",
+    "name": "Vepaco TV",
+    "iptv_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
