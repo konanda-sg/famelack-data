@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Q3qj0YJPujBhJs",
-    "name": "Channel 8",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rNJMEI5w7PY"
-    ],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MIpBDCxySOyKyM",
     "name": "Dijlah TV",
     "iptv_urls": [
@@ -209,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RzX8WqJgd5GWa8",
-    "name": "KurdMax Show",
-    "iptv_urls": [
-      "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QbuWRonKyyvi1a",
     "name": "KurdMax Sorani",
     "iptv_urls": [
@@ -279,17 +257,6 @@
     "name": "Payam TV",
     "iptv_urls": [
       "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uW9T6p9CIkSP3A",
-    "name": "Rudaw TV",
-    "iptv_urls": [
-      "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kur",

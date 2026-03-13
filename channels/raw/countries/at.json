@@ -101,17 +101,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5tTy78tgvm7wa1",
-    "name": "KIT-TV",
-    "iptv_urls": [
-      "https://everest.pa-hosting.de:3591/live/joseflive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0U8AHRskM6eU3e",
     "name": "Kronehit",
     "iptv_urls": [
@@ -189,17 +178,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lZHsJeKwkxURo",
-    "name": "Red Bull TV",
-    "iptv_urls": [
-      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jHe1OEHTcksowX",
     "name": "Red Bull TV AU",
     "iptv_urls": [
@@ -270,6 +248,17 @@
     "name": "Steiermark TV",
     "iptv_urls": [
       "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dHIKj0PT3rIpW8",
+    "name": "Stimmungsgarten TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

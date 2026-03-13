@@ -377,10 +377,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7rKceCpkpRKp2Z",
-    "name": "Denver 8 TV (Denver CO)",
+    "nanoid": "ApGDxajKB8Y5cQ",
+    "name": "DerryTV 17",
     "iptv_urls": [
-      "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
+      "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -388,10 +388,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ApGDxajKB8Y5cQ",
-    "name": "DerryTV 17",
+    "nanoid": "oleSYlNVNmvs3W",
+    "name": "District of Columbia Network (DCN)",
     "iptv_urls": [
-      "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      "https://video.oct.dc.gov/out/u/DCN.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -830,14 +830,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
     "iptv_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -967,7 +967,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Zjl2qaOk10I"
+      "https://www.youtube-nocookie.com/embed/ogq7pJvnQwg"
     ],
     "language": "por",
     "country": "br",
@@ -978,6 +978,7 @@
     "name": "Sansad TV 1",
     "iptv_urls": [
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
+      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
       "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
     ],
     "youtube_urls": [],
@@ -1102,8 +1103,19 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eSdQO2700hk"
+      "https://www.youtube-nocookie.com/embed/XAOJHngVsTg"
     ],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lEDKV79GLKVqjL",
+    "name": "TV Câmara",
+    "iptv_urls": [
+      "https://stream3.camara.gov.br/tv1/manifest.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -1113,7 +1125,7 @@
     "name": "TV Câmara Porto Alegre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b5gmUYFkcoU"
+      "https://www.youtube-nocookie.com/embed/imAlDLsdDrg"
     ],
     "language": "por",
     "country": "br",

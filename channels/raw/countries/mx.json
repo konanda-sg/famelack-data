@@ -110,17 +110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1FGdyXp2FzRogD",
-    "name": "Canal 15 ILCE Summa Sabres",
-    "iptv_urls": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v6b78NmVD9WnBy",
     "name": "Canal 23 Televisa Ensenada",
     "iptv_urls": [],
@@ -180,6 +169,17 @@
     "name": "Canal Parlamento del Congreso de Jalisco",
     "iptv_urls": [
       "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kcUlTpEd2EjJLo",
+    "name": "Capital 21",
+    "iptv_urls": [
+      "https://video.cdmx.gob.mx/redes/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -336,8 +336,19 @@
     "name": "ImagenTV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AyuipKcp6p4"
+      "https://www.youtube-nocookie.com/embed/kErQotQ5iRE"
     ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hvpyyH4xiS4fE5",
+    "name": "IMRyT Morelos TV",
+    "iptv_urls": [
+      "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -424,7 +435,7 @@
     "name": "NMás",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-p5aBFREvGo"
+      "https://www.youtube-nocookie.com/embed/D5nMPWj2uYA"
     ],
     "language": "spa",
     "country": "mx",
@@ -575,6 +586,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "inKpcU1CFpY4af",
+    "name": "SIPSE TV 8.1",
+    "iptv_urls": [
+      "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bqZG2nHHXJFyOO",
     "name": "SIPSE TVCUN 8.1",
     "iptv_urls": [
@@ -656,7 +678,7 @@
     "name": "Telediario Guadalajara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8JuAM-C2MWA"
+      "https://www.youtube-nocookie.com/embed/ABIO-8xW0uI"
     ],
     "language": "spa",
     "country": "mx",
@@ -677,7 +699,8 @@
     "nanoid": "CV0J6mHYbHQoth",
     "name": "Teleplay Sureste",
     "iptv_urls": [
-      "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8"
+      "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+      "https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -766,7 +789,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lpshaGbGfi8"
+      "https://www.youtube-nocookie.com/embed/oMj4TdQb8H8"
     ],
     "language": "spa",
     "country": "mx",
@@ -777,7 +800,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iCxZUP-vG7w"
+      "https://www.youtube-nocookie.com/embed/UXJEmUlRIUc"
     ],
     "language": "spa",
     "country": "mx",
@@ -865,7 +888,7 @@
     "name": "Televisa Victoria",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HK1qDdThSAU"
+      "https://www.youtube-nocookie.com/embed/7DqqdgO0nj0"
     ],
     "language": "spa",
     "country": "mx",
@@ -920,6 +943,17 @@
     "name": "TRC Televisión",
     "iptv_urls": [
       "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gc9aeOkbQG1vYx",
+    "name": "Turistik TV",
+    "iptv_urls": [
+      "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1063,17 +1097,6 @@
     "name": "TVP Mazatlán",
     "iptv_urls": [
       "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ok9SBkw2hJdLsx",
-    "name": "TVP Obregón",
-    "iptv_urls": [
-      "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

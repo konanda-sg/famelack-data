@@ -4,7 +4,7 @@
     "name": "7 Info",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dpt9jMAb7wc"
+      "https://www.youtube-nocookie.com/embed/D9HReOewuh0"
     ],
     "language": "fra",
     "country": "ci",
@@ -49,17 +49,6 @@
     "name": "Business 24 Africa",
     "iptv_urls": [
       "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVdQQClc0x4avR",
-    "name": "DNTV",
-    "iptv_urls": [
-      "https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",

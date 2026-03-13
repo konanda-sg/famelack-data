@@ -102,7 +102,8 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -117,17 +118,6 @@
       "https://www.youtube-nocookie.com/embed/OSbfim9NrBA"
     ],
     "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "i3xr0qWNj713tk",
-    "name": "Shout! Studios: Bonanza (Español)",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sVtkwNyOdpQ"
-    ],
-    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -169,7 +159,7 @@
     "name": "Shout! Studios: The Little Rascals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QktxZs1BprQ"
+      "https://www.youtube-nocookie.com/embed/mtBNgm1RiRM"
     ],
     "language": "eng",
     "country": "us",

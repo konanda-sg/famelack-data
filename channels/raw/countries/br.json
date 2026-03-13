@@ -156,17 +156,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DqexB6yaP4LscU",
-    "name": "CNN Brasil",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WMbyWWp43WA"
-    ],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DNa7AQHZDPi0it",
     "name": "COM Brasil",
     "iptv_urls": [
@@ -343,6 +332,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "iptv_urls": [
+      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "j2PNx5Xg25mTJj",
     "name": "KpopTV Play",
     "iptv_urls": [
@@ -402,7 +402,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MLvsJnubLGc"
+      "https://www.youtube-nocookie.com/embed/2gkfSk7Bzg8"
     ],
     "language": "por",
     "country": "br",
@@ -446,7 +446,7 @@
     "name": "Record News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N26KULsCxak"
+      "https://www.youtube-nocookie.com/embed/6IJDQeaQ2XY"
     ],
     "language": "por",
     "country": "br",
@@ -512,7 +512,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Zjl2qaOk10I"
+      "https://www.youtube-nocookie.com/embed/ogq7pJvnQwg"
     ],
     "language": "por",
     "country": "br",
@@ -589,7 +589,7 @@
     "name": "SBT RS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gkoyl1fFV9Q"
+      "https://www.youtube-nocookie.com/embed/23rv5Yto798"
     ],
     "language": "por",
     "country": "br",
@@ -673,6 +673,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YT6xhGpFtzQ7eS",
+    "name": "TV Alternativa",
+    "iptv_urls": [
+      "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sDQABoW0Q83Dxf",
     "name": "TV Aparecida",
     "iptv_urls": [
@@ -701,7 +712,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eSdQO2700hk"
+      "https://www.youtube-nocookie.com/embed/XAOJHngVsTg"
     ],
     "language": "por",
     "country": "br",
@@ -712,6 +723,17 @@
     "name": "TV Brasil",
     "iptv_urls": [
       "https://tvbrasil-stream.ebc.com.br/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2bhXPviPJO5yGg",
+    "name": "TV Brasil Oeste",
+    "iptv_urls": [
+      "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -741,11 +763,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lEDKV79GLKVqjL",
+    "name": "TV Câmara",
+    "iptv_urls": [
+      "https://stream3.camara.gov.br/tv1/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ljxQJllBAK9Pvk",
     "name": "TV Câmara Porto Alegre",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b5gmUYFkcoU"
+      "https://www.youtube-nocookie.com/embed/imAlDLsdDrg"
     ],
     "language": "por",
     "country": "br",
@@ -954,7 +987,7 @@
     "name": "TV Notícia",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G1FbKnAc3X8"
+      "https://www.youtube-nocookie.com/embed/Jh3tKWNwdRs"
     ],
     "language": "por",
     "country": "br",
@@ -1119,7 +1152,7 @@
     "name": "TV Thathi SBT",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/L3tYPZFD__k"
+      "https://www.youtube-nocookie.com/embed/mtSPSaK02jM"
     ],
     "language": "por",
     "country": "br",

@@ -25,7 +25,6 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
       "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
     ],
     "youtube_urls": [],
@@ -251,6 +250,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/kjqtB3VJN5k"
     ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -895,7 +905,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/v6rOYWHeLhI"
+      "https://www.youtube-nocookie.com/embed/SpUuCNyqk8k"
     ],
     "language": "eng",
     "country": "ca",
@@ -906,7 +916,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FY54NCjJi3A"
+      "https://www.youtube-nocookie.com/embed/azyJFpPEqqM"
     ],
     "language": "eng",
     "country": "ca",
@@ -917,9 +927,20 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mmpWSUk9XgU"
+      "https://www.youtube-nocookie.com/embed/-wq7kM3bM-g"
     ],
     "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DsGUoe2MbJmXQZ",
+    "name": "TamilVision-TV",
+    "iptv_urls": [
+      "https://live.cmr24.fm/TVI/HD/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tam",
     "country": "ca",
     "isGeoBlocked": false
   },

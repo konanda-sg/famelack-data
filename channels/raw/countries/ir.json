@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8de166DRNsy84Z",
-    "name": "AFN TV",
-    "iptv_urls": [
-      "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bKVDPOqP22My4g",
     "name": "Afra Film",
     "iptv_urls": [

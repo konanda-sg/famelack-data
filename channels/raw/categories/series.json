@@ -328,28 +328,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4hNGKk00RJdGGB",
-    "name": "Ghost Hunters",
-    "iptv_urls": [
-      "https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GOMdLvvyu3y5ss",
-    "name": "GZT",
-    "iptv_urls": [
-      "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o7sYxVV5UOCp3h",
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "iptv_urls": [],
@@ -402,17 +380,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/r_pptz5uJsE"
-    ],
-    "language": "tur",
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -544,11 +511,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JfdQ8GXk8vD883",
+    "name": "Shout! Studios: Father Knows Best",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BEEtLzOSwHs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "iptv_urls": [
-      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
-      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
+      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "fra",
@@ -586,17 +563,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TjaDmuO5pIpjjY",
-    "name": "Survivor",
-    "iptv_urls": [
-      "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -795,17 +761,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

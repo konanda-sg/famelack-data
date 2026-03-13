@@ -46,17 +46,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EgspbzPRaIJYXi",
-    "name": "ADO TV",
-    "iptv_urls": [
-      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
-    "country": "bj",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "63DdsZA7YycDuJ",
     "name": "Adventure Sports TV",
     "iptv_urls": [
@@ -226,6 +215,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "iptv_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BkNvZNcvt4fu9h",
     "name": "F1 Channel",
     "iptv_urls": [
@@ -356,6 +357,17 @@
     "youtube_urls": [],
     "language": "tgk",
     "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "iptv_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -491,17 +503,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "auc0jMNpvasOnO",
-    "name": "Meridiano TV",
-    "iptv_urls": [
-      "https://e1.viginet.vectormax.com:5210/quickstart/114-934-21/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BIe1OnuqGUuA60",
     "name": "MLB Channel",
     "iptv_urls": [
@@ -533,17 +534,6 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "iptv_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -611,7 +601,8 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -753,17 +744,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lZHsJeKwkxURo",
-    "name": "Red Bull TV",
-    "iptv_urls": [
-      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jHe1OEHTcksowX",
     "name": "Red Bull TV AU",
     "iptv_urls": [
@@ -855,17 +835,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VAXyuQmSe3glBx",
-    "name": "Sportdigital FUSSBALL HD",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pj3Pb4MifHuOI3",
     "name": "Sports TV",
     "iptv_urls": [
@@ -881,7 +850,9 @@
     "name": "SportsGrid",
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
+      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -922,6 +893,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4Me0RU4rvtok1Y",
+    "name": "Tele Rebelde",
+    "iptv_urls": [
+      "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cu",
     "isGeoBlocked": false
   },
   {
@@ -996,6 +978,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1133,6 +1116,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
     "isGeoBlocked": false
   },
   {

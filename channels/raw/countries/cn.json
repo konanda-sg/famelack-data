@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Re5Rs60C2x03XD",
+    "name": "CCTV+ 1",
+    "iptv_urls": [
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tgIYKz7u6kLFjB",
     "name": "CCTV+ 2",
     "iptv_urls": [
@@ -187,17 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7Hsc69UuEllEuA",
-    "name": "Harbin Movie Channel",
-    "iptv_urls": [
-      "https://stream.hrbtv.net/yspd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DmRj3yhamAblyQ",
     "name": "Hunan TV",
     "iptv_urls": [
@@ -242,21 +242,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5Etfhhhhl9Em5",
-    "name": "QTV-4",
+    "nanoid": "1by9GcHy62iZ4M",
+    "name": "QTV-5",
     "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+      "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -463,17 +452,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LhzYAfOxktXLl3",
-    "name": "宿州新闻综合",
-    "iptv_urls": [
-      "https://live.ahsz.tv/video/s10001-szzh/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ez5NBYjpiihwmc",
     "name": "宿州科教",
     "iptv_urls": [
@@ -489,7 +467,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ULAwZEbyPf0"
+      "https://www.youtube-nocookie.com/embed/B_VvmuvPjwA"
     ],
     "language": "zho",
     "country": "cn",
@@ -606,28 +584,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lXsFkxoK3Y81Q",
-    "name": "浙江教科",
-    "iptv_urls": [
-      "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TT80T0Uhd4YSQT",
-    "name": "浙江新闻",
-    "iptv_urls": [
-      "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGN51eNb7kGHRy",
     "name": "浙江民生",
     "iptv_urls": [
@@ -643,17 +599,6 @@
     "name": "浙江经济",
     "iptv_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VFiwsFTkgPQkI4",
-    "name": "浙江钱江",
-    "iptv_urls": [
-      "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

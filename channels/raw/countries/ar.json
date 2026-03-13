@@ -66,39 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o15OiPkM4jxoZp",
-    "name": "Bayres TV",
-    "iptv_urls": [
-      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SHCgFbO79Hh4Z8",
-    "name": "Beats Radio",
-    "iptv_urls": [
-      "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "j3vzvoCXC33jhr",
-    "name": "Bravo TV",
-    "iptv_urls": [
-      "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8s5H8qxZkTQ5Ii",
     "name": "C5N",
     "iptv_urls": [],
@@ -176,17 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D3rtXC7Gev4etZ",
-    "name": "Canal 4 Posadas",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "j1Mx0NYk5KtzPX",
     "name": "Canal 4 San Juan",
     "iptv_urls": [
@@ -220,34 +176,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lp6abhRcVXYInw",
-    "name": "Canal 5 TV Chepes",
-    "iptv_urls": [
-      "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IMtD1PHBND4aSz",
     "name": "Canal 6 ERTV",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/3WjwrTwJHDM"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RjGzeK99LgjrbF",
-    "name": "Canal 6 Posadas",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -320,17 +254,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T7sSq0y5FUqebJ",
-    "name": "Canal 9 Televida",
-    "iptv_urls": [
-      "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vZ56OvN6qo2jGQ",
     "name": "Canal 10 Cordoba",
     "iptv_urls": [
@@ -359,28 +282,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/dWKGw0U4ztg"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aoSHf7umzvQAal",
-    "name": "Canal 13 San Luis",
-    "iptv_urls": [
-      "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "urMZ5Xb5qp5veO",
-    "name": "Canal 21 TV",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -466,11 +367,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K4DoGz5aRpSeyC",
+    "nanoid": "ia6DKGHybv1coU",
     "name": "Canal E",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/tytTT629brE"
     ],
@@ -545,17 +444,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "njewIOEi3Bzjbb",
-    "name": "Chilecito TV",
-    "iptv_urls": [
-      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "iptv_urls": [
@@ -615,7 +503,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1cKxJ7uOfHc"
+      "https://www.youtube-nocookie.com/embed/FN9qMZ1shIk"
     ],
     "language": "spa",
     "country": "ar",
@@ -682,7 +570,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oGyITsXqb3k"
+      "https://www.youtube-nocookie.com/embed/Q7DLwxBcl9s"
     ],
     "language": "spa",
     "country": "ar",
@@ -761,40 +649,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/FV1MrtwGx20"
     ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
-    "iptv_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jhtVZGk1rHoaP8",
-    "name": "Misiones Cuatro",
-    "iptv_urls": [
-      "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nCjEym27rIb7Sc",
-    "name": "NET TV",
-    "iptv_urls": [
-      "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
@@ -1091,7 +945,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CXx9TtfiDdk"
+      "https://www.youtube-nocookie.com/embed/GHrLO8eFtVE"
     ],
     "language": "spa",
     "country": "ar",

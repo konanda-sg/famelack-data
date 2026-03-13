@@ -66,6 +66,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z3J6UkFFEng975",
+    "name": "Canal 17 TV Nosara",
+    "iptv_urls": [
+      "https://latamvdo.com:3870/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O4M3Z3Jo7F6qrX",
+    "name": "Cartago Medios TV",
+    "iptv_urls": [
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bK2TlT0v8UWAuh",
     "name": "Colosal TV",
     "iptv_urls": [
@@ -180,7 +202,7 @@
     "name": "Multimedios Costa Rica",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mHLQDaaCOI0"
+      "https://www.youtube-nocookie.com/embed/-PdfdVZlcZ8"
     ],
     "language": "spa",
     "country": "cr",
@@ -209,10 +231,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gVTlfz80oD0tzA",
+    "name": "Quince UCR",
+    "iptv_urls": [
+      "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -246,6 +280,17 @@
     "name": "Sarapiqui TV",
     "iptv_urls": [
       "https://lstv.duckdns.org:449/hls/stv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

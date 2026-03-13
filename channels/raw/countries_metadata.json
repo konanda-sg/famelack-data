@@ -399,7 +399,7 @@
     "country": "Ethiopia",
     "capital": "Addis Ababa",
     "timeZone": "Africa/Addis_Ababa",
-    "hasChannels": true
+    "hasChannels": false
   },
   "FI": {
     "country": "Finland",
@@ -507,7 +507,7 @@
     "country": "Equatorial Guinea",
     "capital": "Malabo",
     "timeZone": "Africa/Malabo",
-    "hasChannels": false
+    "hasChannels": true
   },
   "GR": {
     "country": "Greece",

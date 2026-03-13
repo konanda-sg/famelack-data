@@ -335,7 +335,7 @@
     "name": "KBS News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aBFVqjLF6z0"
+      "https://www.youtube-nocookie.com/embed/TkVzErY3QMs"
     ],
     "language": "kor",
     "country": "kr",
@@ -401,6 +401,17 @@
     "name": "MBC Daejeon (대전 MBC)",
     "iptv_urls": [
       "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I27keaXmXV9AK5",
+    "name": "MBC Jeju (제주 MBC)",
+    "iptv_urls": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kor",
@@ -485,17 +496,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로: #1",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fVKpYK3x82M"
-    ],
-    "language": "kor",
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "iptv_urls": [
@@ -511,7 +511,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/W41EX2w_F8Y"
+      "https://www.youtube-nocookie.com/embed/JtcxwpPuT0c"
     ],
     "language": "kor",
     "country": "kr",
@@ -743,6 +743,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/w05Ejc0iOVI"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "G8gkhykxbwh0qG",
+    "name": "토마토집통",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/h7YmBBeNexs"
     ],
     "language": "kor",
     "country": "kr",

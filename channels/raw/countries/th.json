@@ -1,9 +1,31 @@
 [
   {
+    "nanoid": "fgt71QAXBWF0xr",
+    "name": "13 Siam Thai",
+    "iptv_urls": [
+      "https://live.x2.co.th/live/13livetv-th.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BWaFZgSUSFWAMm",
     "name": "Boonniyom TV",
     "iptv_urls": [
       "https://live.x2.co.th/live/bntv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tha",
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lf5XxACaHEAHOt",
+    "name": "Channel 5",
+    "iptv_urls": [
+      "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -22,10 +44,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9tRf46L4LZNOGa",
-    "name": "DLTV 12",
+    "nanoid": "SBNkYWrTHUHlU6",
+    "name": "DLTV 6",
     "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+      "https://cdn-live.dltv.ac.th/dltv06.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -55,17 +77,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "229FKBkhihgZiC",
-    "name": "Lanthung TV",
-    "iptv_urls": [
-      "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7Y9OONvhoyZDMD",
     "name": "MCOT HD",
     "iptv_urls": [
@@ -81,17 +92,6 @@
     "name": "MONO 29",
     "iptv_urls": [
       "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "chmBg2GBFNqXoJ",
-    "name": "Police TV",
-    "iptv_urls": [
-      "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
@@ -154,10 +154,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3j6DuTgbZOrvSb",
-    "name": "Zabb Channel",
+    "nanoid": "xP0smrBM1w21kH",
+    "name": "TV Muslim Thailand",
     "iptv_urls": [
-      "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8"
+      "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "tha",
