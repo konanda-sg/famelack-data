@@ -535,6 +535,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5YtwjYlglp4KTy",
+    "name": "Gumball",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9LDR3lHACKM"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GOMdLvvyu3y5ss",
     "name": "GZT",
     "iptv_urls": [
@@ -798,17 +809,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9SjCdNwD0x0"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AuzsdxKVCms"
     ],
     "language": "tur",
     "country": "tr",
@@ -1403,17 +1403,6 @@
       "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AHjSt53Rfzi0a8",
-    "name": "TVNET",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0GVtv6xQGZE"
-    ],
     "language": "tur",
     "country": "tr",
     "isGeoBlocked": false

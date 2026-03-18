@@ -77,22 +77,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ogAXUnHzhYQWxD",
-    "name": "ATN Bangla UK",
-    "iptv_urls": [
-      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yqAqfz8NLIipuY",
     "name": "Banijay Bluelight: Real Life Hospital Documentaries",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-x7O3_7amaM"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oFHtWQgYWs3Y0k",
+    "name": "Banijay Documentaries: Haunted Stories",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6WK9CGe1IUQ"
     ],
     "language": "eng",
     "country": "uk",
@@ -379,17 +379,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u6dHm89DYJkcoL",
-    "name": "Dunya News (UK Feed)",
-    "iptv_urls": [
-      "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -706,6 +695,17 @@
     ],
     "youtube_urls": [],
     "language": "mal",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LbTx61exNziTLe",
+    "name": "Miracle TV",
+    "iptv_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1042,25 +1042,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2KW40anjWLCRfl",
-    "name": "QVC UK Main",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Cx0GAM7cW2I"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "59zGwpG017YKqC",
     "name": "QVC UK Style",
     "iptv_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cfPCYHM4bA0"
-    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1138,6 +1125,17 @@
       "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Kfvf3u3DJLtcM5",
+    "name": "Shaun the Sheep Official",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N9mj-ub0gus"
+    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -1422,11 +1420,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S031zk98bWY7Ix",
+    "name": "WildBrain Kids",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ot-a5_gK1y0"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "at7QYcug7oV0tu",
     "name": "WildBrain Max: LEGO",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GU1-MV7tcr0"
+      "https://www.youtube-nocookie.com/embed/IHlzCWqywTM"
     ],
     "language": "eng",
     "country": "uk",
@@ -1440,6 +1449,28 @@
       "https://www.youtube-nocookie.com/embed/i5YCFxoK41A"
     ],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
+    "iptv_urls": [
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B0N3YLVGTZmUxD",
+    "name": "World War TV",
+    "iptv_urls": [
+      "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   }

@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E9zUPixFiovro2",
+    "name": "Asomavisión",
+    "iptv_urls": [
+      "https://asomatv.cloud-ip.cc/livestream/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wNDe4JNBUCreJE",
     "name": "Austral TV",
     "iptv_urls": [
@@ -400,17 +411,6 @@
     "name": "Radio Cuenca Estéreo",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8074/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PZkl1QNtloGB1B",
-    "name": "Radio Impacto 2",
-    "iptv_urls": [
-      "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

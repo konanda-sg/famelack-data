@@ -22,17 +22,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xJcplFZvvoAwWP",
-    "name": "Maah TV",
-    "iptv_urls": [
-      "https://hls.maahtv.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "fas",
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZOTkMMGUEIitr9",
     "name": "Molek TV",
     "iptv_urls": [],

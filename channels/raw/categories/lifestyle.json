@@ -389,6 +389,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dJh7EB1lQFwOCd",
+    "name": "Plous TV",
+    "iptv_urls": [
+      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3FPl5RIfISFiTh",
     "name": "PRIDEtv LATAM",
     "iptv_urls": [
@@ -505,17 +516,6 @@
     "name": "Открытый мир. Здоровье",
     "iptv_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kmnCkTtdi4cLR8",
-    "name": "Сити Эдем МедЗдрав",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

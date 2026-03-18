@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYnHsDG9stKwV8",
+    "name": "ARTV Canal Parlamento",
+    "iptv_urls": [
+      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "iptv_urls": [],
@@ -266,17 +277,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "znRrzqJhrbBEtp",
-    "name": "Coral Gables Television (Coral Gables FL)",
-    "iptv_urls": [
-      "https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/coralgables/G0937_004/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "iptv_urls": [
@@ -292,6 +292,17 @@
     "name": "Cruz TV",
     "iptv_urls": [
       "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rIKYP5py1TrF7Q",
+    "name": "CT-N Court Feed",
+    "iptv_urls": [
+      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -355,17 +366,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Nf4iMslErjtXta",
-    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
-    "iptv_urls": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7rKceCpkpRKp2Z",
     "name": "Denver 8 TV (Denver CO)",
     "iptv_urls": [
@@ -392,6 +392,17 @@
     "name": "District of Columbia Network (DCN)",
     "iptv_urls": [
       "https://video.oct.dc.gov/out/u/DCN.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RHm7b5JVxj4i8h",
+    "name": "Escambia County TV ECTV (Escambia County FL)",
+    "iptv_urls": [
+      "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -686,6 +697,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kjuFcOS4WkdpQs",
+    "name": "Midpen Media Center Government etc Channel 29",
+    "iptv_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zsgTX21PPqXlXS",
     "name": "Monroe County Television MCTV (Monroe County FL)",
     "iptv_urls": [
@@ -934,7 +956,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ogq7pJvnQwg"
+      "https://www.youtube-nocookie.com/embed/OXA7kxF9fuU"
     ],
     "language": "por",
     "country": "br",
@@ -1081,7 +1103,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pbi1LL2pEWQ"
+      "https://www.youtube-nocookie.com/embed/G_JYa3MAc1Q"
     ],
     "language": "por",
     "country": "br",
@@ -1316,6 +1338,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

@@ -194,17 +194,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qCNy2ojifNspg9",
-    "name": "FomixTV",
-    "iptv_urls": [
-      "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "nld",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VC0mpDqFEWjXwB",
     "name": "Galicia TV Europa",
     "iptv_urls": [

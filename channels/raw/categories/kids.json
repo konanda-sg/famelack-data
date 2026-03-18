@@ -244,14 +244,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QFKHFoExvGyTwt",
-    "name": "Cartoon Network",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DafNKGT4CLM"
+    "nanoid": "lSTW1dzY0A0GTW",
+    "name": "Cartoon Classics",
+    "iptv_urls": [
+      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
     ],
-    "language": "ara",
-    "country": "ae",
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -351,6 +351,28 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_PK5_U95wdM"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/r2cZ8N0ZC7Q"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -606,17 +628,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_4gEJEWeWfA"
-    ],
-    "language": "urd",
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -945,7 +956,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ur_2bydUmls"
+      "https://www.youtube-nocookie.com/embed/gB5gcTshqk8"
     ],
     "language": "por",
     "country": "br",
@@ -960,6 +971,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YQjVrcxLsl4KlI",
+    "name": "Pingvīns",
+    "iptv_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "lav",
+    "country": "lv",
     "isGeoBlocked": false
   },
   {
@@ -1132,7 +1154,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8tQFnv50QIQ"
+      "https://www.youtube-nocookie.com/embed/TG2HP3F4QiA"
     ],
     "language": "eng",
     "country": "us",
@@ -1385,11 +1407,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S031zk98bWY7Ix",
+    "name": "WildBrain Kids",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ot-a5_gK1y0"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "at7QYcug7oV0tu",
     "name": "WildBrain Max: LEGO",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GU1-MV7tcr0"
+      "https://www.youtube-nocookie.com/embed/IHlzCWqywTM"
     ],
     "language": "eng",
     "country": "uk",
@@ -1524,7 +1557,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wCGTDjFGcK4"
+      "https://www.youtube-nocookie.com/embed/3TyBD91mqgY"
     ],
     "language": "zho",
     "country": "cn",
