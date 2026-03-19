@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MC0Hkz9sP3iFPv",
+    "name": "Almaya TV",
+    "iptv_urls": [
+      "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JAreuKNijuO7ug",
     "name": "Bruno Masi TV",
     "iptv_urls": [
@@ -77,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "blN8uMLBNq1v02",
-    "name": "LIM TV",
-    "iptv_urls": [
-      "https://tv.invasivamedia.com/hls/limtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ksZqh8hqVd6zjZ",
     "name": "MiTV",
     "iptv_urls": [
@@ -125,17 +125,6 @@
     "name": "Suceso TV",
     "iptv_urls": [
       "https://live.enhdtv.com:8081/8060/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ASrUvdpVK7ci3L",
-    "name": "UnionTV",
-    "iptv_urls": [
-      "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

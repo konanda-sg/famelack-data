@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mXKZDdnCvaD0Ng",
-    "name": "92 News HD",
-    "iptv_urls": [
-      "https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YgGt3xJqUzjNuF",
     "name": "92 NEWS HD",
     "iptv_urls": [],
@@ -81,7 +70,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6ERb8yaELl8"
+      "https://www.youtube-nocookie.com/embed/d-o70pe3Qbc"
     ],
     "language": "sd",
     "country": "pk",
@@ -375,6 +364,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VNA9vJsOpSI"
+    ],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "iptv_urls": [
@@ -393,6 +393,17 @@
     ],
     "youtube_urls": [],
     "language": "snd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LzPSde42sWQjeB",
+    "name": "KTN NEWS TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WgmUe4TlQ2o"
+    ],
+    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -532,17 +543,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cY2xwz2R3RaEd2",
-    "name": "Sindh TV News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o1ESBBf9fOI"
-    ],
-    "language": "sd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oy323hi3qdqwPY",
     "name": "Such TV",
     "iptv_urls": [
@@ -569,7 +569,7 @@
     "name": "VSH NEWS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/u3_YnXzV6Rg"
+      "https://www.youtube-nocookie.com/embed/DBWEOv24Gs4"
     ],
     "language": "urd",
     "country": "pk",

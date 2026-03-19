@@ -693,12 +693,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2KW40anjWLCRfl",
+    "name": "QVC UK Main",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Re4IWynftC0"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "59zGwpG017YKqC",
     "name": "QVC UK Style",
     "iptv_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/HXjDtuel2Zw"
+    ],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

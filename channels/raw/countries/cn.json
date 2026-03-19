@@ -209,10 +209,54 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9nSOZBFhMDXFTD",
+    "name": "QTV-1",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ozrwv5yOFSMLm3",
     "name": "QTV-2",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v5Cnt9e5fETRq9",
+    "name": "QTV-3",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v5Etfhhhhl9Em5",
+    "name": "QTV-4",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1by9GcHy62iZ4M",
+    "name": "QTV-5",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -445,7 +489,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3TyBD91mqgY"
+      "https://www.youtube-nocookie.com/embed/98_SV6dgYEQ"
     ],
     "language": "zho",
     "country": "cn",
@@ -522,17 +566,6 @@
     "name": "河源综合",
     "iptv_urls": [
       "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2D80wABwXq6SL0",
-    "name": "浙江 Ⅰ 绍兴影视",
-    "iptv_urls": [
-      "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

@@ -564,6 +564,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Pz1CuDeSJYHivR",
+    "name": "Jalisco TV",
+    "iptv_urls": [
+      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UakGhPnebL79ku",
     "name": "KCAT Public Media TV",
     "iptv_urls": [
@@ -914,6 +925,17 @@
     ],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wG03qaF80rSneK",
+    "name": "Telepace 3",
+    "iptv_urls": [
+      "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
     "isGeoBlocked": false
   },
   {
