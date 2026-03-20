@@ -33,18 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qb63KGtBMhm9Xj",
-    "name": "BUM Televisión",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/visiondorada.m3u8",
-      "https://video.ejeserver.com/live/visiondorada.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "z6j8GoKR6XeFrc",
     "name": "Cali TV",
     "iptv_urls": [
@@ -94,18 +82,6 @@
     "name": "Canal 55 Telemorisco TV",
     "iptv_urls": [
       "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JjVGVjzCa9hXFe",
-    "name": "Canal Más Televisión",
-    "iptv_urls": [
-      "https://movil.ejeserver.com/live/teledoradahd.m3u8",
-      "https://video.ejeserver.com/live/teledoradahd.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -253,6 +229,17 @@
     "name": "Kalu TV",
     "iptv_urls": [
       "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GnCb5ceUbTkz25",
+    "name": "La Cantina Memorias",
+    "iptv_urls": [
+      "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -481,17 +468,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -585,6 +561,17 @@
     "name": "Ultra Casanare TV",
     "iptv_urls": [
       "https://eu1.servers10.com:8081/8072/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lOEoXHnp8Sj0dx",
+    "name": "UMC TV",
+    "iptv_urls": [
+      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

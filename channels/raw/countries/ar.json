@@ -444,6 +444,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DGdrDzPisNgZkI",
+    "name": "Canal 79 Puan",
+    "iptv_urls": [
+      "https://streamconex.com:19360/puan/puan.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MaonGrlqkdtlLv",
     "name": "Canal 79 Santa Clara del Mar",
     "iptv_urls": [
@@ -615,7 +626,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YNWWqPula84"
+      "https://www.youtube-nocookie.com/embed/gxDStXo2Nn8"
     ],
     "language": "spa",
     "country": "ar",
@@ -682,7 +693,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ayNe_k9h0EU"
+      "https://www.youtube-nocookie.com/embed/1S_p7RFzWxk"
     ],
     "language": "spa",
     "country": "ar",
@@ -976,6 +987,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xO6rbgAFeoc"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xRJ5PYrL3SOh4P",
     "name": "TN Todo Noticias",
     "iptv_urls": [],
@@ -1069,7 +1091,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rpjYu1T7T2U"
+      "https://www.youtube-nocookie.com/embed/PyV9mcifXig"
     ],
     "language": "spa",
     "country": "ar",

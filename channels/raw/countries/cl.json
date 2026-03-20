@@ -180,19 +180,8 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-JR5bjZXUbs"
+      "https://www.youtube-nocookie.com/embed/HycrBmsZypk"
     ],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -356,7 +345,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6iRJ5t8FQcw"
+      "https://www.youtube-nocookie.com/embed/dHAHdnq4eeU"
     ],
     "language": "spa",
     "country": "cl",
@@ -478,7 +467,8 @@
     "nanoid": "0C2d9cgVcqnI9d",
     "name": "SoloBáilalo",
     "iptv_urls": [
-      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8"
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
+      "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -641,17 +631,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xTf3bbxqRJQgMl",
-    "name": "TVO San Vicente",
-    "iptv_urls": [
-      "https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HeeVS1iRWuDC3B",
     "name": "TVR",
     "iptv_urls": [
@@ -667,6 +646,17 @@
     "name": "TVU Concepción",
     "iptv_urls": [
       "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uiKxEXDS2qwujf",
+    "name": "U Los Lagos TV",
+    "iptv_urls": [
+      "https://tv.ulagos.cl/web/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -697,43 +687,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rZh1GpFWO9ft0O",
-    "name": "UTV",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/utv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3UIRfQdeDlPsdL",
-    "name": "V Classic TV",
-    "iptv_urls": [
-      "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y2Z36ASHb1vcNr",
     "name": "VC Online",
     "iptv_urls": [
       "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "osBw1hYyNiagCw",
-    "name": "Vision Plus TV (1080i)",
-    "iptv_urls": [
-      "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

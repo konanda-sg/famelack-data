@@ -11,17 +11,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D6dxjs1hy0YRqm",
-    "name": "Advocate Broadcasting Network",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "iptv_urls": [
@@ -243,10 +232,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ieGP7N8F1NST0g",
-    "name": "Rave TV",
+    "nanoid": "pucd0GDLw4l5UG",
+    "name": "Salvation TV",
     "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8"
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -254,10 +243,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pucd0GDLw4l5UG",
-    "name": "Salvation TV",
+    "nanoid": "eTR6HfJcfuibOg",
+    "name": "Sunna TV",
     "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8"
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -282,6 +271,17 @@
       "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "language": "eng",
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mQsEQa26uw8XEM",
+    "name": "TrustTV News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/A6v5eurxCYI"
+    ],
     "language": "eng",
     "country": "ng",
     "isGeoBlocked": false
@@ -313,39 +313,6 @@
     "name": "Wap TV",
     "iptv_urls": [
       "https://newproxy3.vidivu.tv/waptv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xqNDe2nURDi4zM",
-    "name": "Wazobia Max TV Abuja",
-    "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XBCn7LG1vDEDMn",
-    "name": "Wazobia Max TV Nigeria",
-    "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmax.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Uu8JpSpXEkB3Wk",
-    "name": "Wazobia Max TV Port Harcourt",
-    "iptv_urls": [
-      "https://wazobia.live:8333/channel/wmaxph.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

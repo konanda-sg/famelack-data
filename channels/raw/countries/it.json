@@ -275,17 +275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "iptv_urls": [
@@ -410,8 +399,18 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "iptv_urls": [
-      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kTsDjvuR5SnaAA",
+    "name": "Gold TV Sat",
+    "iptv_urls": [
+      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -576,17 +575,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ex98n0tFYkUwoo",
-    "name": "Lazio TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QUgozEv0vZrkjK",
     "name": "Lira TV",
     "iptv_urls": [
@@ -737,6 +725,39 @@
     ],
     "youtube_urls": [],
     "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-en.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wRTNWuXxEeSri7",
+    "name": "Peer TV Südtirol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1010,17 +1031,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oURW9nLoHQEwxm",
-    "name": "Rakuten TV Sci-Fi Italy",
-    "iptv_urls": [
-      "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mwaE9Of5KjZvBf",
     "name": "ReggioTV",
     "iptv_urls": [
@@ -1168,6 +1178,17 @@
     "name": "RTL 102.5 TV",
     "iptv_urls": [
       "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oqN5ACQhB7Jq82",
+    "name": "RTM TV",
+    "iptv_urls": [
+      "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ita",
@@ -1536,17 +1557,6 @@
     ],
     "youtube_urls": [],
     "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fPi31GojXVdhWd",
-    "name": "TeleRegione 118",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
     "country": "it",
     "isGeoBlocked": false
   },

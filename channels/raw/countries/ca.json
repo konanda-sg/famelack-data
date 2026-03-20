@@ -505,17 +505,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xsRHw7w1yWnmCm",
-    "name": "Made In History",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4K8T_abbn8w"
-    ],
-    "language": "en",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Iz0NChVF5yie3L",
     "name": "Melody Hits",
     "iptv_urls": [
@@ -902,11 +891,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6MW1TUckqWg"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdyuPfPjDfUi5s",
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pYiY_sPPnW8"
+      "https://www.youtube-nocookie.com/embed/zTyyfG2K6fQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -917,7 +917,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LkOEo__5F2M"
+      "https://www.youtube-nocookie.com/embed/sJZoXE2A070"
     ],
     "language": "eng",
     "country": "ca",

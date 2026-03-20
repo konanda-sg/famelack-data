@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "izfFH8RnAwm70u",
-    "name": "RTP",
-    "iptv_urls": [
-      "https://rtp.noxun.net/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JLRlLiosJOhAzH",
     "name": "UMSA TVU Internacional",
     "iptv_urls": [

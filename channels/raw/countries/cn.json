@@ -489,7 +489,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/98_SV6dgYEQ"
+      "https://www.youtube-nocookie.com/embed/4OEhHEz5qfM"
     ],
     "language": "zho",
     "country": "cn",
@@ -566,6 +566,17 @@
     "name": "河源综合",
     "iptv_urls": [
       "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2D80wABwXq6SL0",
+    "name": "浙江 Ⅰ 绍兴影视",
+    "iptv_urls": [
+      "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

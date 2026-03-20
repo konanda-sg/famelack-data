@@ -55,17 +55,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t9oYt4NY18iZul",
-    "name": "Anime Vanguard Live",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YU9vU5D3I9E"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hkDzNHa7Mm4MEd",
     "name": "Anime Vision",
     "iptv_urls": [
@@ -275,14 +264,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5YtwjYlglp4KTy",
+    "nanoid": "Ys1fR7qaVevN2A",
     "name": "Gumball",
     "iptv_urls": [],
     "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IT1IZpY7uzA",
       "https://www.youtube-nocookie.com/embed/9LDR3lHACKM"
     ],
-    "language": "tur",
-    "country": "tr",
+    "language": "ara",
+    "country": "sa",
     "isGeoBlocked": false
   },
   {

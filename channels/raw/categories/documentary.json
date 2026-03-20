@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HeKcCCWv7SU"
+      "https://www.youtube-nocookie.com/embed/HIXQS8xyCKA"
     ],
     "language": "jpn",
     "country": "jp",
@@ -74,17 +74,6 @@
       "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zK7yBiaKTXUpou",
-    "name": "BBC Four UK HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -423,6 +412,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "iptv_urls": [
+      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "iptv_urls": [
@@ -532,6 +532,17 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

@@ -88,44 +88,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yqAqfz8NLIipuY",
-    "name": "Banijay Bluelight: Real Life Hospital Documentaries",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-x7O3_7amaM"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oFHtWQgYWs3Y0k",
     "name": "Banijay Documentaries: Haunted Stories",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6WK9CGe1IUQ"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hvqcyi1KP5PsvX",
-    "name": "Banijay Engine: Full Custom Garage",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0SJZQsG_xQ4"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pJl8pmCiIwVpiF",
-    "name": "Banijay History: Secrets They Tried to Bury",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/o_wD81IU-w4"
     ],
     "language": "eng",
     "country": "uk",
@@ -163,17 +130,6 @@
       "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zK7yBiaKTXUpou",
-    "name": "BBC Four UK HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -225,28 +181,6 @@
       "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
     ],
     "language": "fas",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0Nsqcxag0o981J",
-    "name": "BBC Three HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -390,6 +324,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u6dHm89DYJkcoL",
+    "name": "Dunya News (UK Feed)",
+    "iptv_urls": [
+      "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -587,7 +532,7 @@
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CGu3p7gur6E"
+      "https://www.youtube-nocookie.com/embed/U0R6IxyDWpk"
     ],
     "language": "eng",
     "country": "uk",
@@ -1149,17 +1094,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/YDvsBbKfLPA"
     ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
-    "iptv_urls": [
-      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

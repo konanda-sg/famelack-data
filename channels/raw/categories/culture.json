@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4RrCqsrdFtghH",
+    "name": "Afroculture TV",
+    "iptv_urls": [
+      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "iptv_urls": [
@@ -97,17 +108,6 @@
     "youtube_urls": [],
     "language": "ita",
     "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zK7yBiaKTXUpou",
-    "name": "BBC Four UK HD",
-    "iptv_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -210,17 +210,6 @@
     "youtube_urls": [],
     "language": "ben",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "iptv_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -400,17 +389,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SLi8f8Yz14oKR0",
     "name": "ETV2",
     "iptv_urls": [
@@ -487,17 +465,6 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1115,17 +1082,6 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
-    "iptv_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

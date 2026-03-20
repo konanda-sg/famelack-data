@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XNa5AM5I0Mvv8Q",
+    "name": "Capricho TV",
+    "iptv_urls": [
+      "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
     "iptv_urls": [
@@ -66,32 +77,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3Jn82QaxkNUvY1",
-    "name": "Clic TV",
-    "iptv_urls": [
-      "https://stmv1.voxhdnet.com/yorka7322/yorka7322/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uvYhuImFYPqlJm",
     "name": "Curiquingue TV",
     "iptv_urls": [
       "https://video2.lhdserver.es/pjtv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zHfJMORTmUY70P",
-    "name": "Ecotel TV",
-    "iptv_urls": [
-      "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -253,17 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Sp6sHwr9vDmxjt",
-    "name": "Mágica Tv",
-    "iptv_urls": [
-      "https://magicatv.4pu.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eY8XIdgCVwivBP",
     "name": "Majestad Televisión",
     "iptv_urls": [
@@ -323,6 +301,17 @@
     "name": "Multicanal Catamayo",
     "iptv_urls": [
       "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CR0jUhLqfPaEmf",
+    "name": "Nortvisión",
+    "iptv_urls": [
+      "https://server.asilivehd.com:3242/live/nortvisionlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -532,6 +521,17 @@
     "name": "TV Color Canal 36",
     "iptv_urls": [
       "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LfL7xtgZtyuyhr",
+    "name": "TV Universal Ecuador",
+    "iptv_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

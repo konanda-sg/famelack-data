@@ -346,17 +346,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S7A882wnqWEWLJ",
-    "name": "DİM TV",
-    "iptv_urls": [
-      "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1OlKTVorbB1nZr",
     "name": "Diyanet TV",
     "iptv_urls": [
@@ -518,17 +507,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/JjtngkzUqIQ"
-    ],
-    "language": "tur",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5YtwjYlglp4KTy",
-    "name": "Gumball",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9LDR3lHACKM"
     ],
     "language": "tur",
     "country": "tr",

@@ -243,6 +243,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QFKHFoExvGyTwt",
+    "name": "Cartoon Network",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VIMRgfFtXVU"
+    ],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cjno9NJJ87yGNT",
     "name": "Cartoon Network Asia",
     "iptv_urls": [],
@@ -533,7 +544,7 @@
     "name": "Horrid Henry",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CGu3p7gur6E"
+      "https://www.youtube-nocookie.com/embed/U0R6IxyDWpk"
     ],
     "language": "eng",
     "country": "uk",
@@ -560,17 +571,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "be",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EDJsRoJArkwgcL",
-    "name": "Jetix",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RPsInDL1-b0"
-    ],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -605,17 +605,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VNA9vJsOpSI"
-    ],
-    "language": "urd",
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -907,17 +896,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9q3m5MrdjQd0TM",
-    "name": "PBS Kids: Daniel Tiger",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7z8ptDYNPU4"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5EgyyHFL4vIrl2",
     "name": "PBS Kids: Super Why!",
     "iptv_urls": [],
@@ -944,7 +922,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0JO7ch2nf98"
+      "https://www.youtube-nocookie.com/embed/DLWGvgdxQ80"
     ],
     "language": "por",
     "country": "br",
@@ -1142,10 +1120,21 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WD04j-rNmVQ"
+      "https://www.youtube-nocookie.com/embed/n-txG0gxSzw"
     ],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3C5tAme4Sy2gIV",
+    "name": "Super Simple: Bedtime Songs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6MW1TUckqWg"
+    ],
+    "language": "eng",
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -1153,7 +1142,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pYiY_sPPnW8"
+      "https://www.youtube-nocookie.com/embed/zTyyfG2K6fQ"
     ],
     "language": "eng",
     "country": "ca",
@@ -1164,7 +1153,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LkOEo__5F2M"
+      "https://www.youtube-nocookie.com/embed/sJZoXE2A070"
     ],
     "language": "eng",
     "country": "ca",
@@ -1234,7 +1223,7 @@
     "name": "Totally Spies!",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/81x5Ab4D-VM"
+      "https://www.youtube-nocookie.com/embed/TJnRBVTKqqg"
     ],
     "language": "fra",
     "country": "fr",
@@ -1453,7 +1442,8 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1533,7 +1523,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/98_SV6dgYEQ"
+      "https://www.youtube-nocookie.com/embed/4OEhHEz5qfM"
     ],
     "language": "zho",
     "country": "cn",

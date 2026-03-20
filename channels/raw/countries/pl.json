@@ -365,6 +365,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8L_P_ur4GJ8"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "iptv_urls": [
@@ -382,17 +393,6 @@
       "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1BgwlFIal9aEik",
-    "name": "Telewizja Olsztyn",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HtD6CA8kIeA"
-    ],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -607,11 +607,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fhrLMM5myTlOwL",
+    "name": "TVT Zgorzelec",
+    "iptv_urls": [
+      "https://liveovh010cdapl.github.io/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc013/tvtzgorzelechdraw/tvtzgorzelechdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "moehtnlcI4ChMQ",
     "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uWHcoIOxZ-s"
+      "https://www.youtube-nocookie.com/embed/-n9Cvao4QpE"
     ],
     "language": "pol",
     "country": "pl",
@@ -647,6 +658,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpwyCfxeYK07lR",
+    "name": "ZTV live",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XcOJ-I8YCaA"
+    ],
+    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   }

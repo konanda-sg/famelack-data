@@ -67,17 +67,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPitwPVtngUuVb",
-    "name": "ARDB TV",
-    "iptv_urls": [
-      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "khm",
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "iptv_urls": [
@@ -219,6 +208,39 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv-en.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wRTNWuXxEeSri7",
+    "name": "Peer TV Südtirol",
+    "iptv_urls": [
+      "https://iptv.peer.biz/live/peertv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KQfyF0f3PWgz6t",
     "name": "Pursuit UP",
     "iptv_urls": [
@@ -278,6 +300,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV6yi21ilw5X2f",
+    "name": "Red Bull TV US",
+    "iptv_urls": [
+      "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0mEe54Ekw1mj61",
     "name": "Swamiji TV American",
     "iptv_urls": [
@@ -308,6 +341,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lOEoXHnp8Sj0dx",
+    "name": "UMC TV",
+    "iptv_urls": [
+      "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
     "isGeoBlocked": false
   },
   {
