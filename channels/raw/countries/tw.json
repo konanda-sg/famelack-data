@@ -121,11 +121,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rjzVsnW4PHv8GX",
-    "name": "momokids親子台: 2",
+    "nanoid": "T7xp99Cz7KTH0J",
+    "name": "Hot Door Night 綜藝大熱門",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oPntQYFGwgY"
+      "https://www.youtube-nocookie.com/embed/CXBlwhBHeZw"
+    ],
+    "language": "zho",
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QCmvdu32Qo7gos",
+    "name": "momokids親子台",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ik6szdtfn8M"
     ],
     "language": "zho",
     "country": "tw",
@@ -303,6 +314,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/MIqUplvSRWA"
+    ],
+    "language": "zho",
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EVc2GaUKCkDuYp",
+    "name": "大愛電視 Tzu Chi DaAiVideo 2",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QDxRJP-wfeI"
     ],
     "language": "zho",
     "country": "tw",

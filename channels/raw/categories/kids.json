@@ -91,6 +91,7 @@
     "nanoid": "QHuUkTJnPtT3bd",
     "name": "Atfal & Mawaheb TV",
     "iptv_urls": [
+      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
       "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -118,6 +119,17 @@
     "youtube_urls": [],
     "language": "kaz",
     "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wAhOZxTBn6q208",
+    "name": "Barbie",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VO3kdaKpDRI"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -287,6 +299,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lcSkp0zE9RxEzT",
+    "name": "Cartoon Network: Regular Show",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/aPGvK6tJMXk"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mPbuqsHG1z2Sb6",
+    "name": "Cartoonito France: Tom Et Jerry",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/C6hI2WB3wH8"
+    ],
+    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rVlkWuhkPTSNkw",
     "name": "Cartoonito MENA",
     "iptv_urls": [],
@@ -397,11 +431,55 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xhpSHNk65C34T5",
+    "name": "Disney Channel: Gravity Falls",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/eE1L08hNdW8"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ooFOef4gaQlmgd",
+    "name": "Disney Channel: Hannah Montana",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iXMgtPEm4wE"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5DpoUpKEzcecSL",
     "name": "Disney Channel: Phineas and Ferb",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_HviSyC7zSU"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LbfmhqUBJd1O9n",
+    "name": "Disney Channel: Stuck in the Middle",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dt6dEz1rDzo"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nu7l4PSugK8FRQ",
+    "name": "Disney Channel: Wizards of Waverly",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/s1Ylmj87gXY"
     ],
     "language": "eng",
     "country": "us",
@@ -479,6 +557,39 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-WIhWB9pEqo"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cbj1voeDCPnjKI",
+    "name": "Disney Kids: Goof Troop",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/1mLPTfLwm-M"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lHigiueHBT0bTw",
+    "name": "Disney Kids: Lilo & Stitch",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/F4Tnje7wi-o"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UKFKknT6Mn80n5",
+    "name": "Disney Kids: Winnie the Pooh",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/URXBh2PRp0o"
     ],
     "language": "eng",
     "country": "us",
@@ -571,6 +682,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EDJsRoJArkwgcL",
+    "name": "Jetix",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Yk32pbSRyAA"
+    ],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -741,11 +863,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rjzVsnW4PHv8GX",
-    "name": "momokids親子台: 2",
+    "nanoid": "QCmvdu32Qo7gos",
+    "name": "momokids親子台",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oPntQYFGwgY"
+      "https://www.youtube-nocookie.com/embed/Ik6szdtfn8M"
     ],
     "language": "zho",
     "country": "tw",
@@ -922,7 +1044,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DLWGvgdxQ80"
+      "https://www.youtube-nocookie.com/embed/hhMCelanr9E"
     ],
     "language": "por",
     "country": "br",
@@ -992,6 +1114,17 @@
     ],
     "language": "jpn",
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IJ3KMwuc5wk"
+    ],
+    "language": "kor",
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1110,17 +1243,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/q9_F2qjdJWs"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n-txG0gxSzw"
     ],
     "language": "eng",
     "country": "us",
@@ -1388,7 +1510,7 @@
     "name": "WildBrain: Teletubbies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XDANvKw15zg"
+      "https://www.youtube-nocookie.com/embed/pcgQznN86yI"
     ],
     "language": "eng",
     "country": "uk",
@@ -1403,28 +1525,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5tnyJyKLhuRZfm",
-    "name": "ZB Cartoon",
-    "iptv_urls": [
-      "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kz1QrxbntvR2ns",
-    "name": "Zig & Sharko",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z-fBXQvXfdM"
-    ],
-    "language": "fra",
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1523,7 +1623,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4OEhHEz5qfM"
+      "https://www.youtube-nocookie.com/embed/A9liHrM0WT8"
     ],
     "language": "zho",
     "country": "cn",

@@ -369,7 +369,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8L_P_ur4GJ8"
+      "https://www.youtube-nocookie.com/embed/-v1OyqHJBlk"
     ],
     "language": "pol",
     "country": "pl",
@@ -611,6 +611,17 @@
     "name": "TVT Zgorzelec",
     "iptv_urls": [
       "https://liveovh010cdapl.github.io/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc013/tvtzgorzelechdraw/tvtzgorzelechdraw.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "iptv_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",

@@ -70,7 +70,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wxxkWOMa2AM"
+      "https://www.youtube-nocookie.com/embed/fwpE2CzsA-k"
     ],
     "language": "sd",
     "country": "pk",
@@ -364,6 +364,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0DyoG3XduwwwLj",
+    "name": "King TV",
+    "iptv_urls": [
+      "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C3sLhVrqf1lZz5",
     "name": "KTN News",
     "iptv_urls": [
@@ -379,7 +390,7 @@
     "name": "KTN NEWS TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WgmUe4TlQ2o"
+      "https://www.youtube-nocookie.com/embed/gyMHng9_0PE"
     ],
     "language": "sd",
     "country": "pk",
@@ -425,7 +436,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PKcp2gaM8qc"
+      "https://www.youtube-nocookie.com/embed/4YlLkIwGGWo"
     ],
     "language": "urd",
     "country": "pk",
@@ -525,7 +536,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wiIsx2zlgfg"
+      "https://www.youtube-nocookie.com/embed/JunyWpD6InM"
     ],
     "language": "sd",
     "country": "pk",
@@ -558,7 +569,7 @@
     "name": "VSH NEWS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DBWEOv24Gs4"
+      "https://www.youtube-nocookie.com/embed/ptTSCRtHQqk"
     ],
     "language": "urd",
     "country": "pk",

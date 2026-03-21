@@ -90,6 +90,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DkYyR4OdRG7yGO",
+    "name": "Auto Addiction",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jR4JJovuOHI"
+    ],
+    "language": "eng",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YFqOd9RFAP2HGq",
     "name": "Bahrain Sports 1",
     "iptv_urls": [
@@ -212,6 +223,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NOygrZkydmJ7CX",
+    "name": "Enduro Life Media",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/qRE2ysbhvZ4"
+    ],
+    "language": "eng",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -369,17 +391,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GZWR4WKfwfXc9w",
     "name": "Gol Classics",
     "iptv_urls": [
@@ -522,17 +533,6 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "WjzlJmHsxUPxpZ",
-    "name": "MNB Sport",
-    "iptv_urls": [
-      "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mon",
-    "country": "mn",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "VV5nh58QSIjuA6",
@@ -786,17 +786,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UF4QEEqwjK3yzX",
-    "name": "Red Bull TV DE",
-    "iptv_urls": [
-      "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CFer2v8709wxRy",
     "name": "Red Bull TV ES",
     "iptv_urls": [
@@ -804,6 +793,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "znLSEaZWfm2KZE",
+    "name": "Red Bull TV SD",
+    "iptv_urls": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "at",
     "isGeoBlocked": false
   },
@@ -843,6 +843,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1dfpo8MiLRAJ3e",
+    "name": "Sky Sports F1",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/q4t1JNC1by0"
+    ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SIki0bxRn3r6qL",
     "name": "Sport Italia",
     "iptv_urls": [
@@ -860,7 +871,6 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1119,11 +1129,23 @@
     "nanoid": "7HA7nsSxvggwxL",
     "name": "Unbeaten Sports Channel",
     "iptv_urls": [
-      "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
+      "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+      "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VwGLdAillsoWR5",
+    "name": "Viaplay TV (Finland)",
+    "iptv_urls": [
+      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+    ],
+    "youtube_urls": [],
+    "language": "fin",
+    "country": "fi",
     "isGeoBlocked": false
   },
   {
@@ -1226,6 +1248,28 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AatxkgXuaBI"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8Ndns6qOA3E0TP",
+    "name": "WWE",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/RmJ4sSc210k"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KfPyDEuOOc6z6o",
+    "name": "WWE Vault",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/P3GHMQo1Dx8"
     ],
     "language": "eng",
     "country": "us",

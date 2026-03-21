@@ -201,17 +201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nuCkj2isILRO5a",
-    "name": "EET TV",
-    "iptv_urls": [
-      "https://eu.streamjo.com/eetlive/eettv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BFpewkLm3lqPGP",
     "name": "Erfan Halgheh TV",
     "iptv_urls": [
@@ -251,17 +240,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9Bw2Zl1_L2c"
     ],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3PWIwG9FFIlO5Y",
-    "name": "Game+",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -501,6 +479,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xsRHw7w1yWnmCm",
+    "name": "Made In History",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/e92RRtTKDFw"
+    ],
+    "language": "en",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1027,7 +1016,7 @@
     "name": "TV Témis",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8a-ItTH4Kk0"
+      "https://www.youtube-nocookie.com/embed/1YaPgmqR8Aw"
     ],
     "language": "fra",
     "country": "ca",

@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "2TeFmbSu18GnAQ",
-    "name": "Cadena A",
-    "iptv_urls": [
-      "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "btaTHB02v7Y9B8",
     "name": "F10 HD",
     "iptv_urls": [
@@ -59,6 +48,17 @@
     "name": "Red TV Shop",
     "iptv_urls": [
       "https://master.tucableip.com/redtvshop/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "izfFH8RnAwm70u",
+    "name": "RTP",
+    "iptv_urls": [
+      "https://rtp.noxun.net/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

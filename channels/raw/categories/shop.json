@@ -88,17 +88,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BMO0FRe0mBVXUu",
-    "name": "CoinVaultTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ojysMy9sJiE"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -402,9 +391,7 @@
     "iptv_urls": [
       "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VjOGOgcR6lc"
-    ],
+    "youtube_urls": [],
     "language": "deu",
     "country": "de",
     "isGeoBlocked": false
@@ -838,6 +825,17 @@
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/omxxaJLELAE"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DcWSv0TnPEF6Tu",
+    "name": "ShopHQ",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/94OdjcZQlJE"
     ],
     "language": "eng",
     "country": "us",

@@ -243,6 +243,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Oknqtc1CKDoMam",
+    "name": "GCNTV Korea",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/L9bvCgSJXnc"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PwiAIPffasG0wh",
     "name": "Gongyoung Shopping",
     "iptv_urls": [
@@ -320,11 +331,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lwmY0Z7pYKqTi3",
+    "name": "JTBC News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WBXrYZB_US4"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z5dt0NMdPPY3fJ",
     "name": "KBS News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7h_nq4-ZWWI"
+      "https://www.youtube-nocookie.com/embed/mL_ZArHw-5Y"
     ],
     "language": "kor",
     "country": "kr",
@@ -485,6 +507,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IJ3KMwuc5wk"
+    ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "iptv_urls": [
@@ -500,7 +533,7 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LN53_tfwUhg"
+      "https://www.youtube-nocookie.com/embed/GbDxAg9-Zmc"
     ],
     "language": "kor",
     "country": "kr",
@@ -624,6 +657,17 @@
       "https://www.youtube-nocookie.com/embed/rOtny76-53Q"
     ],
     "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ALMRp6hUXQ2Vmy",
+    "name": "tvN D ENT",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/WpvCQaOxA7s"
+    ],
+    "language": "eng",
     "country": "kr",
     "isGeoBlocked": false
   },

@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6SQhQn74t89lq",
-    "name": "B15 Fresnillo",
-    "iptv_urls": [
-      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9BZEZK4EYJz8lC",
     "name": "B15 Zacatecas",
     "iptv_urls": [
@@ -114,6 +103,17 @@
     "name": "Canal 10 Chiapas",
     "iptv_urls": [
       "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "om7GIuOIZrQShy",
+    "name": "Canal 10 Durango",
+    "iptv_urls": [
+      "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -233,23 +233,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CrHxjo8TlGVNjG",
-    "name": "Despierta TV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/despiertatv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7B5TL7KhdmamWP",
     "name": "El Chavo del 8",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/fy_fYd3ZwPE"
     ],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -337,17 +337,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/WJNJUbidv9s"
-    ],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5lhODGYtGp6nxK",
-    "name": "ImagenTV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4CFah-OJf7c"
     ],
     "language": "spa",
     "country": "mx",
@@ -442,23 +431,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qhvttFpZ2QRjRO",
-    "name": "MyTime Movie Network Mexico",
+    "nanoid": "4i2dbm12cF2ARa",
+    "name": "Nayarit Comunica",
     "iptv_urls": [
-      "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+      "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pCFfnKm8W8E1LH",
-    "name": "NMás",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/S-EGPDorM80"
-    ],
     "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
@@ -575,6 +553,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TnpnbHf11tv1Pa",
+    "name": "Señal España (XHUNES-TDT)",
+    "iptv_urls": [
+      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KrGaqe34vp98Wi",
     "name": "SET Televisión Canal 26.1",
     "iptv_urls": [
@@ -601,6 +590,17 @@
     "name": "SIPSE TV 8.1",
     "iptv_urls": [
       "https://webprod.sipse.com.mx:8080/show/merida.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bqZG2nHHXJFyOO",
+    "name": "SIPSE TVCUN 8.1",
+    "iptv_urls": [
+      "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -767,7 +767,7 @@
     "name": "Televisa Laguna",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6qFuJwG_x4k"
+      "https://www.youtube-nocookie.com/embed/JX5OuemB1gQ"
     ],
     "language": "spa",
     "country": "mx",
@@ -789,7 +789,7 @@
     "name": "Televisa Monterrey",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vA0anVECs3Y"
+      "https://www.youtube-nocookie.com/embed/BvKrpgj_myw"
     ],
     "language": "spa",
     "country": "mx",
@@ -800,7 +800,7 @@
     "name": "Televisa Piedras Negras",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QIjl7e8cu0M"
+      "https://www.youtube-nocookie.com/embed/1gyppZ2zA9o"
     ],
     "language": "spa",
     "country": "mx",

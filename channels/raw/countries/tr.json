@@ -124,17 +124,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rmMtzdNASgScoo",
-    "name": "Alqanat9 TV",
-    "iptv_urls": [
-      "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yL3s4jwp0ivExp",
     "name": "Anadolu Net TV",
     "iptv_urls": [

@@ -33,6 +33,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Qb63KGtBMhm9Xj",
+    "name": "BUM Televisión",
+    "iptv_urls": [
+      "https://movil.ejeserver.com/live/visiondorada.m3u8",
+      "https://video.ejeserver.com/live/visiondorada.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "z6j8GoKR6XeFrc",
     "name": "Cali TV",
     "iptv_urls": [
@@ -78,10 +90,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dIQhSN2tH9x7qG",
-    "name": "Canal 55 Telemorisco TV",
+    "nanoid": "JjVGVjzCa9hXFe",
+    "name": "Canal Más Televisión",
     "iptv_urls": [
-      "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
+      "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+      "https://video.ejeserver.com/live/teledoradahd.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -225,17 +238,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "02mPmZWllvm8GE",
-    "name": "Kalu TV",
-    "iptv_urls": [
-      "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GnCb5ceUbTkz25",
     "name": "La Cantina Memorias",
     "iptv_urls": [
@@ -273,17 +275,6 @@
     "name": "La Morada Radio TV",
     "iptv_urls": [
       "https://movil.ejeserver.com/live/lamoradatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "iptv_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -88,6 +88,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zHfJMORTmUY70P",
+    "name": "Ecotel TV",
+    "iptv_urls": [
+      "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DUbDXmBZU3srKm",
     "name": "Ecuador TV",
     "iptv_urls": [
@@ -367,17 +378,6 @@
     "name": "Puruwa TV",
     "iptv_urls": [
       "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6ljoSjl6uAhfcj",
-    "name": "Radio Alegria 98.5 FM",
-    "iptv_urls": [
-      "https://video.compuwebecuador.com:3880/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

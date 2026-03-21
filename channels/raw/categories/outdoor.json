@@ -67,6 +67,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "iptv_urls": [
+      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "khm",
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "iptv_urls": [
@@ -278,17 +289,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UF4QEEqwjK3yzX",
-    "name": "Red Bull TV DE",
-    "iptv_urls": [
-      "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CFer2v8709wxRy",
     "name": "Red Bull TV ES",
     "iptv_urls": [
@@ -296,6 +296,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "znLSEaZWfm2KZE",
+    "name": "Red Bull TV SD",
+    "iptv_urls": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "at",
     "isGeoBlocked": false
   },

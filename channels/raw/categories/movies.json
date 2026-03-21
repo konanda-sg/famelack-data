@@ -34,17 +34,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dxikGwdAEpOW2i",
-    "name": "ABN Bible Movies",
-    "iptv_urls": [
-      "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FcrizhjFuogVcE",
     "name": "Action 24",
     "iptv_urls": [
@@ -669,17 +658,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eYL7gjaPIYarUU",
-    "name": "Max Movies",
-    "iptv_urls": [
-      "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tam",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fG091FxoA2NCwZ",
     "name": "MCI Televisión",
     "iptv_urls": [
@@ -822,17 +800,6 @@
     "youtube_urls": [],
     "language": "por",
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qhvttFpZ2QRjRO",
-    "name": "MyTime Movie Network Mexico",
-    "iptv_urls": [
-      "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -991,6 +958,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C4SJBjbzRYK0Ib",
+    "name": "Rakuten TV Action Movies Italy",
+    "iptv_urls": [
+      "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "akUnyMZyexeI3L",
     "name": "Rakuten TV Action Movies Spain",
     "iptv_urls": [
@@ -1031,17 +1009,6 @@
     ],
     "youtube_urls": [],
     "language": "deu",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3rUfGzY2t9RJC4",
-    "name": "Rakuten TV Comedy Movies Italy",
-    "iptv_urls": [
-      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1090,6 +1057,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CkXWZHW3kHwT7c",
+    "name": "Rakuten TV Drama Movies Italy",
+    "iptv_urls": [
+      "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "99YOjXEtHzlDSd",
     "name": "Rakuten TV Drama Movies Spain",
     "iptv_urls": [
@@ -1134,17 +1112,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GM8ISh0gwWKywf",
-    "name": "Rakuten TV Family Movies Italy",
-    "iptv_urls": [
-      "https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "urCoNCEQ0JVzsM",
     "name": "Rakuten TV Family Movies Spain",
     "iptv_urls": [
@@ -1185,17 +1152,6 @@
     ],
     "youtube_urls": [],
     "language": "fin",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "d85uJsQx5ZxBLM",
-    "name": "Rakuten TV Top Movies Germany",
-    "iptv_urls": [
-      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1288,17 +1244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IEqe1X17ifyvwH",
-    "name": "Sony Max HD",
-    "iptv_urls": [
-      "https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "hin",
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NZ0M4Z47C2ZcVG",
     "name": "Sony One Favoris",
     "iptv_urls": [
@@ -1351,6 +1296,17 @@
     "youtube_urls": [],
     "language": "tam",
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w47DW29bnDBimX",
+    "name": "TokuSHOUTsu: Jackie Chan Movie Marathon",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/PtWsjI3r64U"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1487,10 +1443,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wIP1vVYNV6iQvd",
-    "name": "Детское кино International",
+    "nanoid": "GXyfpkGN0MGlca",
+    "name": "Дом Кино",
     "iptv_urls": [
-      "https://autopilot.catcast.tv/content/38720/index.m3u8"
+      "https://streaming.thestream.cyou/live/44.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1536,105 +1492,6 @@
     "name": "Патриот (576i)",
     "iptv_urls": [
       "https://catchup.videoline.ru/asvtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UGkFnAuONipW2e",
-    "name": "Сити Эдем КиноАрт",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/38398/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ujlkE2Qc3sujr0",
-    "name": "Сити Эдем КиноДетектив",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/41327/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jqp4ZHvmJjGFio",
-    "name": "Сити Эдем КиноДрама",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/45269/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3bwrLU3me5VJ37",
-    "name": "Сити Эдем КиноКлассика",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/34185/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LN1hGmRGEKcWz7",
-    "name": "Сити Эдем КиноКомедия",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/41331/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6NRgQX5F3uvhNk",
-    "name": "Сити Эдем КиноМистика",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/40783/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pqEgU0y3jnIV9h",
-    "name": "Сити Эдем КиноФантастика",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/45268/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ID6NJjfwQAnwkN",
-    "name": "Сити Эдем КиноЭкшен",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/41333/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

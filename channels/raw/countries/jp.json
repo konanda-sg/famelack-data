@@ -26,7 +26,7 @@
     "name": "ANN News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xz0YBT9a6r0"
+      "https://www.youtube-nocookie.com/embed/n_cpT35JX7k"
     ],
     "language": "jpn",
     "country": "jp",
@@ -37,7 +37,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HIXQS8xyCKA"
+      "https://www.youtube-nocookie.com/embed/LZgzZArSqdY"
     ],
     "language": "jpn",
     "country": "jp",
@@ -71,6 +71,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5_Dk8msQTQg"
+    ],
+    "language": "jpn",
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "p6qHyum8xkT7Yw",
+    "name": "FNNプライムオンライン",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vGQyX4bAWCM"
     ],
     "language": "jpn",
     "country": "jp",

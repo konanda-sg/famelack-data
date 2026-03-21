@@ -342,39 +342,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQS6mmZySzL6Rf",
-    "name": "上虞1新闻综合",
-    "iptv_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2Fb8Um99xfgPRq",
-    "name": "上虞3新商都",
-    "iptv_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZMTYKvEKk1dmYw",
-    "name": "上虞經濟文化",
-    "iptv_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HzvN0O8csJFrwx",
     "name": "之江纪录",
     "iptv_urls": [
@@ -390,17 +357,6 @@
     "name": "余姚姚江文化",
     "iptv_urls": [
       "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z6LINyrJx59mNs",
-    "name": "余姚新闻综合",
-    "iptv_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -489,7 +445,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4OEhHEz5qfM"
+      "https://www.youtube-nocookie.com/embed/A9liHrM0WT8"
     ],
     "language": "zho",
     "country": "cn",
@@ -709,17 +665,6 @@
     "name": "福州电视台少儿频道 (FZTV-少儿)",
     "iptv_urls": [
       "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2nS6uDvT5uur0D",
-    "name": "红牛REDBULL TV",
-    "iptv_urls": [
-      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "G9IGkoQbntJLlH",
+    "name": "48 Hours",
+    "iptv_urls": [
+      "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Am77zbsA4kDJTi",
     "name": "Afra Series",
     "iptv_urls": [
@@ -227,6 +238,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ooFOef4gaQlmgd",
+    "name": "Disney Channel: Hannah Montana",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iXMgtPEm4wE"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LbfmhqUBJd1O9n",
+    "name": "Disney Channel: Stuck in the Middle",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/dt6dEz1rDzo"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nu7l4PSugK8FRQ",
+    "name": "Disney Channel: Wizards of Waverly",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/s1Ylmj87gXY"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hsHxn2eiXlY19k",
     "name": "Dog the Bounty Hunter",
     "iptv_urls": [
@@ -383,6 +427,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cwqY1fSd0UvwAg",
+    "name": "Land Of The Lost",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YePbaGy5ViY"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "shcIHFUgDcxTI6",
     "name": "Mcleod's Daughters",
     "iptv_urls": [
@@ -419,7 +474,6 @@
     "nanoid": "X6kETzsLQOUt4r",
     "name": "MST3K",
     "iptv_urls": [
-      "https://mst3k-roku.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/99c48388-377e-4f2c-ad8e-33d0dee33bc3/playlist.m3u8",
       "https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8"
     ],
@@ -512,11 +566,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UQHpLbU32owAll",
+    "name": "Shout! Studios: 21 Jump Street",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zsqHN3olUXw"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JfdQ8GXk8vD883",
     "name": "Shout! Studios: Father Knows Best",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/BEEtLzOSwHs"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rkSBlkz2deLyQZ",
+    "name": "Shout! Studios: Get A Life",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fBrYllLFCRQ"
     ],
     "language": "eng",
     "country": "us",
@@ -534,11 +610,44 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qybJSYh84g1aFG",
+    "name": "Shout! Studios: Jim Henson's The StoryTeller (English)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-Z59t2_lywQ"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1Lp8epuukUYATV",
+    "name": "Shout! Studios: Jim Henson's The StoryTeller (Español)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/337-Akb8Xkw"
+    ],
+    "language": "spa",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6B09VgzP1u7pf6",
     "name": "Shout! Studios: Renegade",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/oEgU940xRnI"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9b9wQbmK8gCvEd",
+    "name": "Shout! Studios: The Greatest American Hero",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/V4GlGLZ1kdQ"
     ],
     "language": "eng",
     "country": "us",
@@ -634,11 +743,44 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "10SoS9VfdLy3Lp",
+    "name": "TokuSHOUTsu: Denji Sentai Megaranger",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tjiH6zxkYXU"
+    ],
+    "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5zMPOhKUR72wAc",
     "name": "TokuSHOUTsu: Kamen Rider",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/xpJOJh9GQNE"
+    ],
+    "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oUTXA9oxGi5Idx",
+    "name": "TokuSHOUTsu: Kamen Rider Kuuga",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5OJg6z_77oU"
+    ],
+    "language": "jpn",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jCCrC4uMCnnFWp",
+    "name": "TokuSHOUTsu: Kamen Rider Ryuki",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/n4CsPHtdPd4"
     ],
     "language": "jpn",
     "country": "us",
@@ -793,17 +935,6 @@
     "name": "Сити Эдем КиноДок",
     "iptv_urls": [
       "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XEtBmZuJSvlx",
-    "name": "Сити Эдем ТелеНовелла",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/46209/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
