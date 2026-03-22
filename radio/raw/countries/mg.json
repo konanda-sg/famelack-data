@@ -1,0 +1,127 @@
+[
+  {
+    "nanoid": "H3U5AY8SwV2LJQ",
+    "name": "ESDES Radio",
+    "stream_urls": [
+      "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3"
+    ],
+    "country": "mg",
+    "languages": [
+      "fra",
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "r9uUU6rT5siHoH",
+    "name": "Hopefy Radio",
+    "stream_urls": [
+      "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "8pAek1EG9ue5xW",
+    "name": "MBS Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/vrwc8iesy7fuv"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "M3yIYFc1luS7kA",
+    "name": "NetPro Radio",
+    "stream_urls": [
+      "https://radio.netpro.tv/listen/netpro_radio/radio.mp3"
+    ],
+    "country": "mg",
+    "languages": [
+      "fra",
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "sIca09B9dfj3AB",
+    "name": "Radio Hi&Fi",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/52108/stream/89122"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "Q8woKtEOa2KPur",
+    "name": "Radio Oasis",
+    "stream_urls": [
+      "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "r4oxroZmIlfxNi",
+    "name": "Radio Rock",
+    "stream_urls": [
+      "https://tanjona.radioca.st/stream"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "aDXrAYVoKN0wVj",
+    "name": "Radio Vazo Gasy",
+    "stream_urls": [
+      "https://stream.radiovazogasy.com/stream"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "6prA8dFRfieorx",
+    "name": "RNM",
+    "stream_urls": [
+      "https://direct.radiomadagasikara.com/listen/rnm/radio.mp3"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "8aFZaYf31LE4yB",
+    "name": "Tiako Be",
+    "stream_urls": [
+      "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg"
+    ]
+  },
+  {
+    "nanoid": "H4wmiKKgL29hXk",
+    "name": "Top Radio",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/309053/stream/356036"
+    ],
+    "country": "mg",
+    "languages": [
+      "mlg"
+    ]
+  }
+]

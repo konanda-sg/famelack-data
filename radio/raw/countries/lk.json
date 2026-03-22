@@ -1,0 +1,302 @@
+[
+  {
+    "nanoid": "lhiyLXIE988NVH",
+    "name": "Anow Radio Tamil",
+    "stream_urls": [
+      "https://onair.punnagairadio.com/anowradiohd/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "JsUUEXLzQuNBzw",
+    "name": "Bestcoast FM",
+    "stream_urls": [
+      "https://streams.radio.co/sea5dddd6b/listen"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nqBvVyI1HDP5Or",
+    "name": "Classic Radio",
+    "stream_urls": [
+      "https://cp11.serverse.com/proxy/classic/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "cpGWGR07Raylf5",
+    "name": "Free FM",
+    "stream_urls": [
+      "https://stream-49.zeno.fm/1tcs4fbw7rquv"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "zd4GHwLcUdTPb3",
+    "name": "Gold FM",
+    "stream_urls": [
+      "https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4fCx9ywo2gJBLS",
+    "name": "Golden Maple Radio",
+    "stream_urls": [
+      "https://s46.myradiostream.com:11156/listen.mp3"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "eFPKUWYInRfmwZ",
+    "name": "Hiru FM",
+    "stream_urls": [
+      "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden",
+      "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "kb6gNtjbQmsZdb",
+    "name": "Kothmale FM",
+    "stream_urls": [
+      "https://s11.myradiostream.com:25116/listen.mp3"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "9STaYBvaNwUAeX",
+    "name": "Life 87.8",
+    "stream_urls": [
+      "https://srv02.onlineradio.voaplus.com/lite878"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YWOEJOQoTJhmyS",
+    "name": "Lite 87.8",
+    "stream_urls": [
+      "https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7I3nZEtkDE2dmq",
+    "name": "Lord Radio",
+    "stream_urls": [
+      "https://lordsradio.radioca.st/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "snMPhSFOYoVNyN",
+    "name": "Neth FM",
+    "stream_urls": [
+      "https://cp11.serverse.com/proxy/nethfm/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "xK2x1XHThV6MIJ",
+    "name": "Punnagai Radio",
+    "stream_urls": [
+      "https://onair.punnagairadio.com/8146/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "1IyHpEmvsKd3eq",
+    "name": "Radio Plus",
+    "stream_urls": [
+      "https://altair.streamerr.co/stream/8036"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "oKvSiKx8D67zE5",
+    "name": "Radio Plus Hitz",
+    "stream_urls": [
+      "https://altair.streamerr.co/stream/8054"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "Q4QMRw3Uo9lOC4",
+    "name": "Rangiri Radio",
+    "stream_urls": [
+      "https://rangiri.radioca.st/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "j6kW1RSi2qX9Mm",
+    "name": "Real Radio 97.1",
+    "stream_urls": [
+      "https://srv02.onlineradio.voaplus.com/realfm"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ikktOdYS7Y2w0s",
+    "name": "Sitha FM",
+    "stream_urls": [
+      "https://shaincast.caster.fm:48148/listen.mp3"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "yhdhWrEg2l5QMT",
+    "name": "Siyatha FM",
+    "stream_urls": [
+      "https://srv01.onlineradio.voaplus.com/siyathafm"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "BhTxvlnqEaz79g",
+    "name": "Sky Radio",
+    "stream_urls": [
+      "https://cp11.serverse.com/proxy/skyradio/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LRs2glVUso7M2f",
+    "name": "Star FM",
+    "stream_urls": [
+      "https://stream.starfm.lk:12025/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "Me6AL8AdzhPmcU",
+    "name": "Sun FM",
+    "stream_urls": [
+      "https://radio.lotustechnologieslk.net:2020/stream/sunfmgarden"
+    ],
+    "country": "lk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SX7xtKpDgeRjN2",
+    "name": "Tamil Eelam Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/c6mgmtfg8e9uv"
+    ],
+    "country": "lk",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "SqG3ikUfaIFsLg",
+    "name": "Tamil National Service",
+    "stream_urls": [
+      "https://stream-32.zeno.fm/xekhrn4zetzuv"
+    ],
+    "country": "lk",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "zqw4aPUqjED9oT",
+    "name": "Wellon Radio Cafe",
+    "stream_urls": [
+      "https://wellonradio.out.airtime.pro/wellonradio_a"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "mXffSdykF5h5oh",
+    "name": "WoW Radio",
+    "stream_urls": [
+      "https://cp11.serverse.com/proxy/wowradio/stream"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin"
+    ]
+  },
+  {
+    "nanoid": "hxbp3gRBsoXZwL",
+    "name": "Y FM",
+    "stream_urls": [
+      "https://mbc.thestreamtech.com:7032/index.html",
+      "https://mbc.thestreamtech.com:7032/"
+    ],
+    "country": "lk",
+    "languages": [
+      "sin",
+      "eng"
+    ]
+  }
+]

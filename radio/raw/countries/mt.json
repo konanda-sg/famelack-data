@@ -1,0 +1,71 @@
+[
+  {
+    "nanoid": "gjUOBwm5TsSoC8",
+    "name": "89.7 Bay",
+    "stream_urls": [
+      "https://stream.v3.network/proxy/897bay/stream.mp3"
+    ],
+    "country": "mt",
+    "languages": [
+      "eng",
+      "mlt"
+    ]
+  },
+  {
+    "nanoid": "Uulir83qNAhBtt",
+    "name": "Bay Easy",
+    "stream_urls": [
+      "https://stream.v3.network/proxy/easy/stream.mp3"
+    ],
+    "country": "mt",
+    "languages": [
+      "eng",
+      "mlt"
+    ]
+  },
+  {
+    "nanoid": "X4lrCBSSwCq0tJ",
+    "name": "Calypso Radio",
+    "stream_urls": [
+      "https://s4.radio.co/sf3aa4c25a/listen"
+    ],
+    "country": "mt",
+    "languages": [
+      "mlt"
+    ]
+  },
+  {
+    "nanoid": "AOxNyfCOleCKgn",
+    "name": "Campus 103.7",
+    "stream_urls": [
+      "https://campusfm.radioca.st/campusfm_live"
+    ],
+    "country": "mt",
+    "languages": [
+      "eng",
+      "mlt"
+    ]
+  },
+  {
+    "nanoid": "JNsEMMPNZrotZi",
+    "name": "Magic Malta",
+    "stream_urls": [
+      "https://s46.myradiostream.com:6076/stream"
+    ],
+    "country": "mt",
+    "languages": [
+      "mlt"
+    ]
+  },
+  {
+    "nanoid": "5x2rsv4eyWBuyT",
+    "name": "Maltin Biss",
+    "stream_urls": [
+      "https://s4.voscast.com:8837/default"
+    ],
+    "country": "mt",
+    "languages": [
+      "mlt"
+    ]
+  }
+]

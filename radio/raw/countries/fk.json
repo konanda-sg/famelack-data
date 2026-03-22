@@ -1,0 +1,36 @@
+[
+  {
+    "nanoid": "tpzmaqrcdzgMkq",
+    "name": "BFBS Falkland Islands",
+    "stream_urls": [
+      "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.aac"
+    ],
+    "country": "fk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WyyIceDLfzzEZs",
+    "name": "BFBS Falklands",
+    "stream_urls": [
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac"
+    ],
+    "country": "fk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MYKaDCM9Msl0Yc",
+    "name": "Falklands Radio",
+    "stream_urls": [
+      "https://streaming.broadcastradio.com:8330/flklnd",
+      "https://streaming.broadcastradio.com:8332/flklnd"
+    ],
+    "country": "fk",
+    "languages": [
+      "eng"
+    ]
+  }
+]

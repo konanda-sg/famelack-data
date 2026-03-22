@@ -1,0 +1,46 @@
+[
+  {
+    "nanoid": "yK1hJZhTyY2YF5",
+    "name": "K100",
+    "stream_urls": [
+      "https://ice-11.spilarinn.is/kaninnmobile"
+    ],
+    "country": "is",
+    "languages": [
+      "isl"
+    ]
+  },
+  {
+    "nanoid": "KcoEkoyFf4rhg5",
+    "name": "Retro 89.5",
+    "stream_urls": [
+      "https://ice-11.spilarinn.is/retromobile"
+    ],
+    "country": "is",
+    "languages": [
+      "isl"
+    ]
+  },
+  {
+    "nanoid": "QIVuDfESjkKYGY",
+    "name": "Suðurland FM",
+    "stream_urls": [
+      "https://ice-11.spilarinn.is/xsudurlandfm"
+    ],
+    "country": "is",
+    "languages": [
+      "isl"
+    ]
+  },
+  {
+    "nanoid": "u7fVaqg7PH5IHU",
+    "name": "Útvarp Saga",
+    "stream_urls": [
+      "https://stream.utvarpsaga.is/Hljodver"
+    ],
+    "country": "is",
+    "languages": [
+      "isl"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "nanoid": "QTQf8hezyIVKI7",
+    "name": "CBS Music FM",
+    "stream_urls": [
+      "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "T7fPsDg3i6ZSxN",
+    "name": "Fred Film Radio",
+    "stream_urls": [
+      "https://s10.webradio-hosting.com/proxy/fredradiokr/stream"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "zHrJQJWQVZoudE",
+    "name": "K-RADIO AM 1660",
+    "stream_urls": [
+      "https://s5.radio.co/s0a9796fe3/listen"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "B6Z4Ae5w2gMnYk",
+    "name": "Replay News",
+    "stream_urls": [
+      "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  }
+]

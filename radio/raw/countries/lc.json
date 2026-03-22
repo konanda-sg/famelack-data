@@ -1,0 +1,79 @@
+[
+  {
+    "nanoid": "halelP7kDVMnSF",
+    "name": "Blazin 99.3",
+    "stream_urls": [
+      "https://streams.radio.co/s5f11a7ef9/listen"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "T3jwn7fPNfCub7",
+    "name": "Caribbean Hot FM",
+    "stream_urls": [
+      "https://auds2.intacs.com/caribbeanhotfm"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "T2yXSwbY9VqV7H",
+    "name": "Caribbean Kiss FM",
+    "stream_urls": [
+      "https://auds2.intacs.com/caribbeankissfm"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "auKbV00e7id5ZQ",
+    "name": "Fire FM",
+    "stream_urls": [
+      "https://tinyurl.com/firefm758"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BL0L9258qKDNlx",
+    "name": "Power 97.9",
+    "stream_urls": [
+      "https://usa10.fastcast4u.com/power979fm"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NHbNlHi8DEdIOJ",
+    "name": "Rev-Up SLU",
+    "stream_urls": [
+      "https://caribspy.com/proxy/revupslu/stream"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TdSIMry8olGyuM",
+    "name": "The Wave 94.5 & 93.7",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/THEWAVE"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  }
+]

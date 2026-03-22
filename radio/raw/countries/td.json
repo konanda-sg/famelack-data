@@ -1,0 +1,14 @@
+[
+  {
+    "nanoid": "SWK619dvAc1Z36",
+    "name": "Radio Tchad",
+    "stream_urls": [
+      "https://strhls.streamakaci.tv/str_tchad_radio/str_tchad_radio/icecast.audio"
+    ],
+    "country": "td",
+    "languages": [
+      "fra",
+      "ara"
+    ]
+  }
+]

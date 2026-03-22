@@ -1,0 +1,136 @@
+[
+  {
+    "nanoid": "8OIVQ9ujR9FmiN",
+    "name": "Joliba FM",
+    "stream_urls": [
+      "https://stream-171.zeno.fm/17zg1bv4ququv"
+    ],
+    "country": "ml",
+    "languages": [
+      "fra",
+      "mal"
+    ]
+  },
+  {
+    "nanoid": "bmtmvf5gslJmxG",
+    "name": "Kalux FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/kgadkjdbexqtv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "17ng2lsAunqdUw",
+    "name": "Noura FM",
+    "stream_urls": [
+      "https://stream-151.zeno.fm/60x209af8e9uv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "LYHPzyl0uv8ZUK",
+    "name": "Radio Bougouni Kunkan",
+    "stream_urls": [
+      "https://stream.zeno.fm/x3gb8t9nzk0uv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "IeXZbS5ZsmGVwb",
+    "name": "Radio Kassara Barikama",
+    "stream_urls": [
+      "https://stream.zeno.fm/0ef19uaxh4duv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "GsGdgWGn9f53LT",
+    "name": "Radio Malijet",
+    "stream_urls": [
+      "https://stream.zeno.fm/f38bxpt3v2quv",
+      "https://stream-157.zeno.fm/yerp85sughwtv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra",
+      "mal"
+    ]
+  },
+  {
+    "nanoid": "3doQ73fhqxVNZU",
+    "name": "Radio Miracle",
+    "stream_urls": [
+      "https://stream.zeno.fm/hpi2qbj1hh8vv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "QmDaxMGIqikZqQ",
+    "name": "Radio Neneba",
+    "stream_urls": [
+      "https://stream.zeno.fm/e9xqg1ah22quv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "rtlbR42li5LMug",
+    "name": "Radio Tissa la Voix du Mamelon",
+    "stream_urls": [
+      "https://stream.zeno.fm/s8ng63k4tchvv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "B2VRFEqMrtoZeF",
+    "name": "Radio Woyowayanko",
+    "stream_urls": [
+      "https://stream.zeno.fm/1mr8wdywz68uv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "rxEMa4Hv9MzsW1",
+    "name": "Radio Yélé Sagabali",
+    "stream_urls": [
+      "https://stream.zeno.fm/au9gskurq0hvv"
+    ],
+    "country": "ml",
+    "languages": [
+      "bam",
+      "fra"
+    ]
+  }
+]

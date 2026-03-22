@@ -1,0 +1,431 @@
+[
+  {
+    "nanoid": "m1EtMCAn3hBiI5",
+    "name": "Chillax FM",
+    "stream_urls": [
+      "https://streams.chillaxfm.lv/chillaxfm"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "Kib3UGiDMyEpPg",
+    "name": "EHR Darbam",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_23.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "ynOMgJ138tlNvS",
+    "name": "EHR Festivālu Hiti",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_73.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "xU25bBKxKPbd63",
+    "name": "EHR Fresh",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_25.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "tXvOfNd0lZNndG",
+    "name": "EHR Ice Ice Party",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_67.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "zNkfWna5exvbOV",
+    "name": "EHR iDeal Music",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_78.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "YVHSa1IcD1Qr3G",
+    "name": "EHR Party Service",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_12.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "lvkGOHE4lRg2fV",
+    "name": "EHR Remixes",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_32.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "xtwwOP1UNFDwzX",
+    "name": "EHR Rise & Shine",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_36.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "k5RlfF6mxbg54o",
+    "name": "EHR SuperHits",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_21.aac"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "moOx427tRUAi4E",
+    "name": "EHR Русские Хиты",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/khr.aac"
+    ],
+    "country": "lv",
+    "languages": [
+      "rus",
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "UBc6TtGb0R38xE",
+    "name": "European Hit Radio (EHR)",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/ehr.aac"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "RjmaS9XJC5kVpR",
+    "name": "European Hit Radio Latviešu Hiti",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_22.aac"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "SOcNeFk4kGjAT9",
+    "name": "Gradio.lv One",
+    "stream_urls": [
+      "https://stream.gradio.lv/gradio-one.mp4a"
+    ],
+    "country": "lv",
+    "languages": [
+      "eng",
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "O875K81q2DG98v",
+    "name": "Latvijas Kristīgais Radio",
+    "stream_urls": [
+      "https://radio.lkr.lv/;"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "pFV4yHTNiQhihA",
+    "name": "LRadio Baltija",
+    "stream_urls": [
+      "https://radio2.lradiostation.com/live"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "hQKGVKbGAGSQOS",
+    "name": "LRMA Rock Radio",
+    "stream_urls": [
+      "https://c22.radioboss.fm:18318/stream"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "0tDMCHHQpXJD4m",
+    "name": "New Dance Radio",
+    "stream_urls": [
+      "https://stream.newdanceradio.ru/"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "8gCQnm3RyyFTfb",
+    "name": "Njoy Radio",
+    "stream_urls": [
+      "https://live.njoyradio.lv/02"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "jWwcwo9GGAq7RS",
+    "name": "Nordic Chillout Radio",
+    "stream_urls": [
+      "https://play.radioking.io/nordic-chillout-radio/736489"
+    ],
+    "country": "lv",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iQltYc36P5yTiS",
+    "name": "Radio 7",
+    "stream_urls": [
+      "https://listen.radio7.lv:2053/Radio7"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "NpyABqZcz0veVH",
+    "name": "Radio Melodija",
+    "stream_urls": [
+      "https://live.relaxfm.lv/08"
+    ],
+    "country": "lv",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "BowiJMWCY73UQG",
+    "name": "Radio Mix FM",
+    "stream_urls": [
+      "https://live.relaxfm.lv/07"
+    ],
+    "country": "lv",
+    "languages": [
+      "rus",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MdbzeQw0FTwx7v",
+    "name": "Radio Roks",
+    "stream_urls": [
+      "https://live.relaxfm.lv/06"
+    ],
+    "country": "lv",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "PujzJMUZYMn7QY",
+    "name": "Radio Skonto",
+    "stream_urls": [
+      "https://stream.radioskonto.lv:8443/stereo"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "nAjDWJzesb5GS8",
+    "name": "Radio Skonto Plus",
+    "stream_urls": [
+      "https://stream.radioskontoplus.lv:8443/st128"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "3NxRTavVGgUiJr",
+    "name": "Radio SWH LV",
+    "stream_urls": [
+      "https://live.radioswh.lv:8443/swh_lv"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "AumgdSyLYUiT74",
+    "name": "Radio SWH+",
+    "stream_urls": [
+      "https://live.radioswh.lv:8443/plusmp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "dBpWfZo2ZMiMfl",
+    "name": "Relax FM",
+    "stream_urls": [
+      "https://live.relaxfm.lv/02"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "rYd7aNAPpnyFAA",
+    "name": "Retro FM",
+    "stream_urls": [
+      "https://live.retrofm.lv/retrofmlatvia"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "fNs2VyTYd6wmbL",
+    "name": "Retro FM Latvija",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_RE.aac"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "B1rGFfZLEPQYNe",
+    "name": "Star FM",
+    "stream_urls": [
+      "https://starfm.live.advailo.com/audio/mp3/icecast.audio",
+      "https://live.advailo.com/audio/mp3/icecast.audio"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "6T6WMYenUDY2b8",
+    "name": "SuperHits Gold",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_64.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "Edjk3uMMWa23oT",
+    "name": "TOP Radio",
+    "stream_urls": [
+      "https://topradio.live.advailo.com/topradio/mp3/icecast.audio"
+    ],
+    "country": "lv",
+    "languages": [
+      "eng",
+      "lav",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "I7MLphHEwgCgWu",
+    "name": "Tīrkultūra",
+    "stream_urls": [
+      "https://s3.radio.co/s216811754/listen"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "vIGrGfidiiJ9ya",
+    "name": "XO FM",
+    "stream_urls": [
+      "https://live.xo.fm/xofm128"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "ZLHojOWFKrHPjq",
+    "name": "Your City Radio",
+    "stream_urls": [
+      "https://c28.radioboss.fm:18234/stream",
+      "https://c34.radioboss.fm:8234/stream"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "SMmgqjhUkS0Nj8",
+    "name": "Авторадио (Avtoradio)",
+    "stream_urls": [
+      "https://live.relaxfm.lv/03"
+    ],
+    "country": "lv",
+    "languages": [
+      "rus",
+      "lav"
+    ]
+  }
+]

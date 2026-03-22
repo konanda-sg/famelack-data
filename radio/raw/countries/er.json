@@ -1,0 +1,14 @@
+[
+  {
+    "nanoid": "FW2Sn4x9FPlpbn",
+    "name": "Eritrean/Ethiopian Music",
+    "stream_urls": [
+      "https://linuxfreelancer.com:8443/test.mp3"
+    ],
+    "country": "er",
+    "languages": [
+      "amh",
+      "tir"
+    ]
+  }
+]

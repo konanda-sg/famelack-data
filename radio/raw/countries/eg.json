@@ -1,0 +1,297 @@
+[
+  {
+    "nanoid": "fdCJ7xOxpz3KX6",
+    "name": "Abdulrasheed Soufi Radio",
+    "stream_urls": [
+      "https://qurango.net/radio/abdulrasheed_soufi_assosi.mp3"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "6xlMuPl6yISLLi",
+    "name": "Amr Diab Radio",
+    "stream_urls": [
+      "https://stream-40.zeno.fm/xa4yhh4k838uv",
+      "https://stream-36.zeno.fm/rf64mx02qa0uv",
+      "https://stream-34.zeno.fm/rf64mx02qa0uv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "IXPC8M2YinYzkB",
+    "name": "Arab Mix 256",
+    "stream_urls": [
+      "https://stream.zeno.fm/wvqgc9kb1d0uv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "jzzWjeCEk5co31",
+    "name": "Arab Mix Drama",
+    "stream_urls": [
+      "https://stream.zeno.fm/egynebf171zuv.acc"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Rp6suUSEPo8Xo2",
+    "name": "Arab Mix FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/na3vpvn10qruv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "qjhniEgAjN8ecF",
+    "name": "Beautiful Recitation Radio",
+    "stream_urls": [
+      "https://qurango.net/radio/salma"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "tbXwbanAuXuILu",
+    "name": "El Radio 9090",
+    "stream_urls": [
+      "https://9090video.mobtada.com/hls/0/stream.m3u8",
+      "https://9090streaming.mobtada.com/9090FMEGYPT"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Hgm48Hxbdhwl5t",
+    "name": "Elissa Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/v7n499m8ckhvv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "sbAIU5d4fJIWOw",
+    "name": "IVIeshal",
+    "stream_urls": [
+      "https://stream.zeno.fm/smdswgy1rbmtv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "TPMl85yBfHdpja",
+    "name": "Mahmoud Khalil Al-Hussary Radio",
+    "stream_urls": [
+      "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "fsp0S0KJ74o0CG",
+    "name": "Marwan Pablo Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/frvxg7wgeq8uv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ZJ6qHYdAg9ODI0",
+    "name": "Mishary Alafasy Radio",
+    "stream_urls": [
+      "https://qurango.net/radio/mishary_alafasi"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "3H3D3bgnFnaC5c",
+    "name": "Mix FM 87.8",
+    "stream_urls": [
+      "https://stream-29.zeno.fm/na3vpvn10qruv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "gyrG4GwSKdlCNL",
+    "name": "Mustafa Ismail Radio",
+    "stream_urls": [
+      "https://qurango.net/radio/mustafa_ismail"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "CpoNi9rPB3GbP4",
+    "name": "Nagham FM",
+    "stream_urls": [
+      "https://ahmsamir.radioca.st/stream"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ewGwhnqK8WW7jh",
+    "name": "Nile FM 104.2",
+    "stream_urls": [
+      "https://audio.nrpstream.com/listen/nile_fm/radio.mp3"
+    ],
+    "country": "eg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "b2wJFUff5YOU6o",
+    "name": "Nogoum FM",
+    "stream_urls": [
+      "https://stream-159.zeno.fm/qb1zvsykm98uv",
+      "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "yCkiqjgGUwtVgW",
+    "name": "NRJ Egypt",
+    "stream_urls": [
+      "https://nrjstreaming.ahmed-melege.com/nrjegypt"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9bn1nleX7VnZUi",
+    "name": "On Sport FM",
+    "stream_urls": [
+      "https://carina.streamerr.co:2020/stream/OnSportFM"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "yxu6juqos6HD2i",
+    "name": "Quran Tarateel",
+    "stream_urls": [
+      "https://qurango.net/radio/tarateel"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ryuYlMnf2ULPop",
+    "name": "Radio Hits 88.2",
+    "stream_urls": [
+      "https://radiohits882.radioca.st/;"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "29ythlyp39Z5df",
+    "name": "Radio Quran Cairo",
+    "stream_urls": [
+      "https://stream.radiojar.com/8s5u5tpdtwzuv",
+      "https://n12.radiojar.com/8s5u5tpdtwzuv",
+      "https://n0c.radiojar.com/8s5u5tpdtwzuv",
+      "https://n0e.radiojar.com/8s5u5tpdtwzuv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "nYHew1gVEKwpAS",
+    "name": "S_O_L_L_Y",
+    "stream_urls": [
+      "https://stream.zeno.fm/juwfhuodjgmuv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "h9oStWKsXK5AJ1",
+    "name": "Sha3by FM",
+    "stream_urls": [
+      "https://radio95.radioca.st/;"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "LrWSuMtPyhiWRr",
+    "name": "X_X",
+    "stream_urls": [
+      "https://stream.zeno.fm/n63xpx3o8imuv"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "yarybNHhxDKJXj",
+    "name": "Yasser Al-Dosari Radio",
+    "stream_urls": [
+      "https://qurango.net/radio/yasser_aldosari"
+    ],
+    "country": "eg",
+    "languages": [
+      "ara"
+    ]
+  }
+]

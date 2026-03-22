@@ -1,0 +1,37 @@
+[
+  {
+    "nanoid": "Xs3GI6E4TeLwyk",
+    "name": "Basma Radio",
+    "stream_urls": [
+      "https://mars.streamerr.co/8342/stream"
+    ],
+    "country": "ps",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Fzf2fcKppRKBN8",
+    "name": "CAMP Radio",
+    "stream_urls": [
+      "https://listen.camp:9000/campradio.ogg"
+    ],
+    "country": "ps",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ChNQgQEhbHOp9Q",
+    "name": "Radio Alhara",
+    "stream_urls": [
+      "https://n08.radiojar.com/78cxy6wkxtzuv",
+      "https://n02.radiojar.com/78cxy6wkxtzuv"
+    ],
+    "country": "ps",
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  }
+]

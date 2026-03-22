@@ -1,0 +1,24 @@
+[
+  {
+    "nanoid": "xtNbYb40QVl8tH",
+    "name": "Island FM",
+    "stream_urls": [
+      "https://n19a-eu.rcs.revma.com/epatpyebanzuv"
+    ],
+    "country": "gg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "a3rNwqTM92nQbv",
+    "name": "Riduna Radio",
+    "stream_urls": [
+      "https://stream.radio.co/sa70b464db/listen"
+    ],
+    "country": "gg",
+    "languages": [
+      "eng"
+    ]
+  }
+]

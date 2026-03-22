@@ -1,0 +1,69 @@
+[
+  {
+    "nanoid": "cNZQuwASU2Q5pR",
+    "name": "MPB Radio Suriname",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radiosuriname"
+    ],
+    "country": "sr",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "cMemumBmTeA69M",
+    "name": "Radio 10 Magic FM",
+    "stream_urls": [
+      "https://s5.radio.co/s85a633f73/listen"
+    ],
+    "country": "sr",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "CYA5i8U78EZ2W6",
+    "name": "Radio Apintie",
+    "stream_urls": [
+      "https://surilive.com:8000/str"
+    ],
+    "country": "sr",
+    "languages": [
+      "srp",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "nwGmCxmZMH1YWN",
+    "name": "Radio Ishara",
+    "stream_urls": [
+      "https://a8.asurahosting.com:7030/radio.mp3"
+    ],
+    "country": "sr",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "faeUetPTbiVhCA",
+    "name": "Radio Sangeetmala",
+    "stream_urls": [
+      "https://rs.suricloud.com/radio/8030/radio.mp3"
+    ],
+    "country": "sr",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "DgTPXwgJKz5RFj",
+    "name": "Radio Shruti",
+    "stream_urls": [
+      "https://rs.suricloud.com/radio/8000/radio.mp3"
+    ],
+    "country": "sr",
+    "languages": [
+      "hin"
+    ]
+  }
+]

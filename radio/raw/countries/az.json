@@ -1,0 +1,200 @@
+[
+  {
+    "nanoid": "GcOwMXChSVWBKF",
+    "name": "Anti Radio",
+    "stream_urls": [
+      "https://stream.antiradio.net/listen/anti_radio/mp3",
+      "https://stream.antiradio.net/radio/8000/mp3"
+    ],
+    "country": "az",
+    "languages": [
+      "aze",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eq34GdxYvaNMcu",
+    "name": "Araz FM 103.3",
+    "stream_urls": [
+      "https://s39.myradiostream.com:5458/listen.mp3",
+      "https://s39.myradiostream.com/5458/listen.mp3",
+      "https://s14.myradiostream.com/30454/listen.mp3"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "vqjoqVM4gGAPgQ",
+    "name": "ASAN Radio",
+    "stream_urls": [
+      "https://play.asanradio.az/"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "vliqHfemWz5UZb",
+    "name": "AutoLife Radio",
+    "stream_urls": [
+      "https://radio.autoliferadio.com:8090/radio",
+      "https://radio.autoliferadio.com:8005/radio"
+    ],
+    "country": "az",
+    "languages": [
+      "aze",
+      "eng",
+      "rus",
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "zRUwWeh2jFs3T7",
+    "name": "Azad 106.3 FM",
+    "stream_urls": [
+      "https://audiostr.atv.az/106.3fm"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "WJbm72HqYAoGEp",
+    "name": "Caspian Radio BOSS",
+    "stream_urls": [
+      "https://myradio24.org/bosscomaz"
+    ],
+    "country": "az",
+    "languages": [
+      "aze",
+      "eng",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "Ou3tHSK1hBB4eW",
+    "name": "Dalğa FM 92.5",
+    "stream_urls": [
+      "https://live.dinle.az/dalgafm"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "Nmn7osH383EKlw",
+    "name": "Enerji FM 101.1",
+    "stream_urls": [
+      "https://icecast.livetv.az/antennfm"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "NDLFJMqBCIKoee",
+    "name": "Media FM 105.5",
+    "stream_urls": [
+      "https://icecast.livetv.az/mediafm"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "ODwTA8rKAAuAri",
+    "name": "Naxçıvan Radiosu 104.1 FM",
+    "stream_urls": [
+      "https://s33.myradiostream.com:12782/listen.mp3"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "MMAWQ85MonaS7u",
+    "name": "Naz Radio",
+    "stream_urls": [
+      "https://s2.myradiostream.com/5286/listen.mp3"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "EPJPEi8feDrYEA",
+    "name": "Planet FM 88.7",
+    "stream_urls": [
+      "https://live.dinle.az/planetfm"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "sJNnPnfrGpnCIK",
+    "name": "Radio TMB 100.5",
+    "stream_urls": [
+      "https://s39.myradiostream.com/:5458/listen.mp3"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "qfXsRyCAR9VreT",
+    "name": "Sağlam Radio",
+    "stream_urls": [
+      "https://s24.myradiostream.com/:17446/listen.mp3"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "CVDcAKuUYTFJIz",
+    "name": "Xəzər FM 103.0",
+    "stream_urls": [
+      "https://s40.myradiostream.com/:22546/listen.mp3"
+    ],
+    "country": "az",
+    "languages": [
+      "aze",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "TefLKMhbYL6Qxw",
+    "name": "Yalnız FM",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/103396/stream/142219"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
+    "nanoid": "w7ecBb9tsPFP9L",
+    "name": "Yurd FM 90.7",
+    "stream_urls": [
+      "https://icecast.livetv.az/yurdfm"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  }
+]

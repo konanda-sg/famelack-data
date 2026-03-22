@@ -1,0 +1,35 @@
+[
+  {
+    "nanoid": "J6JRjdzh7tzAiL",
+    "name": "Beach Bar Radio",
+    "stream_urls": [
+      "https://streaming.radio.co/s23d2a636c/listen"
+    ],
+    "country": "vi",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dN80BA3ynoEyrZ",
+    "name": "DaVybe 107.9 FM",
+    "stream_urls": [
+      "https://ice3.securenetsystems.net/WLDV"
+    ],
+    "country": "vi",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "77C2BAZgctFC2s",
+    "name": "WTJX-FM",
+    "stream_urls": [
+      "https://quarrel.streamguys1.com:7405/wtjxfm"
+    ],
+    "country": "vi",
+    "languages": [
+      "eng"
+    ]
+  }
+]

@@ -1,0 +1,1717 @@
+[
+  {
+    "nanoid": "qkjggDqRWhDpw3",
+    "name": "CJ Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/xvnzmkxzfrhtv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9pJKQYqycLBZO5",
+    "name": "Electro Radio Live",
+    "stream_urls": [
+      "https://stream-142.zeno.fm/93kksqvkeg8uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oZZQ1LezIBamMN",
+    "name": "Faceit FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/c6ufpty9w1ctv"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8pAcEiA05Qn8YT",
+    "name": "JVM La Estación",
+    "stream_urls": [
+      "https://jvmlaestacion.stream.laut.fm/jvmlaestacion"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JyOF6cHMibXjJn",
+    "name": "La Salsa Maestra",
+    "stream_urls": [
+      "https://stream.zeno.fm/c1skkw28pfeuv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "T6dLw1sKzawHGG",
+    "name": "Level Hits Radio",
+    "stream_urls": [
+      "https://radio.pjcks.com/7234/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zFehdbnunVePzV",
+    "name": "Mambo Inn Radio",
+    "stream_urls": [
+      "https://radio.perustream.com:7000/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oHg7dDewWA5ehQ",
+    "name": "Max Radio Station",
+    "stream_urls": [
+      "https://stream.zeno.fm/m2wa8jwb9yivv",
+      "https://stream-153.zeno.fm/m2wa8jwb9yivv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qDIMBsUztb3Roe",
+    "name": "Mega Star Peru",
+    "stream_urls": [
+      "https://stream.zeno.fm/m0gb9v7aqs8uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "XRTZyrVBR22d4a",
+    "name": "MGR Radio",
+    "stream_urls": [
+      "https://stream-154.zeno.fm/fdhacwakavkuv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bo9duZsz1xrEws",
+    "name": "MI Radio",
+    "stream_urls": [
+      "https://stream-170.zeno.fm/g9afqk829ibtv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6F7hfkROY0UxwA",
+    "name": "Onda Digital Radio",
+    "stream_urls": [
+      "https://conectperu.com/8354/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "AsKnFVjEaMFq5W",
+    "name": "Pachamama Radio",
+    "stream_urls": [
+      "https://servidor14-2.brlogic.com:8744/live"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "0Hhr8G38h9qVpw",
+    "name": "Panamericana Latino Refrescante",
+    "stream_urls": [
+      "https://mdstrm.com/audio/6598b76c6c07d80644b7321f/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "XWYv6JbsmOaMNr",
+    "name": "Panamericana Retro Rock",
+    "stream_urls": [
+      "https://mdstrm.com/audio/6598b728d982060896866b8a/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8s4Had506EGt08",
+    "name": "Panamericana Salsa Power",
+    "stream_urls": [
+      "https://mdstrm.com/audio/6598b751261d9e088a6deadd/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bbz0V0UtPjzzMk",
+    "name": "PBO Radio",
+    "stream_urls": [
+      "https://n06.radiojar.com/2fse67zuv8hvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wNj1cujGxlMT5b",
+    "name": "Peru Cumbia Radio",
+    "stream_urls": [
+      "https://servistream.info:8330/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GNz4Opz0uRpeSh",
+    "name": "Peruana Radio",
+    "stream_urls": [
+      "https://cloudstream2036.conectarhosting.com/8352/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KfZ6JTqZdIWy2q",
+    "name": "Perú Folk Radio",
+    "stream_urls": [
+      "https://raymistream.net/listen/perufolkradio/live"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "lliXH5BW2JKFgJ",
+    "name": "Radio 100",
+    "stream_urls": [
+      "https://cast6.asurahosting.com/proxy/xezar/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Q2kXqVgh8KNpfO",
+    "name": "Radio 1160",
+    "stream_urls": [
+      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2v3zUGNQLpNySk",
+    "name": "Radio 1550",
+    "stream_urls": [
+      "https://streaming.virtugo.digital:8002/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5RnwNd6gbYn1hk",
+    "name": "Radio 200 Bicentenario",
+    "stream_urls": [
+      "https://stream.zeno.fm/wgs6m5ewe48uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vHjCGmJ98tcLgG",
+    "name": "Radio A",
+    "stream_urls": [
+      "https://stream.zeno.fm/qxsaiqu7pn4tv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cn0iuYmBIicznu",
+    "name": "Radio Alegría",
+    "stream_urls": [
+      "https://radio.sistemasandinos.org:10974/;stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "QolqBH5ST168uf",
+    "name": "Radio Amo la Música",
+    "stream_urls": [
+      "https://stream.zeno.fm/aqmct15qmchvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xAKY5Hqd9ECgtX",
+    "name": "Radio Amor por Cable",
+    "stream_urls": [
+      "https://conectperu.com:7111/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JW4DpnOoyfqOrR",
+    "name": "Radio Antena 5",
+    "stream_urls": [
+      "https://stream.zeno.fm/pkvdsllgubgtv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "sDgEYYIE4TQJ7I",
+    "name": "Radio Antena Sur",
+    "stream_urls": [
+      "https://stream.zeno.fm/tu63bf6g31zuv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RHU319JFMSvJhz",
+    "name": "Radio Armonía",
+    "stream_urls": [
+      "https://radio.sistemasandinos.org:10978/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KyNac3e5IEUI98",
+    "name": "Radio Astoria",
+    "stream_urls": [
+      "https://conectperu.com:7112/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HBWgJ046PQv0rs",
+    "name": "Radio Azul",
+    "stream_urls": [
+      "https://dattavolt.com/8212/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UF79xvOnGRRFnL",
+    "name": "Radio Baladitas",
+    "stream_urls": [
+      "https://stream.zeno.fm/hf2gsfm1mp8uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "g7GHtsWgYqSESM",
+    "name": "Radio Bambamarca",
+    "stream_urls": [
+      "https://envivo.top:8443/lider"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "t7sfJ3GTxlpMaB",
+    "name": "Radio Boleros Inolvidables",
+    "stream_urls": [
+      "https://stream.zeno.fm/5t45zksv7mruv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JM4V5luvsIDyAO",
+    "name": "Radio CaDis",
+    "stream_urls": [
+      "https://stream.zeno.fm/a440accyxqzuv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "NFUqnPkCEZHCHS",
+    "name": "Radio Caramelo",
+    "stream_urls": [
+      "https://panelautodj.innovatestream.pe:10857/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "peJj27Xzocrbo8",
+    "name": "Radio Chalaca",
+    "stream_urls": [
+      "https://conectperu.com:7041/stream",
+      "https://conectperu.com/8084/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7zvcirZYDMMD37",
+    "name": "Radio Chocolate",
+    "stream_urls": [
+      "https://stream.zeno.fm/g2w7ukzh64zuv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "g6VOP3DRMl6Yd7",
+    "name": "Radio Clásica",
+    "stream_urls": [
+      "https://sonicpanel.globalstream.pro/8042/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nDZaKvcuvZTgtU",
+    "name": "Radio Congreso",
+    "stream_urls": [
+      "https://vivo.miradio.in/8048/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MgpqxwEUn2fQmA",
+    "name": "Radio Coral",
+    "stream_urls": [
+      "https://maximacenterdata.com/8052/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ShlOe2H54ADlZv",
+    "name": "Radio Corazón",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "feqp5DkO8ieqb2",
+    "name": "Radio Cumbia Mix",
+    "stream_urls": [
+      "https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oEDr7cZzQ6SZ26",
+    "name": "Radio Cumbre",
+    "stream_urls": [
+      "https://stream.zeno.fm/t8b5cmybtd0uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Jk64ZOHRkUcwdS",
+    "name": "Radio del Amor",
+    "stream_urls": [
+      "https://stream.zeno.fm/z7re4u64gd0uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xN4K3K4lC6hjHQ",
+    "name": "Radio Del Progreso",
+    "stream_urls": [
+      "https://conectperu.com:7036/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zed0WFnYT44Oxb",
+    "name": "Radio Diamante",
+    "stream_urls": [
+      "https://stream.zeno.fm/8s6b3v091k8uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Urtgc3JA5sNmjJ",
+    "name": "Radio Doble Nueve",
+    "stream_urls": [
+      "https://conectperu.com:7000/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KjhKf5ndjMIvT0",
+    "name": "Radio Doble Nueve Classic",
+    "stream_urls": [
+      "https://conectperu.com:7003/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Bw5g0XABdeTeHl",
+    "name": "Radio Doble Nueve Heritage",
+    "stream_urls": [
+      "https://conectperu.com:7002/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6MRHR2WrNZISC6",
+    "name": "Radio El Sembrador 590 AM",
+    "stream_urls": [
+      "https://panel.streamenviron.com:8158/stream.mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SMN6wARadXmQI1",
+    "name": "Radio Enamorados",
+    "stream_urls": [
+      "https://stream.zeno.fm/b594gnc1fnruv.aac"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZoTWfprDDiLJ5r",
+    "name": "Radio Enmanuel",
+    "stream_urls": [
+      "https://conectperu.com/8220/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Y2HefAxHKEpinq",
+    "name": "Radio Estación Satélite",
+    "stream_urls": [
+      "https://stream-155.zeno.fm/q66qxthr0uhvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tqdG1Nizz5H67M",
+    "name": "Radio Estación Techno",
+    "stream_urls": [
+      "https://stream.zeno.fm/t3sqkau72rhvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CplBLqVPNdkpVq",
+    "name": "Radio Estrella",
+    "stream_urls": [
+      "https://radio.datahost.pe/9660/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8lf3HSk3x706jV",
+    "name": "Radio Exitosa 95.5 FM",
+    "stream_urls": [
+      "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RixDwQRbMZprpq",
+    "name": "Radio Fama Sur",
+    "stream_urls": [
+      "https://sp.oyotunstream.com/9326/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "NKOyaorZ8UqIvj",
+    "name": "Radio Fantasía",
+    "stream_urls": [
+      "https://sp.oyotunstream.com:10943/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bQnuRdzMjIMKe6",
+    "name": "Radio Felicidad",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Vgvswl04jIXrwo",
+    "name": "Radio Fidelisima 107.7 FM",
+    "stream_urls": [
+      "https://st3.inkaniserver.net:8008/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pvhBWYTOUfrhhG",
+    "name": "Radio Filarmonía",
+    "stream_urls": [
+      "https://c22.radioboss.fm:8100/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ygu2VYMyOlVJbp",
+    "name": "Radio Filarmonía 102.7 FM",
+    "stream_urls": [
+      "https://c22.radioboss.fm:18100/live"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "H4zB2Xmw05zuMV",
+    "name": "Radio FM Lima",
+    "stream_urls": [
+      "https://stream.zeno.fm/qotg58sxvehvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "x1YjS5GDEd55UQ",
+    "name": "Radio Frecuencia 100",
+    "stream_urls": [
+      "https://sp.oyotunstream.com/7066/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MYztuGZnD8srK5",
+    "name": "Radio Frecuencia Primera",
+    "stream_urls": [
+      "https://cast6.asurahosting.com/proxy/solfrecu/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa",
+      "eng",
+      "fra",
+      "ita",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "5gJnilHyAU8Avh",
+    "name": "Radio Funky Hits",
+    "stream_urls": [
+      "https://stream-163.zeno.fm/57h4vyd5pf9uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "dfkQNo0BfpRojn",
+    "name": "Radio Generación Kpop",
+    "stream_urls": [
+      "https://stream9.mexiserver.com:8242/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa",
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "On7G0aGnRtKMHi",
+    "name": "Radio Girasol",
+    "stream_urls": [
+      "https://miradioperu.com/8008/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "r39VMpbPJWw25Z",
+    "name": "Radio Hisparockas",
+    "stream_urls": [
+      "https://stream.zeno.fm/nhu7v3guz08uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KQq8grxnXWrO6E",
+    "name": "Radio Huancayo",
+    "stream_urls": [
+      "https://cloud9.ldwebstudios.net:7000/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RA1afp0AuRhaaN",
+    "name": "Radio Intiraymi",
+    "stream_urls": [
+      "https://streamhotsperu.purosurfm.com:8150/intiraymi"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zqhjSnZuy6bLkR",
+    "name": "Radio JHC",
+    "stream_urls": [
+      "https://sp.oyotunstream.com:10979/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "NfeMJAhLCHPmVN",
+    "name": "Radio JR",
+    "stream_urls": [
+      "https://tupanel.info:2000/stream/radiojr/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "h04aMQvHHACl2z",
+    "name": "Radio Karibeña",
+    "stream_urls": [
+      "https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "uoKpdAraNDF2Lb",
+    "name": "Radio Ke Brava",
+    "stream_urls": [
+      "https://stream.zenolive.com/59947b1wfuquv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "WANRAqTEGFkS5f",
+    "name": "Radio La Cheverísima",
+    "stream_urls": [
+      "https://sp.onliveperu.com/8114/stream/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "apup6tnfdWjBGh",
+    "name": "Radio La Gloria Es De Dios",
+    "stream_urls": [
+      "https://radio101.mjwebexperts.com/8006/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fLPCZUvdRpBL05",
+    "name": "Radio La Kalle",
+    "stream_urls": [
+      "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FGSjb16xMFQrhd",
+    "name": "Radio La Norteña",
+    "stream_urls": [
+      "https://radio.livestreamingmundial.com:7060/live"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Tv93Rt4M56nOOz",
+    "name": "Radio La Noventera",
+    "stream_urls": [
+      "https://host.gometri.com/proxy/lanoventera/stream/"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jnekywMxbOByO3",
+    "name": "Radio La Nube 91.9 FM",
+    "stream_urls": [
+      "https://mdstrm.com/audio/6598b70f86344b02b58ce836/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ixwb4jJEmFCHUB",
+    "name": "Radio La Unika",
+    "stream_urls": [
+      "https://cloud9.ldwebstudios.net:7011/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gtSJpJ9Kzf1Clz",
+    "name": "Radio La Vaca",
+    "stream_urls": [
+      "https://radio.streamingnacional.online/8168/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "X6UZmRXSBtmZCg",
+    "name": "Radio La Voz del Nor Oriente",
+    "stream_urls": [
+      "https://sp.onliveperu.com:7038/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kSmQ2FKQN1kYmW",
+    "name": "Radio La Zona",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6u5W4YFYD8Bjqz",
+    "name": "Radio La Ñ 100.1 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/tk4wmqvnnnruv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ygTt6S4aNvbKfS",
+    "name": "Radio La Única Tropical",
+    "stream_urls": [
+      "https://stream-172.zeno.fm/see4wpyr9bhvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3JU0Z0ReRjllIl",
+    "name": "Radio Laser",
+    "stream_urls": [
+      "https://conectperu.com/8078/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "sOaCKC6N1zmT99",
+    "name": "Radio Latidos",
+    "stream_urls": [
+      "https://radio.pjcks.com/9944/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "PDInSPfEh8Bu3M",
+    "name": "Radio Loreto",
+    "stream_urls": [
+      "https://sp.oyotunstream.com/8006/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9D2Hk0Yw7pPUZN",
+    "name": "Radio Madre de Dios",
+    "stream_urls": [
+      "https://tupanel.info:9000/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RM9oIIgGZjQ1nT",
+    "name": "Radio Manantial de Vida",
+    "stream_urls": [
+      "https://server.streamingradios.net/8036/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pIzJw6CSBBbeFU",
+    "name": "Radio MegaMix",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
+      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hUmLROf8pBzC04",
+    "name": "Radio Melodía",
+    "stream_urls": [
+      "https://stream.radiomelodia.com.pe:8000/radio.mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "M0bHGY8RlVWdF7",
+    "name": "Radio Metropolitana",
+    "stream_urls": [
+      "https://maximacenterdata.com/8120/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "W6waszaIxG4kM4",
+    "name": "Radio Milenium",
+    "stream_urls": [
+      "https://sp.onliveperu.com/8102/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fMibvkwNlZ0S1r",
+    "name": "Radio Moderna 107.5 FM",
+    "stream_urls": [
+      "https://radio.transmite.pe/8020/stream/;type=mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qP1Qpj9r5EiFc9",
+    "name": "Radio Moyobamba",
+    "stream_urls": [
+      "https://radioconector.com:7005/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wpzLTB6AjHXtah",
+    "name": "Radio Mundo Beatles",
+    "stream_urls": [
+      "https://stream.zeno.fm/y79be89qxrhvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "lafkXlZApKD1iO",
+    "name": "Radio Mágica",
+    "stream_urls": [
+      "https://pe-p1-p-e-xm2-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4R5K1cdmVruIUj",
+    "name": "Radio Nova",
+    "stream_urls": [
+      "https://panel.innovatestream.pe:10989/stream",
+      "https://panel.innovatestream.pe:10990/undefined"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qYQFoGjba9CiMP",
+    "name": "Radio Nova Prime",
+    "stream_urls": [
+      "https://stream.zeno.fm/dredth2tsqtuv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Db28i9FcXfbar1",
+    "name": "Radio Nuevaolera",
+    "stream_urls": [
+      "https://stream.zeno.fm/4q99spjike0uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qEjD5GkXp7yxjw",
+    "name": "Radio Onda Cero",
+    "stream_urls": [
+      "https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "rHQQj7fe9A3Bsg",
+    "name": "Radio Onda Popular",
+    "stream_urls": [
+      "https://dattavolt.com/8278/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fujnRozA0u3cXd",
+    "name": "Radio Ondas del Huallaga",
+    "stream_urls": [
+      "https://cloud9.ldwebstudios.net:7005/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jTUHhmMLzQrFrW",
+    "name": "Radio Ondas del Misti 1330 AM",
+    "stream_urls": [
+      "https://maximacenterdata.com/8124/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "VtdYIjaJJhaj4x",
+    "name": "Radio Panamericana",
+    "stream_urls": [
+      "https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KsCKOBdxknmSl5",
+    "name": "Radio Pirata 103.3 FM",
+    "stream_urls": [
+      "https://s2.free-shoutcast.com/stream/18090"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "TYSt1L9zSkp687",
+    "name": "Radio Poder Inka 92.1 FM",
+    "stream_urls": [
+      "https://radio.livestreamingmundial.com:7094/live"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "M3k4MXumaTrLh8",
+    "name": "Radio Pucallpa 89.1 FM",
+    "stream_urls": [
+      "https://sp.dattavolt.com/8026/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ySbRBs0KNqizV6",
+    "name": "Radio Retro",
+    "stream_urls": [
+      "https://stream2.eistreaming.com/7068/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oMieDrPLtA1VJY",
+    "name": "Radio Románticas Inolvidables",
+    "stream_urls": [
+      "https://stream.zeno.fm/6m1ba7yt3vduv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "82oyJ8Z6bLC5rS",
+    "name": "Radio Rumbo (Huancayo)",
+    "stream_urls": [
+      "https://mediastreamm.com/8008/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "av5wM9CUWTT1FX",
+    "name": "Radio Sabor",
+    "stream_urls": [
+      "https://stream.zeno.fm/812ksk66cfeuv.aac"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2cdNOD7xlQlEbQ",
+    "name": "Radio Salsa Perú",
+    "stream_urls": [
+      "https://stream.zeno.fm/f19941g3teruv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "uXqkmO4l88FyKK",
+    "name": "Radio San Martín (Arequipa)",
+    "stream_urls": [
+      "https://conectperu.com:7020/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "C1zDhur3xvjaTd",
+    "name": "Radio Santa Rosa",
+    "stream_urls": [
+      "https://securestream.conectarhosting.com:8136/live"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2Jdv4o6H2sLSAQ",
+    "name": "Radio Satélite (Ventanilla)",
+    "stream_urls": [
+      "https://conectperu.com/8166/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SHHuN32HhCBEF0",
+    "name": "Radio Shack Music",
+    "stream_urls": [
+      "https://c30.radioboss.fm:18415/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "X8bJUXmIQPar5z",
+    "name": "Radio Sol de los Andes",
+    "stream_urls": [
+      "https://cloudstream2036.conectarhosting.com/8036/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UBo49s41febpqF",
+    "name": "Radio Stereo 99 (Bagua Grande)",
+    "stream_urls": [
+      "https://sechin.grupocentroserver.com/radio/8300/radio.mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YtsvH37xNZ5XPH",
+    "name": "Radio Stereo G (Rodríguez de Mendoza)",
+    "stream_urls": [
+      "https://dattavolt.com/8138/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kRUoohbcL0FXDD",
+    "name": "Radio Stereo TV",
+    "stream_urls": [
+      "https://sp.onliveperu.com/8098/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bHpB0ZpDjQvGZU",
+    "name": "Radio Studio 92",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "iEYzolINxONZzg",
+    "name": "Radio Studio 97",
+    "stream_urls": [
+      "https://sechin.grupocentroserver.com/radio/8140/radio.mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "dneDf5o95Ut2d0",
+    "name": "Radio Super (Pucallpa)",
+    "stream_urls": [
+      "https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ex3YdvqFI4XAkA",
+    "name": "Radio Synthpop",
+    "stream_urls": [
+      "https://radio.blueditor.com/8250/stream;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "XAgMyUuykJQhbs",
+    "name": "Radio Trinidad 1070 AM",
+    "stream_urls": [
+      "https://maximacenterdata.com/8056/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YjE4CXo1Rwm6oE",
+    "name": "Radio Un Hueco en el Espacio",
+    "stream_urls": [
+      "https://cloudstream2032.conectarhosting.com/8106/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8VNIzIIpOxSbdn",
+    "name": "Radio Unicar",
+    "stream_urls": [
+      "https://maximacenterdata.com/8086/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8NmooumRMaapsA",
+    "name": "Radio Xtrema",
+    "stream_urls": [
+      "https://stream.zeno.fm/v2ah096xywzuv.aac"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9ml0khV37LCcmL",
+    "name": "Radio Xtrema (Chachapoyas)",
+    "stream_urls": [
+      "https://stream.zeno.fm/ktk1db7xywzuv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1PQdPNKiJJvrFN",
+    "name": "Radio Yaraví",
+    "stream_urls": [
+      "https://tupanel.info/stream/radioyaravi/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "mYXOIlOXLmyxwW",
+    "name": "Radio Zona 5 93.3 FM",
+    "stream_urls": [
+      "https://panel.innovatestream.pe:10975/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ti9kK59FlvQt9l",
+    "name": "RadioMix AQP",
+    "stream_urls": [
+      "https://stream-174.zeno.fm/qa5aurigvoivv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ilabXs9eJDTrjB",
+    "name": "RadioMix AQP Rock & Pop en Español",
+    "stream_urls": [
+      "https://stream-150.zeno.fm/mwxnk1y5btvvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JeNb37ms4Pb1GC",
+    "name": "RAM Cusco",
+    "stream_urls": [
+      "https://ramcusco.stream.laut.fm/ramcusco"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HpZxkAQ8LirFLk",
+    "name": "RCS Lima Stereo",
+    "stream_urls": [
+      "https://stream.zeno.fm/scy8h669dchvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ob0Nxt6Sn3c2Wh",
+    "name": "Red Radio Integridad",
+    "stream_urls": [
+      "https://dattavolt.com/8164/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4EVhnei8rX6edH",
+    "name": "Rock & Pop",
+    "stream_urls": [
+      "https://stream.zeno.fm/0k6va3rg8rhvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "IR1eXgLMrSOAKY",
+    "name": "Rock & Pop Classics",
+    "stream_urls": [
+      "https://stream.zeno.fm/kusrlthtbhltv"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DgqI2c8ycwRPx5",
+    "name": "RPP Mundial",
+    "stream_urls": [
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
+      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "AETt9hrnSVHOni",
+    "name": "RPP Noticias",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "caHWzHfThDm5pS",
+    "name": "Señal Pirata Radio 97.7 FM",
+    "stream_urls": [
+      "https://conectperu.com:8082/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "NGuGORQhNDuLVZ",
+    "name": "StereoLima",
+    "stream_urls": [
+      "https://panel.innovatestream.pe/8042/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jwiLuQd3mbZ32Y",
+    "name": "Studio Mix (Progreso)",
+    "stream_urls": [
+      "https://stream.zenolive.com/de2yzp59mg0uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9De0w1qbJxOVUk",
+    "name": "Techno Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/wucx5xcgqeruv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "z6lglzcUHT1N21",
+    "name": "Vinilo ¡Tu Radio Retro!",
+    "stream_urls": [
+      "https://panel.innovatestream.pe:10924/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UFuzVmX6iFJUVm",
+    "name": "Viva FM",
+    "stream_urls": [
+      "https://tupanel.info:8780/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "laPySi6dfOc0si",
+    "name": "Z Rock & Pop",
+    "stream_urls": [
+      "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  }
+]

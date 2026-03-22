@@ -1,0 +1,178 @@
+[
+  {
+    "nanoid": "5Cl7Q9DtjbWWLu",
+    "name": "Dolfijn Classic",
+    "stream_urls": [
+      "https://radiostreamfm.com:8120/radio.mp3"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "zEeDRHGgZRMhhh",
+    "name": "Dolfijn FM",
+    "stream_urls": [
+      "https://radiostreamfm.com:8130/radio.mp3"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "8mv4Fya6cpsRVL",
+    "name": "Go Radio 88.9",
+    "stream_urls": [
+      "https://stream.zeno.fm/tbrwtd58f18uv"
+    ],
+    "country": "cw",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HxDxbVPHaSXVpk",
+    "name": "HITradio 915",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/HITradio915"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "oiHPSVWlKVUb4C",
+    "name": "Joce Production FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/hp4bpr101ehvv"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "TJTcdgHc8awC8X",
+    "name": "Paradise FM",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/ParadiseFM"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "alOngRrShUWtdd",
+    "name": "Paradise FM 00s & 10s",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/00s10s"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "zGgTyqVLzAWkkZ",
+    "name": "Paradise FM 60s & 70s",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/60s70s"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "7ons7sqFDRXq0n",
+    "name": "Paradise FM 80s & 90s",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/80s90s"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "3oOj9aoDcM0W3a",
+    "name": "Paradise FM Disco Inferno",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/ParadiseDiscoInferno"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "TrKHI2qBN4Dz8d",
+    "name": "Paradise FM Latin",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/ParadiseLatin"
+    ],
+    "country": "cw",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Q1m4jNQAqbjvqq",
+    "name": "Paradise FM Nonstop",
+    "stream_urls": [
+      "https://stream.paradisefm.cw/ParadiseNonstop"
+    ],
+    "country": "cw",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "vJ7bJCjytEyKpn",
+    "name": "Radio Active 104.5 FM",
+    "stream_urls": [
+      "https://kadushi.westream.cloud/listen/radioactive/RadioActive"
+    ],
+    "country": "cw",
+    "languages": [
+      "pap"
+    ]
+  },
+  {
+    "nanoid": "hCiON2aTA6zR6D",
+    "name": "Radio Direct",
+    "stream_urls": [
+      "https://edge1.direct107.com/;"
+    ],
+    "country": "cw",
+    "languages": [
+      "pap"
+    ]
+  },
+  {
+    "nanoid": "Yg3Jf5mk9rNTOL",
+    "name": "Radio Mas 99",
+    "stream_urls": [
+      "https://kadushi.westream.cloud/listen/mas99/live"
+    ],
+    "country": "cw",
+    "languages": [
+      "pap"
+    ]
+  },
+  {
+    "nanoid": "UppWVXw7QRVOTG",
+    "name": "Ritmo Antiyano",
+    "stream_urls": [
+      "https://ec6.yesstreaming.net:3105/stream"
+    ],
+    "country": "cw",
+    "languages": [
+      "pap"
+    ]
+  }
+]

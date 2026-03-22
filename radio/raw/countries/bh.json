@@ -1,0 +1,52 @@
+[
+  {
+    "nanoid": "v60FlRyK6ZYgY3",
+    "name": "BFBS Bahrain",
+    "stream_urls": [
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3"
+    ],
+    "country": "bh",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6CLIl1mzKk9ejO",
+    "name": "Live FM 107.2",
+    "stream_urls": [
+      "https://stream.aiir.com/dbv0rxpwp6ytv"
+    ],
+    "country": "bh",
+    "languages": [
+      "eng",
+      "hin",
+      "kan",
+      "mal",
+      "tam",
+      "tel",
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "UeiIcxw8GJyIFz",
+    "name": "Plus FM 89.2",
+    "stream_urls": [
+      "https://l3.itworkscdn.net/itwaudio/9026/stream.mp3"
+    ],
+    "country": "bh",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Xp7TiTV9YvpVKZ",
+    "name": "Voice of Ummah",
+    "stream_urls": [
+      "https://mediati.me/radio/8010/radio.mp3"
+    ],
+    "country": "bh",
+    "languages": [
+      "urd"
+    ]
+  }
+]

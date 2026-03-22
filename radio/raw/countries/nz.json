@@ -1,0 +1,950 @@
+[
+  {
+    "nanoid": "Uozf9hXtraG8hM",
+    "name": "91.2 FM Oamaru",
+    "stream_urls": [
+      "https://usa1-vn.mixstream.net/8096/listen.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "epJ5CiAF4biBMM",
+    "name": "95bFM",
+    "stream_urls": [
+      "https://streams.95bfm.com/stream95",
+      "https://streams.95bfm.com/stream128",
+      "https://streams.95bfm.com/stream112"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LGBuIki4AplPDn",
+    "name": "Akaroa World Radio",
+    "stream_urls": [
+      "https://n07.radiojar.com/k0t12bsns1duv"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ayMHnH3EsxRPAa",
+    "name": "Anthemz",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/anthemz-chc-high_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fTX6Hvh6sjgkyz",
+    "name": "Bandwagon Radio",
+    "stream_urls": [
+      "https://streaming.radio.co/scfae3b30e/listen"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hLMBmbEtG5A6ao",
+    "name": "Bay FM 100.7",
+    "stream_urls": [
+      "https://s38.myradiostream.com:8876/;;"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7e20xUp77BS9jX",
+    "name": "Beagle Radio 88.1",
+    "stream_urls": [
+      "https://stream.beagleradio.co.nz/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "j0ZOWuw6dl9u6T",
+    "name": "Bollybop",
+    "stream_urls": [
+      "https://s3.radio.co/s2f19d44d0/listen"
+    ],
+    "country": "nz",
+    "languages": [
+      "hin",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ADTVWU6gzHEMG6",
+    "name": "Brian FM 91.2",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7100_128k.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7dNMc8FQvaNbCu",
+    "name": "CFM Coromandel",
+    "stream_urls": [
+      "https://stream.cfm.co.nz/low"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NCb5FXyvwm2n0m",
+    "name": "Channel X",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/chx_net_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hrrAr2pPRNI4oE",
+    "name": "Classic 1027",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/49_high.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pg8neIWm68gvig",
+    "name": "Drop FM",
+    "stream_urls": [
+      "https://s2.radio.co/s7649837db/listen"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "U4x54BzKeJmnMT",
+    "name": "East FM",
+    "stream_urls": [
+      "https://listen.eastfm.nz/stream.aac",
+      "https://listen.eastfm.nz/stream-aac-64"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "koo3aQCxPXn3bd",
+    "name": "Galaxy 107 FM",
+    "stream_urls": [
+      "https://s39.myradiostream.com:14858/;listen.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "UiTOjaqCzJ7ZB2",
+    "name": "George FM",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/george_net_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2lzSxLf3L0liD0",
+    "name": "Gone Country",
+    "stream_urls": [
+      "https://usa10.fastcast4u.com:6010/;"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wJP2lDMMlEROvl",
+    "name": "Heads FM 106.4",
+    "stream_urls": [
+      "https://headsfm.radioca.st/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LfnBJfU3qCYufs",
+    "name": "Humm Radio",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/humm_net_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng",
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "0AWeYkP8bCRRuo",
+    "name": "Jake Music",
+    "stream_urls": [
+      "https://camera.jakebriggs.com/jakemusic"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Wl5GQPteQ6SQAm",
+    "name": "Jazz Cafe",
+    "stream_urls": [
+      "https://radio.wanderingsheep.net:8000/jazzcafe"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yd9V8nCSqdsevm",
+    "name": "Kiwi Folk Radio",
+    "stream_urls": [
+      "https://streamer.radio.co/sde527a41e/listen"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KpRyVR8dkoWVU5",
+    "name": "KIX FM",
+    "stream_urls": [
+      "https://stream.kixfm.co.nz:8178/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Vucgg12sduUy4f",
+    "name": "LibertyNZ",
+    "stream_urls": [
+      "https://stream.zeno.fm/lamr6x1fxrruv"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "uPBNT9vb5XUK5a",
+    "name": "Life FM",
+    "stream_urls": [
+      "https://rhema-radio.streamguys1.com/rhema-lifefm.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zulzbd1k2EwHOu",
+    "name": "MAD FM 106.7",
+    "stream_urls": [
+      "https://madfm-gecko.radioca.st/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FKBhPq5CUGHh9a",
+    "name": "Magic FM",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/magic_net_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xW361Czoa17Dve",
+    "name": "Mai FM",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7102_128k.aac",
+      "https://mediaworks.streamguys1.com/mai_net_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wTI7AxfOXa8KpF",
+    "name": "Maunganui FM 107.1",
+    "stream_urls": [
+      "https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SI5BXbmxZ05VH4",
+    "name": "Mix FM 87.9",
+    "stream_urls": [
+      "https://stream.mixfm.nz/"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WSFFSB11p36hJp",
+    "name": "More FM Nelson",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/more-nsn-high_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QmKIF1tf27QTUG",
+    "name": "Mouthfull Radio",
+    "stream_urls": [
+      "https://mouthfull-radio.radiocult.fm/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "L8iu5iQzjdmtWt",
+    "name": "Mushroom Escape",
+    "stream_urls": [
+      "https://cast3.my-control-panel.com/proxy/jonatha1/escape"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "uw3y3bDuA3rpVV",
+    "name": "New Zealand Chinese Radio FM 90.6",
+    "stream_urls": [
+      "https://s26.myradiostream.com/:20274/listen.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "9aZ0SylzyKtDWi",
+    "name": "Newstalk ZB",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SFor0fpXuXgdk5",
+    "name": "Niu FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FXVHVwHDHxafGb",
+    "name": "One Christian Radio",
+    "stream_urls": [
+      "https://radio.wanderingsheep.net:33001/onechristianradio"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8RrE24eHV9zSVb",
+    "name": "Paekākāriki FM 88.2",
+    "stream_urls": [
+      "https://icecast.groundtruth.co.nz/paekakfm.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mnLwDKxXJARTFC",
+    "name": "Positively Morrinsville 87.7 FM",
+    "stream_urls": [
+      "https://c16.radioboss.fm:8262/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "D0hEvY0Fm7xRcO",
+    "name": "Radio 531pi",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC",
+      "https://14923.live.streamtheworld.com/531PI_SC"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng",
+      "fij",
+      "mri",
+      "smo",
+      "ton"
+    ]
+  },
+  {
+    "nanoid": "syjqWsrqXsQpL9",
+    "name": "Radio A",
+    "stream_urls": [
+      "https://play.radioking.io/radio-a-music"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XIa7OOOdAvYBmJ",
+    "name": "Radio BurgerFuel",
+    "stream_urls": [
+      "https://s3.radio.co/s9909bd65f/listen"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "L6rAAdZdNFxSLf",
+    "name": "Radio Chinese FM90.6",
+    "stream_urls": [
+      "https://s26.myradiostream.com:20274/listen.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "zho",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zzQBNiLmt7q30G",
+    "name": "Radio Control 99.4 FM",
+    "stream_urls": [
+      "https://michae14-gecko.radioca.st/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng",
+      "mri"
+    ]
+  },
+  {
+    "nanoid": "hSdUFZCB9iUAKM",
+    "name": "Radio Hydra",
+    "stream_urls": [
+      "https://streaming.radio.co/sed9109681/listen"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7kiYuoFexPgTu0",
+    "name": "Radio One 91 FM",
+    "stream_urls": [
+      "https://play.r1.co.nz/live"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "17p9fw2PpnQMh4",
+    "name": "Radio Rhema",
+    "stream_urls": [
+      "https://rhema-radio.streamguys1.com/rhema.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2CjN8foinBzqTI",
+    "name": "Radio Robotic",
+    "stream_urls": [
+      "https://stream.zeno.fm/rhscse2a41zuv"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bWjRIdsRLNHBDZ",
+    "name": "Radio Samoa 1593 AM",
+    "stream_urls": [
+      "https://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng",
+      "smo"
+    ]
+  },
+  {
+    "nanoid": "oVPNez5MfWuBu7",
+    "name": "Radio Sangeet Masti",
+    "stream_urls": [
+      "https://servidor19-4.brlogic.com:7304/live"
+    ],
+    "country": "nz",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "T39F2PCWeuPaiM",
+    "name": "Radio Spice 88.0",
+    "stream_urls": [
+      "https://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "pan",
+      "hin",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "v0DdlJiplylZbk",
+    "name": "Radio Te Aroha 88 FM",
+    "stream_urls": [
+      "https://c2.radioboss.fm:18440/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jVN3HUuzsyojq5",
+    "name": "Radio X",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qsbVS97LH2HWji",
+    "name": "RadioActive.FM 88.6",
+    "stream_urls": [
+      "https://radio123-gecko.radioca.st/radioactivefm"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ToYcnFobxyYJa5",
+    "name": "Radiowave NZ",
+    "stream_urls": [
+      "https://stream.radiowavenz.com/stream",
+      "https://stream.radiowavenz.com/stream-aac",
+      "https://stream.radiowavenz.com/stream-aac-low"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SEZCoiauMhRojh",
+    "name": "RAG-FM 107.7",
+    "stream_urls": [
+      "https://cast6.asurahosting.com/proxy/ragfmcom/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "j9IN8JLmm1IZd2",
+    "name": "Raglan Community Radio",
+    "stream_urls": [
+      "https://s36.myradiostream.com/20712/;"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FW8xAZRTWaKA8R",
+    "name": "RDU 98.5 FM",
+    "stream_urls": [
+      "https://rdu985fm-gecko.radioca.st/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "12rVDUfjAVNrC2",
+    "name": "Retro Hit Radio",
+    "stream_urls": [
+      "https://riphel02.radioca.st/;",
+      "https://riphel02.radioca.st/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iXhFQbRwZGcrZo",
+    "name": "Rova Chill Hop",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vkVF9s1OKupnov",
+    "name": "Sanctuary",
+    "stream_urls": [
+      "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AaCLBdt11EFHnR",
+    "name": "SayHiFM",
+    "stream_urls": [
+      "https://play.radioking.io/sayhifm"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "g68UfJ8DWZUkUJ",
+    "name": "Ski FM",
+    "stream_urls": [
+      "https://s2.radio.co/s6436891bc/listen"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mw7wiuRNmJvVya",
+    "name": "Sleep Radio",
+    "stream_urls": [
+      "https://cast4.my-control-panel.com/proxy/sleeprad/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nhuV8s6KkqtJBM",
+    "name": "Smooth 105.6 FM",
+    "stream_urls": [
+      "https://servidor26.brlogic.com:7110/live"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "CggJ0eZpmKMwLf",
+    "name": "Smooth Chill",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/Chill"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ITS0zZsxzeg0lT",
+    "name": "Southern Cross Country",
+    "stream_urls": [
+      "https://sxcountry.radioca.st/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qqZXBlBD6pWZqt",
+    "name": "Sub FM",
+    "stream_urls": [
+      "https://fmsub.radioca.st/stream"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "psxMeBPKPRtNHA",
+    "name": "Talk Nelson",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/106324/stream/145267"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Pb6lb7fdjjfRHt",
+    "name": "The Breeze 93.4",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/breeze-akl-high_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "CVJfsdRECGySzJ",
+    "name": "The Cheese",
+    "stream_urls": [
+      "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+      "https://station.thecheese.co.nz/listen/the_cheese/flac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lTN1KgNkb8WM2W",
+    "name": "The Generator FM",
+    "stream_urls": [
+      "https://s1.myradiostream.com/:14268/;",
+      "https://s1.myradiostream.com/14268/stream/1/"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fD5cKAQB1UMbqF",
+    "name": "The Jazz Groove",
+    "stream_urls": [
+      "https://streams.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5vrcg9rYL82HSt",
+    "name": "The Rhythm 89.0 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/7v9aaqeqhs8uv"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2W43blIcgLVf0J",
+    "name": "The Rock",
+    "stream_urls": [
+      "https://digitalstreams.mediaworks.nz/rock_net_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BK4gB9SKX9aDES",
+    "name": "Tiri 2",
+    "stream_urls": [
+      "https://servidor34-4.brlogic.com:7138/live"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eVuxm21LwfO0eb",
+    "name": "TYFM",
+    "stream_urls": [
+      "https://radio.parkplacesounds.co.nz/listen/tyfm/apps/mtr"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ee2qOYeVf5iBU9",
+    "name": "Up FM 107.5",
+    "stream_urls": [
+      "https://stream.upfm.live/radio/8000/radio.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nUkM9bzOgOQXIQ",
+    "name": "Vinyl Radio NZ",
+    "stream_urls": [
+      "https://s40.myradiostream.com:17794/listen.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Z4xKbpDYn3KnVW",
+    "name": "Wandering Sheep Radio Christian Smooth Jazz",
+    "stream_urls": [
+      "https://radio.wanderingsheep.tv:8021/christianjazz"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xt9HoaoF4a2i26",
+    "name": "Wandering Sheep Radio Hope Alive",
+    "stream_urls": [
+      "https://radio.wanderingsheep.tv:8012/hopealive"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xfbhqiaLRgbZJS",
+    "name": "Wandering Sheep Radio Jazz Cafe",
+    "stream_urls": [
+      "https://radio.wanderingsheep.tv:8000/jazzcafe"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rfncxUgMtd9ZKU",
+    "name": "World FM 88.2",
+    "stream_urls": [
+      "https://www.worldfm.co.nz:8882/worldfm.aac"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "opnx25HPz3OGtr",
+    "name": "XS80s",
+    "stream_urls": [
+      "https://s1.myradiostream.com:12508/listen.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  }
+]

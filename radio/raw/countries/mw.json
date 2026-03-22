@@ -1,0 +1,79 @@
+[
+  {
+    "nanoid": "N5LGbLBjKlS0b5",
+    "name": "Amaryllis E-Radio",
+    "stream_urls": [
+      "https://s4.radio.co/s40c05d6b1/low"
+    ],
+    "country": "mw",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sdXwb4YClDUTS9",
+    "name": "Groove100 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/0r0xa792kwzuv"
+    ],
+    "country": "mw",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bfcZol1LjFvSjv",
+    "name": "Mdubs Entertainment Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/ogxfqt7gumguv"
+    ],
+    "country": "mw",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AnWscCfhy1CEd9",
+    "name": "Power Global Radio",
+    "stream_urls": [
+      "https://a10.asurahosting.com:7270/radio.mp3"
+    ],
+    "country": "mw",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "G4hfoMpF9ZUdoB",
+    "name": "Times Radio",
+    "stream_urls": [
+      "https://ice31.securenetsystems.net/TIMESFM"
+    ],
+    "country": "mw",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xqQ2iJ2hHa2Nz3",
+    "name": "Timveni Radio",
+    "stream_urls": [
+      "https://play.streamafrica.net/timveni"
+    ],
+    "country": "mw",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "znL0vF4uu5EJGg",
+    "name": "Zodiak Radio",
+    "stream_urls": [
+      "https://ice31.securenetsystems.net/0079"
+    ],
+    "country": "mw",
+    "languages": [
+      "eng"
+    ]
+  }
+]

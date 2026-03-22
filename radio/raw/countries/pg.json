@@ -1,0 +1,46 @@
+[
+  {
+    "nanoid": "uFUkAXBzu70GrW",
+    "name": "Legend FM 101.1",
+    "stream_urls": [
+      "https://27163.live.streamtheworld.com/PNGLEGENDFM.mp3"
+    ],
+    "country": "pg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3MaMsdFYrYRwxv",
+    "name": "Nau FM",
+    "stream_urls": [
+      "https://27163.live.streamtheworld.com/NAUFM.mp3"
+    ],
+    "country": "pg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kzUqZ2g04LCMTM",
+    "name": "Nau FM 96.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFMAAC_SC"
+    ],
+    "country": "pg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Haelh3MirdX8kn",
+    "name": "Yumi FM 93.1",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFMAAC_SC"
+    ],
+    "country": "pg",
+    "languages": [
+      "eng"
+    ]
+  }
+]

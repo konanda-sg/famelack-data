@@ -1,0 +1,68 @@
+[
+  {
+    "nanoid": "lmSJXgMTVQ4749",
+    "name": "Hits 1 Monaco",
+    "stream_urls": [
+      "https://radio12.pro-fhi.net/radio/9018/stream"
+    ],
+    "country": "mc",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "14ixZcCYPQBWYS",
+    "name": "Radio Monaco",
+    "stream_urls": [
+      "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3"
+    ],
+    "country": "mc",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "I3QQsu8NhQGAq3",
+    "name": "Radio Monte Carlo Italia",
+    "stream_urls": [
+      "https://icy.unitedradio.it/rmcweb005"
+    ],
+    "country": "mc",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "KcOKi3npe8L6dZ",
+    "name": "Riviera Radio",
+    "stream_urls": [
+      "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high"
+    ],
+    "country": "mc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dA4cvvNk4maD72",
+    "name": "Yellow Party",
+    "stream_urls": [
+      "https://yellowradio.ice.infomaniak.ch/yellow02.aac"
+    ],
+    "country": "mc",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "Od6cQkR60naF7F",
+    "name": "Yellow Riviera",
+    "stream_urls": [
+      "https://yellowradio.ice.infomaniak.ch/yellow01.mp3"
+    ],
+    "country": "mc",
+    "languages": [
+      "fra"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "nanoid": "RT3CrgfS8nFMwC",
+    "name": "LF Radio",
+    "stream_urls": [
+      "https://rtn.cdnstream1.com/2582_96.aac"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lcST2mrbJkPWXB",
+    "name": "Mutant Radio",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/282820/stream/328621"
+    ],
+    "country": "ge",
+    "languages": [
+      "eng",
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "f5jBy64SQnpbhN",
+    "name": "Radio Adjara",
+    "stream_urls": [
+      "https://edge.mixlr.com/channel/bzorq"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "PmXY8zrKx6mJnA",
+    "name": "Radio Amra International",
+    "stream_urls": [
+      "https://streamer.radio.co/s34b5469e0/listen"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "86tQRYt2943voC",
+    "name": "Radio Imedi",
+    "stream_urls": [
+      "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "3OBD5JDSL4Bigy",
+    "name": "Radio Palitra",
+    "stream_urls": [
+      "https://radiostream.palitra.ge/stream.mp3"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "6BjD1gFHeqSAwn",
+    "name": "Radio Positive",
+    "stream_urls": [
+      "https://stream.radiojar.com/sr4vzamzfnruv"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "kZoVAVhMSZq3DS",
+    "name": "Radio Sivrce",
+    "stream_urls": [
+      "https://proxy.streamer.mediabox.ge/ice/8000/sivrce"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "E8XDXmeHkwQw9X",
+    "name": "Red Wine Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/pcbduafehg0uv"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jbjA8JGHs4EMix",
+    "name": "Sputnik Аҧсны",
+    "stream_urls": [
+      "https://icecast-rian.cdnvideo.ru/voicesuh"
+    ],
+    "country": "ge",
+    "languages": [
+      "abk",
+      "rus"
+    ]
+  }
+]

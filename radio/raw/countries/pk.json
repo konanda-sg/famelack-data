@@ -1,0 +1,372 @@
+[
+  {
+    "nanoid": "1wjIVgHSmE3mQa",
+    "name": "AK Radio Trarkhal",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8076/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "QGtDzTRmv5TcPb",
+    "name": "All4Masti",
+    "stream_urls": [
+      "https://stream.zeno.fm/bahhkuge5zhvv"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "hin",
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "k77xh91crYL7Tt",
+    "name": "City FM 89",
+    "stream_urls": [
+      "https://radio.cityfm89.com/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "u2IYiUT7n0wTKp",
+    "name": "DC Naat Radio",
+    "stream_urls": [
+      "https://s33.myradiostream.com:13872/listen.m4a"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "ZkFfes0ptk7DiT",
+    "name": "FM",
+    "stream_urls": [
+      "https://n0a.radiojar.com/htnudfgugm8uv"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "FkKc5ACspwpNJ8",
+    "name": "FM 101 Islamabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7008/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FKfRnIHFQYLzoW",
+    "name": "FM 101 Karachi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8048/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3tETNHeuHx6UOr",
+    "name": "FM 101 Khairpur",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8054/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MZaKpbetJfsmA3",
+    "name": "FM 101 Mithi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8052/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HXRGic6bfAkJWn",
+    "name": "FM 101 Peshawar",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8070/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "qrab62pAQvckCQ",
+    "name": "FM 101 Sargodha",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8040/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pWXKK6DQnD0QqG",
+    "name": "FM 93 Chitral",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8066/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "9azNflYZVPvQZZ",
+    "name": "FM 93 Faisalabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8022/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "MNrCqySYBZmzBy",
+    "name": "FM 93 Karachi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7022/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "M3hOuw7wszI1GQ",
+    "name": "FM 93 Lahore",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8088/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "pdErMkeZE1t7gU",
+    "name": "FM 93 Mianwali",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8028/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "XMYbbpm3mF6jyk",
+    "name": "FM 93 Multan",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8032/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "p0qxohECoW5yTU",
+    "name": "FM 93 Rawalpindi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8036/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "cRyXwZiAdOKa74",
+    "name": "Hum FM 106.2",
+    "stream_urls": [
+      "https://server.mediacast4u.stream/8002/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "eng",
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "vS1SHtB0aFoDQV",
+    "name": "Love Islam Radio",
+    "stream_urls": [
+      "https://stream-52.zeno.fm/f9h69cgbu68uv"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ImeGoJzEK3saea",
+    "name": "Mera FM 107.4",
+    "stream_urls": [
+      "https://samaalhr107-itelservices.radioca.st/stream",
+      "https://samaakhi107-itelservices.radioca.st/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "OnrYw7uaH1gp39",
+    "name": "NCAC Radio Pakistan",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7004/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "Ebfs6UDzxdg8Tk",
+    "name": "Radio Pakistan Hyderabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8042/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "snd"
+    ]
+  },
+  {
+    "nanoid": "F8O0GFDlgRrcSO",
+    "name": "Radio Pakistan Islamabad",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7003/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TkcOfg6dyeQvPa",
+    "name": "Radio Pakistan Karachi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7000/MW639khi"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "snd"
+    ]
+  },
+  {
+    "nanoid": "00mY7YvJDF8aan",
+    "name": "Radio Pakistan Lahore",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8026/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "pan"
+    ]
+  },
+  {
+    "nanoid": "5oPIWmeju0WIMJ",
+    "name": "Radio Pakistan Multan",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8034/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "JUPyCgF7kZcEiW",
+    "name": "Radio Pakistan Peshawar",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8072/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "pus"
+    ]
+  },
+  {
+    "nanoid": "baXnOQGdwmvSkU",
+    "name": "Radio Pakistan Quetta",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8060/relay"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "bal"
+    ]
+  },
+  {
+    "nanoid": "IfYnY2PIZHlZ6S",
+    "name": "Radio Pakistan World Service",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7005/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "sdMY4flbuIK1i6",
+    "name": "Saut Ul Quran",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7002/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "LCbhu27my87tub",
+    "name": "Shopen Anime Radio",
+    "stream_urls": [
+      "https://s97.radiolize.com:8040/radio.mp3"
+    ],
+    "country": "pk",
+    "languages": [
+      "jpn"
+    ]
+  }
+]

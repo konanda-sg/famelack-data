@@ -1,0 +1,25 @@
+[
+  {
+    "nanoid": "A1fBMrJlBMibks",
+    "name": "Adoration Gospel FM",
+    "stream_urls": [
+      "https://auds1.intacs.com/adorationgospelfm"
+    ],
+    "country": "ir",
+    "languages": [
+      "fas",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "G33RIRkfefORQx",
+    "name": "Iran On Air",
+    "stream_urls": [
+      "https://ice41.securenetsystems.net/KIRN"
+    ],
+    "country": "ir",
+    "languages": [
+      "fas"
+    ]
+  }
+]

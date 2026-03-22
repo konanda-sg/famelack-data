@@ -1,0 +1,46 @@
+[
+  {
+    "nanoid": "h9fwIajCUBYqHm",
+    "name": "DBS Radio",
+    "stream_urls": [
+      "https://stream.dbcradio.net:8005/live"
+    ],
+    "country": "dm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KMEoxitAb2v8np",
+    "name": "Fabulosa 96.7",
+    "stream_urls": [
+      "https://bostonstreaminge.net/8006/stream"
+    ],
+    "country": "dm",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pDURs2nFmpLz3e",
+    "name": "Radio En Ba Mango",
+    "stream_urls": [
+      "https://s10.myradiostream.com/:4212/listen.mp3"
+    ],
+    "country": "dm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PKq1QPjmcITfVB",
+    "name": "Voice of Life Radio",
+    "stream_urls": [
+      "https://cdn.comeseetv.com:8000/vol"
+    ],
+    "country": "dm",
+    "languages": [
+      "eng"
+    ]
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "nanoid": "86vV7uGIY1Rjxy",
+    "name": "Afrika-Boom",
+    "stream_urls": [
+      "https://stream.radio.co/se53fee01d/listen"
+    ],
+    "country": "na",
+    "languages": [
+      "eng",
+      "afr"
+    ]
+  },
+  {
+    "nanoid": "JZ6x6kPAcG72Wb",
+    "name": "Fresh FM",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/192_medium.aac"
+    ],
+    "country": "na",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F07eVpbeQRiCLY",
+    "name": "Hitradio Namibia",
+    "stream_urls": [
+      "https://s37.derstream.net/hitradio-namibia.mp3"
+    ],
+    "country": "na",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "HguEjuMzzU5x2v",
+    "name": "Kanaal 7",
+    "stream_urls": [
+      "https://zas3.ndx.co.za:8040/stream"
+    ],
+    "country": "na",
+    "languages": [
+      "afr",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kgMzVrkEd1Cx7N",
+    "name": "Kosmos 94.1",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/88_high.aac"
+    ],
+    "country": "na",
+    "languages": [
+      "afr",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "09L9gB8ECbVvIO",
+    "name": "Nam Radio Local",
+    "stream_urls": [
+      "https://music-station.live/radio/8010/radio.mp3"
+    ],
+    "country": "na",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sSlEziNWCMo7or",
+    "name": "Nam-Radio Global",
+    "stream_urls": [
+      "https://music-station.live/radio/8000/radio.mp3"
+    ],
+    "country": "na",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "streNRHmXobRwU",
+    "name": "Nova 103.5",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/185_medium.aac"
+    ],
+    "country": "na",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "e1PvnydTld0m8O",
+    "name": "Omulunga Radio",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/193_high.aac"
+    ],
+    "country": "na",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tbe71iB0dmv7Fq",
+    "name": "Radiowave",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/194_medium.aac"
+    ],
+    "country": "na",
+    "languages": [
+      "eng",
+      "afr"
+    ]
+  }
+]

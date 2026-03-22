@@ -1,0 +1,1178 @@
+[
+  {
+    "nanoid": "hqQCWtb20XQEM3",
+    "name": "8Radio",
+    "stream_urls": [
+      "https://edge4.audioxi.com/8RADIO",
+      "https://stream.rcast.net/66127"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5R5gmdp4tHAKBA",
+    "name": "98FM Throwback",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/98"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0Zq03FEvto8tQM",
+    "name": "[ vinyl stacks ]",
+    "stream_urls": [
+      "https://vinylstacks.uncool.club/vinyl-stacks.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "EZ9YJwYA6a7VaJ",
+    "name": "Beat 102-103",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/BEAT",
+      "https://stream.audioxi.com/BEATAAC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Tx3jHy31jDUjnT",
+    "name": "BFBS Northern Ireland",
+    "stream_urls": [
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "feq5uGAEB4sSyp",
+    "name": "Biggest Disco Radio",
+    "stream_urls": [
+      "https://s5.radio.co/s823d25743/low"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "N8NpfamJga6X6D",
+    "name": "C103 North",
+    "stream_urls": [
+      "https://wg.cdn.tibus.net/C103"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KJdvILkIR8TsPP",
+    "name": "C103 West",
+    "stream_urls": [
+      "https://wg.cdn.tibus.net/C103West"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IFNjI9xsxM2MCX",
+    "name": "Christmas FM",
+    "stream_urls": [
+      "https://christmasfm.cdnstream1.com/2547_128.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BcpSzWbWE8Q4Y9",
+    "name": "Christmas FM Classical & Carols",
+    "stream_urls": [
+      "https://christmasfm.cdnstream1.com/2549_128.mp3",
+      "https://christmasfm.cdnstream1.com/2549_64.aac"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xDXcMi9n5RKCuA",
+    "name": "Christmas FM Classics & Crooners",
+    "stream_urls": [
+      "https://christmasfm.cdnstream1.com/2550_128.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LVJGLeNIGixxtj",
+    "name": "Classic Hits 80s",
+    "stream_urls": [
+      "https://edge7.audioxi.com/CH80S"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "n45oPLWVAvz7IV",
+    "name": "Club FM Dublin",
+    "stream_urls": [
+      "https://c6.radioboss.fm:8225/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "npa3yC7oU9nNiI",
+    "name": "Cork's 96FM",
+    "stream_urls": [
+      "https://wg.cdn.tibus.net/96fm"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9v1NEOH2nl7Wkj",
+    "name": "Cork's RedFM",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/RED"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5G3TQ3Ltiwxr8M",
+    "name": "CRCfm",
+    "stream_urls": [
+      "https://visual.shoutca.st/stream/crcfm",
+      "https://radiozender.mpbnetwerken.nl/crcfm"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eoUrH3mkbZCEMb",
+    "name": "Deep House Radio",
+    "stream_urls": [
+      "https://streaming.shoutcast.com/dhr"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xgULJTh8q1MoMK",
+    "name": "Deise Christmas Radio",
+    "stream_urls": [
+      "https://drn.radioca.st/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4DybW8uyeCPpww",
+    "name": "Dublin Digital Radio",
+    "stream_urls": [
+      "https://dublin-digital-radio.radiocult.fm/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NKCPcvtNWDZcWy",
+    "name": "Dublin South FM",
+    "stream_urls": [
+      "https://dublinsouthfm.radioca.st/live"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "M4WjCTND6Sfdst",
+    "name": "Dublin's 98FM",
+    "stream_urls": [
+      "https://stream.audioxi.com/98"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Pa2GTrOnXf5c9j",
+    "name": "Dublin's 98FM Dance",
+    "stream_urls": [
+      "https://edge.audioxi.com/98DANCE"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sE9X0S8SNrA6fy",
+    "name": "Dublin's FM104",
+    "stream_urls": [
+      "https://onic.dublin.live.stream.broadcasting.news/stream-fm104",
+      "https://wg.cdn.tibus.net/fm104MP3128"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "OjZ5IPOvlB54mS",
+    "name": "Dublin's Q102",
+    "stream_urls": [
+      "https://onic.dublin.live.stream.broadcasting.news/stream-q102",
+      "https://wg.cdn.tibus.net/q102MP3128"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SLsvMkxePtUay1",
+    "name": "Dublin's Q102 80s",
+    "stream_urls": [
+      "https://wg.cdn.tibus.net/Q10280s"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YaOXMvRieeAmy7",
+    "name": "East Coast FM",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/EASTCOAST"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ouYwwOFZI5sdbb",
+    "name": "Flirt FM 101.3",
+    "stream_urls": [
+      "https://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng",
+      "gle"
+    ]
+  },
+  {
+    "nanoid": "8BWI69LawY12e3",
+    "name": "Freedom FM",
+    "stream_urls": [
+      "https://edge3.audioxi.com/FREEDOMFM"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DifYt4vWMtDqfm",
+    "name": "Galway Bay FM",
+    "stream_urls": [
+      "https://wg.cdn.tibus.net/galwaybay.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ehoscFCaksi6N6",
+    "name": "Gem Radio New Wave",
+    "stream_urls": [
+      "https://gemradionw.radioca.st/;stream.nsv",
+      "https://gemradio.radioca.st/stream/1/"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ip6WCQzUwEEvTj",
+    "name": "GOCOM Radio",
+    "stream_urls": [
+      "https://stream-57.zeno.fm/6rx2z8u2um0uv"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rebMTc9EgLpskJ",
+    "name": "HeadWax Radio",
+    "stream_urls": [
+      "https://headwaxradio.radioca.st/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rtXCpesXdB52eB",
+    "name": "Highland Radio",
+    "stream_urls": [
+      "https://edge.audioxi.com/HIGHLAND"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DW9URQKmCzLvs4",
+    "name": "Hitmix Radio Ireland",
+    "stream_urls": [
+      "https://a8.asurahosting.com:7180/radio.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ovdJxPZaBvHFUv",
+    "name": "Ignore Radio Shoegaze",
+    "stream_urls": [
+      "https://sp1.autopo.st/8026/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LbCCxSyc2HgGC9",
+    "name": "iRadio",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/IRADNW",
+      "https://live-bauerie.sharp-stream.com/IRADNWAAC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RI2NnVH9WioqoK",
+    "name": "Ireland's Classic Hits Radio",
+    "stream_urls": [
+      "https://stream.audioxi.com/CLASSIC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "axOM4yS33ONwMM",
+    "name": "Kfm 97.6",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/KFM"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WOXHcrLbcoLrQh",
+    "name": "Life FM",
+    "stream_urls": [
+      "https://uksoutha.streaming.broadcast.radio:28140/lifefm"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "GIKOTIWnWl4zSl",
+    "name": "Limerick's Live 95FM",
+    "stream_urls": [
+      "https://wg.cdn.tibus.net/Live95fm"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5dzIAXfcgqsz5v",
+    "name": "LMFM",
+    "stream_urls": [
+      "https://wg.cdn.tibus.net/LMFM"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Zbh5N9QzxUVbYV",
+    "name": "LMFM Country Express",
+    "stream_urls": [
+      "https://gbradio.cdn.tibus.net/LMFMCountry"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "S9GRaULwwud6ay",
+    "name": "Longwave Music Radio",
+    "stream_urls": [
+      "https://longwave.out.airtime.pro/longwave_b"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "O5lMdoQyby1khN",
+    "name": "Loughrea Community Radio",
+    "stream_urls": [
+      "https://stream1.hippynet.co.uk/stream/loughrea"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VD1zxsXrNwOAQO",
+    "name": "Midwest Radio",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+      "https://edge-audio-01-gos2.sharp-stream.com/midwestfmie2.aac",
+      "https://direct.sharp-stream.com/midwestfmie.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8FPsEoAjfNAfbn",
+    "name": "MixLive - Progressive & Tech-house",
+    "stream_urls": [
+      "https://strw3.openstream.co/939"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ASfTtTtO52eA97",
+    "name": "MPB Radio 1",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radio1.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "I87BHCj2Gjy2yc",
+    "name": "MPB Radio 1 MixMingle",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4j8bcBFb3dn3Pi",
+    "name": "MPB Radio 2",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radio2.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hMY5FdH2Fck6FH",
+    "name": "MPB Radio 2 90s & 00s",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radio2-90s00s.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1pJoOJKbArEWg2",
+    "name": "MPB Radio 2 Christmas",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radio2xmas.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BjlPcSl3jYYqNy",
+    "name": "MPB Radio 2 Easy",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radio2easy.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lyvDPWoa3XrMBP",
+    "name": "MPB Radio 2 Ulster",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/radioulster.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lL27G6Gv0XTZwb",
+    "name": "Near FM",
+    "stream_urls": [
+      "https://nearfm-radiohosting.radioca.st/stream.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng",
+      "gle"
+    ]
+  },
+  {
+    "nanoid": "pyaKMvXOAgT2ti",
+    "name": "Newstalk",
+    "stream_urls": [
+      "https://edge.audioxi.com/NT",
+      "https://live-bauerie.sharp-stream.com/NTAAC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "glOMYEbPpKBH6s",
+    "name": "Off The Ball Sports Radio",
+    "stream_urls": [
+      "https://stream.audioxi.com/OTB"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "v2itrElss1Ae01",
+    "name": "Onic 80s",
+    "stream_urls": [
+      "https://live.onic.ie/stream-80s"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cZt1JelZSCis8Q",
+    "name": "Onic Alternative",
+    "stream_urls": [
+      "https://live.onic.ie/stream-alternative"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mxjRtdEP3pWIRF",
+    "name": "Onic Classical",
+    "stream_urls": [
+      "https://live.onic.ie/stream-classical"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lSPinMoDHJKOMh",
+    "name": "Onic Country",
+    "stream_urls": [
+      "https://live.onic.ie/stream-country"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kaufBQw0LrAxot",
+    "name": "Onic Gold",
+    "stream_urls": [
+      "https://live.onic.ie/stream-gold"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hb8Ejul6fjeDxN",
+    "name": "Onic Hits",
+    "stream_urls": [
+      "https://live.onic.ie/stream-hits"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ISsekweqpwXLBJ",
+    "name": "Onic Kids",
+    "stream_urls": [
+      "https://live.onic.ie/stream-kids"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "CljqWNvKGFTX62",
+    "name": "Onic Movies",
+    "stream_urls": [
+      "https://live.onic.ie/stream-movies"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fMVgTtvUHCXWYG",
+    "name": "Onic RnB",
+    "stream_urls": [
+      "https://live.onic.ie/stream-rnb"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fbI7y88Xo8Qc03",
+    "name": "Onic Rock",
+    "stream_urls": [
+      "https://live.onic.ie/stream-rock"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "689gidKqVdid7f",
+    "name": "Pacific FM",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/pacificfm"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wodcSJC2tR98zB",
+    "name": "Pacific FM Relax",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/pacificfm-relax"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PIJGLyayq5qtWj",
+    "name": "Planet Radio Ireland",
+    "stream_urls": [
+      "https://media.planetradio.ie/radio/8000/ACC",
+      "https://media.planetradio.ie/radio/8000/OnAir"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mHd0JBheXoJfV4",
+    "name": "Pride Vibes",
+    "stream_urls": [
+      "https://live.onic.ie/stream-pride-vibes"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nSn6e4mV5HDnnd",
+    "name": "Radio Cenzura",
+    "stream_urls": [
+      "https://live.radiocenzura.pl:8000/radio.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "73QDZTariKCLOz",
+    "name": "Radio Kerry",
+    "stream_urls": [
+      "https://edge.audioxi.com/KERRY"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mfS4owe17ioU6d",
+    "name": "Radio Nova",
+    "stream_urls": [
+      "https://edge2.audioxi.com/NOVA",
+      "https://stream.audioxi.com/NOVA"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Dqgpm0cnwpx3gJ",
+    "name": "Radio Siamsa",
+    "stream_urls": [
+      "https://cast02.siamsa.ie/radio/8000/radio.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng",
+      "gle"
+    ]
+  },
+  {
+    "nanoid": "jVgK2VRKpI9sRR",
+    "name": "Radio Zodiac",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/124966/stream/164656",
+      "https://www.radioking.com/play/radio-zodiac-ireland"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9J67KkobCQXYss",
+    "name": "Raidió Rí-Rá",
+    "stream_urls": [
+      "https://icy-zurich.mpbnl.nl/rrr",
+      "https://uksoutha.streaming.broadcast.radio/ri-ra"
+    ],
+    "country": "ie",
+    "languages": [
+      "gle"
+    ]
+  },
+  {
+    "nanoid": "KeEMS6vwSWvwRh",
+    "name": "RetroNow",
+    "stream_urls": [
+      "https://retronow.radioca.st/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xhOtWeYFaf0z2k",
+    "name": "Rewind Greatest Hits",
+    "stream_urls": [
+      "https://christmasfm.cdnstream1.com/2551_128.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "R6v0EpXwLAKWYE",
+    "name": "RTÉ 2fm",
+    "stream_urls": [
+      "https://icecast.rte.ie/2fm",
+      "https://icecast2.rte.ie/ie2fm"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5PgEW5jgUv8O4T",
+    "name": "RTÉ Gold",
+    "stream_urls": [
+      "https://icecast1.rte.ie/gold"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YHWY2jjPOnW9du",
+    "name": "RTÉ lyric fm",
+    "stream_urls": [
+      "https://icecast.rte.ie/lyric"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3QrHj4eie1hoFp",
+    "name": "RTÉ Radio 1",
+    "stream_urls": [
+      "https://icecast1.rte.ie/radio1",
+      "https://icecast.rte.ie/radio1",
+      "https://icecast.rte.ie/ieradio1"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng",
+      "gle"
+    ]
+  },
+  {
+    "nanoid": "hB2x092SdhmhPs",
+    "name": "RTÉ Raidió na Gaeltachta",
+    "stream_urls": [
+      "https://icecast2.rte.ie/rnag"
+    ],
+    "country": "ie",
+    "languages": [
+      "gle"
+    ]
+  },
+  {
+    "nanoid": "twtWwB9zK8PXfb",
+    "name": "Scariff Bay Community Radio",
+    "stream_urls": [
+      "https://s4.radio.co/s87ac5cf5a/listen"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "S2JRLH3f1LUS75",
+    "name": "Shannonside FM",
+    "stream_urls": [
+      "https://edge.audioxi.com/SHANNONSIDE"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cm4HYwkAc0o747",
+    "name": "Solid Gold Radio Ireland",
+    "stream_urls": [
+      "https://a1.asurahosting.com:10000/radio.mp3",
+      "https://az11.yesstreaming.net:8020/radio.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YDRJxn5W6V0NKZ",
+    "name": "South East Radio",
+    "stream_urls": [
+      "https://edge4.audioxi.com/SOUTHEAST"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "L6DQBwoo4JeeDQ",
+    "name": "SPIN 1038",
+    "stream_urls": [
+      "https://edge.audioxi.com/SP",
+      "https://live-bauerie.sharp-stream.com/SP"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yIE7HPksTvGqA4",
+    "name": "SPIN South West",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/SW",
+      "https://edge.audioxi.com/SW",
+      "https://stream.audioxi.com/SW"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1rQgxlEDIGgrMj",
+    "name": "Sunshine 106.8",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/SUN"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xMM8PvjztRQWmc",
+    "name": "The Sound of Ireland",
+    "stream_urls": [
+      "https://christmasfm.cdnstream1.com/2548_128.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KDv4bTnQraRJh0",
+    "name": "Timewarp Ireland",
+    "stream_urls": [
+      "https://broadcast.shoutstream.co.uk:8052/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "GMd5oUKQrpfQWc",
+    "name": "Tipp FM",
+    "stream_urls": [
+      "https://edge.audioxi.com/TIPPFM"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HLkLJ5gYeRuMQF",
+    "name": "Tipperary Mid West Radio",
+    "stream_urls": [
+      "https://rsstreaming.com/proxy/tippmwr/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "R0hzPW9rfDKvmm",
+    "name": "Today FM",
+    "stream_urls": [
+      "https://stream.audioxi.com/TD",
+      "https://pri.gocaster.net/td",
+      "https://edge.audioxi.com/TDAAC",
+      "https://live-bauerie.sharp-stream.com/TDAAC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DdeohAYR3iLj8X",
+    "name": "Today FM 80s",
+    "stream_urls": [
+      "https://edge3.audioxi.com/T80",
+      "https://live-bauerie.sharp-stream.com/T80",
+      "https://stream.audioxi.com/T80"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LJoj1zFr8ylnX8",
+    "name": "Today FM 90s",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/T90"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ELEss9FYd3a5gA",
+    "name": "Total Country",
+    "stream_urls": [
+      "https://totalcountry.radioca.st/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "enAdKIQj7LOK1p",
+    "name": "TrancePulse Dublin",
+    "stream_urls": [
+      "https://stream.trance.ie:8443/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pwkZaIJsOsGOcF",
+    "name": "UCB I Worship",
+    "stream_urls": [
+      "https://stream.btsstream.com/stream/iworship"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ZeCjKTiek5WnQC",
+    "name": "West Limerick 102 FM",
+    "stream_urls": [
+      "https://s29.myradiostream.com/17796/listen.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rRNc82JSVx3uuH",
+    "name": "West Side Radio",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/westsideradio.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cq7uJ5BdospOsX",
+    "name": "Wired 99.9 FM",
+    "stream_urls": [
+      "https://s2.radio.co/sf0986595a/listen"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "U7ek95nOL9isnB",
+    "name": "WLR FM",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/WLRAAC"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  }
+]

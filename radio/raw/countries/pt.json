@@ -1,0 +1,1400 @@
+[
+  {
+    "nanoid": "IcpA0ILZ0xJBot",
+    "name": "105.4 Cascais",
+    "stream_urls": [
+      "https://play.radioregional.pt:8220/stream/2/;;/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "XMP88wqVNzoQc0",
+    "name": "4Drive Jazz",
+    "stream_urls": [
+      "https://radio.streemlion.com:4870/stream",
+      "https://radio.streemlion.com:1150/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "icUN3EuOLZr3U0",
+    "name": "91FM Rádio",
+    "stream_urls": [
+      "https://sp0.redeaudio.com/9878/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "7IMkkaSHesdBDz",
+    "name": "Antena 1",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena180a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "JnaHEPp4CEnIMO",
+    "name": "Antena 1 Açores",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena1acores80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "wuydkn8dVNijHt",
+    "name": "Antena 1 Fado",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena1fado80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "FJwhcrdwirg4oa",
+    "name": "Antena 1 Lusitânia",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/lusitania80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "aea3v36taaW7RF",
+    "name": "Antena 1 Madeira",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena1madeira80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "pVeiCYxbXzsYN7",
+    "name": "Antena 2",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena280a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "hg5DuNQ6YQ8rog",
+    "name": "Antena 2 Jazzin",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena2jazzin80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "C6zcqPlORTPZQN",
+    "name": "Antena 2 Ópera",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena2opera80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "pxjEfE1dugyap9",
+    "name": "Antena 3",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena380a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "iKIhmAFFz824vi",
+    "name": "Antena 3 Madeira",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/antena3madeira80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "8elyTqykHXKLF5",
+    "name": "Batida FM",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/batidafm.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "il1AJhrpVeJZWM",
+    "name": "BBN Rádio",
+    "stream_urls": [
+      "https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "WPuUNLBqoUp0c5",
+    "name": "Cascais FM 105.4",
+    "stream_urls": [
+      "https://play.radioregional.pt:8220/stream/2/;/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "MxQJkGHsoK3t56",
+    "name": "Cidade FM",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/cidade.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PCO5ZHfrS5DQvo",
+    "name": "Clube 106.8 FM",
+    "stream_urls": [
+      "https://audio.serv.pt/8020/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "QPn2tVpKblcYKR",
+    "name": "Cool FM Albufeira",
+    "stream_urls": [
+      "https://a1.asurahosting.com:9360/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "xe0QKj5lJjJDeJ",
+    "name": "Futura - Rádio de Autor",
+    "stream_urls": [
+      "https://s4.radio.co/s7e7b6c165/listen"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9wAIOswhYJfGaI",
+    "name": "Golo FM",
+    "stream_urls": [
+      "https://sp0.redeaudio.com/8154/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "NQQUWTTV7TkxKB",
+    "name": "Gongas Rádio",
+    "stream_urls": [
+      "https://a6.asurahosting.com:7930/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "UY9sSAhNNTzMpt",
+    "name": "La French Radio",
+    "stream_urls": [
+      "https://www.radioking.com/play/lfr-portugal"
+    ],
+    "country": "pt",
+    "languages": [
+      "fra",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "jyLLpHYfXzQ7cg",
+    "name": "Lusophonica",
+    "stream_urls": [
+      "https://stream.radiojar.com/dxkmh6hv1f8uv"
+    ],
+    "country": "pt",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "hLVATr5wv6xEDf",
+    "name": "M80 60's",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m8060.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "3H7giXQRsbzWOE",
+    "name": "M80 70's",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m8070.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "q6n0jYZ6uX2mkh",
+    "name": "M80 80's",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m8080.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "CVGB4JQ2nEJMTl",
+    "name": "M80 90's",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m8090.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "l1VF6XA7reZ06S",
+    "name": "M80 Ballads",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80ballads.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "837xRKZO8OzizH",
+    "name": "M80 Dance",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80dance.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "dduCZu025BRKGL",
+    "name": "M80 Indie",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80indie.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "GWelh2hVE7JgZR",
+    "name": "M80 Pop",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80pop.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "mZPWLpklBxxFGE",
+    "name": "M80 Portugal",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80nacional.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PFSc1Z5q9bihsY",
+    "name": "M80 Radio",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "5dn6sQBIFGixtP",
+    "name": "M80 Rock",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80rock.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "KsNvStptvxnrX4",
+    "name": "M80 Soul",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/m80soul.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "TVqCHiJQjGWA8g",
+    "name": "Manitu Rock Radio",
+    "stream_urls": [
+      "https://radio.streemlion.com:4515/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "STUVJupnDRMDFw",
+    "name": "Mega Hits",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "wFYVTd3qFAjNUC",
+    "name": "MFM",
+    "stream_urls": [
+      "https://radios.justweb.pt/8074/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "uJfh52c0a5ti7Z",
+    "name": "NiTfm",
+    "stream_urls": [
+      "https://sp0.redeaudio.com/8028/stream/"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "4gLXaCNSvhGdwP",
+    "name": "Noite FM",
+    "stream_urls": [
+      "https://servidor.noite.pt:9002/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "xbqbMxyW5Ytwb1",
+    "name": "Oceano Pacífico",
+    "stream_urls": [
+      "https://stm7.xradios.com.br:6944/live"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "4A7RKAWxAdkZSF",
+    "name": "Porão da Nau Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/rwmao7mxxt8vv"
+    ],
+    "country": "pt",
+    "languages": [
+      "por",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mBFaCAG0BusNzG",
+    "name": "Radio CapSao",
+    "stream_urls": [
+      "https://str0.creacast.com/capsao_a"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "xGr7c7cifd63nC",
+    "name": "Radio Metal On: 80s HNH",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "1SnkrJYCREhPdf",
+    "name": "Radio Metal On: The Brutal",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "H7i2CQZB7Ofqne",
+    "name": "Radio Metal On: The Heavy",
+    "stream_urls": [
+      "https://radiometalon.com/radio/8000/radio.mp3",
+      "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cUcEqkl0tdnY0Y",
+    "name": "Radio Metal On: The Thrasher",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "K2t8hgBzffkuXy",
+    "name": "Radio Metal On: Toxic",
+    "stream_urls": [
+      "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "4ebotqOgVx61lQ",
+    "name": "Radio Nigga Alt",
+    "stream_urls": [
+      "https://nigga.pt/alt.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ScwtzyutnAOISV",
+    "name": "Radio Nigga Ambient",
+    "stream_urls": [
+      "https://nigga.pt/ambient.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "LcjNpvbVqOxc7g",
+    "name": "Radio Nigga Chill",
+    "stream_urls": [
+      "https://nigga.pt/chill.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "8ePTl0D8zrWlax",
+    "name": "Radio Nigga Hood",
+    "stream_urls": [
+      "https://nigga.pt/hood.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "jGktPdLlW6nQMG",
+    "name": "Radio Nigga Metal",
+    "stream_urls": [
+      "https://nigga.pt/metal.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "TEeHSsx7kmUywn",
+    "name": "Radio Nigga Party",
+    "stream_urls": [
+      "https://nigga.pt/party.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "hmlHtQxMssmgH5",
+    "name": "Radio Orbital",
+    "stream_urls": [
+      "https://ec2.yesstreaming.net:3025/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "JhLWXKK6sYnYvK",
+    "name": "Radio TugaNet",
+    "stream_urls": [
+      "https://ssl.stmxp.net:8006/;"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "lignrGZRftGjYP",
+    "name": "RCP-VAR",
+    "stream_urls": [
+      "https://sonic.servsonic.com:7003/;",
+      "https://sonic.servsonic.com/8028/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Ra8Mbdd72x73ul",
+    "name": "RDP Internacional",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/rdpint80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "JEgpaVKwVyUdzm",
+    "name": "RDP África",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/rdpafrica80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "lsi7EZLNkf86IF",
+    "name": "Record FM Porto",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8028/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "S5qNdZ76Ml2xmW",
+    "name": "Replay News",
+    "stream_urls": [
+      "https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "KAQ8a0tkWWjig2",
+    "name": "RES FM 107.9",
+    "stream_urls": [
+      "https://stream2.soundflux.eu:8440/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ZIa9mAJ7qSmZKX",
+    "name": "Rewind 2000's",
+    "stream_urls": [
+      "https://2000.streeemer.com/listen/2000s/radio.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "TqW2YbOKjZsQkK",
+    "name": "RFM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
+      "https://22593.live.streamtheworld.com/RFMAAC.aac",
+      "https://23603.live.streamtheworld.com/RFMAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "jNI5XjE2D6cpgn",
+    "name": "RFM 00's",
+    "stream_urls": [
+      "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac",
+      "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "uG7ANOC85CcV7i",
+    "name": "RFM 80's",
+    "stream_urls": [
+      "https://25343.live.streamtheworld.com/GR80SRFMAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "F2TXQXtSIVkwPF",
+    "name": "RFM 90's",
+    "stream_urls": [
+      "https://25343.live.streamtheworld.com/RFM_90SAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "JgX0aHkJsqWihW",
+    "name": "RFM Dance It",
+    "stream_urls": [
+      "https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ghbtHv8S0JvyzE",
+    "name": "RFM Jazzy",
+    "stream_urls": [
+      "https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "3o7fSQKSqBeFoV",
+    "name": "RFM Latinas",
+    "stream_urls": [
+      "https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "B9eJRjA8Qjhn56",
+    "name": "RFM Novas",
+    "stream_urls": [
+      "https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "udeRld8MAPWNMq",
+    "name": "RFM Oceano Pacífico",
+    "stream_urls": [
+      "https://27943.live.streamtheworld.com/RFMAAC.aac",
+      "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "lNoZuQBBY2KLJe",
+    "name": "RFM Rocks",
+    "stream_urls": [
+      "https://25343.live.streamtheworld.com/RFMONTHEROCKAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "MZ1hZtE6QjUOSU",
+    "name": "RFM Toca Portugal",
+    "stream_urls": [
+      "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "C1XNT4hC16txZd",
+    "name": "RIO - Rádio Internacional Odemira",
+    "stream_urls": [
+      "https://c30.radioboss.fm:18510/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Qw5vxQk8Ex1dex",
+    "name": "RUC - Rádio Universidade de Coimbra",
+    "stream_urls": [
+      "https://stream.ruc.pt/high"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "oJnSTQGt0MorXd",
+    "name": "Rádio Alto Minho",
+    "stream_urls": [
+      "https://ec2.yesstreaming.net:3705/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "3ewhT1P8x5xMJH",
+    "name": "Rádio Amor Portugal",
+    "stream_urls": [
+      "https://stream.radioamorportugal.com:8443/rap.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Pk1YRIjeHjHHBQ",
+    "name": "Rádio Botaréu",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8238/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "yBKaIBy99GqKNX",
+    "name": "Rádio Bíblia SBB",
+    "stream_urls": [
+      "https://servidor30-4.brlogic.com:7398/live"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "rOiPp2gJiw6741",
+    "name": "Rádio Calheta",
+    "stream_urls": [
+      "https://player.radiocalheta.pt/listen/radiocalheta/live"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "91r1bKe09plEXo",
+    "name": "Rádio Campo Maior",
+    "stream_urls": [
+      "https://radios2.justweb.pt:8064/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "JgxKM0ZpxOulDl",
+    "name": "Rádio Cantinho dos Emigrantes",
+    "stream_urls": [
+      "https://cast.redewt.net:9825/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "zABIKC6f9fmQSR",
+    "name": "Rádio Clube de Grândola",
+    "stream_urls": [
+      "https://link.radios.pt/rcg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "urxuhEfRlsN8o5",
+    "name": "Rádio Comercial Dance",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/rcdance.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "3XuqN1iCdANYSY",
+    "name": "Rádio Comercial Kids",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/rckids.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Y7DdthGXDTtc0U",
+    "name": "Rádio Comercial Natal",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/rcxmas.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "boWOt26TC6q0pa",
+    "name": "Rádio Comercial Portugal",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/rctuga.aac",
+      "https://stream-icy.bauermedia.pt/comercial.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PBVcvPuOm4TjHG",
+    "name": "Rádio Comercial Rock",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/rcrock.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "svMQmbhzlpFhF9",
+    "name": "Rádio Elvas",
+    "stream_urls": [
+      "https://radios2.justweb.pt:8066/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "4AtluSW6REZxma",
+    "name": "Rádio Fado de Coimbra",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8048/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "wu4nW8FRzjzLQD",
+    "name": "Rádio Festival",
+    "stream_urls": [
+      "https://audio.serv.pt/8012/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "dlsoxAe4b3f6SG",
+    "name": "Rádio Foz do Mondego",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8216/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "mr2Wbc8GjvRX5V",
+    "name": "Rádio Freguesia de Belém",
+    "stream_urls": [
+      "https://s2.radio.co/s0ddea4a53/listen"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "GgO3SgEtp1eAO8",
+    "name": "Rádio Fronteira",
+    "stream_urls": [
+      "https://radios2.justweb.pt/8074/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "eacoYkmD7Fw410",
+    "name": "Rádio Geice",
+    "stream_urls": [
+      "https://ec2.yesstreaming.net:3275/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "hSM9n3wAI8Adxf",
+    "name": "Rádio Lafões",
+    "stream_urls": [
+      "https://sp0.redeaudio.com/9304/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "sOneH1Q7BX443M",
+    "name": "Rádio Linear",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8184/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "rZo82nFwNJm6hE",
+    "name": "Rádio Maiorca FM",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8182/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "80IqJ78pCklUgA",
+    "name": "Rádio Meio Do Mato",
+    "stream_urls": [
+      "https://radio.meiodomato.com/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0E40wrQDMGVd32",
+    "name": "Rádio Movimento",
+    "stream_urls": [
+      "https://stream.rcast.net/61025"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PYSWXWVTGFFGka",
+    "name": "Rádio Natal Caria",
+    "stream_urls": [
+      "https://stream-57.zeno.fm/zb5w8yybqxhvv"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "rD4cUmJjhpCgSp",
+    "name": "Rádio NoAr",
+    "stream_urls": [
+      "https://radios.justweb.pt/8034/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "b5HAHEwbuM3UrV",
+    "name": "Rádio Nova Antena",
+    "stream_urls": [
+      "https://radios2.justweb.pt:8068/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "vCuAv5zurcpTvK",
+    "name": "Rádio Observador",
+    "stream_urls": [
+      "https://streamingv2.shoutcast.com/observador_64.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "0WvMSj175Xmooc",
+    "name": "Rádio Palmeira 96.1 FM",
+    "stream_urls": [
+      "https://audio.serv.pt/8018/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "S61CVxYvlZsBY6",
+    "name": "Rádio Paralelo",
+    "stream_urls": [
+      "https://radioparalelo.indymedia.pt:8443/main.ogg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "sggDQz1qzw6pxF",
+    "name": "Rádio Popular de Soure",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8072/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ac7eAKamZxwKzc",
+    "name": "Rádio Portugal Mais",
+    "stream_urls": [
+      "https://sv15.hdradios.net:7432/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "8OflrcsSh3kLZS",
+    "name": "Rádio Regional",
+    "stream_urls": [
+      "https://play.radioregional.pt/stream/2/"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ywTfKMs13LyIwZ",
+    "name": "Rádio Regional do Centro",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8030/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PrmXwsl8NF1DAK",
+    "name": "Rádio Renascença",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC",
+      "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "GC17JXOExicfnL",
+    "name": "Rádio Sol 103.7 FM",
+    "stream_urls": [
+      "https://audio.serv.pt/8010/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PRroHNj93Oqxri",
+    "name": "Rádio Vizela",
+    "stream_urls": [
+      "https://proxy-audio.ptisp.com:8100/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "WvhyQbFw7FfriA",
+    "name": "Rádio Voz do Neiva",
+    "stream_urls": [
+      "https://sp0.redeaudio.com/8092/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "vD2Ove5S2RRI5a",
+    "name": "Rádio XL FM 92.8",
+    "stream_urls": [
+      "https://radios.justweb.pt/8002/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "0xoCnUsPb7grE0",
+    "name": "Rádio Zarco 89.6 FM",
+    "stream_urls": [
+      "https://audio.serv.pt/8014/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "buM7090MIAYYEd",
+    "name": "Rádio Zig Zag",
+    "stream_urls": [
+      "https://radiocast.rtp.pt/zigzag80a.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "KUypKpQpcqq1Zd",
+    "name": "Smooth FM Soul",
+    "stream_urls": [
+      "https://stream-icy.bauermedia.pt/smoothsoul.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "LVbB6eTQu50Vqi",
+    "name": "SoundWorks Radio",
+    "stream_urls": [
+      "https://soundworks.live/listen/soundworks/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "LYMdOHamVbRAjB",
+    "name": "TSF Rádio Notícias",
+    "stream_urls": [
+      "https://directo.tsf.pt/tsfdirecto.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "OQKBlDvLma7s4p",
+    "name": "TSF Rádio Notícias 89.5 FM",
+    "stream_urls": [
+      "https://tsfdirecto.tsf.pt/tsfdirecto.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "c65PBagMst1c0R",
+    "name": "Wave Vibes",
+    "stream_urls": [
+      "https://a6.asurahosting.com/listen/wave_vibes/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F3iPdyU8eXi5cM",
+    "name": "Wonder 80's",
+    "stream_urls": [
+      "https://80.streeemer.com/listen/80s/radio.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  }
+]

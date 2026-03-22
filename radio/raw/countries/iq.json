@@ -1,0 +1,163 @@
+[
+  {
+    "nanoid": "rOyRbeimVj5BWq",
+    "name": "Albilad Radio",
+    "stream_urls": [
+      "https://streamer.radio.co/sb38bf6e66/listen"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "TIqA30539MMWFt",
+    "name": "Darusalam Radio",
+    "stream_urls": [
+      "https://streams.radio.co/s0975ec186/listen"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "jAQDzKUwAsguwM",
+    "name": "Hawa Dijlah",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/96766/stream/136030"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "6717CtKni0vURT",
+    "name": "Kurdistan 24",
+    "stream_urls": [
+      "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf"
+    ],
+    "country": "iq",
+    "languages": [
+      "kur",
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "g4XoFUDXvLRqjL",
+    "name": "Kurdistan 24 Radio",
+    "stream_urls": [
+      "https://streams.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf"
+    ],
+    "country": "iq",
+    "languages": [
+      "kur",
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "R44OFBqXW8JRpB",
+    "name": "Mustaqbal FM",
+    "stream_urls": [
+      "https://edge.mixlr.com/channel/vnvcj"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "pF15eUsxnMGZSn",
+    "name": "New Life Radio 97.1 FM",
+    "stream_urls": [
+      "https://s2.radio.co/sd3c7f8539/listen"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AO5pgG6jOOVHHz",
+    "name": "Radio 8",
+    "stream_urls": [
+      "https://a8.asurahosting.com:7850/radio.mp3"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ewuRCPmYNIacsY",
+    "name": "Radio Al Rasheed 91.5 FM",
+    "stream_urls": [
+      "https://streaming.shoutcast.com/alrasheed-fm"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "1e1QgRYh7j9cIu",
+    "name": "Radio Maria Erbil",
+    "stream_urls": [
+      "https://dreamsiteradiocp4.com/proxy/rmerbil1?mp=/stream"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "OhiQyicNyTnal8",
+    "name": "Rudaw Radio",
+    "stream_urls": [
+      "https://l3.itworkscdn.net/itwaudio/9006/stream"
+    ],
+    "country": "iq",
+    "languages": [
+      "kur"
+    ]
+  },
+  {
+    "nanoid": "zSffCfmyPIkxeF",
+    "name": "Shafaq Radio",
+    "stream_urls": [
+      "https://radio.shafaq.com/radio"
+    ],
+    "country": "iq",
+    "languages": [
+      "kur",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "5T2zgjCWHtEI9A",
+    "name": "Sumer FM",
+    "stream_urls": [
+      "https://l3.itworkscdn.net/itwaudio/9012/stream"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "gfQ52MuM9GWuWk",
+    "name": "Turkmen FM",
+    "stream_urls": [
+      "https://radyo1.radyo-dinle.tc/8284/stream;"
+    ],
+    "country": "iq",
+    "languages": [
+      "tur",
+      "ara"
+    ]
+  }
+]

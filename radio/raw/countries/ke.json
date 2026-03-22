@@ -1,0 +1,431 @@
+[
+  {
+    "nanoid": "yFdFyVl7hBji9T",
+    "name": "Akamba FM",
+    "stream_urls": [
+      "https://a9.asurahosting.com:7350/radio.mp3"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "EBtSXjBSERKfup",
+    "name": "AT254 Radio",
+    "stream_urls": [
+      "https://s127.radiolize.com/radio/8100/radio.mp3"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "32jaZcItmi6rEO",
+    "name": "Campus Radio Kenya",
+    "stream_urls": [
+      "https://stream.zenolive.com/mayn36v1v8quv.aac"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "60LRv6Krd8vWf1",
+    "name": "Capital FM",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/capitalfm"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JYMhic61YxCDeX",
+    "name": "Classic 105",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/classic105"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "N2acexQTRTjogD",
+    "name": "East FM",
+    "stream_urls": [
+      "https://eastfm-atunwadigital.streamguys1.com/eastfm"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "n0ECs5QRLbv7pQ",
+    "name": "Easy FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/wvw02zaqpxquv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mDyDFAgsXbcQSt",
+    "name": "Emmachev Radio",
+    "stream_urls": [
+      "https://radio.emmachev.com/listen/emmachev-radio/radio.mp3"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "GHv4bvAJz9boLH",
+    "name": "Family Radio 316",
+    "stream_urls": [
+      "https://uksoutha.streaming.broadcast.radio/familyradio"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "gMZpr4HWM8Hgpa",
+    "name": "Getu FM",
+    "stream_urls": [
+      "https://stream-172.zeno.fm/f5zfuvbuvs8uv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "9M3QuD4XUrUfyG",
+    "name": "Ghetto Radio",
+    "stream_urls": [
+      "https://stream-27.zeno.fm/kvudezx1h2zuv",
+      "https://stream-47.zeno.fm/gf58b0pt5x8uv",
+      "https://stream.zeno.fm/cs4q33arb2zuv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "HmETdFABn9Uqv2",
+    "name": "Ghetto Radio 89.5",
+    "stream_urls": [
+      "https://stream.zeno.fm/kvudezx1h2zuv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "Us7aWHJDeQKhF2",
+    "name": "Hot 96",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/hot96"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "uEgJQAbqkK9sRR",
+    "name": "Irie FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/6zszyw9tarzuv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "K2vf0Aq2TTVpvk",
+    "name": "Jembe FM",
+    "stream_urls": [
+      "https://cast3.asurahosting.com/proxy/jembemed/stream"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LSMk0hG3FmvIWw",
+    "name": "Jesus Is Lord Radio",
+    "stream_urls": [
+      "https://s3.radio.co/s97f38db97/listen"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "5wveCwDi7RZ6vR",
+    "name": "Juja FM",
+    "stream_urls": [
+      "https://node-10.zeno.fm/5w8y7wcf9x8uv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng",
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "3zH6bSDWqGrumb",
+    "name": "Juraini Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/fe0nc58z8vzuv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bJWObKv80J6vda",
+    "name": "Kayu FM",
+    "stream_urls": [
+      "https://n01.radiojar.com/v3ny5z2mftuvv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "IdT3wUKCHnjFqn",
+    "name": "KBC Coro FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/xv5375hfkbruv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "UE1dhnwVbGG9bp",
+    "name": "KBC Kitwek FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/gh67mvp8f2zuv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "4ULyaxnz9q0mY8",
+    "name": "KBC Mayienga FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/ayw9hk0st5quv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "DafhOBUlzg7SkG",
+    "name": "KBC Minto FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/u3dw22zst5quv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "VpdsArn5A6o99v",
+    "name": "KBC Pwani FM",
+    "stream_urls": [
+      "https://stream-153.zeno.fm/3fmgar1a94zuv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "KHF8u6BFw33wVZ",
+    "name": "KBC Radio Taifa",
+    "stream_urls": [
+      "https://stream.zeno.fm/ud2u96xst5quv",
+      "https://stream-161.zeno.fm/4fdwx9mydbruv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "2qONoTLNuRcM9e",
+    "name": "Kenya1 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/cmgkmed5u18uv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "mp98AfXkBG8nno",
+    "name": "Kiss 100 FM",
+    "stream_urls": [
+      "https://kiss100fm-atunwadigital.streamguys1.com/kiss100fm"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "L3cpaP6eWTQkdD",
+    "name": "Kustom Media Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/3zgc6zpfvorvv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "ZbyQ7RlsUUJUMU",
+    "name": "MBCI Radio",
+    "stream_urls": [
+      "https://uk4-vn.mixstream.net/:8078/listen.mp3"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "pwmdsnRTN0K9Vj",
+    "name": "Mwatu FM",
+    "stream_urls": [
+      "https://stream-26.zeno.fm/ppe1pafexa0uv"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "WRVEFIbbuftgod",
+    "name": "Nation FM",
+    "stream_urls": [
+      "https://stream.radiojar.com/3by7s8eg65quv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PuseoWCXqmV01K",
+    "name": "NRG Radio",
+    "stream_urls": [
+      "https://streamingv2.shoutcast.com/nrg-radio-ke"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tRUgpPs0OtXf66",
+    "name": "Radio 47",
+    "stream_urls": [
+      "https://streaming.shoutcast.com/radio-47"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "JWpHljRc54c0de",
+    "name": "Radio Ashe",
+    "stream_urls": [
+      "https://usa1-vn.mixstream.net/:8086/listen.mp3"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "tWxuLJSNpGbx7c",
+    "name": "Radio Jambo",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/radiojambo"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "cBra1ox3Z1UYS4",
+    "name": "Rastyle Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/gf58b0pt5x8uv",
+      "https://stream-57.zeno.fm/gf58b0pt5x8uv"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LbF0zdDPwDo1VP",
+    "name": "RauteMusik Caribbean Wave",
+    "stream_urls": [
+      "https://streams.rautemusik.fm/caribbean-wave/mp3-192/"
+    ],
+    "country": "ke",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kFhnrm0mJxp1rI",
+    "name": "Replay News",
+    "stream_urls": [
+      "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  }
+]

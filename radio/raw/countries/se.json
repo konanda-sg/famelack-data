@@ -1,0 +1,566 @@
+[
+  {
+    "nanoid": "Hy7mXMtPnvlW9l",
+    "name": "Banjalučki Sevdah Radio Šeherčani",
+    "stream_urls": [
+      "https://stream-172.zeno.fm/wazhcyi9ak5vv"
+    ],
+    "country": "se",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "f4kZCErFL7i3C4",
+    "name": "BozRadio",
+    "stream_urls": [
+      "https://ais-edge08-live365-dal02.cdnstream.com/a80252",
+      "https://streaming.live365.com/a80252"
+    ],
+    "country": "se",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3a53OHyMTtRdcC",
+    "name": "Country Rocks Radio",
+    "stream_urls": [
+      "https://stream.dbmedia.se/crr96",
+      "https://stream.dbmedia.se/crrMP3"
+    ],
+    "country": "se",
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "kP42UcgLqxApFC",
+    "name": "Dansbandskanalen",
+    "stream_urls": [
+      "https://stream.dbmedia.se/dbk96",
+      "https://stream.dbmedia.se/dbkMP3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "sQOy8o18tsM3uW",
+    "name": "Gold 102.4",
+    "stream_urls": [
+      "https://live-bauerse-fm.sharp-stream.com/goldfm_web_se_aacp"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "nMTjAg2sl0FKCH",
+    "name": "Guldkanalen 60-tal",
+    "stream_urls": [
+      "https://stream.dbmedia.se/gk60talMP3",
+      "https://stream.dbmedia.se/gk60tal96"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "g5EkI0JGbS4fDi",
+    "name": "Guldkanalen 70-tal",
+    "stream_urls": [
+      "https://stream.dbmedia.se/gk70talMP3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "psKlN2LnhQPVFd",
+    "name": "Guldkanalen 80-tal",
+    "stream_urls": [
+      "https://stream.dbmedia.se/gk80tal96",
+      "https://stream.dbmedia.se/gk80talMP3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "vZWZmL2tA5jE2C",
+    "name": "Guldkanalen 90-tal",
+    "stream_urls": [
+      "https://stream.dbmedia.se/gk90tal96",
+      "https://stream.dbmedia.se/gk90talMP3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "4iOhIy8LT5r0kl",
+    "name": "Guldkanalen Helsingborg",
+    "stream_urls": [
+      "https://stream.dbmedia.se/gkhbg96"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "OKWYDvcvBw5aqp",
+    "name": "Guldkanalen Malmö",
+    "stream_urls": [
+      "https://stream.dbmedia.se/gk96"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "qPlAxEVfPex9wr",
+    "name": "Hitcity",
+    "stream_urls": [
+      "https://stream.hitcity.se/live"
+    ],
+    "country": "se",
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "66n11slZZfCfBx",
+    "name": "Linköpings Närradio",
+    "stream_urls": [
+      "https://stream.linkopingsnarradio.se:8005/radioprogram"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "hU1hS1kvlvj5BJ",
+    "name": "Lite FM 101.1",
+    "stream_urls": [
+      "https://streaming.943.se/lite.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "7DfSjNz0o8O1Re",
+    "name": "Mix Megapol",
+    "stream_urls": [
+      "https://edge-bauerse-03-gos2.sharp-stream.com/mixmegapol_instream_se_mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "GPqX3JLsYPRXaf",
+    "name": "Mix Megapol 104.3",
+    "stream_urls": [
+      "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+      "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "xQMKceNwEo27PP",
+    "name": "Northern Metal Radio Extreme",
+    "stream_urls": [
+      "https://s2.free-shoutcast.com/stream/18092"
+    ],
+    "country": "se",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cbOGtgqtdwwVza",
+    "name": "NRJ Sweden",
+    "stream_urls": [
+      "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "GmU6oUV48YE3cd",
+    "name": "Pirate Rock 95.4",
+    "stream_urls": [
+      "https://stream.piraterock.se:8101/webradio"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "hyyIPbnxDoNwvy",
+    "name": "Radio 88 Golden Hits",
+    "stream_urls": [
+      "https://streaming.943.se/radio88dans"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "OmNek9yxEPHC8P",
+    "name": "radio bubb.la",
+    "stream_urls": [
+      "https://live.radio.bubb.la/stream.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "57WJvrYYGNs9eh",
+    "name": "Radio Hope",
+    "stream_urls": [
+      "https://s2.radio.co/sfbf5f5b85/listen"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "Kbkfs65tjWg6yo",
+    "name": "Radio Laholm",
+    "stream_urls": [
+      "https://stream.zeno.fm/tf8vczzxrg0uv"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "8Pfayvxg1ZJdkQ",
+    "name": "Radio Nostalgi",
+    "stream_urls": [
+      "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+      "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "EcdzSGM8Oato8n",
+    "name": "Radio Orinoco",
+    "stream_urls": [
+      "https://icecast.radio-orinoco.com/orinoco"
+    ],
+    "country": "se",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZnwoyqjzqWFjfX",
+    "name": "Radio Rivendell",
+    "stream_urls": [
+      "https://play.radiorivendell.com/radio/8000/radio.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NNFjfrgU7nDMzE",
+    "name": "Radio Sandviken",
+    "stream_urls": [
+      "https://shout.rs8990.com/;"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "sjI2fwCktBRSYJ",
+    "name": "Radio Treby 87.8",
+    "stream_urls": [
+      "https://streaming.943.se/treby878"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "vAdsUqls94aImS",
+    "name": "Redback Radio",
+    "stream_urls": [
+      "https://redback.mywire.org/stream.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3y4rZ2M3A35ZA4",
+    "name": "Replay News",
+    "stream_urls": [
+      "https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "DD1AlhgY5QGbYy",
+    "name": "Retreat Radio",
+    "stream_urls": [
+      "https://retreatradio.out.airtime.pro:8000/retreatradio_b"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "IvIHeSxpok36zk",
+    "name": "Retro FM Skåne",
+    "stream_urls": [
+      "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "JYgXH2Gq4crNQt",
+    "name": "Rockklassiker 106.7",
+    "stream_urls": [
+      "https://edge-bauerse-01-gos2.sharp-stream.com/rockklassiker_instream_se_mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "YmJptfb0kgQ6Hr",
+    "name": "Spinning Seal FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/9q3ez3k3fchvv"
+    ],
+    "country": "se",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yCWd16TmQD9xFx",
+    "name": "Svensk Folkmusik",
+    "stream_urls": [
+      "https://mediaserv38.live-streams.nl:8107/stream"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "9pc86yz7rEZurF",
+    "name": "Svensk Pop",
+    "stream_urls": [
+      "https://edge-bauerse-02-thn.sharp-stream.com/svenskpop_se_mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "20vpwxYzY6xMCD",
+    "name": "Sveriges Radio P1",
+    "stream_urls": [
+      "https://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http",
+      "https://edge1.sr.se/p1-aac-320"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "qwnLcAMNQwkNmn",
+    "name": "Sveriges Radio P2",
+    "stream_urls": [
+      "https://live1.sr.se/p2-flac",
+      "https://edge1.sr.se/p2-flac"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "5lTMkcAWxNIp8o",
+    "name": "Sveriges Radio P3",
+    "stream_urls": [
+      "https://edge1.sr.se/p3-aac-320"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "WjU3un3LmxVtDm",
+    "name": "Sveriges Radio P4 Dalarna",
+    "stream_urls": [
+      "https://live1.sr.se/p4dala-aac-320"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "rzoVQRie28aqNR",
+    "name": "Sveriges Radio P4 Halland",
+    "stream_urls": [
+      "https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "EOFvpVYO3fFOOo",
+    "name": "Sveriges Radio P4 Malmöhus",
+    "stream_urls": [
+      "https://sverigesradio.se/topsy/direkt/207-hi.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "P8cXW8aNxeF94Y",
+    "name": "Sveriges Radio P4 Stockholm",
+    "stream_urls": [
+      "https://live1.sr.se/p4sth-aac-32",
+      "https://edge1.sr.se/p4sth-aac-320"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "l1QXZwM2h2aBAw",
+    "name": "Sveriges Radio P4 Värmland",
+    "stream_urls": [
+      "https://live1.sr.se/p4vrml-aac-320"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "chLDzGHNEs9A0w",
+    "name": "Sveriges Radio P4 Väst",
+    "stream_urls": [
+      "https://live1.sr.se/p4vast-mp3-96"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "u2pEYj1Kybj99S",
+    "name": "The Best of ericade.radio",
+    "stream_urls": [
+      "https://radio.ericade.net/sc/stream/2/"
+    ],
+    "country": "se",
+    "languages": [
+      "eng",
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "4joyzLQgXL2c69",
+    "name": "The ERICADE Radio Network",
+    "stream_urls": [
+      "https://radio.ericade.net/sc/stream/1/"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "eujwrh7A7YCTi0",
+    "name": "Tyresöradion 91.4 MHz",
+    "stream_urls": [
+      "https://s5.radio.co/s8ace52d32/listen"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "d4HmkADCBuWWAg",
+    "name": "Vinyl FM",
+    "stream_urls": [
+      "https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "aHhpVQgm65aOAr",
+    "name": "Wolf FM",
+    "stream_urls": [
+      "https://sstream.ueteknik.se/listen/wolffm/radio.mp3"
+    ],
+    "country": "se",
+    "languages": [
+      "swe"
+    ]
+  }
+]

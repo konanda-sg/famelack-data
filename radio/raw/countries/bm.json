@@ -1,0 +1,68 @@
+[
+  {
+    "nanoid": "uDWM7Uqkg4YbO8",
+    "name": "Bermuda College Radio",
+    "stream_urls": [
+      "https://streaming.radio.co/sbba10f75f/listen"
+    ],
+    "country": "bm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jklWL62STQvfns",
+    "name": "Dr. Dick's Dub Shack",
+    "stream_urls": [
+      "https://streamer.radio.co/s0635c8b0d/listen"
+    ],
+    "country": "bm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3bJ9X3K3vkMAm1",
+    "name": "HOTT 107.5",
+    "stream_urls": [
+      "https://iic.streamguys1.com/HOTT"
+    ],
+    "country": "bm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HdBMlKmPEWAxxe",
+    "name": "Irie 98 FM",
+    "stream_urls": [
+      "https://usa19.fastcast4u.com:7430/;"
+    ],
+    "country": "bm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FLw9eZeG8hVULe",
+    "name": "Magic 102.7",
+    "stream_urls": [
+      "https://iic.streamguys1.com/MAGIC"
+    ],
+    "country": "bm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0dO6PEOYt87Plr",
+    "name": "Vibe 103 FM",
+    "stream_urls": [
+      "https://cp11.serverse.com/proxy/fwincknq/stream"
+    ],
+    "country": "bm",
+    "languages": [
+      "eng"
+    ]
+  }
+]

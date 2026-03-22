@@ -1,0 +1,162 @@
+[
+  {
+    "nanoid": "gOabgnSqTYV1L0",
+    "name": "A2Z Radio",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/1743/stream/125"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "9BLswT0TYioOkM",
+    "name": "Bangladesh Betar",
+    "stream_urls": [
+      "https://as1.digitalsynapsebd.com/proxy/bbdkboh/stream"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pNkbbxTa8tkjsd",
+    "name": "Peoples Radio 91.6",
+    "stream_urls": [
+      "https://s3.myradiostream.com:14498/;listen.mp3",
+      "https://s3.myradiostream.com:14498/listen.mp3"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "LkOGevCn5yQ2hh",
+    "name": "Quran Muhammad Siddiq Al-Minshawi",
+    "stream_urls": [
+      "https://qurango.net/radio/mohammed_siddiq_alminshawi"
+    ],
+    "country": "bd",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "F2z56ayFhIvhl6",
+    "name": "Radio Bhumi",
+    "stream_urls": [
+      "https://stream-156.zeno.fm/be5bqmk1k18uv"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "1P1iaGB2v76rpW",
+    "name": "Radio Foorti",
+    "stream_urls": [
+      "https://stream.zeno.fm/f0bfdk2w34zuv"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "Fl57pPCra1S5Hu",
+    "name": "Radio GoonGoon",
+    "stream_urls": [
+      "https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "5Ae6WS6iHFXlrB",
+    "name": "Radio Shadhin 92.4",
+    "stream_urls": [
+      "https://stream-157.zeno.fm/eabgu655puquv",
+      "https://stream.zeno.fm/eabgu655puquv"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "zzVRvLxjpcspGs",
+    "name": "Radio Today 89.6",
+    "stream_urls": [
+      "https://stream.zeno.fm/0zha3rfq02quv"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "bdoh9TMgrgzi9r",
+    "name": "Radio Ullash",
+    "stream_urls": [
+      "https://stream.zeno.fm/gpgkgp9mp18uv.mp3"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "iuQMLiPHuIWcg4",
+    "name": "Radio Vivid Voice",
+    "stream_urls": [
+      "https://stream.zeno.fm/xuin6ocdc2juv"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben",
+      "eng",
+      "hin",
+      "urd"
+    ]
+  },
+  {
+    "nanoid": "e3ryuflcDuIuje",
+    "name": "Rajshahi FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/nxfshdayjrdvv"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "QCTDn3cGLYqKME",
+    "name": "Shibir Radio",
+    "stream_urls": [
+      "https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  },
+  {
+    "nanoid": "Tb063tP3RjnlEO",
+    "name": "Uttorbango Betar",
+    "stream_urls": [
+      "https://stream.zeno.fm/spqbxkqxdf9uv"
+    ],
+    "country": "bd",
+    "languages": [
+      "ben"
+    ]
+  }
+]

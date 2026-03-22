@@ -1,0 +1,43 @@
+[
+  {
+    "nanoid": "lE8l4xfgKhCSXS",
+    "name": "Pyongyang FM",
+    "stream_urls": [
+      "https://listen7.myradio24.com/69366"
+    ],
+    "country": "kp",
+    "languages": [
+      "kor",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GCHykcwvuAPhko",
+    "name": "Voice of Chongro",
+    "stream_urls": [
+      "https://stream.zeno.fm/oldwnjuma3duv"
+    ],
+    "country": "kp",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "hEPzllO2ItG7PS",
+    "name": "Voice of Korea",
+    "stream_urls": [
+      "https://listen4.myradio24.com/60315"
+    ],
+    "country": "kp",
+    "languages": [
+      "ara",
+      "deu",
+      "eng",
+      "spa",
+      "jpn",
+      "kor",
+      "rus",
+      "zho"
+    ]
+  }
+]

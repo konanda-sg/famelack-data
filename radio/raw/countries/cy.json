@@ -1,0 +1,268 @@
+[
+  {
+    "nanoid": "OxnNYOJP7LDMsh",
+    "name": "Active Radio",
+    "stream_urls": [
+      "https://securestreams3.autopo.st:1417/active"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "ZBWTNkml2vuac1",
+    "name": "ANT1 Radio",
+    "stream_urls": [
+      "https://r1.cloudskep.com/radio2/ant1fm/icecast.audio"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "LZxy4HFg3IXx28",
+    "name": "BFBS Cyprus",
+    "stream_urls": [
+      "https://edge-audio-01-gos2.sharp-stream.com/ssvcbfbs8.aac"
+    ],
+    "country": "cy",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YkExtWTOXLZYFq",
+    "name": "BitRecord",
+    "stream_urls": [
+      "https://c10.radioboss.fm:18095/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "yJVYCfhATGXjE8",
+    "name": "Capital Radio 93.8 FM",
+    "stream_urls": [
+      "https://radyo1.radyo-dinle.tc/8256/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "LP90vzg8RojAVf",
+    "name": "Dance FM",
+    "stream_urls": [
+      "https://live.enerjiplay.com/stream/dancefm"
+    ],
+    "country": "cy",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "Y4aesWVrAebHnL",
+    "name": "Diesi 101.1",
+    "stream_urls": [
+      "https://r1.cloudskep.com/radio/diesi/icecast.audio"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "c5UlD8X1KSW8tb",
+    "name": "Enerji FM",
+    "stream_urls": [
+      "https://live.enerjiplay.com/stream/enerji"
+    ],
+    "country": "cy",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "GFPsclY3DNkuii",
+    "name": "Feelgood.FM",
+    "stream_urls": [
+      "https://radio.feelgood.fm/mp3"
+    ],
+    "country": "cy",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4MrMOtoHeBUPEZ",
+    "name": "Kiss FM",
+    "stream_urls": [
+      "https://securestreams3.autopo.st:1417/89FM"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "EuVOi7vUHtPVHe",
+    "name": "Mix FM",
+    "stream_urls": [
+      "https://link.radiojar.com/c27wx6pdh8vtv"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SqtZTNsPUYmqHK",
+    "name": "Mix4.me",
+    "stream_urls": [
+      "https://s9.webradio-hosting.com/proxy/mix4me/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vS30GuPruLmrcS",
+    "name": "NJOY Radio",
+    "stream_urls": [
+      "https://stream.radiojar.com/mg7kftnzka3vv"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "Qs1PCOw8usqRn8",
+    "name": "Radio Logos",
+    "stream_urls": [
+      "https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "vcwL09lxrxNLSR",
+    "name": "Radio Navagio",
+    "stream_urls": [
+      "https://radio-navagio.com/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "hLEddtzEYrjmRg",
+    "name": "Radio Proto",
+    "stream_urls": [
+      "https://r1.cloudskep.com/cybcr/cybc1/icecast.audio"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "VJogPAnch4I58C",
+    "name": "Radio T.O.A.",
+    "stream_urls": [
+      "https://live3.istoikona.net/proxy/radiotoa/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "ABYENI1nUr9Qq4",
+    "name": "RIK Tetarto",
+    "stream_urls": [
+      "https://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "xakAuGtYpluONS",
+    "name": "RIK Trito",
+    "stream_urls": [
+      "https://r1.cloudskep.com/cybcr/cybc3/icecast.audio"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "9OOatjfNsRGZpV",
+    "name": "Rock FM",
+    "stream_urls": [
+      "https://live3.istoikona.net/proxy/rockfm/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "D2Ps0j2q4bKFYT",
+    "name": "Sfera FM",
+    "stream_urls": [
+      "https://securestreams3.autopo.st:1417/sfera"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "0MEl1OkpJ7UIVH",
+    "name": "Super Sport FM",
+    "stream_urls": [
+      "https://sportfm-cyprus.live24.gr/sportfm-cyprus",
+      "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "9Em7nmdvz0Rodl",
+    "name": "VIVA FM 104.3",
+    "stream_urls": [
+      "https://stream1.themediasite.co.uk/8060/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "s5gU0ddqLclRl8",
+    "name": "Zenith FM",
+    "stream_urls": [
+      "https://live3.istoikona.net:9836/stream"
+    ],
+    "country": "cy",
+    "languages": [
+      "ell"
+    ]
+  }
+]

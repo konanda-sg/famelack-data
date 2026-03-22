@@ -1,0 +1,646 @@
+[
+  {
+    "nanoid": "J0kkSAhMgkYLp3",
+    "name": "Atmósfera 96.5",
+    "stream_urls": [
+      "https://stream.zeno.fm/pdkbxgv5f3quv",
+      "https://stream.zenolive.com/wbqp37gm8ueuv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FJGwpruQbizDYG",
+    "name": "Azúcar 96.7 FM",
+    "stream_urls": [
+      "https://radiostreamingaac.com:8568/azucarzacapa"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5bANIJQqWfNi5s",
+    "name": "Azúcar 99.9 FM",
+    "stream_urls": [
+      "https://radiostreamingaac.com:8570/azucarjutiapa"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "XyluLuFs1UNYzh",
+    "name": "Caracol Radio 105.1",
+    "stream_urls": [
+      "https://stream.zeno.fm/u844q3w08mwtv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UiSRxRgUIvs0MU",
+    "name": "Caribean FM 105.1",
+    "stream_urls": [
+      "https://sh4.radioonlinehd.com:8547/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8IMOgGkI3wtbGG",
+    "name": "Computer Forensic Radio",
+    "stream_urls": [
+      "https://radio.forensedigital.gt:8020/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Tzhik5VZOSiRnh",
+    "name": "Criollisima GT",
+    "stream_urls": [
+      "https://radio.forensedigital.gt:8060/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MaXhuhFzR8jfgg",
+    "name": "Dinámica 89.9 FM",
+    "stream_urls": [
+      "https://cloudstream2032.conectarhosting.com/8312/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BJqWuzB5ggnS4f",
+    "name": "Emaus Radio",
+    "stream_urls": [
+      "https://sh2.radioonlinehd.com:8141/;"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DLGsTEF3Y24a5h",
+    "name": "Emisoras Unidas 89.7",
+    "stream_urls": [
+      "https://stream.zeno.fm/eypgq8m08wquv",
+      "https://stream.zenolive.com/z96sq8tndseuv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zGfTctjTod4o8U",
+    "name": "Emisoras Unidas 91.1 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/3tfg0vng9ueuv",
+      "https://stream.zeno.fm/0zashcvc9zquv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wYky8xzSbpWoU8",
+    "name": "Estéreo Alegre 101.5",
+    "stream_urls": [
+      "https://stream.zeno.fm/597dgr66e2zuv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "VBXRD6eeWt9FAL",
+    "name": "Estéreo Gerardi 107.9",
+    "stream_urls": [
+      "https://aler.org:8445/gerardi.mp3"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MKyFuCcoixN3La",
+    "name": "Estéreo Santa Sion",
+    "stream_urls": [
+      "https://radio015.gt.gt/radio/8000/live.mp3"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zq0n7tnYbj3wBC",
+    "name": "Estéreo Solar 104.9 FM",
+    "stream_urls": [
+      "https://radiostreamingaac.com:8566/solarpeten"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UFTSY7Tyh7FqTJ",
+    "name": "Estéreo Solar 89.5 FM",
+    "stream_urls": [
+      "https://radiostreamingaac.com:8560/solarchiquimula"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4uvMq0b08NLKoi",
+    "name": "Estéreo Solar 98.3 FM",
+    "stream_urls": [
+      "https://radiostreamingaac.com:8562/solarjutiapa"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8v6KeUKbAm16YD",
+    "name": "Eventos Católicos Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/1g9cduy10bruv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "19WpOjBIx8MMhw",
+    "name": "Exa FM 101.7",
+    "stream_urls": [
+      "https://stream.zeno.fm/czdkk32qduhvv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9Nr7HKM4Up9C6X",
+    "name": "Gaiteros de Guatemala",
+    "stream_urls": [
+      "https://radio.forensedigital.gt:8030/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1wFsczKSFkichr",
+    "name": "Hacker por Cristo Network",
+    "stream_urls": [
+      "https://radio.forensedigital.gt:8010/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wzK3kQE2BSqjCi",
+    "name": "Josy Music Latin",
+    "stream_urls": [
+      "https://dj91.hostingnuclear.com/8144/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6eZil0ocToG9V8",
+    "name": "Josy Music Plus",
+    "stream_urls": [
+      "https://dj91.hostingnuclear.com/8116/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nznqpW4nzQ7wDA",
+    "name": "Josy Music Swing",
+    "stream_urls": [
+      "https://dj91.hostingnuclear.com/8146/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Zk0qBnG86KG8NF",
+    "name": "Kiss FM 97.7",
+    "stream_urls": [
+      "https://stream.zeno.fm/k7sx1n90g3quv",
+      "https://stream.zenolive.com/1sgzkhhm8ueuv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kuE95dNub0dP7w",
+    "name": "La Grande 99.3",
+    "stream_urls": [
+      "https://stream.zeno.fm/f1bgph3ve0quv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8gj1mqeiZn8FIJ",
+    "name": "La Red 106.1 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FoIV3Qnjzb9SIF",
+    "name": "La Tronadora",
+    "stream_urls": [
+      "https://stream-168.zeno.fm/pnq889awd6quv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jOKzllbrJL78s7",
+    "name": "Mía 93.7 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nyyhkUwJS7jhvY",
+    "name": "Nueva Fabuestereo 88.1",
+    "stream_urls": [
+      "https://stream.zeno.fm/vs325dhm8ueuv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "B1dHRWQ14hOaUj",
+    "name": "Observatorio OGDI Guatemala",
+    "stream_urls": [
+      "https://radio.forensedigital.gt:8000/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "526wPrJPOzJ0c1",
+    "name": "Orión Stereo",
+    "stream_urls": [
+      "https://ss.redradios.net:8046/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zrKGD3gcMVx0EX",
+    "name": "Radio Actitud 100.9 FM",
+    "stream_urls": [
+      "https://ss.redradios.net:8002/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "QdqYtxbaNTWoey",
+    "name": "Radio Activa 95.1 FM",
+    "stream_urls": [
+      "https://sh4.radioonlinehd.com:8557/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RRIgb1j0rSQ5if",
+    "name": "Radio Camino de Santidad",
+    "stream_urls": [
+      "https://audio.livecastnet.com:1290/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2QDQmFssZP8HIM",
+    "name": "Radio Central 91.9 FM",
+    "stream_urls": [
+      "https://live.myradioserver.net:7588/;"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MWM6Rwg9fxb9v3",
+    "name": "Radio Clásica 102.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3kODCmJSonYKXT",
+    "name": "Radio Cultural TGN",
+    "stream_urls": [
+      "https://stream.infinityhdstream.com/7054/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cnl17AT3KWCRyt",
+    "name": "Radio DJ 101.1",
+    "stream_urls": [
+      "https://stream.zeno.fm/kczf95s1g3quv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "LFJH3dg3xzTYDw",
+    "name": "Radio Esla",
+    "stream_urls": [
+      "https://stream.zeno.fm/wdr15uyuezzuv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vUiDRwDb11eJL5",
+    "name": "Radio FeLove - Clásica",
+    "stream_urls": [
+      "https://feloveclasica-radiofelove.radioca.st/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jPCiS7JWZRnYBJ",
+    "name": "Radio Globo 98.9 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "w9D5hyS5TfkhKK",
+    "name": "Radio Guate Digital",
+    "stream_urls": [
+      "https://radioguatedigital.com/live"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ngodXgFmXwIq5m",
+    "name": "Radio Infinita 100.1",
+    "stream_urls": [
+      "https://streams.radio.co/see730c7ab/listen"
+    ],
+    "country": "gt",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Q2FtUCPRH2z8DJ",
+    "name": "Radio Ixchel",
+    "stream_urls": [
+      "https://stream-153.zeno.fm/p5fpudbtguquv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "h7E2BaW9G0nFrf",
+    "name": "Radio Mesiánica",
+    "stream_urls": [
+      "https://felovemesianica-radiofelove.radioca.st/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jTXNP2mKmPM9aB",
+    "name": "Radio Orla - Camino Rojo",
+    "stream_urls": [
+      "https://dj91.hostingnuclear.com/8080/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SFrHRUO9jDrLXf",
+    "name": "Radio Punto 90.5",
+    "stream_urls": [
+      "https://stream.zeno.fm/qzhqyu07dkhvv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5fCPVwQlaAH75G",
+    "name": "Radio Romance",
+    "stream_urls": [
+      "https://stream.zeno.fm/gnkysrxv3a0uv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZfZIdz663QCLDS",
+    "name": "Radio Sololá 88.7",
+    "stream_urls": [
+      "https://sh1.radioonlinehd.com:8039/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "rqoFnpAngeL8x4",
+    "name": "Radio Universidad 92.1 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/xqbz7b86a0quv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RNFA9ZPcOHzAAW",
+    "name": "Radio Viva 95.3",
+    "stream_urls": [
+      "https://stream.zeno.fm/uus2ugdadkhvv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nWc9ySLtLg3N4M",
+    "name": "Rhema Stereo 91.7 FM",
+    "stream_urls": [
+      "https://radio.fiberstreams.com:2000/stream/8710"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "lZeJEw5deLRky8",
+    "name": "Sinai Workshop",
+    "stream_urls": [
+      "https://radio.forensedigital.gt:8070/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "etNMTTNAT8TRcz",
+    "name": "Stereo 100",
+    "stream_urls": [
+      "https://sh1.radioonlinehd.com:8056/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fM7W1S63in9696",
+    "name": "TGW La Voz de Guatemala",
+    "stream_urls": [
+      "https://stream.radiotgw.gob.gt/8002/stream"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7R8YBdAVlzYkfk",
+    "name": "Unión Radio",
+    "stream_urls": [
+      "https://unionradio.radioca.st/stream/1/"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4oPYWvpGXcCkzD",
+    "name": "YoSi Sideral 90.1",
+    "stream_urls": [
+      "https://stream.zeno.fm/t67dk5gm8ueuv"
+    ],
+    "country": "gt",
+    "languages": [
+      "spa"
+    ]
+  }
+]

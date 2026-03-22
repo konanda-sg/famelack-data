@@ -1,0 +1,90 @@
+[
+  {
+    "nanoid": "s0gEw7dltFLhOe",
+    "name": "Quran Radio - Abdulrahman Alsudais",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/sudais/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "3hQRsqyTWXsfgq",
+    "name": "Quran Radio - Ali Alhuthaifi",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/alhuthaifi/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "2o8T3j82sbqFoi",
+    "name": "Quran Radio - Kuwait",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/quran_radio/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ZkSmPj13lWgEWi",
+    "name": "Quran Radio - Maher Al Mueaqly",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/maher/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "MzFrdv5F0RQc7Y",
+    "name": "Quran Radio - Mishary Alafasy",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/mishary/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "r4OjPPmS2ULHDp",
+    "name": "Quran Radio - Muhammad Al-Minshawi",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/minshawi/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "7H4Q40U8kLI2in",
+    "name": "Quran Radio - Saud Al-Shuraim",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/alshuraim/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "8vYklUir1D5BDk",
+    "name": "Quran Radio - Yasser AlDosari",
+    "stream_urls": [
+      "https://radio.mp3islam.com/listen/yaser/radio.mp3"
+    ],
+    "country": "kw",
+    "languages": [
+      "ara"
+    ]
+  }
+]

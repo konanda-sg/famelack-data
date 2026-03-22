@@ -1,0 +1,57 @@
+[
+  {
+    "nanoid": "HyI9UlJ6Juh3Ho",
+    "name": "Pidsunuty Svynyu",
+    "stream_urls": [
+      "https://stream.zenolive.com/u5enyd4c28quv"
+    ],
+    "country": "io",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "IjpIW3EOcNLykP",
+    "name": "Tick Tock Radio 1992",
+    "stream_urls": [
+      "https://streaming.ticktock.radio/tt/1992/icecast.audio"
+    ],
+    "country": "io",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "deynBUGnCM0w9O",
+    "name": "Tick Tock Radio 1993",
+    "stream_urls": [
+      "https://streaming.ticktock.radio/tt/1993/icecast.audio"
+    ],
+    "country": "io",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tZEHDBh3Cm78OS",
+    "name": "Tick Tock Radio 1994",
+    "stream_urls": [
+      "https://streaming.ticktock.radio/tt/1994/icecast.audio"
+    ],
+    "country": "io",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LOHZGwVfcEgOir",
+    "name": "Tick Tock Radio 2022",
+    "stream_urls": [
+      "https://streaming.ticktock.radio/tt/2022/icecast.audio"
+    ],
+    "country": "io",
+    "languages": [
+      "eng"
+    ]
+  }
+]

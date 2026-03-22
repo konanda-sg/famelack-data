@@ -1,0 +1,69 @@
+[
+  {
+    "nanoid": "GSasE2ANTnxBEu",
+    "name": "Ambient Space Meditation Radio",
+    "stream_urls": [
+      "https://immortalharmony.out.airtime.pro:8000/immortalharmony_a"
+    ],
+    "country": "af",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "12u2jEAEmz9dyj",
+    "name": "Ariana FM 93.5",
+    "stream_urls": [
+      "https://streams.radio.co/sa3345aaa8/listen"
+    ],
+    "country": "af",
+    "languages": [
+      "pus",
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "0lGwsWkiMgDuya",
+    "name": "Enikass Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/9e880vgncd0uv"
+    ],
+    "country": "af",
+    "languages": []
+  },
+  {
+    "nanoid": "YPW3DFNxwXFFJ3",
+    "name": "Radio Jawanan",
+    "stream_urls": [
+      "https://s3.radio.co/s3a13a855f/listen"
+    ],
+    "country": "af",
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "oCPQWKF2JrrktA",
+    "name": "Radio Srood",
+    "stream_urls": [
+      "https://stream.radiosrood.com/"
+    ],
+    "country": "af",
+    "languages": [
+      "pus",
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "dft1aoxs5ESU5m",
+    "name": "Salam Watandar",
+    "stream_urls": [
+      "https://s10.myradiostream.com/:12238/;"
+    ],
+    "country": "af",
+    "languages": [
+      "pus",
+      "fas"
+    ]
+  }
+]

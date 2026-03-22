@@ -1,0 +1,85 @@
+[
+  {
+    "nanoid": "5ncJ841Sx88aBd",
+    "name": "BFBS Gurkha Radio",
+    "stream_urls": [
+      "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
+      "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
+    ],
+    "country": "np",
+    "languages": [
+      "nep",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Eei6qZ3YZDM5y5",
+    "name": "Radio Audio 106.3 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/fvrx47wpg0quv"
+    ],
+    "country": "np",
+    "languages": [
+      "hin",
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "KBC5MEL240O1hI",
+    "name": "Radio Himalaya",
+    "stream_urls": [
+      "https://live.itech.host/himalayaradio"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "Zy1eoJZdr9W0fF",
+    "name": "Radio Nepal",
+    "stream_urls": [
+      "https://stream1.radionepal.gov.np/live/"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "UmwBCcLCWNNMcS",
+    "name": "Swadesh FM",
+    "stream_urls": [
+      "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "VWEITR8MIgM4ou",
+    "name": "Synergy FM 91.6",
+    "stream_urls": [
+      "https://live.itech.host:3880/stream"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "kOGP6oFTXXIXcP",
+    "name": "Ujyaalo 90 Network",
+    "stream_urls": [
+      "https://stream.zenolive.com/wtuvp08xq1duv",
+      "https://stream.zeno.fm/h527zwd11uquv"
+    ],
+    "country": "np",
+    "languages": [
+      "eng",
+      "nep"
+    ]
+  }
+]

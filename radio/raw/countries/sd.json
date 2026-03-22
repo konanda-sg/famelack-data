@@ -1,0 +1,25 @@
+[
+  {
+    "nanoid": "7h7aJYkuEM8QmV",
+    "name": "Dial Radio",
+    "stream_urls": [
+      "https://cast.dialradio.live/stream.aac"
+    ],
+    "country": "sd",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7nreMHcEbl4gI3",
+    "name": "Radio Dabanga",
+    "stream_urls": [
+      "https://stream.dabangasudan.org/"
+    ],
+    "country": "sd",
+    "languages": [
+      "ara",
+      "snd"
+    ]
+  }
+]

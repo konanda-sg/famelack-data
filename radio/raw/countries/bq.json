@@ -1,0 +1,49 @@
+[
+  {
+    "nanoid": "VvQAs8qLfFtI8y",
+    "name": "Alpha 93.1 FM",
+    "stream_urls": [
+      "https://kadushi.westream.cloud:8100/xstream"
+    ],
+    "country": "bq",
+    "languages": [
+      "spa",
+      "pap"
+    ]
+  },
+  {
+    "nanoid": "jeIo4emckiebjd",
+    "name": "Mega Hit FM",
+    "stream_urls": [
+      "https://megahitfm.krioyohosting.com:1012/stream"
+    ],
+    "country": "bq",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "9vVwOv1HV23Gq4",
+    "name": "Radio Karpata",
+    "stream_urls": [
+      "https://stream-174.zeno.fm/fpc440mz3tzuv"
+    ],
+    "country": "bq",
+    "languages": [
+      "pap",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "4IZ8rAQ25UaMiD",
+    "name": "Tropical Spice Radio",
+    "stream_urls": [
+      "https://auds1.intacs.com/tropicalspiceradio"
+    ],
+    "country": "bq",
+    "languages": [
+      "eng"
+    ]
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "nanoid": "wKU0rtsLkyevEh",
+    "name": "Afia FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/skjrn6kzzxptv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "eS1mKobCYBSamn",
+    "name": "Afro FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/5xtwt7zxr0quv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "iin5HX5zJBzgL1",
+    "name": "Bamtaare FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/n1mugn1am1duv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "hMGECPF1AWXxo4",
+    "name": "Central FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/t2e45xqkunhvv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "x2B69z1jHwzjR1",
+    "name": "Diassing FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/veaguaqvvk8uv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "mF3QglQK4o8LU6",
+    "name": "FM Sénégal",
+    "stream_urls": [
+      "https://stream-154.zeno.fm/t8gcyq6ts0quv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "17I0cqbWTFWIkc",
+    "name": "Fulbe FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/e0grbn8e3rquv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "9qQ45aVwAE1212",
+    "name": "GMS FM",
+    "stream_urls": [
+      "https://myfm.acan.group/radio/8140/radio.mp3"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "T1DSjV2MD90V29",
+    "name": "Love FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/7cru7g7rcwzuv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "2N2zJCYyQvNM27",
+    "name": "Manooré FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/sad0xwh0mg8uv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "PT32i1b34Gnp73",
+    "name": "Metraf FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/66yrv69ffv8uv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "4ArFKZyhMUuFa0",
+    "name": "Or FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/gy7fpc2am1duv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "vZ0KjVutJoMbau",
+    "name": "Radio H24",
+    "stream_urls": [
+      "https://listen.senemultimedia.net:8072/stream"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "FsveDi7E4JiZR0",
+    "name": "Radio Keur Massar",
+    "stream_urls": [
+      "https://stream.keurmassar.info/"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "O01fjyMYNmrkbZ",
+    "name": "Radio Medinabaye",
+    "stream_urls": [
+      "https://stream.zeno.fm/w4v1hckvewwtv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "Gs0Xnrx7uId9gJ",
+    "name": "Radio Thiossane",
+    "stream_urls": [
+      "https://stream.radiothiossane.com/",
+      "https://listen.senemultimedia.net:8112/stream"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "UhgQIr9HQSHPAh",
+    "name": "Rewmi FM",
+    "stream_urls": [
+      "https://stream-61.zeno.fm/nkzsqg16t8quv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "kxdXWDPWkbp8g4",
+    "name": "RFM (Radio Future Medias)",
+    "stream_urls": [
+      "https://stream.zeno.fm/kuk0syz5puquv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "PDXUipr0BvWuhD",
+    "name": "RSI (Radio Sénégal Internationale)",
+    "stream_urls": [
+      "https://10gb1.acangroup.org:8000/rsi"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "MVc0kJRl2eRjVz",
+    "name": "RTS Kaolack",
+    "stream_urls": [
+      "https://stream.zeno.fm/2fkd4h0ts1duv.m4a"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "4jDuI7I32R07f4",
+    "name": "RTS Matam",
+    "stream_urls": [
+      "https://stream.zeno.fm/kxud8vhqt1duv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "e9B16ZTpA9QJlm",
+    "name": "RTS Tambacounda",
+    "stream_urls": [
+      "https://stream.zeno.fm/nqxg7p8pt1duv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "RcmXL9wZUDKZr7",
+    "name": "Sud FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/8hddc402zbruv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "1DhcckEGaJxc6K",
+    "name": "Sud FM Sen Radio",
+    "stream_urls": [
+      "https://stream.zenolive.com/rq40edfn3reuv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "W2hi2SasPsxFEf",
+    "name": "Timtimol FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/4yx608hnu1duv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "b5NmOWfcy8Ayd1",
+    "name": "Waarwi FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/rmg4rfewweruv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "hSCm39BWF2jDhI",
+    "name": "Walf FM",
+    "stream_urls": [
+      "https://10gb1.acangroup.org:8000/walffm"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "Pze3SZR5vsb1Fq",
+    "name": "West Africa Democracy Radio (WADR)",
+    "stream_urls": [
+      "https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "JUpRaYwL9X32NY",
+    "name": "Zig FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/akh0t25nc18uv",
+      "https://stream.zeno.fm/zfdk0c69d3quv"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "BqEPmsTh5MhXMS",
+    "name": "Zik FM",
+    "stream_urls": [
+      "https://10gb1.acangroup.org:8000/zikfm"
+    ],
+    "country": "sn",
+    "languages": [
+      "fra"
+    ]
+  }
+]

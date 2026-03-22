@@ -1,0 +1,25 @@
+[
+  {
+    "nanoid": "uDEjfwLhqAw9Er",
+    "name": "PJD2 Radio 102.7 FM",
+    "stream_urls": [
+      "https://pjd2radiofm.radioca.st/;"
+    ],
+    "country": "sx",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jqXH92TkjbnbH4",
+    "name": "Radio Transat 93.7 FM",
+    "stream_urls": [
+      "https://n04.rcs.revma.com/dy09pqzctwzuv"
+    ],
+    "country": "sx",
+    "languages": [
+      "fra",
+      "eng"
+    ]
+  }
+]

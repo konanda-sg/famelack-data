@@ -1,0 +1,213 @@
+[
+  {
+    "nanoid": "eCFbAWFRBJERqq",
+    "name": "ABC Cardinal 730 AM",
+    "stream_urls": [
+      "https://media.streambrothers.com:8342/stream"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nl5uXgcnO5cZW8",
+    "name": "ABC FM 98.5",
+    "stream_urls": [
+      "https://media.streambrothers.com:8350/stream"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "WLNT33PeUfam54",
+    "name": "Estación 40",
+    "stream_urls": [
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qB5vpISsmY1a8F",
+    "name": "Fabulosa FM 104.5",
+    "stream_urls": [
+      "https://radio.host.com.py:7034/;"
+    ],
+    "country": "py",
+    "languages": [
+      "spa",
+      "grn"
+    ]
+  },
+  {
+    "nanoid": "Uzvhi2mHEX4GyU",
+    "name": "Go Radio",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net:8002/go"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Rsyz53ib9xa3dM",
+    "name": "Impacto FM 95.3",
+    "stream_urls": [
+      "https://radio.host.com.py:7137/;"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YEl99OpnWuw123",
+    "name": "Palma FM",
+    "stream_urls": [
+      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YzMcPBZzCXnJFk",
+    "name": "Radio 1000 AM",
+    "stream_urls": [
+      "https://1000noticias.live:8000/radio.mp3"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "aIAegWEtKlqbmO",
+    "name": "Radio América Clásicos",
+    "stream_urls": [
+      "https://stream.zeno.fm/a1s86ymequeuv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5lMUxmWkIRwrMy",
+    "name": "Radio Capital 101.7 FM",
+    "stream_urls": [
+      "https://ic2489.c1788.fastserv.com/stream"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "QcZqjHQIfRgrCQ",
+    "name": "Radio Concierto 89.1 FM",
+    "stream_urls": [
+      "https://radio.host.com.py/9572/stream"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "j6ow6qAeKD6BXx",
+    "name": "Radio Educación 99.7 FM",
+    "stream_urls": [
+      "https://proxy01.servidorenlinea.net/cdehosting/8050/;"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vDsXy8hCCki9eH",
+    "name": "Radio Monumental 1080 AM",
+    "stream_urls": [
+      "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "J3WhGO82DCbCuF",
+    "name": "Radio Top Milenium 91.5 FM",
+    "stream_urls": [
+      "https://sonic.host-live.com:8398/stream"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tV2XdxdR2VnDSm",
+    "name": "Radio Urbana 106.9 FM",
+    "stream_urls": [
+      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2siRkXvA7YfizL",
+    "name": "Radio Vallenatos Clásicos",
+    "stream_urls": [
+      "https://stream.zeno.fm/z07vyxbqz8quv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ybdgotK1ZHZFAB",
+    "name": "Radio Éxitos de Ayer",
+    "stream_urls": [
+      "https://stream.zeno.fm/hvnh6d5uebruv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3mBL9FrHTM2x3h",
+    "name": "Rock & Pop 95.5 FM",
+    "stream_urls": [
+      "https://cp9.serverse.com/proxy/rockandpop/stream"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6jUclK2WDabVVI",
+    "name": "Tereré Mix",
+    "stream_urls": [
+      "https://stream.zeno.fm/a0z8gjrlucluv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  }
+]

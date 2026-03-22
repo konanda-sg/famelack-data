@@ -1,0 +1,766 @@
+[
+  {
+    "nanoid": "saye2ekETvKGL4",
+    "name": "103FM",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "01dVl4ZqQAWVXK",
+    "name": "Breslev For You",
+    "stream_urls": [
+      "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "BWeMDVAkZPmp30",
+    "name": "Breslev For You Books",
+    "stream_urls": [
+      "https://cast.breslevforyou.co.il/listen/books/radio.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "AwP0AaXf5bpEYh",
+    "name": "Breslev For You Halachot",
+    "stream_urls": [
+      "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "EVDoVgyjr63fYH",
+    "name": "Eco 99 FM",
+    "stream_urls": [
+      "https://eco-live.mediacast.co.il/99fm_aac",
+      "https://99.mediacast.co.il/99fm_aac"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "PcfN1XBqlTZekm",
+    "name": "Eli Nisman Radio",
+    "stream_urls": [
+      "https://listen6.myradio24.com/25715"
+    ],
+    "country": "il",
+    "languages": [
+      "heb",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "9TFDkWX6vx46bp",
+    "name": "Galei Tzahal",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glz_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "nSkjN0O95LgHk1",
+    "name": "Galgalatz",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glglz_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "Z9Law96ze7AaMR",
+    "name": "Galgalatz - A Relaxing Weekend",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "CMF6kCFshKML95",
+    "name": "Galgalatz - Classic Rock",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "wIMG7vgJUAk72G",
+    "name": "Galgalatz - Decades",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glglz_alt_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "63dOhmR4JJ87nW",
+    "name": "Galgalatz - Hebrew Wave",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glglz_classicil_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "qg3Qoe4imqcxzx",
+    "name": "Galgalatz - Hits",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glglz_hits_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "eBTZNNwE6GX4Pl",
+    "name": "Galgalatz - Mediterranean",
+    "stream_urls": [
+      "https://glzwizzlv.bynetcdn.com/glglz_med_mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "oMrWZtb0lp2mey",
+    "name": "Hakatze",
+    "stream_urls": [
+      "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "bMWgR5rurxOHmx",
+    "name": "IDC Radio",
+    "stream_urls": [
+      "https://1062onair.runi.ac.il/idc123.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "eng",
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "OkDQ84T5vqaKRX",
+    "name": "Israeli Voice Radio",
+    "stream_urls": [
+      "https://icecast.live/ivr"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "SIhOX6sokIRZ4A",
+    "name": "Ivri 6",
+    "stream_urls": [
+      "https://streaming.radio.co/sa06221901/listen"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "ZKkyF4FwWAFLyF",
+    "name": "Joint Radio Beat",
+    "stream_urls": [
+      "https://jointil.com/stream-beat",
+      "https://star.jointil.net/proxy/jrn_beat"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BBvW542f5zOUyE",
+    "name": "Joint Radio Blues",
+    "stream_urls": [
+      "https://jointil.com/stream-blues",
+      "https://star.jointil.net/proxy/jrn_blues"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MxfljGAKkhV8bq",
+    "name": "Joint Radio Reggae",
+    "stream_urls": [
+      "https://jointil.com/stream-reggae",
+      "https://star.jointil.net/proxy/jrn_reggae"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F8Nq2ppVqP4634",
+    "name": "Kabbalah TV (English)",
+    "stream_urls": [
+      "https://icecast.kab.tv/live1-eng-574bcfd5.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DjATPehMzjRAKI",
+    "name": "Kabbalah TV (French)",
+    "stream_urls": [
+      "https://icecast.kab.tv/live1-spa-574bcfd5.mp3",
+      "https://icecast.kab.tv/live1-fre-574bcfd5.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "loLe4soidnwqJg",
+    "name": "Kabbalah TV (Hebrew)",
+    "stream_urls": [
+      "https://icecast.kab.tv/live1-heb-574bcfd5.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "Q4cnqD83ZwVD8h",
+    "name": "Kabbalah TV (Russian)",
+    "stream_urls": [
+      "https://icecast.kab.tv/live1-rus-574bcfd5.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "dC7OjFfmhUhDUB",
+    "name": "Kan 88",
+    "stream_urls": [
+      "https://29073.live.streamtheworld.com/KAN_88.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "S0RsSNnE8UAdEj",
+    "name": "Kan Bet",
+    "stream_urls": [
+      "https://25583.live.streamtheworld.com/KAN_BET.mp3",
+      "https://28563.live.streamtheworld.com/KAN_BET.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "xOrUl4JcE5ZJIW",
+    "name": "Kan Gimel",
+    "stream_urls": [
+      "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "BGihOv5w69d98u",
+    "name": "Kan Tarbut",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "7zwsGZgjTj5nMq",
+    "name": "Kol Chai Music",
+    "stream_urls": [
+      "https://media2.93fm.co.il/livemusic"
+    ],
+    "country": "il",
+    "languages": [
+      "heb",
+      "yid"
+    ]
+  },
+  {
+    "nanoid": "0QRN4nzXIXfNOt",
+    "name": "Kol Play",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "aUiaoF6vRGCZEf",
+    "name": "Messianic Radio Orenu",
+    "stream_urls": [
+      "https://listen7.myradio24.com/orenu"
+    ],
+    "country": "il",
+    "languages": [
+      "rus",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PgysKmUZ7lbTHB",
+    "name": "Nas Radio",
+    "stream_urls": [
+      "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Bl9TpqpV6EWieC",
+    "name": "Pervoe Radio",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "XEyI38Zz1117SJ",
+    "name": "Radio 90FM",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "veiTk0EM7KFhWM",
+    "name": "Radio Agape",
+    "stream_urls": [
+      "https://s3.radio.co/s43b65d791/listen"
+    ],
+    "country": "il",
+    "languages": [
+      "eng",
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "67ObIb9xaPkpHB",
+    "name": "Radio Ashams",
+    "stream_urls": [
+      "https://cdna.streamgates.net/Ashams/Live/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "WWpPB9p0jddQPA",
+    "name": "Radio Breslev",
+    "stream_urls": [
+      "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "E52ha4bebslOBo",
+    "name": "Radio Breslev Carmiel",
+    "stream_urls": [
+      "https://securestreams6.autopo.st:2294/mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "hDH6n927TaYzQ1",
+    "name": "Radio Darom",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "wNOipwETKNLNkf",
+    "name": "Radio Darom 101.5 FM",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "hkb1oX9tZGAUGM",
+    "name": "Radio Essence of Life",
+    "stream_urls": [
+      "https://eol-live.cdnwiz.com/eol/eolmp3/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "mxGwbdmvEczE5E",
+    "name": "Radio Galei Israel",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "9XxnR7spKh5YEp",
+    "name": "Radio Haifa",
+    "stream_urls": [
+      "https://1075.livecdn.biz/radiohaifa"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "aqF9wFdMhPvhTq",
+    "name": "Radio Hatahana 101.5 FM",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "uduae9OG7dv2Rk",
+    "name": "Radio Jerusalem",
+    "stream_urls": [
+      "https://radio.streamgates.net/stream/101fm"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "VGfExtG28L4rIw",
+    "name": "Radio Kol Chai",
+    "stream_urls": [
+      "https://media2.93fm.co.il/live-new"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "Pyxo5shUS7LRPZ",
+    "name": "Radio Kol Chai Music",
+    "stream_urls": [
+      "https://live.kcm.fm/livemusic"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "LY0J63CIZDfbUU",
+    "name": "Radio Kol Rega",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "vVwTqaDPNxNkRy",
+    "name": "Radio Lev Hamedina 91 FM",
+    "stream_urls": [
+      "https://91fm.streamgates.net/Lev91Fm",
+      "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "lkcMvDgMWZVaU9",
+    "name": "Radio Mizrahit FM",
+    "stream_urls": [
+      "https://rs.mizrahit.fm:7777/arabellavie"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "P4kkHXXpuusCUz",
+    "name": "Radio Music Tora VeZimra",
+    "stream_urls": [
+      "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "LwnHSLebLeBpCm",
+    "name": "Radio Nahariya",
+    "stream_urls": [
+      "https://cast.radionahariya.com:8443/main.mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "TANuiKfNuwkZ9l",
+    "name": "Radio Noshmim Mizrahit",
+    "stream_urls": [
+      "https://mzr.mediacast.co.il/mzradio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "8BEzBxzaTZREYt",
+    "name": "Radio Plus",
+    "stream_urls": [
+      "https://s3.yesstreaming.net:7049/stream"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "1q4AjyaTWZSfJ9",
+    "name": "Radio Qualita",
+    "stream_urls": [
+      "https://www.radioking.com/play/radio-qualita"
+    ],
+    "country": "il",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "40vu2Dep9VS8t3",
+    "name": "Radio Sahar",
+    "stream_urls": [
+      "https://live.ecast.co.il/stream/sahar/stream"
+    ],
+    "country": "il",
+    "languages": [
+      "heb",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SvepY6xZJ8KlBD",
+    "name": "Radio Tel Aviv",
+    "stream_urls": [
+      "https://102.livecdn.biz/102fm_aac"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "yezxTSauFX35Bo",
+    "name": "Radio Tzafon 104.5 FM",
+    "stream_urls": [
+      "https://radio.streamgates.net/stream/1045fm"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "sAYBLlQIOWFSAr",
+    "name": "Radios 100FM",
+    "stream_urls": [
+      "https://cdn.cybercdn.live/Radios_100FM_Website/Audio/icecast.audio",
+      "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "uRSkNy9JSTj3ZY",
+    "name": "Radios 100FM 80s",
+    "stream_urls": [
+      "https://gb25.streamgates.net/radios-audio/10080s/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BKOE6A6IVhOYrj",
+    "name": "Radios 100FM 90s",
+    "stream_urls": [
+      "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wDAsBkGyxZ0uz8",
+    "name": "Radios 100FM Movies",
+    "stream_urls": [
+      "https://gb25.streamgates.net/radios-audio/100Movies/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TlMSM8J18yoVZq",
+    "name": "Radios 100FM Oldies",
+    "stream_urls": [
+      "https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "riXm31Gm9hWHuU",
+    "name": "Radios 100FM Workout",
+    "stream_urls": [
+      "https://gb25.streamgates.net/radios-audio/100Workout/icecast.audio"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "eXZFFUXqYJTNE9",
+    "name": "Rak Musica",
+    "stream_urls": [
+      "https://play.radioking.io/rak-musica/670240"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
+    "nanoid": "fFAybGC08ZPDeK",
+    "name": "Star 33 Radio",
+    "stream_urls": [
+      "https://online.star33radio.com:1115/stream"
+    ],
+    "country": "il",
+    "languages": [
+      "rus",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lqfQ9GnmWs500H",
+    "name": "Ze Rock Radio",
+    "stream_urls": [
+      "https://icecast.live/proxy/zerock/zerock"
+    ],
+    "country": "il",
+    "languages": [
+      "eng",
+      "heb"
+    ]
+  }
+]

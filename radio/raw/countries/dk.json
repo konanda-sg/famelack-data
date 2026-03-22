@@ -1,0 +1,907 @@
+[
+  {
+    "nanoid": "8BIQTT70wvNAdg",
+    "name": "80's Hits",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "EsPdpSEWZCjfHy",
+    "name": "902 FM - Radio Antena",
+    "stream_urls": [
+      "https://s38.myradiostream.com:8598/.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "6pj1gf30YoxhCM",
+    "name": "Always Elvis Radio",
+    "stream_urls": [
+      "https://radioserver.dk/alwayselvisradio"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "XtJRQHuOO4SkjO",
+    "name": "ANR",
+    "stream_urls": [
+      "https://stream.anr.dk/anr"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "unAjjDeMj3p6aP",
+    "name": "Classic FM",
+    "stream_urls": [
+      "https://webradio.classicfm.dk/classichorsens",
+      "https://netradio.classicfm.dk/cla8d"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "pG2ZBDY9pyA34s",
+    "name": "Classic FM Esbjerg",
+    "stream_urls": [
+      "https://webradio.classicfm.dk/classicvejle"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "7nCUH4oHoHfghk",
+    "name": "Classic FM Fyn",
+    "stream_urls": [
+      "https://netradio.classicfm.dk/cla12a"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "aPG3oOKsLPcQEE",
+    "name": "Classic FM Xmas",
+    "stream_urls": [
+      "https://netradio.vlr.dk/popup2"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "fErrF9xsxvmDqz",
+    "name": "Classic Rock Danmark",
+    "stream_urls": [
+      "https://netradio.classicfm.dk/classicrock"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "pAC3G73bR4vz9z",
+    "name": "Dansktopkanalen",
+    "stream_urls": [
+      "https://netradio.classicfm.dk/dansktop"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "j9NT5Qr3CJpWlQ",
+    "name": "Deutschlandfunk Presseschau",
+    "stream_urls": [
+      "https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "P5vwRFH8zkpXFf",
+    "name": "DR P1",
+    "stream_urls": [
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p1/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "x3A6FWlnd802mT",
+    "name": "DR P2",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A04L.mp3",
+      "https://live-icy.dr.dk/A/A27L.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "LqCdSPetys5n74",
+    "name": "DR P3",
+    "stream_urls": [
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p3/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "2IPEYmBJKvx3Ks",
+    "name": "DR P4 Bornholm",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A30H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "bcfWLGANQwWcLE",
+    "name": "DR P4 København",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A08H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "kVkZAXuUzFEbzF",
+    "name": "DR P5 Esbjerg",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A26H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "6kXqThCcGJMy2Q",
+    "name": "DR P5 Fyn",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A02H.mp3",
+      "https://drliveradio.akamaized.net/hls/live/2022411/p5fyn/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "u7FrEV4jpxLiNy",
+    "name": "DR P5 Midt & Vest",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A17H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "PK7HhBsld3hdFa",
+    "name": "DR P5 Østjylland",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A24H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Ut4IFZbqAabNWg",
+    "name": "DR P6 Beat",
+    "stream_urls": [
+      "https://live-icy.dr.dk/A/A29H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "I7dSwN4weWnUwF",
+    "name": "DR P8 Jazz",
+    "stream_urls": [
+      "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/playlist-320000.m3u8",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "q8lRLlw31XAUmE",
+    "name": "Femern FM",
+    "stream_urls": [
+      "https://cast1.asurahosting.com/proxy/femernfm/stream"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "vBzkGpKLePOQID",
+    "name": "Globus Guld Country",
+    "stream_urls": [
+      "https://stream.probroadcast.dk/guldcountrymp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "RgmwOAQ3taNYEc",
+    "name": "Globus Guld Jul",
+    "stream_urls": [
+      "https://stream.probroadcast.dk/guldjul"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "ThwGsEDPv64T5n",
+    "name": "go!FM",
+    "stream_urls": [
+      "https://radioserver.dk/gofm"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "ns7QtZFtoJkWud",
+    "name": "Limfjord Mix",
+    "stream_urls": [
+      "https://media.limfjordnetradio.dk/plus128"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "E3wGa5jvln1ryJ",
+    "name": "Limfjord Slager",
+    "stream_urls": [
+      "https://media.limfjordnetradio.dk/plusslager128",
+      "https://media.limfjordnetradio.dk/plusslageraac"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "i5xcD8zsQKk4Uf",
+    "name": "myROCK",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/myrock.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "tt1qwaCFwGO03J",
+    "name": "NOVA",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/nova128.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "OBpcHnea87hcME",
+    "name": "NOVA 100% Dansk",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "OOdS39SObxFDYS",
+    "name": "PartyFM",
+    "stream_urls": [
+      "https://stream1.partyfm.dk/Party320",
+      "https://stream.partyfm.dk/Party320/"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "7pKzYNT8bDAsRq",
+    "name": "Pop FM",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com/popfm128.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Y0cb1GPSim2XBe",
+    "name": "Pop FM 80er",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com//popfm80.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "dsHxlYUubQoSVn",
+    "name": "Radio 100",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com/100fm_live.mp3",
+      "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Nsi7IHbeu3WOln",
+    "name": "Radio 40plus",
+    "stream_urls": [
+      "https://stream.radiosolutions.dk/radio40plus"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "RGP0slsmCqv6FH",
+    "name": "Radio ABC",
+    "stream_urls": [
+      "https://radioserver.dk/abc"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "YhZcZhUOLT5id2",
+    "name": "Radio Alfa",
+    "stream_urls": [
+      "https://radioserver.dk/alfa"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "EAsdpswPTHkdNo",
+    "name": "Radio Alfa Aarhus",
+    "stream_urls": [
+      "https://radioserver.dk/alfaaarhus"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "mWFZNKAwfyf81c",
+    "name": "Radio Alfa Gold",
+    "stream_urls": [
+      "https://radioserver.dk/alfaevent"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Clex8PVqKHcN28",
+    "name": "Radio Alfa Midtjylland",
+    "stream_urls": [
+      "https://radioserver.dk/alfamidt"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "2ay49fL3ZdMLC7",
+    "name": "Radio Alfa Silkeborg",
+    "stream_urls": [
+      "https://radioserver.dk/alfasilk"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Wccs1LcGRWRIUC",
+    "name": "Radio Alfa Skive",
+    "stream_urls": [
+      "https://radioserver.dk/alfaskive"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "kcwIimf1IdaZ8W",
+    "name": "Radio Alfa Viborg",
+    "stream_urls": [
+      "https://radioserver.dk/alfaviborg"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "nwPoSwyHd2pp0C",
+    "name": "Radio ALR",
+    "stream_urls": [
+      "https://streamer.radio.co/s6a9beb92e/listen"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "vFRl0vwTckcH2D",
+    "name": "Radio Diablo",
+    "stream_urls": [
+      "https://radio1.jfmtech.dk/diablo.aac"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "9341SgMYqz5uvQ",
+    "name": "Radio Fasanen",
+    "stream_urls": [
+      "https://c14.radioboss.fm:18228/stream"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "dynU7nIJzMdLNb",
+    "name": "Radio Globus",
+    "stream_urls": [
+      "https://stream.probroadcast.dk/radioglobus"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Gd9aEFjZ8MKVNd",
+    "name": "Radio Happy",
+    "stream_urls": [
+      "https://streaming.radio.co/sd9d980ff0/listen"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "G0Pp9qzYbZ38nA",
+    "name": "Radio Helsingør",
+    "stream_urls": [
+      "https://stream.radiohelsingor.dk/rh"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "uuGxUUMojajmUz",
+    "name": "Radio Humleborg",
+    "stream_urls": [
+      "https://stream2.rcast.net/64145"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "DecvKiTtBGTtSV",
+    "name": "Radio IIII",
+    "stream_urls": [
+      "https://netradio.radio4.dk/radio4"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "MO1Z0cKCCSBdOy",
+    "name": "Radio Jazz Copenhagen",
+    "stream_urls": [
+      "https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "hd55XnaGq9pLEy",
+    "name": "Radio Limfjord",
+    "stream_urls": [
+      "https://media.limfjordnetradio.dk/limfjord128",
+      "https://media.limfjordnetradio.dk/limfjordaac"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "8eC7T3Ex8m4Csn",
+    "name": "Radio M",
+    "stream_urls": [
+      "https://radioserver.dk/radiom"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "rSSbo1hRsYvhww",
+    "name": "Radio Mars",
+    "stream_urls": [
+      "https://radio2.digidi.net/listen/mars/radio_mid.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "fJHkYE3arOZIps",
+    "name": "Radio Panini",
+    "stream_urls": [
+      "https://radi-panini.radiocult.fm/stream"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "C9wmeJqdMVRsC0",
+    "name": "Radio Playback",
+    "stream_urls": [
+      "https://stream02.radioplayback.dk/stream"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "KURhlzkjFi1A2R",
+    "name": "Radio Rollo",
+    "stream_urls": [
+      "https://stream.radiosolutions.dk/rollo"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "1bVRQADhfuCH1o",
+    "name": "Radio Soft",
+    "stream_urls": [
+      "https://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "iHq36OHCP40lWv",
+    "name": "Radio Solo",
+    "stream_urls": [
+      "https://radioserver.dk/solo"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "dUL1WWTz6d6nHB",
+    "name": "Radio Stinesen",
+    "stream_urls": [
+      "https://st1.stinesen.dk/StineM320"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "saY0uDKFLpPwLf",
+    "name": "Radio Viborg",
+    "stream_urls": [
+      "https://webradio.radioviborg.dk/viborg"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "HjP9TVI0GxVWg6",
+    "name": "Radio Viva",
+    "stream_urls": [
+      "https://stream.probroadcast.dk/radioviva"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "09blZz0C64sBTZ",
+    "name": "RadioFolk.dk",
+    "stream_urls": [
+      "https://stream.radiojar.com/fqt2y0ds97zuv"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VIkz21CiRan7Dz",
+    "name": "Rar",
+    "stream_urls": [
+      "https://techno-low.rautemusik.fm/"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "TuRV1aAlO7datK",
+    "name": "Retro Radio",
+    "stream_urls": [
+      "https://stream128.retro-radio.dk/retro",
+      "https://streammp3.retro-radio.dk/retro-mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "4tpmuAjPXEKzzr",
+    "name": "Retro Radio Millennium",
+    "stream_urls": [
+      "https://tx-2.retro-radio.dk/TX-2"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "KGLtvIpqf5hNtP",
+    "name": "Rockkanalen",
+    "stream_urls": [
+      "https://stream.kanalplus.fm/kp96"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "H48A3rsgP4BAQs",
+    "name": "SkagaFM",
+    "stream_urls": [
+      "https://stream.probroadcast.dk/skagafm"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Eh9S3J9WCIpLsu",
+    "name": "Skala FM",
+    "stream_urls": [
+      "https://webradio.skala.fm/kolding",
+      "https://netradio.skala.fm/ska8d"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "KkQ4KxsEOY9YPl",
+    "name": "Tango Radio Copenhagen",
+    "stream_urls": [
+      "https://tangocopenhagen.stream.laut.fm/tangocopenhagen"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AK2ruqpuSmKsSW",
+    "name": "TechnoBase.FM",
+    "stream_urls": [
+      "https://listener2.aach.tb-group.fm/tb-high.aac",
+      "https://listener2.mp3.tb-group.fm/tb.mp3",
+      "https://listen.technobase.fm/tunein-aacplus-pls",
+      "https://listen.technobase.fm/tunein-mp3-pls"
+    ],
+    "country": "dk",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "7GubNJ2ZY21xnP",
+    "name": "The Voice",
+    "stream_urls": [
+      "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/voice128.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "JsW8A3e32C9FZc",
+    "name": "UMLANDO Radio",
+    "stream_urls": [
+      "https://a2.asurahosting.com:6520/radio.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tSiqOZUJOpcXcH",
+    "name": "Uniradioen",
+    "stream_urls": [
+      "https://uniradio.out.airtime.pro/uniradio_a"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "aflZnU1NjaxacI",
+    "name": "Vinyl Hits",
+    "stream_urls": [
+      "https://stream.vinylhits.dk/vinylaac",
+      "https://stream.vinylhits.dk/vinylmp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "lZ20AKASA077S0",
+    "name": "VLR",
+    "stream_urls": [
+      "https://netradio.vlr.dk/vlr8d"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "qMgo697x8OT0gl",
+    "name": "World Music Radio",
+    "stream_urls": [
+      "https://stream.probroadcast.dk/wmr"
+    ],
+    "country": "dk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "10w3E8oAqQERgS",
+    "name": "ØstFM",
+    "stream_urls": [
+      "https://stream.probroadcast.dk/oestfmmp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  }
+]

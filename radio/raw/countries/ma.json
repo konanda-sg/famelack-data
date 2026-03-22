@@ -1,0 +1,507 @@
+[
+  {
+    "nanoid": "C9iJAEf3v8w6NA",
+    "name": "Achkid FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/7nqu31p6xg0uv"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "n2DCSZqiM3jc4F",
+    "name": "Atlantic Radio",
+    "stream_urls": [
+      "https://atlantic-sonic.nindohost.net:9300/stream"
+    ],
+    "country": "ma",
+    "languages": [
+      "fra",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ebK0PTuPHuhDNm",
+    "name": "Aziz Mustaphi",
+    "stream_urls": [
+      "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "tWG647zUbuZ14o",
+    "name": "Cap Radio",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/710810/stream/776366"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "8VLQ4wzPX2NrE5",
+    "name": "Fayroz",
+    "stream_urls": [
+      "https://stream.zeno.fm/zv3e5wykprhvv.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Jy6Sd6xOimbM9R",
+    "name": "Hip Hop Soul Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/k7cdrm450s8uv"
+    ],
+    "country": "ma",
+    "languages": []
+  },
+  {
+    "nanoid": "V3NJTZ4XIFMQLj",
+    "name": "Hit Radio",
+    "stream_urls": [
+      "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "jptEDkwSc4me2c",
+    "name": "Hit Radio 100% Buzz",
+    "stream_urls": [
+      "https://buzz.ice.infomaniak.ch/buzz-128.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "aplIhlaF1MEZ7M",
+    "name": "Hit Radio 100% Mgharba",
+    "stream_urls": [
+      "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "E1ZJHKlYOCPdKE",
+    "name": "Hit Radio 100% R&B",
+    "stream_urls": [
+      "https://rnb.ice.infomaniak.ch/rnb-128.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "X7V5YKZ35rKPlp",
+    "name": "Hit Radio Maroc",
+    "stream_urls": [
+      "https://stream.zeno.fm/une3a02mb"
+    ],
+    "country": "ma",
+    "languages": [
+      "fra",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "2hSkhTDD2em3wb",
+    "name": "Hits 1 Maroc",
+    "stream_urls": [
+      "https://radio12.pro-fhi.net/live/Hits1radio"
+    ],
+    "country": "ma",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "ZwwHUDs4woag1B",
+    "name": "Marrakech Plus",
+    "stream_urls": [
+      "https://cast5.my-control-panel.com/proxy/marrakec/stream"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "ADYJ9nOlNwERTr",
+    "name": "Medi 1",
+    "stream_urls": [
+      "https://live.medi1.com/medi1"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "qZ3YTOdzXz4B8u",
+    "name": "Medi 1 Acoustic",
+    "stream_urls": [
+      "https://live.medi1.com/Acoustic"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "6UuVS3NSMoAuJZ",
+    "name": "Medi 1 Afrique",
+    "stream_urls": [
+      "https://live.medi1.com/medi3"
+    ],
+    "country": "ma",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "VOecyLI2a7f8zX",
+    "name": "Medi 1 Andalouse",
+    "stream_urls": [
+      "https://live.medi1.com/Andalouse"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "5PVDropy0yGh3Q",
+    "name": "Medi 1 Classique",
+    "stream_urls": [
+      "https://live.medi1.com/Classique"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "w3OeM64WkFQjqb",
+    "name": "Medi 1 DJ",
+    "stream_urls": [
+      "https://live.medi1.com/Dj"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "M06SXFZ8P7ZXnt",
+    "name": "Medi 1 Jazz",
+    "stream_urls": [
+      "https://live.medi1.com/Jazz"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "53GbiE3IixSZQv",
+    "name": "Medi 1 Latino",
+    "stream_urls": [
+      "https://live.medi1.com/Latino"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zbDaeaEBigwh31",
+    "name": "Medi 1 Nayda",
+    "stream_urls": [
+      "https://live.medi1.com/Nayda"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "Aa7khiHgOzuNpG",
+    "name": "Medi 1 Soufi",
+    "stream_urls": [
+      "https://live.medi1.com/Soufi"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "7LquP6ZqddiOXy",
+    "name": "Medi 1 Tarab",
+    "stream_urls": [
+      "https://live.medi1.com/Tarab"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "IRmWT4zgynjdse",
+    "name": "Medina FM",
+    "stream_urls": [
+      "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Aep0CHJoPYSRHX",
+    "name": "MFM Radio",
+    "stream_urls": [
+      "https://a5.asurahosting.com:7980/radio.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "idiyxYoxAWY3Rq",
+    "name": "Ness Radio",
+    "stream_urls": [
+      "https://radio.nessradio.net:8212/nessradio-hd"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "7RqPSNeNvVvyv3",
+    "name": "Only Rai",
+    "stream_urls": [
+      "https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "6WPC3fkN3EYdgp",
+    "name": "Radio Adwaa FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/5bxh2nh0x1zuv"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "qYj2lUpn3l3QEU",
+    "name": "Radio Adwaa FM 3",
+    "stream_urls": [
+      "https://stream.zeno.fm/x4451xh0x1zuv"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "5Do9dbHIsKXxfE",
+    "name": "Radio Adwaa FM 4",
+    "stream_urls": [
+      "https://stream.zeno.fm/8wrs2bh0x1zuv"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "kPHNbCipYukunk",
+    "name": "Radio Adwaa FM 5",
+    "stream_urls": [
+      "https://stream.zeno.fm/ezxx195gq2zuv"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "KN3Kbh9TI179ro",
+    "name": "Radio Aswat",
+    "stream_urls": [
+      "https://broadcast.ice.infomaniak.ch/aswat-high.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "EGNcWfJLHxazI5",
+    "name": "Radio Atbir",
+    "stream_urls": [
+      "https://stream-156.zeno.fm/bqdbb6hd0neuv"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "NTFf13K9UJnl99",
+    "name": "Radio Azawan",
+    "stream_urls": [
+      "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "6QlTsvXOAp9pDo",
+    "name": "Radio Chaouen",
+    "stream_urls": [
+      "https://streaming.radionomy.com/JamendoLounge"
+    ],
+    "country": "ma",
+    "languages": [
+      "ell",
+      "eng",
+      "fra",
+      "kur",
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "ZWEBKvQb1Zm6Z8",
+    "name": "Radio Manarat",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/252934/stream/297385"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "VEn3h7RLMaSRHo",
+    "name": "Radio Mars",
+    "stream_urls": [
+      "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "KALLOCm1Ael1x1",
+    "name": "Radio Plus",
+    "stream_urls": [
+      "https://stream.radio.co/s8cc7a5da4/listen"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "qd2IFTcZ5Iwq6V",
+    "name": "Radio Plus Agadir",
+    "stream_urls": [
+      "https://stream-158.zeno.fm/bqdbb6hd0neuv"
+    ],
+    "country": "ma",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "UEjCe0pw6VbmCe",
+    "name": "Radio Sawt Alamal",
+    "stream_urls": [
+      "https://stream.zeno.fm/d4u7zbqh5qruv"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "3F11JjZbck2Yqs",
+    "name": "Radio Tanger Med",
+    "stream_urls": [
+      "https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "KPRrLkeHM3P5nq",
+    "name": "RIM Radio",
+    "stream_urls": [
+      "https://streaming.rimradio.ma/live"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "RRIrpbH5BnaCUs",
+    "name": "Skyrock Casablanca",
+    "stream_urls": [
+      "https://icecast.skyrock.net/s/casa_aac_64k"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "eng",
+      "fra"
+    ]
+  }
+]

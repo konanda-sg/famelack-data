@@ -1,0 +1,323 @@
+[
+  {
+    "nanoid": "TnRAM0ClEIUWZv",
+    "name": "Canal Radio Cruces",
+    "stream_urls": [
+      "https://canalradio.stream.laut.fm/canalradio"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CKsxmkZtNatU1n",
+    "name": "CMBF Radio Musical Nacional",
+    "stream_urls": [
+      "https://icecast.teveo.cu/Nbtz7HT3"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hdzA6jFpH910bE",
+    "name": "Cubanía Radio",
+    "stream_urls": [
+      "https://streamingv2.shoutcast.com/cubania"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gmicEbEyDkNGM9",
+    "name": "Hostal Azul Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/b4m2tic2ibbtv"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wDy4hCj5PP7y8X",
+    "name": "Neon Radio XL",
+    "stream_urls": [
+      "https://s12.myradiostream.com:16754/listen.m4a"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "OsdEs4CxhmXKdL",
+    "name": "Radio 26",
+    "stream_urls": [
+      "https://icecast.teveo.cu/LsxKNz7b"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gYlIHV5Q102lej",
+    "name": "Radio A Toda Mecha",
+    "stream_urls": [
+      "https://stream.zeno.fm/gjexooyemj3uv"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pmATnecqqC3Bll",
+    "name": "Radio Artemisa",
+    "stream_urls": [
+      "https://icecast.teveo.cu/9HzjRcjX"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "f9ZrwRbR3XB3X8",
+    "name": "Radio Baraguá 91.3 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/3CMM7zph"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "otSbeEb0TxKdgw",
+    "name": "Radio Bayamo 98.6 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/7hdNcTbM"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "E4A8m3Zc3mdsq1",
+    "name": "Radio Cadena Agramonte",
+    "stream_urls": [
+      "https://icecast.teveo.cu/j99xztkT"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ifTaajZ36yZLQY",
+    "name": "Radio Ciudad de La Habana",
+    "stream_urls": [
+      "https://icecast.teveo.cu/g73XCjCH"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Owdw54YR8ZN2Kj",
+    "name": "Radio Ciudad del Mar",
+    "stream_urls": [
+      "https://icecast.teveo.cu/CL7jRXqn"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "eWn9p1bfOlKPyj",
+    "name": "Radio Ciudad Monumento 95.3 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/KR43FF7C"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gF72AZhqpEbILF",
+    "name": "Radio CMHW",
+    "stream_urls": [
+      "https://icecast.teveo.cu/TsxMM94R"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bUb3AehlALm6xO",
+    "name": "Radio COCO",
+    "stream_urls": [
+      "https://icecast.teveo.cu/fvc4RVRz"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1YhBYqNSE8PiyN",
+    "name": "Radio Habana Cuba",
+    "stream_urls": [
+      "https://icecast.teveo.cu/McW3fLhs"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "n7a4Sb7lAsO0dw",
+    "name": "Radio Jaruco 104.9 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/KH9tVwrC"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kowxErg3TjkbD8",
+    "name": "Radio La Voz del Níquel",
+    "stream_urls": [
+      "https://icecast.teveo.cu/nj4PLTHR"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FRXh1a0fziuHn0",
+    "name": "Radio Mayabeque",
+    "stream_urls": [
+      "https://icecast.teveo.cu/Rsrm7P9h"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "h5tiKfVXKlFAtw",
+    "name": "Radio Metropolitana",
+    "stream_urls": [
+      "https://icecast.teveo.cu/ktW3mW74"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "w1GR2uoRZnvhlT",
+    "name": "Radio Progreso",
+    "stream_urls": [
+      "https://icecast.teveo.cu/XjfW7qWN"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vn5x1pALaKEbXy",
+    "name": "Radio Rebelde",
+    "stream_urls": [
+      "https://icecast.teveo.cu/zrXXWK9F",
+      "https://icecast.teveo.cu/kHKL7tWd"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "sFMnvHVm81kwcy",
+    "name": "Radio Reloj",
+    "stream_urls": [
+      "https://icecast.teveo.cu/b3jbfThq"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "WIsULeHzEIVsLH",
+    "name": "Radio Sagua",
+    "stream_urls": [
+      "https://icecast.teveo.cu/wHm3qrMx"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xfRnvsrNjPWOjx",
+    "name": "Radio Sancti Spíritus",
+    "stream_urls": [
+      "https://icecast.teveo.cu/NqWrgw7j"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JVOQtGvKVrWI8G",
+    "name": "Radio Taíno",
+    "stream_urls": [
+      "https://icecast.teveo.cu/3MCwWg3V"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "msPAua9SG5v6dE",
+    "name": "Radio Victoria",
+    "stream_urls": [
+      "https://icecast.teveo.cu/P77NJX4X",
+      "https://icecast.teveo.cu/F9tgnJVT"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "onWSKSInKUktIW",
+    "name": "Romance 106",
+    "stream_urls": [
+      "https://s13.myradiostream.com:41400/listen.m4a"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  }
+]

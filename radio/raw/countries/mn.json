@@ -1,0 +1,46 @@
+[
+  {
+    "nanoid": "Trb7pdjcdjpMyD",
+    "name": "Elgen Nutag FM",
+    "stream_urls": [
+      "https://a6.asurahosting.com:7210/radio.mp3"
+    ],
+    "country": "mn",
+    "languages": [
+      "mon"
+    ]
+  },
+  {
+    "nanoid": "BmSMxqEMqpVsMw",
+    "name": "Family Radio",
+    "stream_urls": [
+      "https://c2.radioboss.fm/stream/394"
+    ],
+    "country": "mn",
+    "languages": [
+      "mon"
+    ]
+  },
+  {
+    "nanoid": "9nx8Y65GcXmzjg",
+    "name": "Inner Mongolia Voice of Grassland",
+    "stream_urls": [
+      "https://lhttp-hw.qtfm.cn/live/20973/64k.mp3"
+    ],
+    "country": "mn",
+    "languages": [
+      "mon"
+    ]
+  },
+  {
+    "nanoid": "LObg2wVHupBVMT",
+    "name": "MGL Radio",
+    "stream_urls": [
+      "https://s4.ssl-stream.com/listen/mgl_radio/stream"
+    ],
+    "country": "mn",
+    "languages": [
+      "mon"
+    ]
+  }
+]

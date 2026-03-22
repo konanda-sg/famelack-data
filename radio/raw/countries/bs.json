@@ -1,0 +1,112 @@
+[
+  {
+    "nanoid": "47FuuY7AaakROS",
+    "name": "100 Jamz",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/100JAMZ"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RSL9Zsqo4KG6Et",
+    "name": "96.9 FM Guardian Radio",
+    "stream_urls": [
+      "https://radiostreams.streamcomedia.com:8000/969guardianradio"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ATjqKteUCtGSqd",
+    "name": "Global 99.5 FM",
+    "stream_urls": [
+      "https://ice64.securenetsystems.net/GLOBALBS"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IakfUlexXX3OWW",
+    "name": "Gospel 107.1 FM",
+    "stream_urls": [
+      "https://c25.radioboss.fm:8186/stream"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FYZdXh9A0UzVTf",
+    "name": "Hot 91.7 FM",
+    "stream_urls": [
+      "https://ice25.securenetsystems.net/HOT917FM"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "l1WlSfufL0VAuV",
+    "name": "Kiss 96.1 FM",
+    "stream_urls": [
+      "https://ice42.securenetsystems.net/96KISSFM"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xGISo8E1G5jTGO",
+    "name": "Star 106.5 FM",
+    "stream_urls": [
+      "https://radiostreams.streamcomedia.com:8020/star1065fm"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VBNo9VtscpL3jl",
+    "name": "ZNS-1 The National Voice",
+    "stream_urls": [
+      "https://radiostreams.streamcomedia.com:8008/zns1540am"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BML2rSnXpcpa1T",
+    "name": "ZNS-2 Inspiration 107.9 FM",
+    "stream_urls": [
+      "https://radiostreams.streamcomedia.com:8006/zns1079fm"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LYR5KRd53CBm7N",
+    "name": "ZNS-3 The Light 810 AM",
+    "stream_urls": [
+      "https://radiostreams.streamcomedia.com:8002/zns810am"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  }
+]

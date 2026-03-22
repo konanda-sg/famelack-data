@@ -1,0 +1,391 @@
+[
+  {
+    "nanoid": "WKQh1IBLKb6VHn",
+    "name": "Anime Para Ti",
+    "stream_urls": [
+      "https://stream.zeno.fm/qpn8mkt8c4duv"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "u91Fr4qgobRy3I",
+    "name": "Ashiya Radio",
+    "stream_urls": [
+      "https://s3.radio.co/sc8d895604/listen"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "QylK41BmjkSJhN",
+    "name": "Asia DREAM Radio - Japan Hits",
+    "stream_urls": [
+      "https://quincy.torontocast.com:2020/stream.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "tvciwj8VN4PZYW",
+    "name": "Box Radio - Japan City Pop",
+    "stream_urls": [
+      "https://play.streamafrica.net/japancitypop"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Gk45cmg2UqUDt0",
+    "name": "Daifu Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/oaxp6mswcqltv"
+    ],
+    "country": "jp",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "vnLU85mEvfL0En",
+    "name": "FM Setagaya",
+    "stream_urls": [
+      "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "zAEvUe5Ax9nyfh",
+    "name": "Fred Film Radio",
+    "stream_urls": [
+      "https://s10.webradio-hosting.com/proxy/fredradiojp/stream"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "zpqAPKwxHaAjAp",
+    "name": "Fuji Cyber Forest",
+    "stream_urls": [
+      "https://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "QcdNMaoKaY56oV",
+    "name": "Gensokyo Radio",
+    "stream_urls": [
+      "https://stream.gensokyoradio.net/3/",
+      "https://stream.gensokyoradio.net/3",
+      "https://stream.gensokyoradio.net/2"
+    ],
+    "country": "jp",
+    "languages": [
+      "eng",
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "KQjtzJrNHracQa",
+    "name": "Gotanno FM",
+    "stream_urls": [
+      "https://radio.gotanno.love/;"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "xUQIWxoc69t5hM",
+    "name": "Hitsujikai Radio",
+    "stream_urls": [
+      "https://streaming.radio.co/se4a8e6a93/listen",
+      "https://streaming.radio.co/se4a8e6a93/low"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "oWppIKvjVIyNhz",
+    "name": "J-Club Powerplay Hip-Hop",
+    "stream_urls": [
+      "https://kathy.torontocast.com:3350/;"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "6P9XMkme9vVA1P",
+    "name": "J-Pop Powerplay",
+    "stream_urls": [
+      "https://kathy.torontocast.com:3560/;"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "tkvwYbuR8lDxtr",
+    "name": "J-Pop Powerplay Kawaii",
+    "stream_urls": [
+      "https://kathy.torontocast.com:3060/;"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "ghvvkcTsn10ftC",
+    "name": "J-Pop Sakura",
+    "stream_urls": [
+      "https://quincy.torontocast.com:2070/stream.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "94MyhVoCOXfKwc",
+    "name": "J-Rock Powerplay",
+    "stream_urls": [
+      "https://kathy.torontocast.com:3340/stream",
+      "https://kathy.torontocast.com:3340/;"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "aV41RbWN0bgwyw",
+    "name": "J1 Hits",
+    "stream_urls": [
+      "https://jenny.torontocast.com:2000/stream/J1HITS"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "8d6j5xDXumU3d7",
+    "name": "Jazz Club Bandstand",
+    "stream_urls": [
+      "https://cast1.torontocast.com:2060/;.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MXmq6DBSJCVOW8",
+    "name": "Jazz Sakura",
+    "stream_urls": [
+      "https://kathy.torontocast.com:3330/stream/1/",
+      "https://kathy.torontocast.com:3330/;"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "btObttcsMriUTe",
+    "name": "Kamakura FM",
+    "stream_urls": [
+      "https://kamakura.stream.laut.fm/kamakura"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "YvdaJ6C3HQyWZ2",
+    "name": "LISTEN.moe",
+    "stream_urls": [
+      "https://listen.moe/stream",
+      "https://listen.moe/opus",
+      "https://listen.moe/fallback"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "xxapVqcAdr1q8d",
+    "name": "LISTEN.moe K-Pop",
+    "stream_urls": [
+      "https://listen.moe/kpop/stream",
+      "https://listen.moe/kpop/opus",
+      "https://listen.moe/kpop/fallback"
+    ],
+    "country": "jp",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "08xOGhndlTkFJY",
+    "name": "NFRS Radio",
+    "stream_urls": [
+      "https://securestreams.autopo.st:2592/stream",
+      "https://stream2.rcast.net/70945"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "Plvw9Qb3OBzO6w",
+    "name": "Nightwave Plaza",
+    "stream_urls": [
+      "https://radio.plaza.one/ogg_low",
+      "https://radio.plaza.one/opus"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "TptjrhHsf98RTF",
+    "name": "Opening Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/tza2ayy47qruv"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "GIbt9MdLkqXnrn",
+    "name": "Otohama Coastal Soundscape",
+    "stream_urls": [
+      "https://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "edGPlOMgn3lpaK",
+    "name": "Ottava",
+    "stream_urls": [
+      "https://ottava2.out.airtime.pro:8000/ottava2_a"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "2j0MSaEtTKcE8k",
+    "name": "R/a/dio",
+    "stream_urls": [
+      "https://relay0.r-a-d.io/main.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qgxE8EFLgZLv3y",
+    "name": "Radio Future Funk",
+    "stream_urls": [
+      "https://stream-152.zeno.fm/48533y95cnruv"
+    ],
+    "country": "jp",
+    "languages": [
+      "eng",
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "lTIYUe2Gg7Rs83",
+    "name": "Rainwave All",
+    "stream_urls": [
+      "https://relay.rainwave.cc/all.mp3"
+    ],
+    "country": "jp",
+    "languages": []
+  },
+  {
+    "nanoid": "9h2tQJO5TrD091",
+    "name": "Replay News",
+    "stream_urls": [
+      "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "yBrRbgcObTNMkr",
+    "name": "Shonan Beach FM",
+    "stream_urls": [
+      "https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AC5emH4TVdWSvt",
+    "name": "Súper Tokio Radio",
+    "stream_urls": [
+      "https://streamer.radio.co/s83eb8ff39/listen"
+    ],
+    "country": "jp",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cYPTMlk1FSFbbb",
+    "name": "WREP",
+    "stream_urls": [
+      "https://c13.radioboss.fm:8200/stream"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  }
+]

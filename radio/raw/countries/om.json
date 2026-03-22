@@ -1,0 +1,24 @@
+[
+  {
+    "nanoid": "nf8KMK09lDBFGX",
+    "name": "Hala FM 102.7",
+    "stream_urls": [
+      "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
+    ],
+    "country": "om",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "JpK25BpTnPvdXI",
+    "name": "Hi FM",
+    "stream_urls": [
+      "https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3"
+    ],
+    "country": "om",
+    "languages": [
+      "eng"
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "nanoid": "FnKk0UQGOtlip9",
+    "name": "Alnas FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/yawenmfp64zuv"
+    ],
+    "country": "jo",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "XwVsEBooF5Ck9p",
+    "name": "Beat FM",
+    "stream_urls": [
+      "https://securestreams2.autopo.st:1242/live"
+    ],
+    "country": "jo",
+    "languages": [
+      "eng",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ZWf74D13xYrz0v",
+    "name": "Hayat FM",
+    "stream_urls": [
+      "https://dc1.serverse.com/proxy/kjxwtpdt/stream"
+    ],
+    "country": "jo",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "QmDyIYrMH24ZYM",
+    "name": "Husna FM",
+    "stream_urls": [
+      "https://s2.voscast.com:10445/stream"
+    ],
+    "country": "jo",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "e3uTpkETFtsaF0",
+    "name": "Jordan Radio",
+    "stream_urls": [
+      "https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8"
+    ],
+    "country": "jo",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "nlIGMk2kGAHG79",
+    "name": "Mazaj FM",
+    "stream_urls": [
+      "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3"
+    ],
+    "country": "jo",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "YAavbLmZ2Lbi3s",
+    "name": "Mood FM",
+    "stream_urls": [
+      "https://securestreams2.autopo.st:1241/live"
+    ],
+    "country": "jo",
+    "languages": [
+      "eng",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "MYHlBZcBCALsO7",
+    "name": "Radio Dahab",
+    "stream_urls": [
+      "https://dahab.ice.infomaniak.ch/dahab-192.mp3"
+    ],
+    "country": "jo",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "RRJc559Q7qSZCG",
+    "name": "Radio Jordan 96.3",
+    "stream_urls": [
+      "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8"
+    ],
+    "country": "jo",
+    "languages": [
+      "eng"
+    ]
+  }
+]

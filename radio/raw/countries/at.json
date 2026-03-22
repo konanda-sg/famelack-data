@@ -1,0 +1,1855 @@
+[
+  {
+    "nanoid": "YOa5x0wzro2Cku",
+    "name": "1000 Electronic Dance Music",
+    "stream_urls": [
+      "https://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eWOyMl7y80lFyc",
+    "name": "28Radio",
+    "stream_urls": [
+      "https://streaming.28radio.cc:8000/rock.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Wc52BpOQXrmH67",
+    "name": "88.6 Classic Rock",
+    "stream_urls": [
+      "https://edge17.streamonkey.net/radio886-classicrock/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "LIMzYKZGnIx5pA",
+    "name": "88.6 Hard Rock",
+    "stream_urls": [
+      "https://edge22.streamonkey.net/radio886-hardrock/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "R0xulvbEPnoXMb",
+    "name": "88.6 Metal",
+    "stream_urls": [
+      "https://edge64.streamonkey.net/radio886-metal/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "DrobMLoLU515og",
+    "name": "88.6 New Rock",
+    "stream_urls": [
+      "https://edge07.streamonkey.net/radio886-newrock/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "tKsiEeqPeY80tl",
+    "name": "88.6 Rot Weiss Rock",
+    "stream_urls": [
+      "https://edge68.streamonkey.net/radio886-rotweissrock/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "NAolPysftD2rRP",
+    "name": "Antenne 80er POP",
+    "stream_urls": [
+      "https://live.antenne.at/80s"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "JzNIrRA0usAJHX",
+    "name": "Antenne Austro Hits",
+    "stream_urls": [
+      "https://live.antenne.at/auh"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "h49Drv046MLJyA",
+    "name": "Antenne Kärnten",
+    "stream_urls": [
+      "https://live.antenne.at/ak"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "RRSiFSuyfOv6Mm",
+    "name": "Antenne Partyhitmix",
+    "stream_urls": [
+      "https://live.antenne.at/ost"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "VkFoCoF7Ov3rE6",
+    "name": "Antenne Salzburg",
+    "stream_urls": [
+      "https://edge69.streamonkey.net/antsalzburg-live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "LHUdpOmE00NdLc",
+    "name": "Antenne Steiermark",
+    "stream_urls": [
+      "https://live.antenne.at/as"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "y2MsLa3wc1Tu8x",
+    "name": "Antenne Sunrise",
+    "stream_urls": [
+      "https://live.antenne.at/sun"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "oH3zjzsLMFYaOI",
+    "name": "Antenne Vorarlberg 70er Hits",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-70er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "QLSvyOks8uctI3",
+    "name": "Antenne Vorarlberg Christkindl Radio",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-christkindl"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "hk2VqkvX3gS2Qz",
+    "name": "Antenne Vorarlberg Dance Radio",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-dance"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "YMeqrpPkvUbyIP",
+    "name": "Antenne Vorarlberg Lovesongs",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "tHMjgydlfgKxwA",
+    "name": "Antenne Vorarlberg Musica Italiana",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-italiana"
+    ],
+    "country": "at",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "pQYxd1HzorI9ZX",
+    "name": "Antenne Österreich",
+    "stream_urls": [
+      "https://frontend.streamonkey.net/antoesterreich-live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "fNx1dg4IORobL4",
+    "name": "ARBÖ Verkehrsradio",
+    "stream_urls": [
+      "https://icecast.audio2.at:8443/ARBOE.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "qzErn8ahzgdTKA",
+    "name": "Austria First",
+    "stream_urls": [
+      "https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "qhPiS6IbTA2G35",
+    "name": "Austria Kult Radio",
+    "stream_urls": [
+      "https://austria-kultradio.stream.laut.fm/austria-kultradio"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ckSROeupJhad52",
+    "name": "Austrian Rock Radio",
+    "stream_urls": [
+      "https://live.antenne.at/arr"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "hBTKZk9UShrnfS",
+    "name": "Blechradio 1 - böhmisch mährisch",
+    "stream_urls": [
+      "https://streamt.at/radio/8000/blechradio1.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ute57q4CWnyPuC",
+    "name": "Blechradio 2 - Blasmusik goes Pop and Rock",
+    "stream_urls": [
+      "https://streamt.at:8010/website_popandrock.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "8BvwqPtRjLZcd5",
+    "name": "Blechradio 3 - Tantlmusi",
+    "stream_urls": [
+      "https://streamt.at:8020/website_tanzlmusi.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "WGcFLb63tOmIAK",
+    "name": "Callshop Radio Wien",
+    "stream_urls": [
+      "https://icecast.callshopradio.com/callshopradio-wien"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "NuIbrmhlC0i4r4",
+    "name": "Campus & City Radio 94.4",
+    "stream_urls": [
+      "https://cr944.at:50443/cr944"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "fI1IP8MUjoxDlk",
+    "name": "Chromatique Sky",
+    "stream_urls": [
+      "https://chromatique-sky.stream.laut.fm/chromatique-sky"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "mP0vREF0l3Vmli",
+    "name": "City Jazz Radio",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at/CITYJAZZ"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "zxaaD8Y4npYwYX",
+    "name": "CITY23",
+    "stream_urls": [
+      "https://live.radiomax.technology/city23"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "XNn9UxURB3RQ1Y",
+    "name": "Darksynth Radio",
+    "stream_urls": [
+      "https://darksynthradio.stream.laut.fm/darksynthradio"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pQnfrt6bFjDbPO",
+    "name": "DrumandBass.FM",
+    "stream_urls": [
+      "https://drumandbassfm.stream.laut.fm/drumandbass_fm"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "1f0YrXrhAkNZR9",
+    "name": "Energy Tirol",
+    "stream_urls": [
+      "https://streaming.nrjaudio.fm/our7qbvukkaq"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "iqYNZDujWY8h1R",
+    "name": "Eurodance X-Press",
+    "stream_urls": [
+      "https://secureonair.krone.at/eurodance.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "HLctXNsrZwNBST",
+    "name": "Flash 90s",
+    "stream_urls": [
+      "https://stream.flash90s.at/flash90s/mp3-192/",
+      "https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "o2rj6zrvuJwXlS",
+    "name": "Freies Radio Innviertel",
+    "stream_urls": [
+      "https://radiofri.out.airtime.pro/radiofri_a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "oCHkC9P0re1XqF",
+    "name": "Freies Radio RRTH",
+    "stream_urls": [
+      "https://radio.rrth.at/RRTH"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "eMvAxCqgsiLUkV",
+    "name": "Freies Radio Salzkammergut",
+    "stream_urls": [
+      "https://streaming.xaok.org/frs.ogg"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Dl68tOAZsMG84Z",
+    "name": "FREIRAD - Freies Radio Innsbruck",
+    "stream_urls": [
+      "https://stream.freirad.at/live.ogg",
+      "https://stream.freirad.at/live.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "9Jls8FdfKPOdGb",
+    "name": "Gamesboro Radio",
+    "stream_urls": [
+      "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "151P9EGOyfRKQ3",
+    "name": "Garage Sounds",
+    "stream_urls": [
+      "https://audio.gendercriminals.gay/listen/garage_sounds/radio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "gsw2kfptpqE7Lo",
+    "name": "Hardstyle and Hardcore",
+    "stream_urls": [
+      "https://hardstyle-and-hardcore.stream.laut.fm/hardstyle-and-hardcore"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "cr7t1pMxnVNcj0",
+    "name": "Her.st Propaganda Broadcast",
+    "stream_urls": [
+      "https://radio.her.st/listen/listen/128.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wiZwe0ouAwvvXj",
+    "name": "Hitradio Ö3",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/oe3-q2a",
+      "https://orf-live.ors-shoutcast.at/oe3-q1a",
+      "https://ors-sn03.ors-shoutcast.at/oe3-q1a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "T5HWLmSH2AeiSp",
+    "name": "I Love Deutschrap First",
+    "stream_urls": [
+      "https://streams.ilovemusic.de/iloveradio104.mp3",
+      "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "AHEJA7n4caYgpx",
+    "name": "inforadio",
+    "stream_urls": [
+      "https://s35.derstream.net/inforadio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "T5EJ29PiTSZTMU",
+    "name": "JazzW3",
+    "stream_urls": [
+      "https://air.jazz.w3.at/jazzw3.mp3",
+      "https://air.jazz.w3.at/jazzw3.ogg"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "WAEfyFGKrWl56Z",
+    "name": "JoyTürk Rock",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC",
+      "https://25643.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "Tp3GF27Ow5Vun2",
+    "name": "Kronehit Digital",
+    "stream_urls": [
+      "https://secureonair.krone.at/kronehit-hp.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "BMKZwWwl2NrrA3",
+    "name": "Kronehit Frühschoppen",
+    "stream_urls": [
+      "https://kronehit.streamabc.net/50-fschannel7-aac-128-5331555"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "osSkjqSyq7V3F6",
+    "name": "Kronehit Herzklopfen",
+    "stream_urls": [
+      "https://kronehit.streamabc.net/50-fschannel23-aac-128-6690511"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "uf2Z61YkFZIRvg",
+    "name": "Kronehit Latino",
+    "stream_urls": [
+      "https://kronehit.streamabc.net/50-fschannel5-aac-128-6675703"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "EZHvd5IoLaCYiC",
+    "name": "Kronehit Schlager",
+    "stream_urls": [
+      "https://kronehit.streamabc.net/50-fschannel24-aac-128-2899732"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "M8s6JjzaqFtE1r",
+    "name": "Kronehit TV",
+    "stream_urls": [
+      "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "8MQTZcPTtws5O5",
+    "name": "LCR - Linedance & Country Radio",
+    "stream_urls": [
+      "https://streaming.radio.co/sba5c95896/listen"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "bOukRCncTBPeK2",
+    "name": "Life Radio",
+    "stream_urls": [
+      "https://stream1.liferadio.at/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "yaSlOQWdHqQ7y3",
+    "name": "Life Radio 80er",
+    "stream_urls": [
+      "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "61JyhcZTvBeO6N",
+    "name": "Life Radio Chill Out Hits",
+    "stream_urls": [
+      "https://liferadio.streamabc.net/lfr-chillout-mp3-192-3102923",
+      "https://stream8.liferadio.at/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "EcLcxqG38xXGTK",
+    "name": "Life Radio Classic Rock",
+    "stream_urls": [
+      "https://liferadio.streamabc.net/lfr-crock-mp3-192-6797911",
+      "https://stream11.liferadio.at/",
+      "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ImqOK8FcvHGMTa",
+    "name": "Life Radio Greatest Hits",
+    "stream_urls": [
+      "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "iho850zCNI7qsC",
+    "name": "Life Radio Sommersongs",
+    "stream_urls": [
+      "https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "qjOuLbGn41Wt91",
+    "name": "Life Radio Tirol",
+    "stream_urls": [
+      "https://stream.liferadio.tirol/live/aac-256/SHQ",
+      "https://stream.liferadio.tirol/live/mp3-192/link"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "6CkZaESD9uXwlU",
+    "name": "Life Radio Tirol - Alles Malle",
+    "stream_urls": [
+      "https://stream.liferadio.tirol/malle/mp3-192/link"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Ee6KZp1KJAd9ck",
+    "name": "Life Radio Tirol - Music Only",
+    "stream_urls": [
+      "https://stream.liferadio.tirol/MUONLY/mp3-192/link"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "SpAYTehOu5Jncc",
+    "name": "Life Radio Tirol - Schlagerpuls",
+    "stream_urls": [
+      "https://stream.liferadio.tirol/schlager/mp3-192/link"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "2NQY9CtPTsJ1Jk",
+    "name": "Lo-Fi Halloween and Chill",
+    "stream_urls": [
+      "https://audio.gendercriminals.gay/listen/lo-fi_halloween_and_chill/radio-browser"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "q1tDi40EdfQpKh",
+    "name": "LoungeFM",
+    "stream_urls": [
+      "https://s35.derstream.net/digital.mp3",
+      "https://s35.derstream.net/100austria.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "oSrx4mEipxFxOK",
+    "name": "LoungeFM Wien",
+    "stream_urls": [
+      "https://s35.derstream.net/ukwwien.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "nd3kBN59UJblmz",
+    "name": "METAL Radio",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at:80/METALRadio",
+      "https://stream.radiotechnikum.at/METALRadio"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "F6uwOyMLNCfUiH",
+    "name": "Mountain Reggae Radio",
+    "stream_urls": [
+      "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "4tq4emKVzDalXq",
+    "name": "NJOY Radio 88.2 FM",
+    "stream_urls": [
+      "https://live.njoyradio.at/njoy"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "IMMuAX99APP5Nz",
+    "name": "NORA Oldie Party",
+    "stream_urls": [
+      "https://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "s5hT05CT4IfqMH",
+    "name": "oe24 Radio",
+    "stream_urls": [
+      "https://edge21.streamonkey.net/oe24-live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "IPt9a41FQrTVvv",
+    "name": "oe24 Radio - Best of 2000",
+    "stream_urls": [
+      "https://edge07.streamonkey.net/oe24-2000er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ICywLgEnBpykqQ",
+    "name": "oe24 Radio - Best of 60s and 70s",
+    "stream_urls": [
+      "https://edge65.streamonkey.net/oe24-6070er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "GRTJIOnUdzFnvb",
+    "name": "oe24 Radio - Best of 80s",
+    "stream_urls": [
+      "https://edge84.streamonkey.net/oe24-80er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "hLXFcXoLWc9KeU",
+    "name": "oe24 Radio - Best of 90s",
+    "stream_urls": [
+      "https://edge65.streamonkey.net/oe24-90er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "E4cdCzluMMvwad",
+    "name": "oe24 Radio - Best of Hüttengaudi",
+    "stream_urls": [
+      "https://edge83.streamonkey.net/oe24-huettengaudi"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "8MvCpH42BiKgSb",
+    "name": "oe24 Radio - Best of Love Music",
+    "stream_urls": [
+      "https://edge18.streamonkey.net/oe24-love"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "gwTc3RoJtLJ1Ov",
+    "name": "oe24 Radio - Best of Rock",
+    "stream_urls": [
+      "https://edge82.streamonkey.net/oe24-rock"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Kqk1ev74u3Blc5",
+    "name": "oe24 Radio - Best of Schlager",
+    "stream_urls": [
+      "https://edge82.streamonkey.net/oe24-schlager"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "L4qQcfmCj90CtD",
+    "name": "oe24 Radio - No.1 Hits",
+    "stream_urls": [
+      "https://edge84.streamonkey.net/oe24-nr1hits"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "hJwM8eQ4RN4mUH",
+    "name": "Orange 94.0",
+    "stream_urls": [
+      "https://securestream.o94.at/live.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "9zP9ZoF4mb086s",
+    "name": "ORF Slovenski Spored",
+    "stream_urls": [
+      "https://ors-sn03.ors-shoutcast.at/slo-q2a"
+    ],
+    "country": "at",
+    "languages": [
+      "slv",
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "qFF1fmahD9DS4v",
+    "name": "Peters Plattenthek",
+    "stream_urls": [
+      "https://server7524.streamplus.de/stream.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "E7uBIWeUNTDGRa",
+    "name": "Pirate Radio",
+    "stream_urls": [
+      "https://secureonair.krone.at/pirate.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "JfSzvGEbJ9uzq7",
+    "name": "Popwelle Wörthersee",
+    "stream_urls": [
+      "https://popwellezwei.sp.radio.fm/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "hB1ZrsVxjF6AxJ",
+    "name": "Power FM",
+    "stream_urls": [
+      "https://www.powerfm.org:8443/powerfm.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XZOJkJe9a5g0LX",
+    "name": "Purzelradio",
+    "stream_urls": [
+      "https://s5.radio.co/sa760ba7af/listen"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "1QBt3gSWP6B30X",
+    "name": "Radio Agora 105.5",
+    "stream_urls": [
+      "https://livestream.agora.at/agora"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "rWzVHNeAlvfaVD",
+    "name": "Radio Arabella Niederösterreich",
+    "stream_urls": [
+      "https://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "VNDnDb3KgzHQlT",
+    "name": "Radio Arabella Oberösterreich",
+    "stream_urls": [
+      "https://frontend.streams.arabella.at/arabella-oberoesterreich"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "68nBNLzuM0DYJk",
+    "name": "Radio Burgenland",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/bgl-q2a",
+      "https://orf-live.ors-shoutcast.at/bgl-q1a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "yey5PJ14LovYs9",
+    "name": "Radio Flamingo",
+    "stream_urls": [
+      "https://live.antenne.at/rf"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "T1w9WYUWfYtrs0",
+    "name": "Radio Flamingo Christkindl",
+    "stream_urls": [
+      "https://live.radioflamingo.at/rfchristkindl"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "qSnhgc9LZCY5hZ",
+    "name": "Radio Flamingo Hoamat",
+    "stream_urls": [
+      "https://live.radioflamingo.at/rfhoamat"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "QpuDAoxZMdWhJO",
+    "name": "Radio Flamingo Partyschlager",
+    "stream_urls": [
+      "https://live.radioflamingo.at/rfpartyschlager"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "4vj3wKcRUp7K00",
+    "name": "Radio Flamingo Plus Golden Hits",
+    "stream_urls": [
+      "https://live.radioflamingo.at/rfplusgoldenhits"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "qDrQhEuBDSYcXh",
+    "name": "Radio Flamingo Plus Kultschlager",
+    "stream_urls": [
+      "https://live.radioflamingo.at/rfpluskultschlager"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "i39pnkpGr9W2y3",
+    "name": "Radio Flamingo Plus Volksmusik",
+    "stream_urls": [
+      "https://live.radioflamingo.at/rfplusvolksmusik"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "SNbiEDopzAohct",
+    "name": "Radio FM4",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/fm4-q1a",
+      "https://orf-live.ors-shoutcast.at/fm4-q2a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IMyxOlxxtMvGvK",
+    "name": "Radio FREEQUENNS",
+    "stream_urls": [
+      "https://livestream.freequenns.at/live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ZnWqRhhJUSlBlk",
+    "name": "Radio Grün Weiß",
+    "stream_urls": [
+      "https://live.gruen-weiss.at/rgw.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "0zOmgPMEIRhlQq",
+    "name": "Radio GÖD",
+    "stream_urls": [
+      "https://radiogoed.securestream.kapper.net/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "nfwwZTyKgzRB7t",
+    "name": "Radio Helsinki",
+    "stream_urls": [
+      "https://live.helsinki.at:8088/live160.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "DPUIGJkR1OnUvO",
+    "name": "Radio Himmelberg",
+    "stream_urls": [
+      "https://radio-himmelberg.stream.laut.fm/radio-himmelberg"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "VMOyfkyG8KWMQ9",
+    "name": "radio klassik Stephansdom",
+    "stream_urls": [
+      "https://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "8tcGTW5XsB2Tpy",
+    "name": "Radio Kärnten",
+    "stream_urls": [
+      "https://ors-sn02.ors-shoutcast.at/ktn-q1a",
+      "https://orf-live.ors-shoutcast.at/ktn-q2a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "UGwMiSz6mQzRxI",
+    "name": "Radio Maria Österreich",
+    "stream_urls": [
+      "https://live.radiomaria.at/rma2"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Lgi5Jokuc8FOlx",
+    "name": "Radio MAX - Billa",
+    "stream_urls": [
+      "https://listen.radiomax.technology/billa"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "CpgONYwBKOQQz7",
+    "name": "Radio MAX - Bipa",
+    "stream_urls": [
+      "https://listen.radiomax.technology/bipa"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "HnqeeE2JGtY0bv",
+    "name": "Radio MAX - Merkur",
+    "stream_urls": [
+      "https://listen.radiomax.technology/merkur"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "UyPIoxIA82UoNZ",
+    "name": "Radio MAX - Penny",
+    "stream_urls": [
+      "https://listen.radiomax.technology/penny"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "92Fylflo2pGOwW",
+    "name": "Radio MORA",
+    "stream_urls": [
+      "https://server4.streamserver24.com:26250/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "hun",
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "4OAqJN4dpgTJgH",
+    "name": "Radio Niederösterreich",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/noe-q2a",
+      "https://orf-live.ors-shoutcast.at/noe-q1a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "VRjCJlT2Nm7zbr",
+    "name": "Radio Oberösterreich",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/ooe-q2a",
+      "https://orf-live.ors-shoutcast.at/ooe-q1a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "nSC0UjknDR9vrb",
+    "name": "Radio Proton",
+    "stream_urls": [
+      "https://radioproton.at:8443/proton"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "iIJbIpaE98GvjH",
+    "name": "Radio Rot Weiss Rot",
+    "stream_urls": [
+      "https://secureonair.krone.at/rwr.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "2J1y1xOr9Q4Rbs",
+    "name": "Radio Rudina",
+    "stream_urls": [
+      "https://azuracast.datea.services:8000/radio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XWIorZUdlN2au2",
+    "name": "Radio Salzburg",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/sbg-q1a",
+      "https://orf-live.ors-shoutcast.at/sbg-q2a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "CjsYnEIzRXfeV0",
+    "name": "Radio Schwendermarkt",
+    "stream_urls": [
+      "https://schwendermarkt.stream.laut.fm/schwendermarkt"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng",
+      "hun",
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SUwP9nMUkYftTJ",
+    "name": "Radio Steiermark",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/stm-q2a",
+      "https://orf-live.ors-shoutcast.at/stm-q1a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "IKt9BKKTiBjiJC",
+    "name": "Radio Superfly",
+    "stream_urls": [
+      "https://stream01.superfly.fm/live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "A7nCLhVTQw08Yq",
+    "name": "Radio Tirol",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/tir-q2a",
+      "https://orf-live.ors-shoutcast.at/tir-q1a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "pscBKH5b2VMG5w",
+    "name": "Radio U1 Tirol",
+    "stream_urls": [
+      "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
+      "https://live.u1-radio.at/",
+      "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+      "https://live.u1-radio.at/u1-tirol-live/mp3-192/"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "sN39B5ob75idtn",
+    "name": "Radio VM1",
+    "stream_urls": [
+      "https://radiovm1.fluidstream.eu/radiovm1.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "x3NfLP0fqs8ncx",
+    "name": "Radio VM1 Steiermark",
+    "stream_urls": [
+      "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "rAMHKpq7On97B5",
+    "name": "Radio VM1 Wien",
+    "stream_urls": [
+      "https://radiovm1.fluidstream.eu/radiovm1_a2.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "gfnqtzRNzJ5M2Z",
+    "name": "Radio Vorarlberg",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/vbg-q1a",
+      "https://orf-live.ors-shoutcast.at/vbg-q2a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ZDVYE4MtjvXLLk",
+    "name": "Radio Weanerisch gspielt",
+    "stream_urls": [
+      "https://radiovm1.fluidstream.eu/weanarisch"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "WTHUTfww1uuNoT",
+    "name": "Radio Wien",
+    "stream_urls": [
+      "https://ors-sn05.ors-shoutcast.at/wie-q2a",
+      "https://orf-live.ors-shoutcast.at/wie-q2a",
+      "https://orf-live.ors-shoutcast.at/wie-q1a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "nNY9F1rRu7Fnj6",
+    "name": "Radiofabrik",
+    "stream_urls": [
+      "https://stream.radiofabrik.at/rf_low.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "HxKqXHNMcEzW6b",
+    "name": "Red Bull TV",
+    "stream_urls": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Uw3BgIqJpzXvKg",
+    "name": "RePlayScape",
+    "stream_urls": [
+      "https://radio.replayscape.com:8443/128k.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6QeDeNRUUK1ngF",
+    "name": "RES.RADIO",
+    "stream_urls": [
+      "https://edge.mixlr.com/channel/zwtuo"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qTOxQyo5pVLQJ0",
+    "name": "Revisited",
+    "stream_urls": [
+      "https://revisited.stream.laut.fm/revisited"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "kEmAi8L6NNR6Zu",
+    "name": "ROCK ANTENNE Österreich",
+    "stream_urls": [
+      "https://s6-webradio.webradio.de/rockantenne-oesterreich",
+      "https://s2-webradio.webradio.de/rockantenne-oesterreich",
+      "https://mp3channels.webradio.de/rockantenne-oesterreich",
+      "https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3",
+      "https://stream.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "TSOnoclLlkZxbw",
+    "name": "Rockhuhn",
+    "stream_urls": [
+      "https://rockhuhn.stream.laut.fm/rockhuhn"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "P1X7a2O5eZNK5w",
+    "name": "RTV Unirea International",
+    "stream_urls": [
+      "https://s1.bcmsol.ro/8002/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "O1g852d8OEAfsS",
+    "name": "Soundportal",
+    "stream_urls": [
+      "https://rs8.stream24.net/radio-soundportal.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "jY91485AB9mq8s",
+    "name": "Soundportal Electric Nation",
+    "stream_urls": [
+      "https://rs8.stream24.net/soundportal-channel2.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "0IuzwHAVL9UIva",
+    "name": "Soundportal Rock Nation",
+    "stream_urls": [
+      "https://rs8.stream24.net/soundportal-channel1.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "vDQrq3HdX3a14i",
+    "name": "Spirit Live Radio",
+    "stream_urls": [
+      "https://server7606.streamplus.de/;"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "O46pvIzxHRaRuZ",
+    "name": "Splatoon Station Seven",
+    "stream_urls": [
+      "https://audio.gendercriminals.gay/listen/splatoon_station_seven/radio-browser"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "W2XUYLhCAvRYX8",
+    "name": "Stadtradio Eins",
+    "stream_urls": [
+      "https://stream.stadtradio.at:8000/live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "x1BfmlefQ5V7u8",
+    "name": "Stahlradio",
+    "stream_urls": [
+      "https://stahlradio.spcast.eu/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "FAJiJfhjlkeSpn",
+    "name": "Super 80s",
+    "stream_urls": [
+      "https://secureonair.krone.at/super80s.aac"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "L6soNZPAd8RkoJ",
+    "name": "Superfly Easy",
+    "stream_urls": [
+      "https://edge81.stream.superfly.fm/superfly-easy"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "uSaoVPyF6s5pcQ",
+    "name": "Superfly Pure",
+    "stream_urls": [
+      "https://edge81.stream.superfly.fm/superfly-pure"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ow6ivG17wez9S4",
+    "name": "Technikum City",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at/TECHCITY"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "WX3dXlhIs1uanm",
+    "name": "Technikum Gold",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at/TECHGOLD"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "sfy2xIP8Uwju4I",
+    "name": "Technikum One",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at/TECHONE"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "18KxVaOKl61byc",
+    "name": "Technikum Rock",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at/TECHROCK"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "VK1nrFRL4XTCDR",
+    "name": "Up The Irons",
+    "stream_urls": [
+      "https://uptheirons.stream.laut.fm/up_the_irons"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "D9JEYQogDeowp2",
+    "name": "Viyana FM",
+    "stream_urls": [
+      "https://radyo.viyanafm.at/1453/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "tur",
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "tgd1voejis27Ce",
+    "name": "WELLE 1",
+    "stream_urls": [
+      "https://live.welle1.at:19000/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "T604vCwp9oe1tx",
+    "name": "WELLE 1 Oberösterreich",
+    "stream_urls": [
+      "https://live.welle1.at:17128/stream",
+      "https://live.welle1.at:17256/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "R2CzuctODgt3V8",
+    "name": "WELLE 1 Salzburg",
+    "stream_urls": [
+      "https://live.welle1.at:18128/stream",
+      "https://live.welle1.at:18256/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "kKTt2pqkKeszGe",
+    "name": "Yeshua.at Radio",
+    "stream_urls": [
+      "https://yeshua.at:8443/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Ql5iuC2ckeoxzL",
+    "name": "YU Radio",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at:80/YURADIO"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "8KwSusbAYtSHV7",
+    "name": "Ö1",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/oe1-q1a",
+      "https://orf-live.ors-shoutcast.at/oe1-q2a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "zoEWPTptpebQGh",
+    "name": "Ö1 Campus",
+    "stream_urls": [
+      "https://orf-live.ors-shoutcast.at/campus-q1a",
+      "https://orf-live.ors-shoutcast.at/campus-q2a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  }
+]

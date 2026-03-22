@@ -1,0 +1,914 @@
+[
+  {
+    "nanoid": "Lsqja1VsPDrh6o",
+    "name": "1FM",
+    "stream_urls": [
+      "https://s2.radio.co/s914ffa700/listen"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "zmcjY7fnmFaADt",
+    "name": "5000 Bergen",
+    "stream_urls": [
+      "https://bergen5000.radioca.st/stream"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "vfVWjR1FdlRSJi",
+    "name": "Arctic Outpost Radio",
+    "stream_urls": [
+      "https://radio.streemlion.com:3715/stream"
+    ],
+    "country": "no",
+    "languages": [
+      "nor",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Ms9AGxk0aSYR9F",
+    "name": "Guovdageainnu Lagasradio",
+    "stream_urls": [
+      "https://streaming.radio.co/s5b773f8d3/listen"
+    ],
+    "country": "no",
+    "languages": [
+      "nor",
+      "sme"
+    ]
+  },
+  {
+    "nanoid": "k4A6mKGgawpGff",
+    "name": "HamarRadioen",
+    "stream_urls": [
+      "https://lyd.radioene.no/hamar.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "Fo5sC0drCcPQia",
+    "name": "Historyradio.org",
+    "stream_urls": [
+      "https://n03.radiojar.com/6bmecgg3wd5tv",
+      "https://stream.radiojar.com/6bmecgg3wd5tv"
+    ],
+    "country": "no",
+    "languages": [
+      "eng",
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "rhFZ8soijBprWk",
+    "name": "KISS Norge",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/kiss_no_mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "H8KAzIGLzLPPGH",
+    "name": "Metal Express Radio",
+    "stream_urls": [
+      "https://s39.myradiostream.com:11590/listen.m4a"
+    ],
+    "country": "no",
+    "languages": [
+      "eng",
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "DU7AqkZIdgLV1P",
+    "name": "North Beyond",
+    "stream_urls": [
+      "https://north-beyond.stream.laut.fm/north-beyond"
+    ],
+    "country": "no",
+    "languages": [
+      "eng",
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "xYJEMYJRUwhixO",
+    "name": "NRJ Norge",
+    "stream_urls": [
+      "https://nrj.p4groupaudio.com/NRJ_AH",
+      "https://nrj.p4groupaudio.com/NRJ_MM"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "UjSEv5656d3O7z",
+    "name": "NRK Folkemusikk",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_folkemusikk_aac_h",
+      "https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "xjyEwOdXbfMEnZ",
+    "name": "NRK Jazz",
+    "stream_urls": [
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
+      "https://lyd.nrk.no/nrk_radio_jazz_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_jazz_mp3_l"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "JkGVKpH1Bx8kMy",
+    "name": "NRK Klassisk",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_klassisk_aac_h",
+      "https://lyd.nrk.no/nrk_radio_klassisk_mp3_l",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "toGa2uxE9JGszr",
+    "name": "NRK mP3",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_mp3_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_mp3_mp3_l",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "kQhRuOho8vnTz3",
+    "name": "NRK Nyheter",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h",
+      "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
+      "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "7t8S3c2xy2v9vG",
+    "name": "NRK P1",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "bJ4UqZXlLG8aI8",
+    "name": "NRK P1 Buskerud",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "LDRFYCHlcMpDkq",
+    "name": "NRK P1 Finnmark",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "c0994wAqODrRZ3",
+    "name": "NRK P1 Hedmark og Oppland",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "tC3i7Zun23iZJv",
+    "name": "NRK P1 Hordaland",
+    "stream_urls": [
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "8RSHQWQEgLmjqa",
+    "name": "NRK P1 Møre og Romsdal",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "g2P515UkHJG7C5",
+    "name": "NRK P1 Nordland",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h",
+      "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "yTWAeOR7xGy89I",
+    "name": "NRK P1 Oslo og Akershus",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "qVEs4dEq295wOh",
+    "name": "NRK P1 Rogaland",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_m",
+      "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "51sv7jFDTZfGWp",
+    "name": "NRK P1 Sogn og Fjordane",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h",
+      "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
+      "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "Mw6l9CQwCEkgph",
+    "name": "NRK P1 Stor-Oslo",
+    "stream_urls": [
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "DAOpnIhwkyoTwS",
+    "name": "NRK P1 Sørlandet",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "u9DPwpajkJZbZ2",
+    "name": "NRK P1 Telemark",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "VfMd0LtQ7rooEp",
+    "name": "NRK P1 Troms",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_troms_mp3_h",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "Atj50UgeT3OQmg",
+    "name": "NRK P1 Trøndelag",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l",
+      "https://lyd.nrk.no/nrk_radio_p1_trondelag_aac_l",
+      "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "BcZiexrBiGyh8M",
+    "name": "NRK P1 Vestfold",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "aDUklOGsPHZduo",
+    "name": "NRK P1 Østfold",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h",
+      "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "L6FQHhMjJogXDb",
+    "name": "NRK P1+",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1pluss_aac_h",
+      "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_l"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "KLpuD203L1ma3z",
+    "name": "NRK P13",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p13_aac_h",
+      "https://lyd.nrk.no/nrk_radio_p13_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_p13_mp3_l"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "JZ1s8Qh2C70aHy",
+    "name": "NRK P2",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p2_aac_h",
+      "https://lyd.nrk.no/nrk_radio_p2_mp3_l",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "festkjIEcqLsgS",
+    "name": "NRK P3",
+    "stream_urls": [
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_p3_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_p3_mp3_l"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "pythVIBBJeiRQu",
+    "name": "NRK P3 Musikk",
+    "stream_urls": [
+      "https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "RhV7YYWQybhWct",
+    "name": "NRK Sport",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_sport_aac_h",
+      "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "Vovi8ixV1GRGl1",
+    "name": "NRK Super",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_super_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_super_aac_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "2QuNdznWwzdfvU",
+    "name": "NRK Sápmi",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_sami_aac_h",
+      "https://lyd.nrk.no/nrk_radio_sami_mp3_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor",
+      "sme"
+    ]
+  },
+  {
+    "nanoid": "NJKaj6frA7k4jl",
+    "name": "Nærkanalen",
+    "stream_urls": [
+      "https://stream.radiomeloy.no:8003/radiomeloy"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "dEUX2ZpvwwC75A",
+    "name": "Ordentlig Radio",
+    "stream_urls": [
+      "https://oradio-live.telenorcdn.net/oradio_mp3_m"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "5fUqRFbz3QCqnK",
+    "name": "P10 Country",
+    "stream_urls": [
+      "https://p10.p4groupaudio.com/P10_AH"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "sMr0neOpE177bb",
+    "name": "P11 Bandit",
+    "stream_urls": [
+      "https://p11.p4groupaudio.com/P11_MM",
+      "https://p11.p4groupaudio.com/P11_AH"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "pwbhignJHUUATK",
+    "name": "P11 Dance",
+    "stream_urls": [
+      "https://p11.p4groupaudio.com/P11_MH"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "4bJWFrGLilUj4j",
+    "name": "P24-7 Juleradioen",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/station17_no_mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "RpqP3fzzLxvkLr",
+    "name": "P24-7 Kos",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/p247kos_no_hq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "zmjKUaSdngMHdu",
+    "name": "P24-7 Mix",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/p247mix_no_mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "psP3aImD0ev6PE",
+    "name": "P4 Lyden av Norge",
+    "stream_urls": [
+      "https://p4.p4groupaudio.com/P04_MH",
+      "https://p4.p4groupaudio.com/P04_AH",
+      "https://p4.p4groupaudio.com/P04_MM"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "9L1EA7q5NniPA3",
+    "name": "P5 Hits",
+    "stream_urls": [
+      "https://p4.p4groupaudio.com/P05_MM",
+      "https://p5.p4groupaudio.com/P05_MM"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "2nG5qfrPKKzWr7",
+    "name": "P5 Nonstop Hits",
+    "stream_urls": [
+      "https://p5n.p4groupaudio.com/P05AAH"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "jfFgcwzEr3P5YY",
+    "name": "P6 Rock",
+    "stream_urls": [
+      "https://p6.p4groupaudio.com/P06_MM"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "1lAVLg64jjGUmH",
+    "name": "P7 Klem",
+    "stream_urls": [
+      "https://p7.p4groupaudio.com/P07_MM",
+      "https://p7.p4groupaudio.com/P07_AH"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "3GWyffNlpNjvLJ",
+    "name": "P8 Pop",
+    "stream_urls": [
+      "https://p8.p4groupaudio.com/P08_MM"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "1rVE1DznGIXvF2",
+    "name": "P9 Retro",
+    "stream_urls": [
+      "https://p9.p4groupaudio.com/P09_MH"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "6FewcgRrvtiJsL",
+    "name": "Radio 102",
+    "stream_urls": [
+      "https://stream.radio102.no/radio102_hq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "fZakHKACUh9lQa",
+    "name": "Radio 3 Bodø",
+    "stream_urls": [
+      "https://stream.radio3.no/Radio3Bodo48"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "WIB2DEkcbiT9IG",
+    "name": "Radio Bardufoss",
+    "stream_urls": [
+      "https://stream.bardufoss.no/radiobardufoss192"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "54NouOPZs0iAtv",
+    "name": "Radio Bø",
+    "stream_urls": [
+      "https://nettradio.radiobo.com/radiobo-high"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "AWPJu5ii7jEU0C",
+    "name": "Radio Kos",
+    "stream_urls": [
+      "https://lyd.radiokos.no/kos_lq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "WLxkUPnVmrV6by",
+    "name": "Radio Latin-Amerika",
+    "stream_urls": [
+      "https://stream.radiolatinamerika.no/latam_hq"
+    ],
+    "country": "no",
+    "languages": [
+      "spa",
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "EgfjRZnyDeSQPF",
+    "name": "Radio Lyngdal",
+    "stream_urls": [
+      "https://live.radiolyngdal.com/rly_mq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qfKXjqTPHVpkUf",
+    "name": "Radio Norge",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/radionorge_no_mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "GtSwh8SWcjsn9p",
+    "name": "Radio Nova",
+    "stream_urls": [
+      "https://stream.radionova.no/mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "2sB6zjDJCj5MAH",
+    "name": "Radio Randsfjord",
+    "stream_urls": [
+      "https://stream.radiorandsfjord.no/randsfjord128.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "n14XbzRl5N2abC",
+    "name": "Radio Rock",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+      "https://live-bauerno.sharp-stream.com/radiorock_no_aac"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "OWs7Qv50EYRGN7",
+    "name": "Radio Rox",
+    "stream_urls": [
+      "https://live-nors.sharp-stream.com/nors13.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "cpoBX8uxkNq2go",
+    "name": "Radio Sotra",
+    "stream_urls": [
+      "https://streaming.radiosotra.no:8443/radiosotra"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "WEznzblazOhjJn",
+    "name": "Radio Topp 40",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/top40_no_mp3",
+      "https://live-bauerno.sharp-stream.com/top40_no_aac"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "dKmCzppmM5R7SY",
+    "name": "Radio Tromsø Hits",
+    "stream_urls": [
+      "https://stream.rthits.no/rthits192"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "zeTTs8clQvym9c",
+    "name": "Radio Trøndelag",
+    "stream_urls": [
+      "https://nettradio.radiotrondelag.no:8443/radio_trondelag"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "ELgYrGixxBJoDO",
+    "name": "Radio Vinyl",
+    "stream_urls": [
+      "https://live-bauerno.sharp-stream.com/vinyl_no_mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "JQRJx9QiOo8uu4",
+    "name": "Radio Ålesund",
+    "stream_urls": [
+      "https://audio.radioaalesund.no/aalesund_mq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "8DGpVRexygBiSH",
+    "name": "radiOrakel",
+    "stream_urls": [
+      "https://stream.radiorakel.no/radiorakel_hq",
+      "https://stream.radiorakel.no/fm993.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "KFYQHRVe3B1LpL",
+    "name": "Sørlandsradioen",
+    "stream_urls": [
+      "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "1gLywQo6bIkdL0",
+    "name": "The Beat",
+    "stream_urls": [
+      "https://live-nors.sharp-stream.com/nors17.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "9qb3gqK8HddDAs",
+    "name": "Trysilradioen",
+    "stream_urls": [
+      "https://lyd.radioene.no/trysil.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "rzBF9tUBzii7pD",
+    "name": "Tune Tribe Radio",
+    "stream_urls": [
+      "https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "eng"
+    ]
+  }
+]

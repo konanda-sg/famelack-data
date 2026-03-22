@@ -1,0 +1,24 @@
+[
+  {
+    "nanoid": "sEhDuNB7xHtoW3",
+    "name": "FM1",
+    "stream_urls": [
+      "https://stream-secure.midlar.fo/fm1-128"
+    ],
+    "country": "fo",
+    "languages": [
+      "fao"
+    ]
+  },
+  {
+    "nanoid": "YM7kha9v8Wz2rR",
+    "name": "Lindin",
+    "stream_urls": [
+      "https://high.lindin.fo/"
+    ],
+    "country": "fo",
+    "languages": [
+      "fao"
+    ]
+  }
+]

@@ -1,0 +1,8330 @@
+[
+  {
+    "nanoid": "iKHIl12hPOVDke",
+    "name": "'t Is Vloms",
+    "stream_urls": [
+      "https://bluford.torontocast.com/proxy/iimfoptl/stream"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "i1XRpYE4f88d1p",
+    "name": "011.FM Cruise Control",
+    "stream_urls": [
+      "https://listen.011fm.com/stream30"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4CtmmT7mov4CkD",
+    "name": "0nlineradio Beethoven Classical",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/0r-beethoven"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Ajpy2ij7kBrTSF",
+    "name": "0nlineradio Chillout",
+    "stream_urls": [
+      "https://stream.0nlineradio.com/chillout"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JqiEzniMvilyVG",
+    "name": "0nlineradio Classical Hotel Lounge",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/classical-classical-hotel-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2qYW37XEmDyuP8",
+    "name": "0nlineradio Deep House",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/technolovers-deep-house"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RGw9EJMtbWI5lb",
+    "name": "0nlineradio Dinner Lounge",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-dinner-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lpb1mPujtTyR6n",
+    "name": "0nlineradio Mozart Classical",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/0r-mozart"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "RDzx4D04v27rab",
+    "name": "0nlineradio Music for Sleep",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/classical-classical-music-for-sleep"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zIKGS1ByOsIukI",
+    "name": "0nlineradio Nature Relax",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-nature-sounds"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Ap75m5Uz7lQZpV",
+    "name": "0nlineradio Piano Jazz Lounge",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-piano-jazz-bar"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wHuxMfDnSTKzaT",
+    "name": "0nlineradio Restaurant Lounge",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-restaurant-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QOtQE5K6OpdaDl",
+    "name": "0nlineradio Romantic Piano",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/piano-romantic-piano"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RgFHcUthum1ynd",
+    "name": "0nlineradio Soft House",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-soft-house-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XSrDg9vPDtXk8s",
+    "name": "0nlineradio Soft Rock",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/0r-soft-rock"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FMRNAJSGlAvchi",
+    "name": "0nlineradio Spa Lounge",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-spa-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NdBAiDcN6C5Ysv",
+    "name": "100% Covers Lounge",
+    "stream_urls": [
+      "https://az1.mediacp.eu/listen/100coverslounge/radio.mp3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IHdsrczhUcX2OS",
+    "name": "100% Radio Carcassonne",
+    "stream_urls": [
+      "https://100radio-carcassonne.ice.infomaniak.ch/100radio-carcassonne-128.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "raF86IGO27Tjzj",
+    "name": "100% Radio Love",
+    "stream_urls": [
+      "https://100radio-love.ice.infomaniak.ch/100radio-love-128.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "DNFJ6Dw7in6RLl",
+    "name": "100.3 The Peak",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1389"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "g6R7sr8UzFmhnz",
+    "name": "100.3 WNIC",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1153"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iGuLah0nvLddvJ",
+    "name": "100.9 Moose FM",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00104"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "uVgbBNfIoeEvc9",
+    "name": "1000 Melodien",
+    "stream_urls": [
+      "https://1000melodien.stream.laut.fm/1000melodien"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "E8qUnjAITgNRN5",
+    "name": "1000 Radiohits",
+    "stream_urls": [
+      "https://1000radiohits.stream.laut.fm/1000radiohits"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "1qFyrkGlOzdPFL",
+    "name": "101.5 KPLA",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "82PJVA1MBDbuHA",
+    "name": "101.5 TODAY Radio",
+    "stream_urls": [
+      "https://redirect.jpbgdigital.com/CKCE"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "l0p4Hz07JEyMNs",
+    "name": "101.7 KKIQ",
+    "stream_urls": [
+      "https://live.amperwave.net/direct/alphacorporate-kkiqfmmp3-ibc4"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1GFPwWpwQhxOIm",
+    "name": "101.7 The One",
+    "stream_urls": [
+      "https://blackburn-ais.leanstream.co/CKNXFM",
+      "https://live.leanstream.co/CKNXFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AP14wyVIe6ewr2",
+    "name": "101.ru: Прикосновение",
+    "stream_urls": [
+      "https://pub0202.101.ru:8443/stream/trust/mp3/128/196"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "wHoXERjbxDz6Cq",
+    "name": "102.1 Spud FM",
+    "stream_urls": [
+      "https://mbsradio.leanstream.co/CJRWFM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "utYZBIBMmaTKgv",
+    "name": "102.3 NOW! Radio",
+    "stream_urls": [
+      "https://redirect.jpbgdigital.com/CKNO"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "inGd5w03JtYXIL",
+    "name": "102.7 GNI",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WGNIFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MEmIqRyZLyFIwT",
+    "name": "102.7 KIIS FM",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc185"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dsHnSIL4ORYHVx",
+    "name": "102.7 KISS FM",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2133"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ohByr0VvEiXm3G",
+    "name": "102.9 CHTM",
+    "stream_urls": [
+      "https://us2.maindigitalstream.com/ssl/CHTM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8ZOdFtb3bj1Lit",
+    "name": "102.9 CJAR",
+    "stream_urls": [
+      "https://us2.maindigitalstream.com/ssl/CJAR"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "okOPqZM3PrBSDU",
+    "name": "102.9 NOW",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2237"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YvlHzeg6lfL1cE",
+    "name": "103.5 KISS FM",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc849"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "W3dxFWvsvKqCsV",
+    "name": "104.1 Territory FM",
+    "stream_urls": [
+      "https://streaming.territoryfm.com:8443/TerritoryFM"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Cck2D6Xj3fQNVb",
+    "name": "104.1 WIKY",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WIKYFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XluM4WnFEkkjcP",
+    "name": "104.1 WLBC",
+    "stream_urls": [
+      "https://ice41.securenetsystems.net/WLBC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4E9ZuWwZGqVqfc",
+    "name": "104.3 MYfm",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc173"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fdLPEhILoJE19c",
+    "name": "104.3 The Breeze",
+    "stream_urls": [
+      "https://newcap.leanstream.co/CHLGFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KNkK3T8Qn6tslX",
+    "name": "104.5 XLO",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WXLOFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qamq10KwSetCsM",
+    "name": "104.7 Heart FM",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7135_48k.aac"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vQqkuA2hflh8aw",
+    "name": "104.9 The Beach",
+    "stream_urls": [
+      "https://bayshore.leanstream.co/CHWCFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0j1vCEQGvLjrfH",
+    "name": "105.1 The River",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7258_48k.aac"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HQ6zwI4KQpCTO1",
+    "name": "106 WCOD",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc6756"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "gV6TRwElGTBcWH",
+    "name": "106.7 Lite FM",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1477"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fgUQZn5RwSMaqo",
+    "name": "107.5 Bolt FM",
+    "stream_urls": [
+      "https://goldenwest.leanstream.co/CHBOFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "V6JiXWlp3GMxIT",
+    "name": "107.5 Kool FM",
+    "stream_urls": [
+      "https://cob.leanstream.co/CKMBFM",
+      "https://cob-ais.leanstream.co/CKMBFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "S0T5PHcdh6bGNr",
+    "name": "107.7 2Day FM",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00106"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "objhheviQLIK71",
+    "name": "107.7 The Bronc",
+    "stream_urls": [
+      "https://ice5.securenetsystems.net/WRRC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "k266VFWVi91DUZ",
+    "name": "107.9 The Mix",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WNTRFMAAC.aac",
+      "https://stream.radio.co/s5c993fa61/listen"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "c9WkiT8t5NUzcp",
+    "name": "181.fm - Chilled Out",
+    "stream_urls": [
+      "https://listen.181fm.com/181-chilled_128k.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9TZjftk7C01uTV",
+    "name": "181.fm - Smooth AC",
+    "stream_urls": [
+      "https://listen.181fm.com/181-smoothac_128k.mp3"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "dl6veDmBIjkNKm",
+    "name": "181.fm - The Breeze",
+    "stream_urls": [
+      "https://listen.181fm.com/181-breeze_128k.mp3"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "TmTMbALKXHzOxj",
+    "name": "181.fm - The Heart",
+    "stream_urls": [
+      "https://listen.181fm.com/181-heart_128k.mp3"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "ECXBXVhpss3MEr",
+    "name": "1A Good Life",
+    "stream_urls": [
+      "https://stream.1a-webradio.de/saw-goodlife/aac-48/radiosure-1a/stream.mp3",
+      "https://stream.1a-webradio.de/saw-goodlife/mp3-128/radio-browser-1a/stream.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "w3TeVX87QbaGdL",
+    "name": "1A Radio - Chillout",
+    "stream_urls": [
+      "https://1a-chillout.radionetz.de/1a-chillout.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "1ju44WjPRp1nz8",
+    "name": "1A Radio - Entspannt",
+    "stream_urls": [
+      "https://1a-entspannt.radionetz.de/1a-entspannt.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "2gh2orRSIjXSI0",
+    "name": "1A Radio - Relax",
+    "stream_urls": [
+      "https://1a-relax.radionetz.de/1a-relax.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "HlseUqzJuOVY4H",
+    "name": "2022 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/0br8wwsuwchvv"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "L3sSwg3xIKbpSE",
+    "name": "24/7 Online Radio",
+    "stream_urls": [
+      "https://ec3.yesstreaming.net:3585/stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8fc06G2T5dcPxa",
+    "name": "2BS 95.1 FM",
+    "stream_urls": [
+      "https://usa20.fastcast4u.com/stream"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YRDMqINk3LTpwE",
+    "name": "2BXS 99.3 FM",
+    "stream_urls": [
+      "https://usa20.fastcast4u.com/brockfm"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2KTtWBZp85fCWi",
+    "name": "2CHR FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2CHRAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2CHR.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8ud7wCxtybiNiw",
+    "name": "2Day FM",
+    "stream_urls": [
+      "https://legacy.scahw.com.au/2day_32"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YKUqL99KukdRUj",
+    "name": "2MCR Macarthur Community Radio",
+    "stream_urls": [
+      "https://cast4.my-control-panel.com/proxy/tim1/som"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JxwW80fEy0ASPp",
+    "name": "2NM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MUS_2NMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MUS_2NM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qqDR1zdKYKOBRM",
+    "name": "2NUR FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3",
+      "https://28853.live.streamtheworld.com/2NURFM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9iv8yGZlSRhcMX",
+    "name": "2ST",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2STAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2ST.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2ST.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kNqYMglyUQsMIZ",
+    "name": "2WCR FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2WCR.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SfveuDFQyiqjQf",
+    "name": "4BU 1332 AM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BU.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LbTeIYXq5AHrKH",
+    "name": "4MK 1026 AM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MK.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "j7ym8t45iRy039",
+    "name": "4RO 990 AM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4RO.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4ROAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "O2NlLjfQn9bujd",
+    "name": "4YOU 98.5 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4YOUAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4YOU.mp3",
+      "https://28793.live.streamtheworld.com/4YOUAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zmcjY7fnmFaADt",
+    "name": "5000 Bergen",
+    "stream_urls": [
+      "https://bergen5000.radioca.st/stream"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "oMjb4hHigoFEKE",
+    "name": "540 WRGC The River",
+    "stream_urls": [
+      "https://ice24.securenetsystems.net/WRGC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nfjsygwTqicKyq",
+    "name": "6 Towns Radio",
+    "stream_urls": [
+      "https://stream-14.aiir.com/z7drhoivbpbuv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cpBXNiW4HJ1cNZ",
+    "name": "7HOFM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HO.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/HOB_7HOAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "U0EWixXTe39ARk",
+    "name": "87.5 Republ1ka FM1",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/453221/stream/508076"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mWFX4R4mn9aZnL",
+    "name": "88.9 Titan Radio",
+    "stream_urls": [
+      "https://ice64.securenetsystems.net/WWNW"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DzWJpNLr5Yds6o",
+    "name": "89 HIT FM - Eazy FM",
+    "stream_urls": [
+      "https://hitfm.ip-streaming.net/eazyfmaacp"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "UWoPyJM0UKd4nD",
+    "name": "89.9 TheLight",
+    "stream_urls": [
+      "https://stream.thelight.com.au:8130/;/;stream/1",
+      "https://stream.thelight.com.au:8130/stream/"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "r1RaIyVE0Uu5Pe",
+    "name": "91 DAT",
+    "stream_urls": [
+      "https://secure.radiorama.mx:2122/"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gxLrZKHsECD7cI",
+    "name": "91.5 CKPR",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7096_32k.aac",
+      "https://ckpr.streamon.fm/stream/CKPR-32k.aac"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jykReJWVeE699y",
+    "name": "91.5 FM",
+    "stream_urls": [
+      "https://sp04.servidorrprivado.com/2358/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "09GdE4VabmyTgr",
+    "name": "92.5 The Breeze",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc4366"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sO5UiF1XlUH4qJ",
+    "name": "92.7 The Wave",
+    "stream_urls": [
+      "https://crystalout.surfernetwork.com:8001/WHVE_MP3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1C4WZVeGzNlZs7",
+    "name": "92.7 WOBM",
+    "stream_urls": [
+      "https://live.amperwave.net/manifest/townsquare-wobmfmaac-ibc3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rMtZiLP0YMEUcU",
+    "name": "92.9 Peak FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KKPKFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4gNXzfV5tJsjkI",
+    "name": "93.9 KSOU",
+    "stream_urls": [
+      "https://ice24.securenetsystems.net/KSOU"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "88CbxDoHcWpGZL",
+    "name": "94.1 FM Gold Coast",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/941FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/941FM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hHZhk5meztgoej",
+    "name": "94.1 Moose FM",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00098"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "oj1TcKVDmlyDvx",
+    "name": "94.1 The Breeze",
+    "stream_urls": [
+      "https://newcap.leanstream.co/CKECFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "n6oYWcw34vpXko",
+    "name": "94.3 CKSY",
+    "stream_urls": [
+      "https://live.leanstream.co/CKSYFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "51YWawkEEmH76l",
+    "name": "94.9 Power FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_POWER_FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_POWER_FM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Zd5wdcrIllHWxV",
+    "name": "95 CKNB",
+    "stream_urls": [
+      "https://mbsradio.leanstream.co/CKNBAM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3XWl5AKJqnspNA",
+    "name": "95.5 The Peach",
+    "stream_urls": [
+      "https://ais-edge08-live365-dal02.cdnstream.com/a73583"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ituZDCO9kMD5Yb",
+    "name": "95.9 Sun FM",
+    "stream_urls": [
+      "https://newcap.leanstream.co/CHHIFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1L1qWAwvZVFhAh",
+    "name": "96-1 SRS",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1109"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nUvwbTikYwztTe",
+    "name": "96.1 Jamz",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WHBXFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "U850oRZu3KCTev",
+    "name": "96.1 The River",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1001"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ORrYOlEk5Rz5VL",
+    "name": "96.1 WEJZ",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WIKKtjGsWH8RBb",
+    "name": "96.3 WDVD",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WDVDFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "l3nmyeYEgMC3fH",
+    "name": "96.5 KOIT",
+    "stream_urls": [
+      "https://bonneville.cdnstream1.com/2624_48.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "628SGpEFGTpDxV",
+    "name": "96.5 The Breeze",
+    "stream_urls": [
+      "https://nyc-edge1-entry1.leanstream-hd.com:2113/CKULFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "N7LQ1YDloehkMn",
+    "name": "96.7 KISS FM",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2173",
+      "https://stream.revma.ihrhls.com/zc1173"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yGnYRWzV5Vaza1",
+    "name": "98.1 Moose FM",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00103"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "C2uXoICpcZoydS",
+    "name": "98.1 Power FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MUS_POWER_FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MUS_POWER_FM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PDp5CwzgMzohuL",
+    "name": "98.1 The Breeze",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc285"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yqCPvzHYBGvbKh",
+    "name": "98Q",
+    "stream_urls": [
+      "https://ice10.securenetsystems.net/WDAQ"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PgZBeeanRERAgF",
+    "name": "99.3 Moose FM",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00102",
+      "https://vistaradio.streamb.live/SB00099"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BVcPb3TmR6s9nQ",
+    "name": "99.5 MAGIC",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zMnurZ6DLJVMon",
+    "name": "99.5 The River",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1433"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KHmh4VhAJNtw95",
+    "name": "99.7 The River",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00078"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RxM6n3qyTG07vX",
+    "name": "ABF Love",
+    "stream_urls": [
+      "https://abf.net-radio.fr/abflove.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "5HeWJgQoj3XDgF",
+    "name": "Airport Lounge Radio",
+    "stream_urls": [
+      "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LGBuIki4AplPDn",
+    "name": "Akaroa World Radio",
+    "stream_urls": [
+      "https://n07.radiojar.com/k0t12bsns1duv"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "thxiTUbsMQQ48Z",
+    "name": "Akous Domotel Deluxe",
+    "stream_urls": [
+      "https://live.akous.gr/akousdeluxe"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "lFxeuj7cWP2DPp",
+    "name": "Alpha FM 90.1",
+    "stream_urls": [
+      "https://radio901.webnimbus.cloud/radioalpha/icecast.audio"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "9a7Qa4tXxrI1UU",
+    "name": "America's Classic Lounge Hits",
+    "stream_urls": [
+      "https://kea.cdnstream.com/1893_128"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JYCchnYjAUL5Eq",
+    "name": "Antena 1",
+    "stream_urls": [
+      "https://www.antena1.com.br/stream/stream/1",
+      "https://antenaone.crossradio.com.br/stream/1",
+      "https://antenaone.crossradio.com.br/stream/2;"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Z1IFlyonVMOJCU",
+    "name": "Antenne Bayern - Lounge",
+    "stream_urls": [
+      "https://stream.antenne.de/lounge/stream/aacp",
+      "https://s3-webradio.antenne.de/lounge/stream/aacp"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "XMePg0QTAVK32j",
+    "name": "Antenne Niedersachsen - Relax",
+    "stream_urls": [
+      "https://antnds.streamabc.net/ands-antndsrelax-mp3-192-6389233",
+      "https://stream.antenne.com/relax/mp3-192/linux/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "yTVsFmYYXIwmaq",
+    "name": "ARB FM",
+    "stream_urls": [
+      "https://void.idserverhost.com/8018/stream"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "hTm8dvXndkq4kC",
+    "name": "Atos FM",
+    "stream_urls": [
+      "https://s.bul.tec.br:8020/128"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "a0loe6EcdZQOV8",
+    "name": "Aural Melodics",
+    "stream_urls": [
+      "https://stream-159.zeno.fm/7fmywrmrga0uv",
+      "https://stream.zeno.fm/a3250rmrga0uv",
+      "https://stream.zeno.fm/7fmywrmrga0uv"
+    ],
+    "country": "in",
+    "languages": [
+      "mal"
+    ]
+  },
+  {
+    "nanoid": "VuYJ96PPnQ4sZd",
+    "name": "B103",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WGFBFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XD4ST5q5V5RrGa",
+    "name": "B106.7 (WTCB)",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WTCBFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Sc8oYtyZBw5bYZ",
+    "name": "B98.5 (KURB)",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KURBFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ua0D38qFLHTCiu",
+    "name": "bay 93.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Uulir83qNAhBtt",
+    "name": "Bay Easy",
+    "stream_urls": [
+      "https://stream.v3.network/proxy/easy/stream.mp3"
+    ],
+    "country": "mt",
+    "languages": [
+      "eng",
+      "mlt"
+    ]
+  },
+  {
+    "nanoid": "J6JRjdzh7tzAiL",
+    "name": "Beach Bar Radio",
+    "stream_urls": [
+      "https://streaming.radio.co/s23d2a636c/listen"
+    ],
+    "country": "vi",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rKsYc5E5TDUhSa",
+    "name": "Beautiful Instrumentals Channel",
+    "stream_urls": [
+      "https://hydra.cdnstream.com/1822_128"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "uCra4J2ybJWDB4",
+    "name": "Best FM Budapest",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5101/live.mp3/;"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "IwyyxcU4DGXLSm",
+    "name": "Best FM Eger",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5116/live.mp3/;",
+      "https://icast.connectmedia.hu/5116/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "gXhbsyofRx3EDe",
+    "name": "Best FM Pécs",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5128/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "oWrrQ5y7U4a6vK",
+    "name": "Best FM Szolnok",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5112/live.mp3/;"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "F32cIlSVBBNWIK",
+    "name": "Best FM Székesfehérvár",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5113/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "vTyC7IU9mPsfHS",
+    "name": "Best FM Zalaegerszeg",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5111/live.mp3/;"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "AkwPtWfWa0Q4uC",
+    "name": "Best Net Radio - The Mix",
+    "stream_urls": [
+      "https://bigrradio.cdnstream1.com/5169_128"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "41owgwTCYILnkD",
+    "name": "Best Net Radio - Warm and Soft Hits",
+    "stream_urls": [
+      "https://bigrradio.cdnstream1.com/5170_128"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lnrpd9Vk8o3o1I",
+    "name": "Big R Radio - 80s Lite",
+    "stream_urls": [
+      "https://bigrradio.cdnstream1.com/5185_128"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "K3OoeOIViy9Qhh",
+    "name": "Big R Radio - The Love Channel",
+    "stream_urls": [
+      "https://bigrradio.cdnstream1.com/5207_128"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F9VRsNx0Q8ceZC",
+    "name": "Biltmore Radio",
+    "stream_urls": [
+      "https://ice64.securenetsystems.net/BILTMORE",
+      "https://ice3.securenetsystems.net/BILTMORE"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Br5CZlrGnjH1iz",
+    "name": "Blind Bat Radio",
+    "stream_urls": [
+      "https://s4.voscast.com:9673/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ckMyT7g4qT0CO4",
+    "name": "Block FM 103.2",
+    "stream_urls": [
+      "https://stream.zeno.fm/gxjhbloltwluv"
+    ],
+    "country": "ug",
+    "languages": [
+      "eng",
+      "lug"
+    ]
+  },
+  {
+    "nanoid": "kUs8LzmfFcw7JT",
+    "name": "Blue Sky Radio",
+    "stream_urls": [
+      "https://stream3.themediasite.co.uk:8068//stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FqVpMopwW295Fq",
+    "name": "Boom Light",
+    "stream_urls": [
+      "https://listen-boomradio.sharp-stream.com/65_boom_light_128_mp3",
+      "https://listen-boomradio.sharp-stream.com/65_boom_light_128_aac"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Eh6l2aRFw1l4zx",
+    "name": "Boom Radio",
+    "stream_urls": [
+      "https://edge-audio-03-gos2.sharp-stream.com/65_boom_radio_live_320",
+      "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+      "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aL6qi804ixsIdj",
+    "name": "Broadland Radio",
+    "stream_urls": [
+      "https://arqiva-broadlandradio-live-a.edge.audiocdn.com/10002_128mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IiNyFl72zzMiv5",
+    "name": "Calm Radio - Early 60's",
+    "stream_urls": [
+      "https://streams.calmradio.com:16128/stream/1/"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "b4oDKeSRgGMnjG",
+    "name": "Calm Radio - Solo Piano",
+    "stream_urls": [
+      "https://streams.calmradio.com:1228/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "veAOk1IvCCHCgs",
+    "name": "Candlelight Radio",
+    "stream_urls": [
+      "https://candlelight.nl/candlelight.mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "cmssuXkPvx4TcG",
+    "name": "Cape Talk",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC",
+      "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC"
+    ],
+    "country": "za",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fiJ17xxvxLjj5C",
+    "name": "Capital Anthems",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/CapitalAnthemsMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F1nVH3SmmOwh6F",
+    "name": "Capital FM 91.3",
+    "stream_urls": [
+      "https://capitalfm.cloudrad.io/stream"
+    ],
+    "country": "ug",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "T3jwn7fPNfCub7",
+    "name": "Caribbean Hot FM",
+    "stream_urls": [
+      "https://auds2.intacs.com/caribbeanhotfm"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WJbm72HqYAoGEp",
+    "name": "Caspian Radio BOSS",
+    "stream_urls": [
+      "https://myradio24.org/bosscomaz"
+    ],
+    "country": "az",
+    "languages": [
+      "aze",
+      "eng",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "2BbLUnVREnEEsp",
+    "name": "Católica Radio",
+    "stream_urls": [
+      "https://live.turadio.stream:7017/catolicaradiopr"
+    ],
+    "country": "pr",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gFrMjqmdyMiUZd",
+    "name": "CBN Selah",
+    "stream_urls": [
+      "https://streams.cbnradio.com/instrumental-128K"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "K6z95vKiXlV3Lc",
+    "name": "CFAM 950",
+    "stream_urls": [
+      "https://goldenwest.leanstream.co/CFAMAM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "K90yDDN8cyuvsR",
+    "name": "CFAR 102.9",
+    "stream_urls": [
+      "https://us2.maindigitalstream.com/ssl/CFAR"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Y9VDWO6H7okIGN",
+    "name": "Changzhi Traffic Radio",
+    "stream_urls": [
+      "https://lhttp.qtfm.cn/live/5021851/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "uLgTl1116gnzfL",
+    "name": "Chemist Warehouse Remix",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT6AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT6.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "oiTEy5z0Mwjluz",
+    "name": "CHLC 97.1 FM",
+    "stream_urls": [
+      "https://stream2.statsradio.com:8120/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "f8hMYvF1RODAyN",
+    "name": "CHOX 97.5",
+    "stream_urls": [
+      "https://stream.statsradio.com:8052/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "BmJ4qCNwd5qIUD",
+    "name": "Christmas Vinyl",
+    "stream_urls": [
+      "https://walmradio.com:8443/christmas",
+      "https://icecast.walmradio.com:8443/christmas",
+      "https://icecast.walmradio.com:8443/christmas_opus"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "gb6pCrB6kaCHY6",
+    "name": "Chérie Belgique",
+    "stream_urls": [
+      "https://stream.rcs.revma.com/r3cprzsqtg0uv"
+    ],
+    "country": "be",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "SgQ3Rwirp2m85D",
+    "name": "Cities 97.1",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1221"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zxaaD8Y4npYwYX",
+    "name": "CITY23",
+    "stream_urls": [
+      "https://live.radiomax.technology/city23"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "noieL7yv2vQIUA",
+    "name": "CJCW 590 AM",
+    "stream_urls": [
+      "https://mbsradio.leanstream.co/CJCWAM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vrmV34UCZzFCq5",
+    "name": "CJKL 101.5",
+    "stream_urls": [
+      "https://connelly.radioca.st//cjkl",
+      "https://connelly.radioca.st/cjkl"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VPsXRTGvG8WSTL",
+    "name": "CJNU 93.7 Nostalgia Radio",
+    "stream_urls": [
+      "https://noasrv.caster.fm:10188/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ehD6VauuJqhKly",
+    "name": "CJRB 1220 AM",
+    "stream_urls": [
+      "https://goldenwest.leanstream.co/CJRBAM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ynTRPRALYAoKoh",
+    "name": "CJTT 104.5",
+    "stream_urls": [
+      "https://connelly.radioca.st//cjtt",
+      "https://connelly.radioca.st/cjtt"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iq8YFBwmCK53zj",
+    "name": "Classic Favorites (WTRN)",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/WTRN"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4F8veWFUDUBVEL",
+    "name": "Classic Hits 109 - Yacht Rock",
+    "stream_urls": [
+      "https://broadcast.classichits109.com/softrock"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Q3fLXFz6MMql2i",
+    "name": "Classic Pan",
+    "stream_urls": [
+      "https://stream.zeno.fm/rtk4pzcome3vv"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "0s8hxj4cVFyfcu",
+    "name": "Classic Pan Belo Horizonte",
+    "stream_urls": [
+      "https://8374.brasilstream.com.br/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "iJEttea2EWI7Cz",
+    "name": "Classic Vinyl",
+    "stream_urls": [
+      "https://icecast.walmradio.com:8443/classic",
+      "https://icecast.walmradio.com:8443/classic_opus"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "K4X0ZTHyBGunyz",
+    "name": "CLASSY NetRadio",
+    "stream_urls": [
+      "https://streaming.classynetradio.com:8000/classySD"
+    ],
+    "country": "id",
+    "languages": [
+      "eng",
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "9EPrKCpjG43tR9",
+    "name": "Cleansing Cuts",
+    "stream_urls": [
+      "https://hemnos.cdnstream.com/1486_128"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WVd0YSPdhJUQJB",
+    "name": "Coast 93.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WNCVFM_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "u24IdtQCDasyP1",
+    "name": "Cocais FM 89.5",
+    "stream_urls": [
+      "https://webradio.amsolution.com.br/radio/8230/cocais"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "nyIZy4pEjWeJFK",
+    "name": "Cool FM Love Songs",
+    "stream_urls": [
+      "https://mediagw.e-tiger.net/stream/zc28"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "YwnO8kodaovgm6",
+    "name": "COOLfahrenheit",
+    "stream_urls": [
+      "https://coolism-web.cdn.byteark.com/;stream/1",
+      "https://coolism-web3rd.cdn.byteark.com/stream/1/"
+    ],
+    "country": "th",
+    "languages": [
+      "tha"
+    ]
+  },
+  {
+    "nanoid": "fEZZXfJrOPIdmZ",
+    "name": "Country CHOK",
+    "stream_urls": [
+      "https://live.leanstream.co/CHOKAM-MP3",
+      "https://live.leanstream.co/CHOKAM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vjrE5RCLnuchzf",
+    "name": "CRI Hit FM (Chengdu)",
+    "stream_urls": [
+      "https://lhttp.qingting.fm/live/15318703/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "R6HshjkcTE5zVf",
+    "name": "Cruise 1323",
+    "stream_urls": [
+      "https://ais-arn.streamguys1.com/au_008_icy",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8Sb1UmZkt9dgFG",
+    "name": "Daqing Music Radio",
+    "stream_urls": [
+      "https://lhttp.qtfm.cn/live/20500212/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "eh4F4393Oblkyk",
+    "name": "Delilah",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc4846"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QiEFexDvSY7i6v",
+    "name": "Diamante FM 98.7",
+    "stream_urls": [
+      "https://radiolatina.live/8058/stream"
+    ],
+    "country": "uy",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zHo4Cb3LyluljX",
+    "name": "Digital FM 102.1",
+    "stream_urls": [
+      "https://turadioenvivo.com/proxy/fmdigital/stream"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HfIDKd4ATtOmz0",
+    "name": "Dimensione Suono Soft",
+    "stream_urls": [
+      "https://icstream.rds.radio/dssc",
+      "https://icstream.rds.radio/dssn"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "mTYA114MWbIIp2",
+    "name": "Dream Radio 104.7",
+    "stream_urls": [
+      "https://streamnavs.net:8133/live"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AMSniMgY5Lfuwo",
+    "name": "Eagle FM 95.5",
+    "stream_urls": [
+      "https://stream.radiojar.com/yus0r2bghd3vv",
+      "https://n09.radiojar.com/yus0r2bghd3vv",
+      "https://n0d.radiojar.com/yus0r2bghd3vv",
+      "https://n06.radiojar.com/yus0r2bghd3vv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "1sWqbKnXGiBJkW",
+    "name": "Easy & Italy",
+    "stream_urls": [
+      "https://futura.fm/stream.ogg"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "0iiEB8vmDM30Qj",
+    "name": "Easy 101.3",
+    "stream_urls": [
+      "https://mybroadcasting.streamb.live/SB00444"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IzL8uMQQzt4Dx7",
+    "name": "Easy 96 Radio",
+    "stream_urls": [
+      "https://ice8.securenetsystems.net/EASY96"
+    ],
+    "country": "in",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "JosbRiQwlcyEz9",
+    "name": "Easy 99.1 (WPLM)",
+    "stream_urls": [
+      "https://18183.live.streamtheworld.com/WPLMFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nVReyjJqNx9viZ",
+    "name": "Easy Andrea Bocelli",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng",
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "kwW9R0BanvtkK5",
+    "name": "Easy Andy Williams",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easyandywilliams/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "w2YIgcmjZtfPCq",
+    "name": "Easy Barbra Streisand",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easybarbrastreisand/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HmJcTYvWAoIRN5",
+    "name": "Easy Bing Crosby",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easybingcrosby/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "EeTKYy4vTodmPR",
+    "name": "Easy Celine Dion",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easycelinedion/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ZnXnf5pLFuzHeV",
+    "name": "Easy Doris Day",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easydorisday/icecast.audio",
+      "https://streaming.exclusive.radio/uber/easybertkaempfert/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "p6VNWNiecVxmZe",
+    "name": "Easy FM 95.5",
+    "stream_urls": [
+      "https://mediaserv68.live-streams.nl:18007/stream"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "93yZcZ4nTsiLLC",
+    "name": "Easy Instrumentals",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SazOEufWvTaeTK",
+    "name": "Easy James Last",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easyjameslast/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "po8MnqQfsTPugD",
+    "name": "Easy Jazz",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easyjazz/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bIvqHqManu8aNO",
+    "name": "Easy Like Sunday Morning Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/1tcpv7b2mqzuv"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WrIz8qkuI92r1j",
+    "name": "Easy Mix",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/uber/easymix/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xvgk8cbliRngIQ",
+    "name": "Easy Music Plus",
+    "stream_urls": [
+      "https://cheetah.streemlion.com:3545/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "GyFLy5YVQeuFFS",
+    "name": "Easy Radio (WEZV)",
+    "stream_urls": [
+      "https://ice64.securenetsystems.net/WEZV"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1qCliiV1BVuTHF",
+    "name": "Easy Rock Manila",
+    "stream_urls": [
+      "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "bMTahOkVvGcT6d",
+    "name": "EasyListening.com",
+    "stream_urls": [
+      "https://easylistening.out.airtime.pro/easylistening_a"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dwMMgsi3cxh96s",
+    "name": "Eldorado FM",
+    "stream_urls": [
+      "https://cast4.audiostream.com.br:2652/mp3"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "o45oEbSpXN7C5c",
+    "name": "Emotions",
+    "stream_urls": [
+      "https://stream.zeno.fm/03v7z8edgphvv.mp3"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "7nYTqZcIhsjisu",
+    "name": "Enshi Traffic Music Radio",
+    "stream_urls": [
+      "https://lhttp.qtfm.cn/live/5022719/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "WaJiixaXKM3Mj7",
+    "name": "Epic Classical - Study",
+    "stream_urls": [
+      "https://stream.epic-classical.com/classical-study"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "D2Km2Vcn6RagfE",
+    "name": "Exclusively Adele",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/adele/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vWD7OEmOwlDGa0",
+    "name": "Exclusively Barbra Streisand",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/streisand/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6wJWkVXVy4D1HS",
+    "name": "Exclusively Barry Manilow",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/barrymanilow/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WF7ll4UaweUScz",
+    "name": "Exclusively Bread",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/bread/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VXXmw7zNCCu6SW",
+    "name": "Exclusively Engelbert Humperdinck",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/engelberthumperdinck/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TDCd7IGTAD0y3V",
+    "name": "Exclusively Johnny Mathis",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/johnnymathis/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NlAUDvn2nZLdky",
+    "name": "Exclusively Josh Groban",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/joshgroban/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pk7lyzsryI77DP",
+    "name": "Exclusively Matt Monro",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/mattmonro/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yzILemBWmltDaR",
+    "name": "Exclusively Perry Como",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/perrycomo/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yo8csbmt4qEWXB",
+    "name": "Exito FM 99.7",
+    "stream_urls": [
+      "https://salida.stream.com.uy:8506/stream"
+    ],
+    "country": "uy",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HtfmfIiwowERW4",
+    "name": "Exotica Radio",
+    "stream_urls": [
+      "https://solid67.streamupsolutions.com/proxy/repadnom/stream"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DWfamDQ6qsJ5Rf",
+    "name": "EZ Rock 91.5",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00391"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "29uVZXASJxJYaQ",
+    "name": "EZ Rock 95.7",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00388"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aj1Mgyqz15iCBw",
+    "name": "Fame 95 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/wbsd59gcgy5tv",
+      "https://stream.zeno.fm/d5mn12bchkeuv"
+    ],
+    "country": "jm",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dzA9OrLEvXkqmC",
+    "name": "Fantasy Radio",
+    "stream_urls": [
+      "https://server.fantasyradio.co.uk/fantasyradio"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4rqUCBYYxdxhJk",
+    "name": "Flow FM 89.3",
+    "stream_urls": [
+      "https://uksoutha.streaming.broadcast.radio/flow-fm"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BFXtNAJbLM6dtA",
+    "name": "FM 101",
+    "stream_urls": [
+      "https://localradio.streamb.live/SB00095"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8C5CVOq8lpkoXy",
+    "name": "FM Anta 96.1",
+    "stream_urls": [
+      "https://stream.radioinfo.ar/p/8092/stream"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hHEDINJ7YOUnEq",
+    "name": "FM Ayer 98.1",
+    "stream_urls": [
+      "https://icecast.unomedios.com.ar/ayer"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "IMqveKCktj2EK7",
+    "name": "FM Concepto 98.1",
+    "stream_urls": [
+      "https://radio.fmconcepto.com.ar/;"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KJCWlNFyDwnreE",
+    "name": "FM Corazón 102.5",
+    "stream_urls": [
+      "https://sp4.colombiatelecom.com.co/8006/stream"
+    ],
+    "country": "pa",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Llo6v2apOmNkEL",
+    "name": "FM Globo 98.7 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFM_SC"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "mzlOX8MBnraero",
+    "name": "FM100.3 (KSFI)",
+    "stream_urls": [
+      "https://bonneville.cdnstream1.com/2702_48.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aCGNI7JFhoKjFU",
+    "name": "FM101 Orangeville",
+    "stream_urls": [
+      "https://localradio.streamb.live/SB00096"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "huGK41vPKrKcOl",
+    "name": "FM92 South Simcoe",
+    "stream_urls": [
+      "https://localradio.streamb.live/SB00097"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yIZ2rxHQAJFELL",
+    "name": "Fraser Coast FM 107.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4FCRAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4FCR.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "j0qyltqNBN9ywP",
+    "name": "Frontière FM 92.7",
+    "stream_urls": [
+      "https://stream2.statsradio.com/8096/stream",
+      "https://stream2.statsradio.com:8096/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "koo3aQCxPXn3bd",
+    "name": "Galaxy 107 FM",
+    "stream_urls": [
+      "https://s39.myradiostream.com:14858/;listen.mp3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "X8vOg0wY33KA4F",
+    "name": "Galaxy 92 FM",
+    "stream_urls": [
+      "https://netradio.live24.gr/galaxy9292"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pG7eIXtDoKwuAB",
+    "name": "Gay SA Radio",
+    "stream_urls": [
+      "https://zas1.ndx.co.za:8018/stream"
+    ],
+    "country": "za",
+    "languages": []
+  },
+  {
+    "nanoid": "Hduc5bJoC0BlnU",
+    "name": "Gem FM 95.1",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4GEM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JVXmvIoy6YFVi0",
+    "name": "GFM 90.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/radiogfm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "er7smoYoUSkhp1",
+    "name": "GOLD 101.7",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_WSFM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zG18FIwPZKFDnV",
+    "name": "GOLD 104.3",
+    "stream_urls": [
+      "https://ais-arn.streamguys1.com/au_004_icy",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_GOLD1043.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FQ8iFXBnL1iRUO",
+    "name": "Gold Central Victoria",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BEN_GOLDAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BEN_GOLD.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7HUGS9T1iChplv",
+    "name": "Gold Hits (WKVA)",
+    "stream_urls": [
+      "https://audio-edge-vqwx4.yyz.g.radiomast.io/ea61c097-e9db-4aa5-b27e-c58681372d48"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "W4O3tFExYuXSFu",
+    "name": "Gold Instrumental",
+    "stream_urls": [
+      "https://centova.svdns.com.br:19373/stream1",
+      "https://centova.svdns.com.br:19373/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ODkogOT0YTKyik",
+    "name": "GotRadio - Guitar Genius",
+    "stream_urls": [
+      "https://pureplay.cdnstream1.com/6018_128.mp3",
+      "https://pureplay.cdnstream1.com/6018_64.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IBtInQ0xxnkDrf",
+    "name": "Great Southern FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/6CRAAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/6CRA.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "oT4RAgBNyrnqyj",
+    "name": "GregRadio 1650",
+    "stream_urls": [
+      "https://c21.radioboss.fm:8055/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "OIbzFMy1gRz8Rw",
+    "name": "Guyana Lite 104.1 FM",
+    "stream_urls": [
+      "https://n08.radiojar.com/nh42m158d4duv"
+    ],
+    "country": "gy",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jEbFN4KgVerNhC",
+    "name": "GV 99.1",
+    "stream_urls": [
+      "https://edge.mixlr.com/channel/gtqpn"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "uskcQeQZhPfZzc",
+    "name": "Haarlem105",
+    "stream_urls": [
+      "https://stream.tbmp.nl:8010/haarlem105.web"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "i4iyzjDhFd6Vdn",
+    "name": "Harmony Radio",
+    "stream_urls": [
+      "https://streaming.live365.com/a47264"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aDcIS77cPImCH8",
+    "name": "HartiesFM",
+    "stream_urls": [
+      "https://s5.radio.co/s68c6f4028/listen"
+    ],
+    "country": "za",
+    "languages": [
+      "afr",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lLrlPdQF1f9n0U",
+    "name": "HearMe - Love Songs",
+    "stream_urls": [
+      "https://radio.hearme.fm:8140/stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "do0szAe3BM0h01",
+    "name": "Heart 10s",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/Heart10sMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xp4GuXgslCAeLi",
+    "name": "Heart Bath",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartBathMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "b4tELgtynD9Wh6",
+    "name": "Heart Berkshire",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/HeartBerkshireMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2LCdhr1zhs9wmE",
+    "name": "Heart Bristol",
+    "stream_urls": [
+      "https://media-ssl.musicradio.com/HeartBristol",
+      "https://ice-sov.musicradio.com/HeartBristolMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "uXCtFQbGN2E96K",
+    "name": "Heart Cambridgeshire",
+    "stream_urls": [
+      "https://ice-sov.musicradio.com/HeartCambridgeMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8Mzl5GQWgooUlL",
+    "name": "Heart Cornwall",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/HeartCornwallMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RxJFPv9xnXoLmc",
+    "name": "Heart Dorset",
+    "stream_urls": [
+      "https://ice-sov.musicradio.com/HeartDorsetMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "knZ2ifTeH1gGsI",
+    "name": "Heart Essex",
+    "stream_urls": [
+      "https://ice-sov.musicradio.com/HeartEssexMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cZ0aXRk3UrvUZ9",
+    "name": "Heart Kent",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartKent"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FWcMIOO8VdFPGJ",
+    "name": "Heart London",
+    "stream_urls": [
+      "https://ice-the.musicradio.com/HeartLondonMP3",
+      "https://media-ice.musicradio.com/HeartLondon",
+      "https://ice-sov.musicradio.com/HeartLondonMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "waGer9a3cArbu6",
+    "name": "Heart Love",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/HeartLoveMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yZqvWEaFKYONja",
+    "name": "Heart Norfolk",
+    "stream_urls": [
+      "https://ice-sov.musicradio.com/HeartNorfolkMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "z4gxXD0zfWDu22",
+    "name": "Heart North West",
+    "stream_urls": [
+      "https://media-the.musicradio.com/HeartNorthWest"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "b8WIVaT482hRLx",
+    "name": "Heart Northamptonshire",
+    "stream_urls": [
+      "https://ice-sov.musicradio.com/HeartNorthamptonshireMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DgqxR9mJOG8OjB",
+    "name": "Heart Oxfordshire",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartOxfordshireMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xpGBSG83KZyraG",
+    "name": "Heart Plymouth",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartPlymouth"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XIJbQoxrrKnFuM",
+    "name": "Heart South Coast",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartHampshire"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "77FDBDrKCjbspx",
+    "name": "Heart South Hams",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartSouthHamsMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mBmClWip7GodU2",
+    "name": "Heart South Wales",
+    "stream_urls": [
+      "https://media-ssl.musicradio.com/HeartSouthWalesMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "P85NSn3ZFCsqMv",
+    "name": "Heart Sussex",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/HeartSussexMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xCrcXtHJGORLDs",
+    "name": "Heart Torbay",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartTorbay"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fLPVAziSsI9wLk",
+    "name": "Heart UK",
+    "stream_urls": [
+      "https://media-ssl.musicradio.com/HeartUK"
+    ],
+    "country": "mx",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nCdJb6IlUqqp7P",
+    "name": "Heart UK",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/HeartUKMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ymvmcUBNO7QWaZ",
+    "name": "hit 104.7 Canberra",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "EUABmAIpAKOP5v",
+    "name": "hit Southwest",
+    "stream_urls": [
+      "https://legacy.scahw.com.au/6bun_32"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qJVV0QlRlHVesO",
+    "name": "Hits 102.7",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/KXMZ"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bpSIhr5wk8xpFJ",
+    "name": "Hot 99.5 (WIHT)",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2509"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Il5wX6QDHiJSt7",
+    "name": "Hot FM 106.7",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3HOTAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JaNYM5JqBW2lRZ",
+    "name": "Hot Radio Maine (WHTP)",
+    "stream_urls": [
+      "https://ice9.securenetsystems.net/WHTP"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IFL5Lr3CtHzGhU",
+    "name": "hr1 Nordhessen",
+    "stream_urls": [
+      "https://dispatcher.rndfnk.com/hr/hr1/nordhessen/high"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "YxoCSotQPJBh0k",
+    "name": "hr1 Osthessen",
+    "stream_urls": [
+      "https://dispatcher.rndfnk.com/hr/hr1/osthessen/high"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "p38ci7QWhV3eIX",
+    "name": "hr1 Südhessen",
+    "stream_urls": [
+      "https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "bPsWXv0AJLY4G5",
+    "name": "Hrvatski Radio Frankfurt",
+    "stream_urls": [
+      "https://a9.asurahosting.com:7110/radio.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "JUmQ5zlvGlTvVZ",
+    "name": "Humboldt 101",
+    "stream_urls": [
+      "https://ais-sa2.cdnstream1.com/2188_64.aac",
+      "https://ais-sa2.cdnstream1.com/2188_128.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hGGWyP6SxK9oCa",
+    "name": "Hunter FM Master",
+    "stream_urls": [
+      "https://live.hunter.fm/master_normal"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Sj7qRCZXm5fE2Z",
+    "name": "i98FM",
+    "stream_urls": [
+      "https://i98fm.com.au/livestream",
+      "https://ice10.securenetsystems.net/I98FM"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bpQ1tYL7vKMUD2",
+    "name": "Instrumental Music Radio",
+    "stream_urls": [
+      "https://azuracast.vibesounds.in:8030/radio.mp3"
+    ],
+    "country": "in",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "IZjRqgNaBkneqh",
+    "name": "Instrumentales de Siempre",
+    "stream_urls": [
+      "https://protvradiostream.com:8350/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cSghZvAuLOn3MJ",
+    "name": "Instrumentals Forever",
+    "stream_urls": [
+      "https://quincy.torontocast.com:1910/stream",
+      "https://quincy.torontocast.com:1920/stream",
+      "https://quincy.torontocast.com:1925/stream"
+    ],
+    "country": "be",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "X6ORHeMGaNpVHk",
+    "name": "InTheMixRadio",
+    "stream_urls": [
+      "https://inthemixradio.stream.laut.fm/inthemixradio"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "loFp8BK9q6Ejo3",
+    "name": "Jacaranda FM",
+    "stream_urls": [
+      "https://live.jacarandafm.com/jacarandalow.aac",
+      "https://live.jacarandafm.com/jacarandahigh.mp3",
+      "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
+      "https://edge.iono.fm/xice/jacarandafm_live_high.aac"
+    ],
+    "country": "za",
+    "languages": [
+      "eng",
+      "afr"
+    ]
+  },
+  {
+    "nanoid": "Wl5GQPteQ6SQAm",
+    "name": "Jazz Cafe",
+    "stream_urls": [
+      "https://radio.wanderingsheep.net:8000/jazzcafe"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "O8NAgbrRhSLmtW",
+    "name": "JIB on the Web",
+    "stream_urls": [
+      "https://ais-sa2.cdnstream1.com/2379_128.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7uL8ukaM3R1g6e",
+    "name": "Joe Easy",
+    "stream_urls": [
+      "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "QXSgSDJW6HahW3",
+    "name": "Joy FM",
+    "stream_urls": [
+      "https://21633.live.streamtheworld.com/JOY_FM128AAC.aac"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "qX4ZMtRP8s35yQ",
+    "name": "Joya 101.7 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/extbc8p9na0uv"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9lnVocUHaqzDRh",
+    "name": "Joya 93.7 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KgBsDJLJtDd8Ht",
+    "name": "Just Easy",
+    "stream_urls": [
+      "https://just-easy.stream.laut.fm/just-easy"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "RaSranC4maZK9u",
+    "name": "K100",
+    "stream_urls": [
+      "https://mbsradio.leanstream.co/CIOKFM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "93NzpltxRTzqMF",
+    "name": "K94.5",
+    "stream_urls": [
+      "https://mbsradio.leanstream.co/CKCWFM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0DFDUGIFrFIB3F",
+    "name": "Kansas Breeze",
+    "stream_urls": [
+      "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hRrhbnusH3OR60",
+    "name": "Kaya 959",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/82_medium.aac"
+    ],
+    "country": "za",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0iKvd022Jn2RRI",
+    "name": "KCJJ 1630 AM",
+    "stream_urls": [
+      "https://ice24.securenetsystems.net/KCJJ"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QtdSIFiStx9EBg",
+    "name": "KDSN 104.9 FM",
+    "stream_urls": [
+      "https://ice8.securenetsystems.net/KDSN"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zLpC0SxBh76aWB",
+    "name": "KHOY 88.1",
+    "stream_urls": [
+      "https://www.streamcontrol.net:8444/s/14060"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F1B93Rnb5UsB7F",
+    "name": "KIIS 102.3",
+    "stream_urls": [
+      "https://ais-arn.streamguys1.com/au_003_icy",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1023.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "v35AtCqCMcKMrn",
+    "name": "KIIS 97.3",
+    "stream_urls": [
+      "https://ais-arn.streamguys1.com/au_011_icy",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_973FM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "R0HX1kqgHI9lwc",
+    "name": "Kiss 101.9 FM",
+    "stream_urls": [
+      "https://cast4.my-control-panel.com/proxy/televis2/kisscampeche"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "G49FYHRIbcMdc2",
+    "name": "Kiss 89.1 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEBT.mp3"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SPpLz02g0OYMT8",
+    "name": "Kiss 95.3 FM",
+    "stream_urls": [
+      "https://cast4.asurahosting.com/proxy/radiocan/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "dKi6WXlNvshwNs",
+    "name": "Kiss 97.7 FM",
+    "stream_urls": [
+      "https://cast4.my-control-panel.com/proxy/televis4/kiss977",
+      "https://webprod.sipse.com.mx:8080/kissfm/"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "b8ht24BCd5x6Ov",
+    "name": "KISS 98.1",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2585"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XMOtsQVVnpJpHE",
+    "name": "KiSS 99.3",
+    "stream_urls": [
+      "https://rogers.leanstream.co/rogers/tim993.stream/icy"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NWD1OsISKWi57d",
+    "name": "KJOY 99.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KJOYFM_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WqcgLoS1KkXF3S",
+    "name": "Klassik Radio - Friends @ Home",
+    "stream_urls": [
+      "https://stream.klassikradio.de/friendshome/aac-64/stream.klassikradio.de",
+      "https://stream.klassikradio.de/friendshome/mp3-128/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "slIlAC61yNI3L7",
+    "name": "KOSI 101.1",
+    "stream_urls": [
+      "https://bonneville.cdnstream1.com/2709_48.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3bzrLA9P8VsPjI",
+    "name": "KOST 103.5",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc193"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NfAzycftHI9vX8",
+    "name": "KSQM 91.5 FM",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:8182/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jSfqK7ISVzdUct",
+    "name": "KXEO 1340 AM",
+    "stream_urls": [
+      "https://ice24.securenetsystems.net/KXEO"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SsdR1cdfYngLNZ",
+    "name": "La Bella FM 104.9",
+    "stream_urls": [
+      "https://sp3.servidorrprivado.com:10938/;"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FkIOAJBf9Vt0Fg",
+    "name": "La Note Picking Radio",
+    "stream_urls": [
+      "https://streaming.radionomy.com/Acoustic-Guitar"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "IOAbl7O0CL4HoQ",
+    "name": "La Poderosa 104.1 FM",
+    "stream_urls": [
+      "https://samuel.i-radio.co:8001/araunastereo"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "04xJ9AIDYFyv5a",
+    "name": "La Radio de los Lentos",
+    "stream_urls": [
+      "https://01.solumedia.com.ar:7828/stream"
+    ],
+    "country": "ar",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qbcmhgrev8HuJw",
+    "name": "La Romántica 92.9 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/q5f7ne3sb18uv"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "60mJqL05C0Eywu",
+    "name": "LAFM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Vak1uy41aTrRdc",
+    "name": "Lake 88.1",
+    "stream_urls": [
+      "https://mybroadcasting.streamb.live/SB00315"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6VPzfLvYPn2GTG",
+    "name": "Leipzig International Radio",
+    "stream_urls": [
+      "https://radioukwplus.eu:8444/international"
+    ],
+    "country": "de",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5pi9EiXfT81RsB",
+    "name": "Life Radio Non Stop Music",
+    "stream_urls": [
+      "https://stream.liferadio.at/homeoffice/mp3-192/stream.liferadio.at/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "LZfzrhnW8FcQ5z",
+    "name": "Light FM 103.9",
+    "stream_urls": [
+      "https://8231.brasilstream.com.br/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "b2YNietvsEmdkU",
+    "name": "Lincs Sound",
+    "stream_urls": [
+      "https://stream.aiir.com/ubrzdpuap28vv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2ujp8wXqA9uHGW",
+    "name": "Lite 92.1",
+    "stream_urls": [
+      "https://evanov.streamb.live/SB00226"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3P9rHGd4EKWsMX",
+    "name": "LITE 99.3",
+    "stream_urls": [
+      "https://evanov.streamb.live/SB00234"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JZlb4Wf3fgHJ0l",
+    "name": "Lite FM",
+    "stream_urls": [
+      "https://stream.rcs.revma.com/bn4ex8sbv4uvv"
+    ],
+    "country": "my",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9t5qX45FQfeH39",
+    "name": "Lite RADIO",
+    "stream_urls": [
+      "https://ais-sa2.cdnstream1.com/2382_128.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xZEq4mTgw2dAXR",
+    "name": "Lite Rock 105",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLIFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QtHzcS5B0uyBRi",
+    "name": "Lite Rock 93R",
+    "stream_urls": [
+      "https://ice3.securenetsystems.net/WRRR"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Yi8FiZe7z5i2UE",
+    "name": "LM Radio",
+    "stream_urls": [
+      "https://ukwesta.streaming.broadcast.radio/lmradio",
+      "https://edge.iono.fm/xice/392_medium.mp3"
+    ],
+    "country": "mz",
+    "languages": [
+      "eng",
+      "por"
+    ]
+  },
+  {
+    "nanoid": "AO96rlqRSx7cXj",
+    "name": "LolliRadio Soft",
+    "stream_urls": [
+      "https://stream.lolliradio.net/lolli_soft.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "MvBKkiyZl33twM",
+    "name": "London Romanian Radio",
+    "stream_urls": [
+      "https://play.lrradio.uk/"
+    ],
+    "country": "uk",
+    "languages": [
+      "ron",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lysgynOOSM3dU8",
+    "name": "Loop'd",
+    "stream_urls": [
+      "https://14223.live.streamtheworld.com/SP_R4852369.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "q1tDi40EdfQpKh",
+    "name": "LoungeFM",
+    "stream_urls": [
+      "https://s35.derstream.net/digital.mp3",
+      "https://s35.derstream.net/100austria.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "oSrx4mEipxFxOK",
+    "name": "LoungeFM Wien",
+    "stream_urls": [
+      "https://s35.derstream.net/ukwwien.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "wjipSQauuI9HVB",
+    "name": "Love 105 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WGVXFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "JSU4ra60687GHH",
+    "name": "Love FM 101.5",
+    "stream_urls": [
+      "https://ss1.audiorama.com.mx:6632/;stream",
+      "https://ss1.audiorama.com.mx:6632/stream",
+      "https://ss1.audiorama.com.mx:6632/lovefm"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3OZAB4TRobIRip",
+    "name": "Love FM 90.1",
+    "stream_urls": [
+      "https://ss1.audiorama.com.mx:6650/;stream",
+      "https://ss1.audiorama.com.mx:6650/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wuZkX7bP0QzaPP",
+    "name": "Love FM 96.1",
+    "stream_urls": [
+      "https://ss1.audiorama.com.mx:6684/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3dQnqqCdxr6cMD",
+    "name": "Love Radio",
+    "stream_urls": [
+      "https://loveradio.streamingmedia.it/england"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pZWmL6D5QZ4acj",
+    "name": "Love Radio",
+    "stream_urls": [
+      "https://loveradio.streamingmedia.it/play",
+      "https://loveradio.streamingmedia.it/usa",
+      "https://ais-sa1.streamon.fm/7009_48k.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Au4cp9rWGLaryi",
+    "name": "LOVE.radio",
+    "stream_urls": [
+      "https://loveradio.streamingmedia.it/espana"
+    ],
+    "country": "es",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "p7ncYq4iWkoLfy",
+    "name": "LuxuriaMusic",
+    "stream_urls": [
+      "https://ice10.securenetsystems.net/LUXOMP3",
+      "https://ice10.securenetsystems.net/LUXOTRON"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "14NoI2CD1KYihx",
+    "name": "LWorks Radio",
+    "stream_urls": [
+      "https://radio.l-works.net/listen"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "o77p5EEtfC7IJE",
+    "name": "Magic 103.1",
+    "stream_urls": [
+      "https://cb.streamguys1.com/wtoj.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vEzsWFdruNPwop",
+    "name": "Magic 104.1",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGLFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IDi21yg8Pot25X",
+    "name": "Magic 107.7",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc597"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qeTP8EGJfnXtSG",
+    "name": "Magic 93",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGSFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1sgK6iZaY2FYFe",
+    "name": "Magic 94.9",
+    "stream_urls": [
+      "https://mbsradio.leanstream.co/CKWMFM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iJkRatbsFmdlVN",
+    "name": "Magic 95.9",
+    "stream_urls": [
+      "https://ice23.securenetsystems.net/WPNC"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "AlY39h7tMa0k5j",
+    "name": "Magic 97.1",
+    "stream_urls": [
+      "https://goldenwest.leanstream.co/CKFIFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PdbSuCwaxcdwzt",
+    "name": "Magic 97.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KQFCFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cnvT1a2XZF2SDi",
+    "name": "Magic 98.9",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc3018"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fqsO9axXpB2Mk1",
+    "name": "Magic FM",
+    "stream_urls": [
+      "https://live.magicfm.ro/magicfm.aacp"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "zvBdKqJJOcXjTY",
+    "name": "Magic FM Love",
+    "stream_urls": [
+      "https://dc.digi.live.kissfm.ro/magiclove"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "Rc6D6R6YqMgs2U",
+    "name": "Magic FM Relax",
+    "stream_urls": [
+      "https://live.kissfm.ro/magic.lite"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "uWH6ANu8DXVKRz",
+    "name": "Magic FM Sunset",
+    "stream_urls": [
+      "https://live.magicfm.ro/magic.lite"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "dNpIGLgVl5OZbl",
+    "name": "Majic 107.7",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kTRlB0B5sCBJrl",
+    "name": "Majic 95.9",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc3313"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YJt5CM8YZqx6IJ",
+    "name": "Mallorca Sunshine Radio",
+    "stream_urls": [
+      "https://mallorcasunshine--di--nacs-ais-lgc--05--cdn.cast.addradio.de/mallorcasunshine/live/mp3/high"
+    ],
+    "country": "es",
+    "languages": [
+      "eng",
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "XRWuKxBRkoCug7",
+    "name": "MAMBO Stream",
+    "stream_urls": [
+      "https://air.doscast.com/proxy/narashee/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LFh6lXTwbBUCLE",
+    "name": "Marlene Radio",
+    "stream_urls": [
+      "https://live.gofm.ro:2000/stream/MARLENERADIO/stream.mp3"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "jihFS6tYnzS2FZ",
+    "name": "Max 97.7",
+    "stream_urls": [
+      "https://bayshore.leanstream.co/CHGBFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HegoXWyeXJkAiF",
+    "name": "Meer Radio 88.0",
+    "stream_urls": [
+      "https://meerradio.ip-streaming.net/meerradio"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Qe9yM2DKTNO2tN",
+    "name": "Mellow 94.7",
+    "stream_urls": [
+      "https://streamer.radio.co/sec36cd5f1/listen"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "BbHSnExZRAKI6X",
+    "name": "Melodía Para Dos",
+    "stream_urls": [
+      "https://sp.totalstreaming.net:8170/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "rAGbLpG31JLmUS",
+    "name": "Metropolitana FM Light",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/metropolitanasplight"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "wFYVTd3qFAjNUC",
+    "name": "MFM",
+    "stream_urls": [
+      "https://radios.justweb.pt/8074/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "S9eTQpt3JS7Uih",
+    "name": "MGT Rádio Light",
+    "stream_urls": [
+      "https://cast.mgtradio.net/radio/8070/aac"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "bo9duZsz1xrEws",
+    "name": "MI Radio",
+    "stream_urls": [
+      "https://stream-170.zeno.fm/g9afqk829ibtv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pmHoSHSJpYr06Y",
+    "name": "Midnite Radio",
+    "stream_urls": [
+      "https://a7.asurahosting.com:7510/radio.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ymQG4VlSTvUrQo",
+    "name": "Mix 100",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KIMNFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Khn4U0rzQPsJWM",
+    "name": "Mix 101.7 (KAYL)",
+    "stream_urls": [
+      "https://ice23.securenetsystems.net/KAYL"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "A49WKObduHf2LB",
+    "name": "Mix 103.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WMXSFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DShwml6pZulJLG",
+    "name": "Mix 104.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_MIX1049.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Nd3HABRRQx2ys3",
+    "name": "Mix 106.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "W19bvazdsMb9us",
+    "name": "Mix 107.9",
+    "stream_urls": [
+      "https://goldenwest.leanstream.co/CKFTFM",
+      "https://kenner-media.streamb.live/SB00255"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LRjGeBIqVv5uZy",
+    "name": "Mix 92.3",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1149"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "J8l2TieAbckq0v",
+    "name": "Mix 92.9 WJXA",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXAFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "f5Jcckrt2PrIzj",
+    "name": "Mix 93.1",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1101"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "27NBzex3Uqiv2z",
+    "name": "Mix 96.7",
+    "stream_urls": [
+      "https://live.leanstream.co/CHYRFM",
+      "https://goldenwest.leanstream.co/CILTFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KEGXSg8RYTzRID",
+    "name": "Mix 97",
+    "stream_urls": [
+      "https://live.leanstream.co/CIGLFM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "g716BP9HpJiSS0",
+    "name": "Mix FM 93.8",
+    "stream_urls": [
+      "https://edge.iono.fm/xice/113_medium.aac"
+    ],
+    "country": "za",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tQFxcplECvYnQg",
+    "name": "Mix Radio",
+    "stream_urls": [
+      "https://mixfm.radionetz.de/mixfm.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa",
+      "eng",
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "IQHL5SlZJ6KHG7",
+    "name": "Morena FM Easy 107.1",
+    "stream_urls": [
+      "https://centova.svdns.com.br:20110/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "kMqcrgWTy06bfw",
+    "name": "Morena FM Rio 98.0",
+    "stream_urls": [
+      "https://centova5.transmissaodigital.com:20005/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "BjlPcSl3jYYqNy",
+    "name": "MPB Radio 2 Easy",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radio2easy.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ofxXFshiTzBTNi",
+    "name": "Mr. Marchi's Radio",
+    "stream_urls": [
+      "https://radio.juliomarchi.com:8000/radio.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5QWW5g0l5CLnL9",
+    "name": "Music of Your Life",
+    "stream_urls": [
+      "https://streams2.musicofyourlife.com/moyl.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Wyhxs3P6ma6bzQ",
+    "name": "Music Radio AI",
+    "stream_urls": [
+      "https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "eng",
+      "spa",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "e5cid2EZ1Lc0y9",
+    "name": "My 92.1",
+    "stream_urls": [
+      "https://chmx.streamon.fm/stream/CHMX-64k.aac",
+      "https://ais-sa1.streamon.fm/7257_64k.aac"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sf819ak2eoCNgj",
+    "name": "My 92.9",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc65"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "t8Di1Mnx8zPXGB",
+    "name": "My 95.7 (KDAL)",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KDALFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KFba2dLMAN5rYu",
+    "name": "myFM 104.9",
+    "stream_urls": [
+      "https://mybroadcasting.streamb.live/SB00305"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Sphsksz71eFL1D",
+    "name": "Mágica 100.1 FM",
+    "stream_urls": [
+      "https://secure.radiorama.mx:2042/"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7vvSFhwfavit4G",
+    "name": "Nation Classic Hits",
+    "stream_urls": [
+      "https://listen-nation.sharp-stream.com/nationparty.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "b0mBrUX2ReeAvP",
+    "name": "Nation Easy Radio",
+    "stream_urls": [
+      "https://listen-nation.sharp-stream.com/breezyradiouk.mp3",
+      "https://listen-nation.sharp-stream.com/breeze_soton.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "V6o6R62Q4RqIyn",
+    "name": "Nation Love",
+    "stream_urls": [
+      "https://listen-nation.sharp-stream.com/lovenation.aac"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8sdVnThiVk07k4",
+    "name": "Nature Radio Sleep",
+    "stream_urls": [
+      "https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "eng",
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "nNWjS5dYjcfelP",
+    "name": "Naxi Adore Radio",
+    "stream_urls": [
+      "https://naxidigital-adore128ssl.streaming.rs:8332/;stream.nsv"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "cqJvzD6T5AvIzo",
+    "name": "Naxi Cafe Radio",
+    "stream_urls": [
+      "https://naxidigital-cafe128ssl.streaming.rs:8022/;"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "QFJeOcEIKjxAwp",
+    "name": "Naxi Love Radio",
+    "stream_urls": [
+      "https://naxidigital-love128ssl.streaming.rs:8102/;"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "70GGWmH2w4TNWM",
+    "name": "NBC Milano",
+    "stream_urls": [
+      "https://nr7.newradio.it:19350/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "hmoabjSUwuI0VA",
+    "name": "NoiseBox Radio",
+    "stream_urls": [
+      "https://n11.radiojar.com/n1bs4ekbvuhvv",
+      "https://stream.radiojar.com/n1bs4ekbvuhvv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "OPGZP3wrJBTxtR",
+    "name": "North Derbyshire Radio",
+    "stream_urls": [
+      "https://s5.themediasite.co.uk:8064/stream%22"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dboGMbYM4pL79m",
+    "name": "Nostalgie Extra",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "0nVKe92lsAk91k",
+    "name": "Nova 100",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LuKLxkPy1kUXn0",
+    "name": "Nova 106.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eiujlGhDGZlQWu",
+    "name": "Nova 91.9",
+    "stream_urls": [
+      "https://23203.live.streamtheworld.com/NOVA_919_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "GyyY6hrBWfjy5c",
+    "name": "Nova 93.7",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NdSXUIal2prG57",
+    "name": "Nova 96.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "z9qckDQKRkUHox",
+    "name": "Now 105.1",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc913"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8br8uWXoOhL1bu",
+    "name": "NRJ Lounge",
+    "stream_urls": [
+      "https://streaming.nrjaudio.fm/oua828w2dqao"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "JdcXGHEnsWLdhJ",
+    "name": "Ocean Waves Radio",
+    "stream_urls": [
+      "https://streaming.live365.com/a40826"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xbqbMxyW5Ytwb1",
+    "name": "Oceano Pacífico",
+    "stream_urls": [
+      "https://stm7.xradios.com.br:6944/live"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "cNeXhUGLTHB21P",
+    "name": "ON Chillout",
+    "stream_urls": [
+      "https://0n-chillout.radionetz.de/0n-chillout.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Lwvfqic3sISZFG",
+    "name": "ON Lounge",
+    "stream_urls": [
+      "https://0n-lounge.radionetz.de/0n-lounge.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Vzi4zT4Jrsk6YO",
+    "name": "ON Relax",
+    "stream_urls": [
+      "https://0n-relax.radionetz.de/0n-relax.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "MUfTjo0Pt0Z5n9",
+    "name": "Only Romantic Radio",
+    "stream_urls": [
+      "https://only-romantic-radio.stream.laut.fm/only-romantic-radio"
+    ],
+    "country": "es",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "j8HOD3qR1uXyGC",
+    "name": "Original 106",
+    "stream_urls": [
+      "https://listen-original.sharp-stream.com/original106.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WhVIabZKklnTY0",
+    "name": "Otvoreni Radio",
+    "stream_urls": [
+      "https://stream.otvoreni.hr/stream48"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "WJUYgmpggAKw5q",
+    "name": "Oxygen Lounge",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8443/oxygenlounge"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "dOKSapNLmc2uj6",
+    "name": "Oxygen Spencer Hill",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8443/oxygenspencerhillzenek"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "1lAVLg64jjGUmH",
+    "name": "P7 Klem",
+    "stream_urls": [
+      "https://p7.p4groupaudio.com/P07_MM",
+      "https://p7.p4groupaudio.com/P07_AH"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "wodcSJC2tR98zB",
+    "name": "Pacific FM Relax",
+    "stream_urls": [
+      "https://radiozender.mpbnetwerken.nl/pacificfm-relax"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "W5dDDHye6FCTdQ",
+    "name": "Pagudpud Beach Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/a3ggpf8rt6duv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6DIZM1U19ZpuXb",
+    "name": "Peaceful Currents Radio",
+    "stream_urls": [
+      "https://cast1.torontocast.com:2660/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bk10wJr44fHg0C",
+    "name": "Pepper 96.6 FM",
+    "stream_urls": [
+      "https://stream.radiojar.com/pepper.m4a"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "CVfjqeQnEZPkYu",
+    "name": "PH Lite",
+    "stream_urls": [
+      "https://stream.amfm.link/listen/ch1/phlite"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "UmhtFMtdXbcpH8",
+    "name": "Piano Landscapes",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR23_s01AAC.aac"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JfE4gx1P7IIDPc",
+    "name": "Platinum FM",
+    "stream_urls": [
+      "https://streamingecuador.com:8160/radioplatinum"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "lYmL7DUbjt9f2T",
+    "name": "Play Radio Soft",
+    "stream_urls": [
+      "https://stream.playradio.rs:8443/soft.mp3"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "EgMStfU3mQpRSX",
+    "name": "Plus 90.7",
+    "stream_urls": [
+      "https://stream2.statsradio.com:8010/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "tGaoeTJrGNd7sz",
+    "name": "Positively Easy",
+    "stream_urls": [
+      "https://streaming.positivity.radio/pr/posieasy/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0mwoLjRByNyN4r",
+    "name": "Power 102.1",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc3196"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MAIfYiExdbxRa0",
+    "name": "Power Ace Radio",
+    "stream_urls": [
+      "https://music-station.live/radio/8030/radio.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "60tCeaKZeuknyu",
+    "name": "Power FM 103.1",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BAL_POWER_FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BAL_POWER_FM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dQDSakdQqecGiH",
+    "name": "Power Hit Radio",
+    "stream_urls": [
+      "https://ice.leviracloud.eu/phr96-aac"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
+    "nanoid": "eNnNg1Q9nqPnju",
+    "name": "Power100",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6Ri23H6Xx3N3P2",
+    "name": "Q 101.9",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2341"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KTRsJSZP2uXW4x",
+    "name": "Q 97.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KQHNFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MIdEfpq9KYwVya",
+    "name": "Q106.5",
+    "stream_urls": [
+      "https://18423.live.streamtheworld.com/KQXLFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KQXLFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9TFiTxkey6QOQz",
+    "name": "Q92",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1489"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aISnFd7LmOp9UX",
+    "name": "Quality FM",
+    "stream_urls": [
+      "https://icecast.lokaleomroepzeewolde.nl:8443/QualityFMHigh"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "Ei7VStNpBHZOqt",
+    "name": "R.SH Relax",
+    "stream_urls": [
+      "https://streams.rsh.de/relax/mp3-192/homepage/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "GA1IUWDDJgnBNO",
+    "name": "R101",
+    "stream_urls": [
+      "https://icy.unitedradio.it/R101_558.aac",
+      "https://icecast.unitedradio.it/r101",
+      "https://icecast.unitedradio.it/r101_mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "pz1nWp3Ash3HDa",
+    "name": "R101 Your Love",
+    "stream_urls": [
+      "https://icy.unitedradio.it/R101YourLove.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "1epjaE7S4pYFa2",
+    "name": "Radio 2 AM 1230",
+    "stream_urls": [
+      "https://cdn.instream.audio/:9056/stream"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qwzfDEmdvcURfy",
+    "name": "Radio 2Go",
+    "stream_urls": [
+      "https://uksoutha.streaming.broadcast.radio:15830/radio2go"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "5HsZZlbPjO7ssW",
+    "name": "Radio 74",
+    "stream_urls": [
+      "https://radio74.ice.infomaniak.ch/radio74.aac"
+    ],
+    "country": "fr",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "pjwObY7ocdLhxn",
+    "name": "Radio 74 - Lifestyle",
+    "stream_urls": [
+      "https://radio74.ice.infomaniak.ch/radio74-low.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "RCBwz0U2nsWMsE",
+    "name": "Radio Adagio",
+    "stream_urls": [
+      "https://radioadagio.com/wp-content/uploads/2021/12/12-13-21-The-Mystery.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mBzzS8PCq4EpMr",
+    "name": "Radio Alex - Best Lounge Music",
+    "stream_urls": [
+      "https://listen7.myradio24.com/avmarushak"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "mb7vPFfB0Ox3W5",
+    "name": "Radio Amore",
+    "stream_urls": [
+      "https://stream10.xdevel.com/audio8s977886-2322/stream/icecast.audio"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "ShlTitFASu91MO",
+    "name": "Radio Amore Blu",
+    "stream_urls": [
+      "https://stream10.xdevel.com/audio4s977886-2318/stream/icecast.audio"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "58mAzomvoYFkhw",
+    "name": "Radio Anaunia",
+    "stream_urls": [
+      "https://s6.mediastreaming.it:9134/;stream.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "zUzp07LyHnaX17",
+    "name": "Radio AR Bali",
+    "stream_urls": [
+      "https://live.radioarbali.com:8450/radioar"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "leCYDKrFeZeIxT",
+    "name": "Radio Argovia",
+    "stream_urls": [
+      "https://stream.streambase.ch/argovia/mp3-192/direct/",
+      "https://stream.streambase.ch/argovia/mp3-192/radiobrowser/"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "t4vigaHc7it1uO",
+    "name": "Radio Art - 20th Century",
+    "stream_urls": [
+      "https://air.radioart.com/f20th_Century.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "I7K4bgaNEhksoy",
+    "name": "Radio Art - 21st Century",
+    "stream_urls": [
+      "https://air.radioart.com/f21st_Century.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1PaOHkKrSteobs",
+    "name": "Radio Art - Eric Satie",
+    "stream_urls": [
+      "https://air.radioart.com/fEric_satie.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "U6OvjuS2szd80W",
+    "name": "Radio Art - George Handel",
+    "stream_urls": [
+      "https://air.radioart.com/fGeorge_handel.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hJWRMSqycedC52",
+    "name": "Radio Art - Joseph Haydn",
+    "stream_urls": [
+      "https://air.radioart.com/fJoseph_haydn.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "dA79e4RtStjQbo",
+    "name": "Radio Art - New Age",
+    "stream_urls": [
+      "https://air.radioart.com/fNew_age.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cQtXMu1wW5uzd6",
+    "name": "Radio Art - Pyotr Tchaikovsky",
+    "stream_urls": [
+      "https://air.radioart.com/fPyotr_tchaikovsky.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lX0IvbKmtAoSxW",
+    "name": "Radio Art: Vocal Lounge",
+    "stream_urls": [
+      "https://live.radioart.com/fVocal_lounge.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "stQPg4j2511oFj",
+    "name": "Radio Azzurra Love",
+    "stream_urls": [
+      "https://radioazzurralove.stream.laut.fm/radioazzurralove"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "47EJPLmxoVjfM2",
+    "name": "Radio Bella Romania",
+    "stream_urls": [
+      "https://ssl.asculta.live/radiobella/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "PVkwjDLJQjIPES",
+    "name": "Radio Cafe Romania",
+    "stream_urls": [
+      "https://live.radiocafe.ro/live.aac"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "xK9QADUuPBEewV",
+    "name": "Radio Calima",
+    "stream_urls": [
+      "https://escucha.calima.fm/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa",
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "HdLWlAkWEmbBiE",
+    "name": "Radio Capodistria",
+    "stream_urls": [
+      "https://mp3.rtvslo.si/capo"
+    ],
+    "country": "si",
+    "languages": [
+      "ita",
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "bmqvM7JeFRbEqi",
+    "name": "Radio Cassino",
+    "stream_urls": [
+      "https://radiocassino.radioca.st/;"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "MMowINnGKAJJKr",
+    "name": "Radio City 97 FM",
+    "stream_urls": [
+      "https://radioone.loftuganda.tech/stream"
+    ],
+    "country": "ug",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2vnYTuLhZ7Xru7",
+    "name": "Radio Company Easy",
+    "stream_urls": [
+      "https://str01.fluidstream.net/ceasy.aac",
+      "https://ice02.fluidstream.net/ceasy.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "zed0WFnYT44Oxb",
+    "name": "Radio Diamante",
+    "stream_urls": [
+      "https://stream.zeno.fm/8s6b3v091k8uv"
+    ],
+    "country": "pe",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5kmDPpFm0x3EY7",
+    "name": "Radio Dimensione Mix - Love Songs",
+    "stream_urls": [
+      "https://maggie.torontocast.com:2020/stream/rdmixlovesongs"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NHd5TfOMHD0psF",
+    "name": "Radio Drenthe",
+    "stream_urls": [
+      "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "VYjb9zP10tCpWd",
+    "name": "Radio Dulce",
+    "stream_urls": [
+      "https://stream.zeno.fm/3yv0enxnp7zuv",
+      "https://stream.zeno.fm/bx6zuwssrnjvv",
+      "https://stream.zeno.fm/yo6udiulqhbvv",
+      "https://stream.zeno.fm/kc5hofr05tavv",
+      "https://stream.zeno.fm/uftblekcpxguv",
+      "https://stream.zeno.fm/dzvavezs85ouv"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "C7PNtuJCrCKXbQ",
+    "name": "Radio Eastern FM 98.1",
+    "stream_urls": [
+      "https://28803.live.streamtheworld.com/3ECBAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3ECBAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rwi96xF9Svr2Bx",
+    "name": "Radio Easy Bacău",
+    "stream_urls": [
+      "https://ssl.asculta.live/8108/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "PTguYhhxPElnFe",
+    "name": "Radio Easy Network",
+    "stream_urls": [
+      "https://sphera.fluidstream.eu/easy.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "MGZcUwlKtDuLPd",
+    "name": "Radio Energy",
+    "stream_urls": [
+      "https://gmusto.radioca.st/mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "IVFGUwadEWZJdK",
+    "name": "Radio Energy Chill",
+    "stream_urls": [
+      "https://gmusto5.radioca.st/mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "dteZLjoUafiEVL",
+    "name": "Radio Express 92.3 FM",
+    "stream_urls": [
+      "https://n12a-eu.rcs.revma.com/yx6cub73kwzuv",
+      "https://n15a-eu.rcs.revma.com/yx6cub73kwzuv"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "p742Rt8DS2VBVg",
+    "name": "Radio Faro",
+    "stream_urls": [
+      "https://cast1.torontocast.com:5230/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "M5bt8VHwzhcx3N",
+    "name": "Radio Fernanda",
+    "stream_urls": [
+      "https://azura.servercast.com.br/listen/radio_fernanda/radio.mp3"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7ZoQn4252VsPHI",
+    "name": "Radio Flash",
+    "stream_urls": [
+      "https://stream2.xdevel.com/audio5s194-48/stream/icecast.audio"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "LSHtuSIHXQ27Lz",
+    "name": "Radio FM 99.1",
+    "stream_urls": [
+      "https://rr5100.globalhost1.com/8454/stream"
+    ],
+    "country": "uy",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "H4zB2Xmw05zuMV",
+    "name": "Radio FM Lima",
+    "stream_urls": [
+      "https://stream.zeno.fm/qotg58sxvehvv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "rSSQntbarDOuS5",
+    "name": "Radio Freee 89.9 FM",
+    "stream_urls": [
+      "https://streaming.radio.lublin.pl:8843/radiofreeeacp"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "to0jfqijVrAh1Z",
+    "name": "Radio Gdańsk Regiony",
+    "stream_urls": [
+      "https://stream.task.gda.pl:8443/rg4"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "S9DT8xLDPHnnXs",
+    "name": "Radio Gelosa",
+    "stream_urls": [
+      "https://ice02.fluidstream.net/gelosa.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "7mHUIt5OcPORKe",
+    "name": "Radio GMusic Soft",
+    "stream_urls": [
+      "https://s9.webradio-hosting.com/proxy/rgmsoft/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "0azTgfaSQ4Fkrm",
+    "name": "Radio Horizonte 94.3",
+    "stream_urls": [
+      "https://14223.live.streamtheworld.com/SAM06AAC243_SC"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6Z8DF3qkVbhKYq",
+    "name": "Radio Hybrid",
+    "stream_urls": [
+      "https://nr9.newradio.it/proxy/content"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "0KpnhX94J9mb7F",
+    "name": "Radio Instrumental Gospel",
+    "stream_urls": [
+      "https://live8.livemus.com.br:27142/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "DeC1RmSgbgr4x1",
+    "name": "Radio ISW",
+    "stream_urls": [
+      "https://radioisw.icecaststream.de/stream/radioisw"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "frMiukTnaY2f1I",
+    "name": "Radio Jupiter",
+    "stream_urls": [
+      "https://s10.myradiostream.com/:7946/listen.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WkZoqqQ7mp16yP",
+    "name": "Radio Karolina",
+    "stream_urls": [
+      "https://streaming.karolina.rs/karolina.mp3"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "fqKAUOmI2FXBmQ",
+    "name": "Radio Kiss Kiss",
+    "stream_urls": [
+      "https://ice07.fluidstream.net:8080/KissKiss.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "LtxAsDcK1LekVT",
+    "name": "Radio Kiss Kiss Soft",
+    "stream_urls": [
+      "https://kk.fluidstream.eu/kk_soft.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "UmmLBrDfK6Yenl",
+    "name": "Radio Klasik",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
+      "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac"
+    ],
+    "country": "my",
+    "languages": [
+      "msa"
+    ]
+  },
+  {
+    "nanoid": "hegdm5ZXR1F6jo",
+    "name": "Radio Köln",
+    "stream_urls": [
+      "https://stream.lokalradio.nrw/444z7kb"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "k7nQdzDlZQlI85",
+    "name": "Radio Lattemiele (Marche Abruzzo)",
+    "stream_urls": [
+      "https://ice02.fluidstream.net/fluid016.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "pjb51fLKoRcCoz",
+    "name": "Radio Light 88.9",
+    "stream_urls": [
+      "https://streamall.alsolnet.com/radiolightfm"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bd3ckq5QjHWko7",
+    "name": "Radio Love Live",
+    "stream_urls": [
+      "https://streaming.radiostreamlive.com/radiolovelive_devices"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8QpU4lVgQwJ57l",
+    "name": "Radio M Cafe",
+    "stream_urls": [
+      "https://team-data.ba:9032//;"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "inUz01vkH5WZbC",
+    "name": "Radio M Utrecht",
+    "stream_urls": [
+      "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+      "https://media.rtvutrecht.nl/radiomutrecht-bb-mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "eVcWYbP1oZFEUz",
+    "name": "Radio Mantova",
+    "stream_urls": [
+      "https://stream5.xdevel.com/audio2s976126-1034/stream/icecast.audio",
+      "https://onair20.xdevel.com/proxy/radiomantova"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "CpgONYwBKOQQz7",
+    "name": "Radio MAX - Bipa",
+    "stream_urls": [
+      "https://listen.radiomax.technology/bipa"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "JsBTD3eJF7PSM4",
+    "name": "Radio Monte Carlo",
+    "stream_urls": [
+      "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+      "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
+      "https://radio.mediacdn.ru/shanson_omsk.mp3"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "tQhaV97t9EgQea",
+    "name": "Radio Monte Carlo",
+    "stream_urls": [
+      "https://icy.unitedradio.it/RMC.aac",
+      "https://icecast.unitedradio.it/RMC.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "afPOvZds7yWE9m",
+    "name": "Radio Monte Carlo 102.4 FM",
+    "stream_urls": [
+      "https://online2.gkvr.ru:8000/mc_nno_64.aac"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "2hu2MDtGET735b",
+    "name": "Radio Monte Carlo 103.7 FM",
+    "stream_urls": [
+      "https://online-1.gkvr.ru:8000/mc_rnd_64.aac"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "a5Zfs4JXb4avT4",
+    "name": "Radio Monte Carlo 107.5 FM",
+    "stream_urls": [
+      "https://broadcast.osetiafm.ru/mc.mp3"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "Zac6xNy4Dp8Ivd",
+    "name": "Radio Monte Carlo 96.7 FM",
+    "stream_urls": [
+      "https://online2.gkvr.ru:8000/mc_klg_64.aac"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "Bt2Ix8l4fNj6Cr",
+    "name": "Radio Monte Carlo: Covers",
+    "stream_urls": [
+      "https://mc-covers.hostingradio.ru/mccovers96.aacp"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "Wu7CHMUi0yHucZ",
+    "name": "Radio Monte Carlo: Meditation",
+    "stream_urls": [
+      "https://mc-meditation.hostingradio.ru/meditation96.aacp"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "CuHBDNRA28SkXC",
+    "name": "Radio Monte Carlo: Nights",
+    "stream_urls": [
+      "https://mc-mcnight.hostingradio.ru/mcnight96.aacp"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "VoORlIH0RU2qBO",
+    "name": "Radio Monte Carlo: Winter Cup",
+    "stream_urls": [
+      "https://mc-wintercup.hostingradio.ru/wintercup96.aacp"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "RSjpIefbjCtX8j",
+    "name": "Radio Monte Carlo: Песни о любви",
+    "stream_urls": [
+      "https://montecarlo.hostingradio.ru/pesniolyubvi96.aacp"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "zkVf5taC6PxGBf",
+    "name": "Radio Monteolivete",
+    "stream_urls": [
+      "https://online.monteolivete.org:8005/stream",
+      "https://online.monteolivete.org:8030/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zBonpQilVB9HdC",
+    "name": "Radio Must Hero",
+    "stream_urls": [
+      "https://stream.radiomustathens.com/must-hero"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Kjfqy56dEZvBl8",
+    "name": "Radio Nostalgia Liguria",
+    "stream_urls": [
+      "https://rn1.fluidstream.eu/nostalgia_li.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "GgBDdTEfmfuiv5",
+    "name": "Radio OK",
+    "stream_urls": [
+      "https://s8.iqstreaming.com:8014/stream"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "MLzjE39wosHPYK",
+    "name": "Radio Onda Libera 103",
+    "stream_urls": [
+      "https://ice04.fluidstream.net/fluid0409.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "OjOn61jmmhwwp4",
+    "name": "Radio Padova",
+    "stream_urls": [
+      "https://sphera.fluidstream.eu/rpd.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "5tuM4U5uk7zEmh",
+    "name": "Radio Paradiso 98.2",
+    "stream_urls": [
+      "https://streams.paradiso.de/Berlin/mp3-128/Web/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "tZqQuXHtfrSONo",
+    "name": "Radio Piper",
+    "stream_urls": [
+      "https://s7.myradiostream.com:5466/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "1Q2t8oH3DrqaR4",
+    "name": "Radio Relax",
+    "stream_urls": [
+      "https://online.radiorelax.ua/RadioRelax"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "kUQorGlryEDTaJ",
+    "name": "Radio Relax Instrumental",
+    "stream_urls": [
+      "https://online.radiorelax.ua/RadioRelax_Instrumental_HD"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "tj3x2Pq7qvopGf",
+    "name": "Radio Relax International",
+    "stream_urls": [
+      "https://online.radiorelax.ua/RadioRelax_Int"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "zN4WLfexPMo0bG",
+    "name": "Radio Relax International",
+    "stream_urls": [
+      "https://online.radiorelax.ua/RadioRelax_Int_HD"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "EbQ9zJ774gyaAH",
+    "name": "Radio Relax Italia",
+    "stream_urls": [
+      "https://radiorelax.streamingmedia.it/play"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "U67pSRJRgncG6q",
+    "name": "Radio Rouge",
+    "stream_urls": [
+      "https://nl1.streamingpulse.com/ssl/radiorougeitaly",
+      "https://nl1.streamingpulse.com/ssl/radiorouge993"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "Jnpcqvz7JuAad3",
+    "name": "Radio S Easy",
+    "stream_urls": [
+      "https://stream.radios.rs:9044/stream"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "h8WCKhlK398t0J",
+    "name": "radio SAW Good Life",
+    "stream_urls": [
+      "https://stream.saw-musikwelt.de/saw-goodlife/mp3-128/radio-browser/stream.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "eQqUUvogmtyeZ2",
+    "name": "Radio Sol",
+    "stream_urls": [
+      "https://us9.maindigitalstream.com/ssl/7389"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "OAPC6xVPAh8xBq",
+    "name": "Radio Splendid AM 990",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/AM990.mp3"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "halNdXfgu7rqwm",
+    "name": "Radio Stari Grad - Relax",
+    "stream_urls": [
+      "https://stream.rsg.rs/relax/"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "KsRuShOPOd1aLI",
+    "name": "Radio Super FM 97.5",
+    "stream_urls": [
+      "https://stream.super.fm:8443/superfm.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AcJbmXteZIWSKd",
+    "name": "Radio Torino",
+    "stream_urls": [
+      "https://stream12.top-ix.org/radiotorino"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "eK1xOVrvC3B4mU",
+    "name": "Radio Tulum",
+    "stream_urls": [
+      "https://streaming.radio.co/s510dd57df/listen"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "yfiCe6CH5ptGAj",
+    "name": "Radio Vallebelbo",
+    "stream_urls": [
+      "https://nr9.newradio.it/proxy/vallebelbo"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "84HjlX5oi91fPh",
+    "name": "Radio Xtra",
+    "stream_urls": [
+      "https://n18a-eu.rcs.revma.com/nye22yatz42vv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xmzOchXUp8FeJZ",
+    "name": "Radio Złote Przeboje Poznań",
+    "stream_urls": [
+      "https://radiostream.pl/tuba8926-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "M0ywv8n92ja3ZX",
+    "name": "Radio38",
+    "stream_urls": [
+      "https://stream.radio38.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "aJpRcSUaAylrot",
+    "name": "RadioUKWplus",
+    "stream_urls": [
+      "https://radioukwplus.eu:8444/stream"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ToYcnFobxyYJa5",
+    "name": "Radiowave NZ",
+    "stream_urls": [
+      "https://stream.radiowavenz.com/stream",
+      "https://stream.radiowavenz.com/stream-aac",
+      "https://stream.radiowavenz.com/stream-aac-low"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BYlKIYn3WuIItH",
+    "name": "Radyo ODTÜ Easy",
+    "stream_urls": [
+      "https://stream.radyoodtu.com.tr/easy",
+      "https://stream3.radyoodtu.com.tr:8000/easy"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "Mkz5vMonwVrW1Z",
+    "name": "RAM Power",
+    "stream_urls": [
+      "https://icstream.rds.radio/RAM256"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "LwjLbxihDL5aF5",
+    "name": "RauteMusik Study",
+    "stream_urls": [
+      "https://study-high.rautemusik.fm/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "yZ0ZvCacc0A1H0",
+    "name": "RauteMusik Traurig",
+    "stream_urls": [
+      "https://traurig-high.rautemusik.fm/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "BX1AGD3PPZ6vIp",
+    "name": "RBS Radio",
+    "stream_urls": [
+      "https://streams.movemedia.eu/rbs"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "TfX8IZUSP7bF4e",
+    "name": "RCS Napoli",
+    "stream_urls": [
+      "https://ice12.fluidstream.net/fluid1201.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "HIJYPUUPWKpyBl",
+    "name": "RCS Radio Camaldoli Stereo",
+    "stream_urls": [
+      "https://ice09.fluidstream.net/fluid9114.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "CEBe0Q5HmAQIY9",
+    "name": "RDS Relax",
+    "stream_urls": [
+      "https://icstream.rds.radio/DS2",
+      "https://icstream.rds.radio/rdsrelax"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "lsi7EZLNkf86IF",
+    "name": "Record FM Porto",
+    "stream_urls": [
+      "https://nl.digitalrm.pt:8028/stream"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "dBpWfZo2ZMiMfl",
+    "name": "Relax FM",
+    "stream_urls": [
+      "https://live.relaxfm.lv/02"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "PdwyObTqKEqOcv",
+    "name": "Relax FM",
+    "stream_urls": [
+      "https://pub0302.101.ru:8000/stream/air/aac/64/200",
+      "https://ic4.101.ru:8000/stream/air/aac/64/200",
+      "https://pub0302.101.ru:8443/stream/air/aac/64/200",
+      "https://pub0302.101.ru:8000/stream/trust/mp3/128/264"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "FLvYvNIgO2t0fx",
+    "name": "Relax International",
+    "stream_urls": [
+      "https://stream.relaxfm.ee/international"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
+    "nanoid": "yxqPca7wTVU6L9",
+    "name": "Retro FM 88.1",
+    "stream_urls": [
+      "https://ss1.audiorama.com.mx:6658/;"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "udeRld8MAPWNMq",
+    "name": "RFM Oceano Pacífico",
+    "stream_urls": [
+      "https://27943.live.streamtheworld.com/RFMAAC.aac",
+      "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "60DShYpMYJFvLx",
+    "name": "RFM Slow",
+    "stream_urls": [
+      "https://stream.rfm.fr/rfm-wr13.aac"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "yi3SMIkMv3z8uf",
+    "name": "Rio Sul Radio",
+    "stream_urls": [
+      "https://stream.riosulradio.com/"
+    ],
+    "country": "br",
+    "languages": [
+      "por",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "gaDnsxLqmeVPow",
+    "name": "River 1467",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIL_RIVER1467AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MIL_RIVER1467.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PdZr1uZJCTSo5U",
+    "name": "RMC Music Star Franco Battiato",
+    "stream_urls": [
+      "https://icy.unitedradio.it/um057.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "xTgTKN4FQ83mGZ",
+    "name": "Romantica Radio",
+    "stream_urls": [
+      "https://vetrina.multi-radio.com/romanticaradio"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "cUscua2Mivgkt0",
+    "name": "Rose City FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SDBAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SDB.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "afmFDKD2MMfOc2",
+    "name": "Roulette FM",
+    "stream_urls": [
+      "https://stream.roulettefm.nl/"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "wmQcERSyq1IZol",
+    "name": "Royal Radio",
+    "stream_urls": [
+      "https://c22.radioboss.fm:18186/stream"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "GqFhCEFAHl7NpZ",
+    "name": "RT1 Relax",
+    "stream_urls": [
+      "https://frontend.streamonkey.net/rt1-ch23/stream/mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "4lxoaMLHS1aUlE",
+    "name": "RTT La Radio",
+    "stream_urls": [
+      "https://ice04.fluidstream.net/fluid7108.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "9qDREfLVlaAa5l",
+    "name": "Ràdio Litoral",
+    "stream_urls": [
+      "https://stream.serviciospararadios.es/radio/8310/litoralfm.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6nb4quodiEKm8h",
+    "name": "Ràdio Litoral Oro",
+    "stream_urls": [
+      "https://stream.serviciospararadios.es/listen/litoral_oro/litoral-oro.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zABIKC6f9fmQSR",
+    "name": "Rádio Clube de Grândola",
+    "stream_urls": [
+      "https://link.radios.pt/rcg"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "IMCDNubZoVG1Eq",
+    "name": "Rádio Educativa Inatel 101.9 FM",
+    "stream_urls": [
+      "https://educativainatel.radioca.st/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "PhBjGVHG6uHDV9",
+    "name": "Rádio Leve",
+    "stream_urls": [
+      "https://s09.maxcast.com.br:8098/live",
+      "https://servidor25.brlogic.com:7058/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "MPLG2lQSLNSXdC",
+    "name": "Rádio Marinha 99.9 FM",
+    "stream_urls": [
+      "https://stm0.inovativa.net/listen/radiomarinha/radio.mp3"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "SSiuA5TOzQrlkf",
+    "name": "Rádio Máquina Instrumental",
+    "stream_urls": [
+      "https://servidor29-2.brlogic.com:8578/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "lQmDeQH2STL34X",
+    "name": "Rádio Scalla Instrumental",
+    "stream_urls": [
+      "https://s01.svrdedicado.org:6782/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "TPX3JFhPsSZFL4",
+    "name": "scannerFM",
+    "stream_urls": [
+      "https://eu10.fastcast4u.com/scannerfm"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "szNHAgpgNPQyZ8",
+    "name": "Seasalt Radio",
+    "stream_urls": [
+      "https://seasaltradio.stream.laut.fm/seasaltradio"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "0RAy3WrVRlGd0f",
+    "name": "Seaside FM 105.9",
+    "stream_urls": [
+      "https://seasidefm1059.radioca.st/;"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4VDla32Kvdk4nb",
+    "name": "Seeburg 1000 Background Music",
+    "stream_urls": [
+      "https://psn3.prostreaming.net/proxy/seeburg/stream/"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sERPT92iueMeyn",
+    "name": "Sensual Lounge",
+    "stream_urls": [
+      "https://kathy.torontocast.com:3590/;"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SotWQiYASz4o4C",
+    "name": "Silk 106.9",
+    "stream_urls": [
+      "https://listen-nation.sharp-stream.com/tcsilk.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iSAfj4ichyPBVm",
+    "name": "Simply Beautiful 91.3 KNCT",
+    "stream_urls": [
+      "https://ice41.securenetsystems.net/KNCT"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mKdBEFGya1jYUT",
+    "name": "SKGlobe - Senses",
+    "stream_urls": [
+      "https://smartstream.link/senses"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7diNBoVZ9wz26u",
+    "name": "Slowly Radio",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/421816/stream/476452"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jjfgJskeKponhQ",
+    "name": "Slowly Radio",
+    "stream_urls": [
+      "https://stream.slowlyradio.com/"
+    ],
+    "country": "fr",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "nhuV8s6KkqtJBM",
+    "name": "Smooth 105.6 FM",
+    "stream_urls": [
+      "https://servidor26.brlogic.com:7110/live"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "x6FagfZPPeaMjZ",
+    "name": "Smooth 80s",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "EXOktHBvG3fEqu",
+    "name": "Smooth Bristol and Bath",
+    "stream_urls": [
+      "https://media-the.musicradio.com/SmoothBristolMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sOj0MtidyTXAqG",
+    "name": "Smooth Chill",
+    "stream_urls": [
+      "https://media-ssl.musicradio.com/SmoothChill"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xJGv68JSU7VV4f",
+    "name": "Smooth Chill",
+    "stream_urls": [
+      "https://icecast.thisisdax.com/ChillMP3",
+      "https://media-ice.musicradio.com/ChillMP3",
+      "https://media-ssl.musicradio.com/ChillMP3",
+      "https://icecast.thisisdax.com/SmoothChillMP3",
+      "https://icecast.thisisdax.com/SmoothChill"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "usJhcLEVI8hHIz",
+    "name": "Smooth Dorset",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/SmoothDorsetMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bwOsgr1JR8I1rH",
+    "name": "Smooth FM 91.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YzG7FBjxyDQANa",
+    "name": "Smooth FM 95.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rLNOQXY5ndKWvU",
+    "name": "Smooth FM Adelaide",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ljhKxqbFwNCC7o",
+    "name": "Smooth FM Brisbane",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VtOSmYR43QHyZf",
+    "name": "Smooth FM Perth",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AB9CdZFcXgAKg0",
+    "name": "Smooth Jazz 247",
+    "stream_urls": [
+      "https://edge3.peta.live365.net/b75154_128mp3",
+      "https://streaming.live365.com/b75154_128mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vLgRWIQIimcru0",
+    "name": "Smooth Jazz CD 101.9",
+    "stream_urls": [
+      "https://ais-edge37-live365-dal02.cdnstream.com/a43749",
+      "https://streaming.live365.com/a43749"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IKjY9RmcgSdMj5",
+    "name": "Smooth R&B 105.7",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7281_64k.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F2sKU5pilR1vHR",
+    "name": "Smooth Radio East Midlands",
+    "stream_urls": [
+      "https://media-the.musicradio.com/SmoothEastMids"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YVsvSsPA8Soort",
+    "name": "Smooth Radio London",
+    "stream_urls": [
+      "https://media-the.musicradio.com/SmoothLondon",
+      "https://media-the.musicradio.com/SmoothLondonMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Ns3vyQfPHYIRR7",
+    "name": "Smooth Radio North East",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/SmoothNorthEastNMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ymydjd5DXCiHoJ",
+    "name": "Smooth Radio Scotland",
+    "stream_urls": [
+      "https://media-the.musicradio.com/SmoothScotland"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bl3fScycLgMEDW",
+    "name": "Smooth Radio Suffolk",
+    "stream_urls": [
+      "https://media-ssl.musicradio.com/SmoothSuffolk"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FlMwtkZ09q8QAE",
+    "name": "Smooth Radio West Midlands",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/SmoothWestMidsMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "oedybdMDQSidid",
+    "name": "Smooth Relax",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "t7N3Hqq7tQSapD",
+    "name": "Smooth Relax",
+    "stream_urls": [
+      "https://icecast.thisisdax.com/SmoothRelaxMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vmVBEkTEYlk6Vj",
+    "name": "Smooth Sailing Radio",
+    "stream_urls": [
+      "https://s44.myradiostream.com/9144/listen.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JqdmY4RdDpLcjw",
+    "name": "SmoothLounge.com",
+    "stream_urls": [
+      "https://smoothjazz.cdnstream1.com/2586_256.mp3",
+      "https://smoothjazz.cdnstream1.com/2586_320.mp3",
+      "https://smoothjazz.cdnstream1.com/2586_128.mp3",
+      "https://smoothjazz.cdnstream1.com/2586_32.mp3",
+      "https://smoothjazz.cdnstream1.com/2586_64.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sRISTe8VwRnheR",
+    "name": "SomaFM: Left Coast 70s",
+    "stream_urls": [
+      "https://ice4.somafm.com/seventies-128-mp3",
+      "https://ice.somafm.com/seventies-320.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fqy1qQ6WSuZKs4",
+    "name": "Sophie Caffe Radio",
+    "stream_urls": [
+      "https://sophiecafferadio.live/sophie.mp3"
+    ],
+    "country": "al",
+    "languages": [
+      "sqi"
+    ]
+  },
+  {
+    "nanoid": "xtlnMj3uyqV2uC",
+    "name": "SoundStorm Radio",
+    "stream_urls": [
+      "https://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YDRJxn5W6V0NKZ",
+    "name": "South East Radio",
+    "stream_urls": [
+      "https://edge4.audioxi.com/SOUTHEAST"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ClWMsDuM2wLxFr",
+    "name": "Splash Coffee",
+    "stream_urls": [
+      "https://ais-sa2.cdnstream1.com/2345_128.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ifPZjQoMKSoypp",
+    "name": "Splash Love",
+    "stream_urls": [
+      "https://ais-sa2.cdnstream1.com/2210_128.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "eng",
+      "spa",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "sHR6YEpo9kJo3L",
+    "name": "Splash Spa",
+    "stream_urls": [
+      "https://ais-sa2.cdnstream1.com/2347_128.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4U2eRbJVoatc7h",
+    "name": "Spot Radio",
+    "stream_urls": [
+      "https://c9.radioboss.fm/stream/141"
+    ],
+    "country": "pr",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2FTJiCXl4Rso0C",
+    "name": "Star 101.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_STAR1019AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_STAR1019.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hguPlB5EMtm9cg",
+    "name": "Star 102.1 (KDGE)",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2815"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NJEESyjXuYH9zY",
+    "name": "Star 102.7",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_STAR1027AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_STAR1027.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "B3wVQiqygfYvRd",
+    "name": "Star 104.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iRlwFTT7zPDTLf",
+    "name": "Star 106.3",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QJwdPyTE9kEz9o",
+    "name": "Star 90.7",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_STAR_907AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_STAR_907.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jsBBvQv9a0pv0G",
+    "name": "Star 94.1",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc253"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "h8eozfhrE3KThM",
+    "name": "Star 94.3",
+    "stream_urls": [
+      "https://ice10.securenetsystems.net/KHKU"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2hysf3nOxYF2Ae",
+    "name": "Star FM Făgăraș",
+    "stream_urls": [
+      "https://ssl.asculta.live:8310/;"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "3BG4Qx8PloU5x2",
+    "name": "StarBox Easy",
+    "stream_urls": [
+      "https://drive.uber.radio/uber/starboxeasy/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3ustNr7b2lUBXY",
+    "name": "Station X",
+    "stream_urls": [
+      "https://us01.xrn.com.au/listen/stx/StxSd"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XC7TXHulFwgUA0",
+    "name": "Stay FM",
+    "stream_urls": [
+      "https://stayfm.com:8443/archive"
+    ],
+    "country": "my",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bafSGv4k6n2itV",
+    "name": "Studio Brussel Vuurland",
+    "stream_urls": [
+      "https://icecast.vrtcdn.be/stubru_tgs.aac",
+      "https://icecast.vrtcdn.be/stubru_tgs-high.mp3"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "fXrfl3AftGtOls",
+    "name": "STYLE FM",
+    "stream_urls": [
+      "https://myradio24.org/station"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr",
+      "rus",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mmMcn0iCrhpSk6",
+    "name": "Subasio Collection",
+    "stream_urls": [
+      "https://icy.unitedradio.it/SubasioCollection.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "zdthF7uUwK0GgI",
+    "name": "Subasio Per un'ora d'amore",
+    "stream_urls": [
+      "https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "6OPVQsqx4QhUDB",
+    "name": "Sunny 106.5",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc1341"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SI0qTI8IgQKMdy",
+    "name": "Sunny 94.7",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc3390"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yKxLDB7x1YShRr",
+    "name": "Sunny 97.7",
+    "stream_urls": [
+      "https://ice24.securenetsystems.net/WFDL"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3cRjuSLEhnGjKX",
+    "name": "Sunny 99.1",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc2273"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QMo20Su1ijwgGg",
+    "name": "Sunny 99.9",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc3188"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1rQgxlEDIGgrMj",
+    "name": "Sunshine 106.8",
+    "stream_urls": [
+      "https://live-bauerie.sharp-stream.com/SUN"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qM0Xmw7SWAgthI",
+    "name": "Sunshine FM 104.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM.mp3",
+      "https://23153.live.streamtheworld.com/4SFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM_SC"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xYJPASSd72w0mN",
+    "name": "Super 100 100.1 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER100_SC"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GeAG5DwjyYBj2r",
+    "name": "Tameside Radio",
+    "stream_urls": [
+      "https://edge-audio-04-thn.sharp-stream.com/tamesideradio.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ow6ivG17wez9S4",
+    "name": "Technikum City",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at/TECHCITY"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "2RfnK32Up74jLc",
+    "name": "Ten FM 98.7",
+    "stream_urls": [
+      "https://stream.tcom.net.au/2ten"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2iUvD7Yu7WQYNf",
+    "name": "The Beat 104.1 FM",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/THEBEAT1041"
+    ],
+    "country": "bb",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pUuRs6BNFsN9Rd",
+    "name": "The Breeze",
+    "stream_urls": [
+      "https://s8.yesstreaming.net:17065/BrzCNQ",
+      "https://s8.yesstreaming.net:17065/BrzDD",
+      "https://s8.yesstreaming.net:17065/BrzGC",
+      "https://s8.yesstreaming.net:17065/BrzMNC",
+      "https://s8.yesstreaming.net:17065/BrzLgn"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wroiPAIVQfUfjj",
+    "name": "The Breeze 102.5",
+    "stream_urls": [
+      "https://s8.yesstreaming.net:17099/BrzWB"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Pb6lb7fdjjfRHt",
+    "name": "The Breeze 93.4",
+    "stream_urls": [
+      "https://mediaworks.streamguys1.com/breeze-akl-high_icy"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lUCqJ7lbJrhKjE",
+    "name": "The Coast 89.7",
+    "stream_urls": [
+      "https://s45.myradiostream.com/:15204/listen.mp3/;"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0gFL62kzHurM9D",
+    "name": "The Eagle 100.9",
+    "stream_urls": [
+      "https://goldenwest.leanstream.co/CKUVFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6Bhum7IhXo5h3I",
+    "name": "The Grand 101.1",
+    "stream_urls": [
+      "https://stream2.statsradio.com:8130/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8D81oWqtWfn5EL",
+    "name": "The Jewel 98.5",
+    "stream_urls": [
+      "https://torres-media.streamb.live/SB00377"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Lewi8zfqRSIBNX",
+    "name": "The Lake 94.7",
+    "stream_urls": [
+      "https://ice6.securenetsystems.net/WYLK"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aqxTAGOubYz3bq",
+    "name": "The Lakes 99.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRWFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "nBDsJctr1LQUbr",
+    "name": "The Lounge 99.9",
+    "stream_urls": [
+      "https://redirect.jpbgdigital.com/CHPQ",
+      "https://icy.jpbgdigital.com/CHPQ.aac"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hmLoBGzFyUjnkU",
+    "name": "The Mellow Sound",
+    "stream_urls": [
+      "https://stream.rcast.net/200491"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Ks4Sgb0d5Vahq7",
+    "name": "The Mix 1470",
+    "stream_urls": [
+      "https://ice8.securenetsystems.net/KHND"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "I1rNbqRxNpXgll",
+    "name": "The Oasis",
+    "stream_urls": [
+      "https://jenny.torontocast.com:2000/stream/the-oasis/stream",
+      "https://jenny.torontocast.com:2000/stream/the-oasis"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FbzFwY6cYyQokf",
+    "name": "The Office Mix",
+    "stream_urls": [
+      "https://live.powerhitz.com/officemix"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ixke7RWDQa1wBs",
+    "name": "The Sound",
+    "stream_urls": [
+      "https://ais-edge106-live365-dal02.cdnstream.com/a40152"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TdSIMry8olGyuM",
+    "name": "The Wave 94.5 & 93.7",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/THEWAVE"
+    ],
+    "country": "lc",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kwbPXdt2evkGEk",
+    "name": "TheLight Mix",
+    "stream_urls": [
+      "https://stream.thelight.com.au:8140/stream/"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ldNX0DQsseIIJB",
+    "name": "Totally Radio Easy",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_EASY_S01AAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AhjgFiIxvHqHQf",
+    "name": "Totally Wired Radio",
+    "stream_urls": [
+      "https://totallywired.out.airtime.pro/totallywired_b",
+      "https://totallywired.out.airtime.pro/totallywired_a"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BwnCaEMk3txw83",
+    "name": "Tribuna Soft FM 90.1",
+    "stream_urls": [
+      "https://ice.fabricahost.com.br/tribunafm"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "COEqIccCsGHSjP",
+    "name": "Triple H 96.5 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3HHHAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3HHH.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F8DfqyzkEHjJVM",
+    "name": "Triple T 103.9 FM",
+    "stream_urls": [
+      "https://onlineradiobox.com/json/au/triplet/play"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ODe1zq4W3ePvp5",
+    "name": "UCV Radio",
+    "stream_urls": [
+      "https://sonando-us.digitalproserver.com/ucvradio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wbvCq9F3x5ZwG9",
+    "name": "UCV Radio 2",
+    "stream_urls": [
+      "https://sonando-us.digitalproserver.com/ucvradio2"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "he87GH72S4V4Jc",
+    "name": "UK National Radio",
+    "stream_urls": [
+      "https://das-edge14-live365-dal02.cdnstream.com/a80402"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qaIJifIOrbaXtl",
+    "name": "Universal 700 AM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEDKR_AMAAC.aac"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Wemo8uv6y9k7N7",
+    "name": "V100 WVAF",
+    "stream_urls": [
+      "https://live.amperwave.net/manifest/wvradio-wvaffmaac-imc2"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hVgZVQGXeHjgTA",
+    "name": "V96.9",
+    "stream_urls": [
+      "https://ice5.securenetsystems.net/WVVVFM"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "w1QZGhLclj56A1",
+    "name": "Vibe 1",
+    "stream_urls": [
+      "https://stream3.themediasite.co.uk:8106/stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YENMZmZT3LxdVU",
+    "name": "VIP Radio",
+    "stream_urls": [
+      "https://server6.hostradios.com:7232/;"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZYuUKfefFridec",
+    "name": "Voice of Kyankwanzi 89.7 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/eyzf4ddwqcmvv"
+    ],
+    "country": "ug",
+    "languages": [
+      "lug"
+    ]
+  },
+  {
+    "nanoid": "pErXhT5jqB3wE8",
+    "name": "Voltage Lounge",
+    "stream_urls": [
+      "https://voltagelounge.ice.infomaniak.ch/voltagelounge-128.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "mKJ2wjuwO3QNEd",
+    "name": "Warm 101.3",
+    "stream_urls": [
+      "https://ice23.securenetsystems.net/WRMM"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "mTcqPXVrczdbpe",
+    "name": "WARM 103.3 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WARMFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SYJ1ENbx3LMsKr",
+    "name": "Warm 98.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WRRMFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "gnwvsO1M0cnajS",
+    "name": "Wave FM 96.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WOL_WAVE_FMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WOL_WAVE_FM.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F2AwVLnkJilyQ7",
+    "name": "WDJC 93.7 FM",
+    "stream_urls": [
+      "https://ais-sa8.cdnstream1.com/pzq1td4dnpr/c0graemkznm"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zMcuK4d1kwbEFo",
+    "name": "WDR 2 Ruhrgebiet",
+    "stream_urls": [
+      "https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3",
+      "https://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "CabG7VMCgvo7A0",
+    "name": "Web Rádio NelSons",
+    "stream_urls": [
+      "https://stm4.srvstm.com:9716/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "dWdc1os6u5bOan",
+    "name": "Weicheng City Voice 100.8 FM",
+    "stream_urls": [
+      "https://lhttp.qtfm.cn/live/20211696/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "5lBDrUc4vxIaQB",
+    "name": "Welwyn Hatfield Radio",
+    "stream_urls": [
+      "https://s5.themediasite.co.uk:8194/stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AXgs7pzFTIOEd4",
+    "name": "WHLC 104.5 FM",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/WHLC2"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "0WYsRy4b1cxGNO",
+    "name": "WINY Radio",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WINYAMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6TW8Ijd0rtyoHE",
+    "name": "WION 1430 AM",
+    "stream_urls": [
+      "https://music.satelliteguys.us/WION",
+      "https://streaming.live365.com/a83993"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
+    "nanoid": "1vix6jwGJHQuQ2",
+    "name": "Wit FM Lounge",
+    "stream_urls": [
+      "https://witlounge.ice.infomaniak.ch/witlounge.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "GybJL00d6hoWzG",
+    "name": "WJON IP Radio",
+    "stream_urls": [
+      "https://radio.wjonip.org/wjonip"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "s6MFI0uv7C3ACP",
+    "name": "Woods Hit Radio AC",
+    "stream_urls": [
+      "https://cast4.asurahosting.com/proxy/nigel/stream"
+    ],
+    "country": "tt",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yXTi9efT0REZS0",
+    "name": "WPTX Talk 1690 AM",
+    "stream_urls": [
+      "https://www.streamvortex.com:8444/s/11040"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vm1xEX14Hr4Tqr",
+    "name": "wunschradio.fm",
+    "stream_urls": [
+      "https://radiostreamserver.de/wunschradio.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "L6IdQtYSKZMwoC",
+    "name": "XRadio 99.1 FM",
+    "stream_urls": [
+      "https://radios.streamingdha.com.ar/9826/;"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "QSg7AU4hqHmxp7",
+    "name": "Y100.7",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc561"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0kfgHR8gjwBnHs",
+    "name": "Z104",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WWIZFMAAC_SC",
+      "https://stream.revma.ihrhls.com/zc3506"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "08WMYFgBqrQqkd",
+    "name": "Z95.3",
+    "stream_urls": [
+      "https://newcap.leanstream.co/CKZZFM"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fNWh5BEmPXACle",
+    "name": "Zer Radio 1320 AM",
+    "stream_urls": [
+      "https://cast.zuperdns.net/8032/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "yUq9ofitgyyLhx",
+    "name": "Радио 7 на семи холмах: Настроение счастья",
+    "stream_urls": [
+      "https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "94wTS62zbsGujA",
+    "name": "Радио Душевный Восторг",
+    "stream_urls": [
+      "https://myradio24.org/74127"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "P7RHyPIFZVkSpd",
+    "name": "Радіо Ми Україна",
+    "stream_urls": [
+      "https://cast.mediaonline.net.ua/wau320"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "b3ja7ovEPtG58B",
+    "name": "Спокойное Радио",
+    "stream_urls": [
+      "https://listen1.myradio24.com/6262"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  }
+]

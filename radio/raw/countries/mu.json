@@ -1,0 +1,60 @@
+[
+  {
+    "nanoid": "ACFTeuALrrjNnx",
+    "name": "Radio Plus",
+    "stream_urls": [
+      "https://stream.radioplus.mu:8000/radio.mp3"
+    ],
+    "country": "mu",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "29hDTUNbR2PbOo",
+    "name": "Radio Plus Fever",
+    "stream_urls": [
+      "https://streamer.radio.co/s3fe39a4a4/listen"
+    ],
+    "country": "mu",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "yisZP0oSa3m8iu",
+    "name": "Radio Plus Indiz",
+    "stream_urls": [
+      "https://streamer.radio.co/sed5c5a375/listen"
+    ],
+    "country": "mu",
+    "languages": [
+      "hin",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "24FMaZmbS7jUWd",
+    "name": "Tamizen Radio",
+    "stream_urls": [
+      "https://c34.radioboss.fm:18023/stream"
+    ],
+    "country": "mu",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "Bu1pfwEg1wv7w2",
+    "name": "Top FM",
+    "stream_urls": [
+      "https://s1.radioforge.com:4433/topfmlive/stream"
+    ],
+    "country": "mu",
+    "languages": [
+      "fra"
+    ]
+  }
+]
