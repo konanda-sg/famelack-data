@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "QzmHm4BecivHYP",
-    "name": "0nlineradio Deutsch",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/deutsch"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "LkyxpGUcw15OKG",
     "name": "0nlineradio Karneval",
     "stream_urls": [
@@ -211,9 +200,7 @@
     "nanoid": "TxzSeLYZ6cS25I",
     "name": "antenne SACHSEN",
     "stream_urls": [
-      "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3",
-      "https://edge69.radio.antennesachsen.de/antsa-dresden",
-      "https://edge13.radio.antennesachsen.de/antsa-dresden"
+      "https://edge69.radio.antennesachsen.de/antsa-dresden"
     ],
     "country": "de",
     "languages": [
@@ -240,6 +227,17 @@
       "https://stream.antenne-schlager.de/schlager-live/mp3-192/hoerer/"
     ],
     "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "SpALtdtfJ2V4xL",
+    "name": "Antenne Vorarlberg Schlagerkult",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-schlagerkult"
+    ],
+    "country": "at",
     "languages": [
       "deu"
     ]
@@ -812,18 +810,6 @@
     ]
   },
   {
-    "nanoid": "7sZTa5duzhrn8s",
-    "name": "Ostseewelle Schlagerhits",
-    "stream_urls": [
-      "https://irmedia.streamabc.net/irm-oswschlager-mp3-128-3202635",
-      "https://streamosw.ir-media-tec.com/schlager/mp3-128/web/"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "AyWQVyCTnDapkL",
     "name": "Party Radio",
     "stream_urls": [
@@ -948,6 +934,18 @@
     "country": "at",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "bTYRm8Ih51xBMD",
+    "name": "Radio Calypso",
+    "stream_urls": [
+      "https://mcp-1.streampanel.nl:8024/mobiel"
+    ],
+    "country": "nl",
+    "languages": [
+      "deu",
+      "nld"
     ]
   },
   {
@@ -1735,7 +1733,8 @@
     "nanoid": "ypLSpEULUqyaeK",
     "name": "RPR1. Après Ski & Ballermann",
     "stream_urls": [
-      "https://streams.rpr1.de/rpr-apresski-128-mp3"
+      "https://streams.rpr1.de/rpr-apresski-128-mp3",
+      "https://stream.rpr1.de/apresski/mp3-128/radiobrowser"
     ],
     "country": "de",
     "languages": [

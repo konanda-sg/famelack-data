@@ -156,10 +156,10 @@
     ]
   },
   {
-    "nanoid": "oH3zjzsLMFYaOI",
-    "name": "Antenne Vorarlberg 70er Hits",
+    "nanoid": "ToIqltCzm8cAxG",
+    "name": "Antenne Vorarlberg 2000er Hits",
     "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-70er"
+      "https://web.radio.antennevorarlberg.at/av-2000er"
     ],
     "country": "at",
     "languages": [
@@ -167,10 +167,21 @@
     ]
   },
   {
-    "nanoid": "QLSvyOks8uctI3",
-    "name": "Antenne Vorarlberg Christkindl Radio",
+    "nanoid": "eFuNnHL0Jn9AGv",
+    "name": "Antenne Vorarlberg 2010er Hits",
     "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-christkindl"
+      "https://web.radio.antennevorarlberg.at/av-2010er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "oH3zjzsLMFYaOI",
+    "name": "Antenne Vorarlberg 70er Hits",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-70er"
     ],
     "country": "at",
     "languages": [
@@ -189,10 +200,10 @@
     ]
   },
   {
-    "nanoid": "YMeqrpPkvUbyIP",
-    "name": "Antenne Vorarlberg Lovesongs",
+    "nanoid": "ESiFdfKFLNlckl",
+    "name": "Antenne Vorarlberg Non Stop",
     "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3"
+      "https://web.radio.antennevorarlberg.at/av-nonstop"
     ],
     "country": "at",
     "languages": [
@@ -200,14 +211,36 @@
     ]
   },
   {
-    "nanoid": "tHMjgydlfgKxwA",
-    "name": "Antenne Vorarlberg Musica Italiana",
+    "nanoid": "XyFQKIfQJBj7kT",
+    "name": "Antenne Vorarlberg Oldies but Goldies",
     "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-italiana"
+      "https://web.radio.antennevorarlberg.at/av-oldies"
     ],
     "country": "at",
     "languages": [
-      "ita"
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "wTDcf5s8RoFwfe",
+    "name": "Antenne Vorarlberg Rock Radio",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-rock"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "SpALtdtfJ2V4xL",
+    "name": "Antenne Vorarlberg Schlagerkult",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-schlagerkult"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -997,6 +1030,17 @@
     ]
   },
   {
+    "nanoid": "som7L8S8p9ZsQc",
+    "name": "Popwelle. Das Musikradio",
+    "stream_urls": [
+      "https://popwelle.sp.radio.fm/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "hB1ZrsVxjF6AxJ",
     "name": "Power FM",
     "stream_urls": [
@@ -1344,17 +1388,6 @@
     "country": "at",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "2J1y1xOr9Q4Rbs",
-    "name": "Radio Rudina",
-    "stream_urls": [
-      "https://azuracast.datea.services:8000/radio.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "eng"
     ]
   },
   {

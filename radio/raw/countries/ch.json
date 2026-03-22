@@ -431,10 +431,32 @@
     ]
   },
   {
+    "nanoid": "39cRdvPOgGODTy",
+    "name": "1.FM - Dubstep Forward",
+    "stream_urls": [
+      "https://strm112.1.fm/dubstep_mobile_mp3"
+    ],
+    "country": "ch",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "XkDyxWgZXzs0DI",
     "name": "1.FM - Essential Classical",
     "stream_urls": [
       "https://strm112.1.fm/polskafm_mobile_mp3"
+    ],
+    "country": "ch",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MX8etOS1FRSt0s",
+    "name": "1.FM - Eternal Praise & Worship",
+    "stream_urls": [
+      "https://strm112.1.fm/praise_mobile_mp3"
     ],
     "country": "ch",
     "languages": [
@@ -1037,6 +1059,17 @@
     ]
   },
   {
+    "nanoid": "HtNtBTMTj5uwzc",
+    "name": "IP Music Slow",
+    "stream_urls": [
+      "https://live9.avf.ch/ipmusicslowaacp96"
+    ],
+    "country": "ch",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "zUes8WjeEqUwSN",
     "name": "Jam On Radio",
     "stream_urls": [
@@ -1179,8 +1212,7 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg",
-      "https://player.streamhosting.ch/lounge64.aac"
+      "https://player.streamhosting.ch/lounge128.ogg"
     ],
     "country": "ch",
     "languages": [
@@ -2181,6 +2213,17 @@
       "https://stream.srg-ssr.ch/m/drsvirus/aacp_32",
       "https://stream.srg-ssr.ch/m/drsvirus/aacp_96",
       "https://stream.srg-ssr.ch/m/drsvirus/mp3_128"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "xf32zvZnXsphTF",
+    "name": "Radio Stadtfilter",
+    "stream_urls": [
+      "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7"
     ],
     "country": "ch",
     "languages": [

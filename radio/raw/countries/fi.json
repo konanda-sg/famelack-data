@@ -291,19 +291,6 @@
     ]
   },
   {
-    "nanoid": "2RkLo2eb92vcF8",
-    "name": "Sea FM",
-    "stream_urls": [
-      "https://s3.myradiostream.com/4976/listen.mp3",
-      "https://s3.myradiostream.com:4976/;"
-    ],
-    "country": "fi",
-    "languages": [
-      "fin",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "aO4M8kfLXxbZOn",
     "name": "Tick Tock Radio 1950s",
     "stream_urls": [

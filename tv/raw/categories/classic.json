@@ -52,6 +52,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tabafcg5kRDnTr",
+    "name": "Film Atölyesi: Şener Şen Filmleri",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/p0LwwcbDNnE"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "52cUdXgN2lEt5P",
     "name": "FilmRise Classic TV",
     "stream_urls": [
@@ -62,6 +76,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rk4CX2TtGGZ6cO",
+    "name": "Gülşah Film: Kemal Sunal Filmleri",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8U4l3X6mD2w"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "language": "tur",
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -142,6 +170,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -488,6 +529,19 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jznTuWIBt2HrkT",
+    "name": "ZB Cinema",
+    "stream_urls": [
+      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   }
 ]

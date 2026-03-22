@@ -36,6 +36,17 @@
     ]
   },
   {
+    "nanoid": "sZYZ8EIY7r4TZi",
+    "name": "Ady Picyu",
+    "stream_urls": [
+      "https://stream.zeno.fm/s5pkvvbd9e9uv"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
     "nanoid": "3SADU15j0tkRk4",
     "name": "Ambiento Radio",
     "stream_urls": [
@@ -425,6 +436,17 @@
     "country": "ro",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "88L2elIFG0vsnp",
+    "name": "Europa FM",
+    "stream_urls": [
+      "https://astreaming.edi.ro:8443/EuropaFM_aac"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
     ]
   },
   {
@@ -2360,6 +2382,17 @@
     "name": "Radio Tradițional Manele",
     "stream_urls": [
       "https://radio.ascultatare.ro/7000/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "mEhRuDNr2nGzu2",
+    "name": "Radio Trandafirul Roșu",
+    "stream_urls": [
+      "https://stream.zeno.fm/46mdd8ebdchvv"
     ],
     "country": "ro",
     "languages": [

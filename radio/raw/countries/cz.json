@@ -33,6 +33,17 @@
     ]
   },
   {
+    "nanoid": "fQ7rq1Qw08bxTa",
+    "name": "Bikers Radio Doupě",
+    "stream_urls": [
+      "https://icecast7.play.cz/bikersradiodoupe128.mp3"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "AF55NcAzjAWmGn",
     "name": "Black Hornet Radio",
     "stream_urls": [
@@ -261,8 +272,7 @@
     "nanoid": "IJAGOUeFV1RXaB",
     "name": "Frekvence 1",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
-      "https://ice.actve.net/fm-frekvence1-aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -709,7 +719,8 @@
     "nanoid": "gcuxxefD05jxBQ",
     "name": "Radio Bonton",
     "stream_urls": [
-      "https://27753.live.streamtheworld.com/BONTONAAC.aac"
+      "https://27753.live.streamtheworld.com/BONTONAAC.aac",
+      "https://ice.actve.net/fm-bonton-128"
     ],
     "country": "cz",
     "languages": [
@@ -782,17 +793,6 @@
     "country": "cz",
     "languages": [
       "sqi"
-    ]
-  },
-  {
-    "nanoid": "DDlCEO0SwcRteg",
-    "name": "Radio Free Europe/Radio Liberty",
-    "stream_urls": [
-      "https://n05.radiojar.com/wm9sntcpn3quv"
-    ],
-    "country": "cz",
-    "languages": [
-      "rus"
     ]
   },
   {
@@ -887,9 +887,23 @@
     ]
   },
   {
+    "nanoid": "ulHbdzmz1raY72",
+    "name": "Radio Prague International",
+    "stream_urls": [
+      "https://rozhlas.stream/radio_prague_int_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "eng",
+      "fra",
+      "ces"
+    ]
+  },
+  {
     "nanoid": "9Fm4EDZRBTqgYL",
     "name": "Radio Proglas",
     "stream_urls": [
+      "https://icecast2.play.cz/proglas128",
       "https://icecast1.play.cz/proglas96aac"
     ],
     "country": "cz",
@@ -1081,6 +1095,17 @@
     ]
   },
   {
+    "nanoid": "SDbYNqCtlRvjLB",
+    "name": "Rádio Folk",
+    "stream_urls": [
+      "https://ice2.abradio.cz/folk64a.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "CfKZZTnXpTJ3Q9",
     "name": "Rádio Fonlord",
     "stream_urls": [
@@ -1229,6 +1254,17 @@
     "name": "Rádio Sázava",
     "stream_urls": [
       "https://icecast8.play.cz/sazava192.mp3"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "bEcOwXIFX5SKeB",
+    "name": "Rádio Xaver",
+    "stream_urls": [
+      "https://icecast6.play.cz/radio-xaver.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1440,6 +1476,28 @@
     ]
   },
   {
+    "nanoid": "IMx6be6LKldi9m",
+    "name": "Český rozhlas Olomouc",
+    "stream_urls": [
+      "https://rozhlas.stream/olomouc_low.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "Z9rX60A0ug0n1w",
+    "name": "Český rozhlas Ostrava",
+    "stream_urls": [
+      "https://rozhlas.stream/ostrava_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "TGCDQZOWi5a0m2",
     "name": "Český rozhlas Plus",
     "stream_urls": [
@@ -1632,17 +1690,6 @@
     "country": "cz",
     "languages": [
       "tgk"
-    ]
-  },
-  {
-    "nanoid": "0uYniFneizDwYZ",
-    "name": "Радыё Свабода",
-    "stream_urls": [
-      "https://n0b.radiojar.com/zv9u3eapn3quv"
-    ],
-    "country": "cz",
-    "languages": [
-      "bel"
     ]
   },
   {

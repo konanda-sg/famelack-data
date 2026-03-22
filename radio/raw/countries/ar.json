@@ -1516,17 +1516,6 @@
     ]
   },
   {
-    "nanoid": "q8d2RxZVTr16G0",
-    "name": "FM Universidad 98.7",
-    "stream_urls": [
-      "https://fm.unam.edu.ar/fm"
-    ],
-    "country": "ar",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "DyYUqx5LX64YjR",
     "name": "FM Uno Corrientes",
     "stream_urls": [
@@ -1554,6 +1543,17 @@
     "name": "Frecuencia Arena 98.3",
     "stream_urls": [
       "https://stream.serviciowebdigital.com/8854/stream"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SszS4fzrGc7rRH",
+    "name": "Frecuencia Digital 99.1",
+    "stream_urls": [
+      "https://radios.streamingdha.com.ar/8022/;"
     ],
     "country": "ar",
     "languages": [
@@ -1755,6 +1755,17 @@
     "name": "La ON Radio",
     "stream_urls": [
       "https://streaming.radiosenlinea.com.ar/9020/stream"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "q4J7VK0uN6QEFa",
+    "name": "La Pocha FM 98.1",
+    "stream_urls": [
+      "https://streaming.radiosenlinea.com.ar:10635/;"
     ],
     "country": "ar",
     "languages": [
@@ -2196,6 +2207,17 @@
     ]
   },
   {
+    "nanoid": "OIckzpGm3BWMOh",
+    "name": "Q103 Radio",
+    "stream_urls": [
+      "https://01.solumedia.com.ar:7139/;"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "ewRzLwOSEsBbrP",
     "name": "Quality X 89.7 FM",
     "stream_urls": [
@@ -2277,6 +2299,17 @@
     "name": "Radio 4: Rock & Pop Argentino",
     "stream_urls": [
       "https://radio.eduneu.eu:8030/radio.mp3"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "VbVmak2J2RCJXR",
+    "name": "Radio 5 100.5 FM",
+    "stream_urls": [
+      "https://streaming2.locucionar.com/proxy/radio5fm/stream"
     ],
     "country": "ar",
     "languages": [
@@ -3069,6 +3102,17 @@
     ]
   },
   {
+    "nanoid": "qk1ipnoZaJRIdn",
+    "name": "Radio Provincia del Chaco 101.5 FM",
+    "stream_urls": [
+      "https://debred5.ecomchaco.com.ar:8443/radioecom"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "8xKskDHaNXDx5A",
     "name": "Radio Provincia FM 97.UNE",
     "stream_urls": [
@@ -3218,17 +3262,6 @@
     "name": "Radio Sudaca 103.3 FM",
     "stream_urls": [
       "https://sudaca.redenfoques.com.ar/sudaca"
-    ],
-    "country": "ar",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "KYJzZRnA142VTO",
-    "name": "Radio Sur 88.3 FM",
-    "stream_urls": [
-      "https://01.solumedia.com.ar:8020/stream"
     ],
     "country": "ar",
     "languages": [
@@ -3618,17 +3651,6 @@
     "name": "Shopping Classics 96.1 FM",
     "stream_urls": [
       "https://stream4.suenas.net/shoppingclassics"
-    ],
-    "country": "ar",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "AxXM4BIxkeOPEV",
-    "name": "Signos FM",
-    "stream_urls": [
-      "https://radios.streamingdha.com.ar/8046/;/stream"
     ],
     "country": "ar",
     "languages": [

@@ -79,18 +79,6 @@
     ]
   },
   {
-    "nanoid": "yyLGbMPUADY3pO",
-    "name": "Light FM 90.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC"
-    ],
-    "country": "lb",
-    "languages": [
-      "eng",
-      "fra"
-    ]
-  },
-  {
     "nanoid": "0T1uDrHjwtxHiW",
     "name": "Radio Delta 101.7",
     "stream_urls": [

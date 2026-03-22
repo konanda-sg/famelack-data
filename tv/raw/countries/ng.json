@@ -1,31 +1,5 @@
 [
   {
-    "nanoid": "VpnuhazqcUGfL9",
-    "name": "ACNN",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gZ1nRlS0xe1gmU",
-    "name": "AMusic Channel",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MP4bBMx7wAtF5b",
     "name": "Arise News",
     "stream_urls": [],
@@ -36,19 +10,6 @@
       "eng"
     ],
     "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oMYsTXZabJichu",
-    "name": "BCS StarCross TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
     "country": "ng",
     "isGeoBlocked": false
   },
@@ -67,27 +28,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mgGC7svsZDR6YC",
-    "name": "Chosen TV English",
+    "nanoid": "IA6T00JQRjMEuI",
+    "name": "Dunamis TV",
     "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8"
+      "https://atechgroupuk.site/DTV.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FJT1T5Bg3eMVVa",
-    "name": "Itage TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "yor"
     ],
     "country": "ng",
     "isGeoBlocked": false
@@ -172,19 +120,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "upoMW9Qmuknc8B",
-    "name": "New Vision TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "stream_urls": [],
@@ -212,19 +147,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ieGP7N8F1NST0g",
-    "name": "Rave TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Am4Jb6RFmtHHBI",
     "name": "Superscreen TV",
     "stream_urls": [
@@ -234,33 +156,6 @@
     "languages": [
       "eng"
     ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BMyGZ4b2McxkBQ",
-    "name": "Synagogue TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mQsEQa26uw8XEM",
-    "name": "TrustTV News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/phv021x_WS8"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "language": "eng",
     "country": "ng",
     "isGeoBlocked": false
   },
@@ -293,10 +188,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UgWTds4qowCm7J",
+    "name": "Waffi TV",
+    "stream_urls": [
+      "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3iniHuYhBuCQD",
     "name": "Wap TV",
     "stream_urls": [
       "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xqNDe2nURDi4zM",
+    "name": "Wazobia Max TV Abuja",
+    "stream_urls": [
+      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

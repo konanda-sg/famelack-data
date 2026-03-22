@@ -135,17 +135,6 @@
     ]
   },
   {
-    "nanoid": "7EycVvzi77mUgs",
-    "name": "Radio Maxi",
-    "stream_urls": [
-      "https://live.radio.si/Maxi"
-    ],
-    "country": "si",
-    "languages": [
-      "slv"
-    ]
-  },
-  {
     "nanoid": "vgk9tFtZIc1OGV",
     "name": "Radio Nula",
     "stream_urls": [
@@ -313,6 +302,18 @@
     ],
     "country": "si",
     "languages": [
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "ogPRzWLmxnwcOC",
+    "name": "RTVSLO Muravidéki Magyar Rádió (MMR)",
+    "stream_urls": [
+      "https://mp3.rtvslo.si/mmr"
+    ],
+    "country": "si",
+    "languages": [
+      "hun",
       "slv"
     ]
   },

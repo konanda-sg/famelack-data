@@ -109,6 +109,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WoGHZ2NiobEniJ",
+    "name": "Izmail TV",
+    "stream_urls": [
+      "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZqrDz64QgMJgYB",
     "name": "SONATA TV",
     "stream_urls": [],
@@ -199,19 +212,6 @@
     "youtube_urls": [],
     "languages": [
       "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8guglX3waEEweH",
-    "name": "Луганск 24",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
     ],
     "country": "ua",
     "isGeoBlocked": false

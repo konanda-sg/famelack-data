@@ -1,17 +1,5 @@
 [
   {
-    "nanoid": "sGgjUrcaqIRrR4",
-    "name": "Make Money",
-    "stream_urls": [
-      "https://stream-178.zeno.fm/tduvf0p3leauv"
-    ],
-    "country": "bi",
-    "languages": [
-      "fra",
-      "run"
-    ]
-  },
-  {
     "nanoid": "vqkj3MrYjvkrUn",
     "name": "NRG Burundi",
     "stream_urls": [
@@ -88,6 +76,18 @@
     "name": "Radio Peace",
     "stream_urls": [
       "https://stream-176.zeno.fm/f08xxutefg8uv"
+    ],
+    "country": "bi",
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "JqC9BH7MHan3In",
+    "name": "Santanna Radio Music",
+    "stream_urls": [
+      "https://stream-175.zeno.fm/cd8nn31as2zuv"
     ],
     "country": "bi",
     "languages": [

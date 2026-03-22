@@ -94,6 +94,18 @@
     ]
   },
   {
+    "nanoid": "F6nshPLuEFTyzV",
+    "name": "FM 101 Larkana",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8050/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "MZaKpbetJfsmA3",
     "name": "FM 101 Mithi",
     "stream_urls": [
@@ -188,17 +200,6 @@
     "name": "FM 93 Multan",
     "stream_urls": [
       "https://whmsonic.radio.gov.pk:8032/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "urd"
-    ]
-  },
-  {
-    "nanoid": "p0qxohECoW5yTU",
-    "name": "FM 93 Rawalpindi",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:8036/relay"
     ],
     "country": "pk",
     "languages": [

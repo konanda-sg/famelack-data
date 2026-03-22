@@ -59,7 +59,8 @@
     "nanoid": "KZivC9RnwsIlOO",
     "name": "ACI Radio",
     "stream_urls": [
-      "https://sphera.fluidstream.eu/company.mp3"
+      "https://sphera.fluidstream.eu/company.mp3",
+      "https://nr7.newradio.it:18003/stream"
     ],
     "country": "it",
     "languages": [
@@ -210,17 +211,6 @@
     "country": "it",
     "languages": [
       "ita"
-    ]
-  },
-  {
-    "nanoid": "awZKtBhWjIL4zi",
-    "name": "China FM 89.5",
-    "stream_urls": [
-      "https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream"
-    ],
-    "country": "it",
-    "languages": [
-      "zho"
     ]
   },
   {
@@ -397,17 +387,6 @@
     "name": "Europa Radio Jazz",
     "stream_urls": [
       "https://streams.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
-    "nanoid": "i13vPMRdRCxlNW",
-    "name": "FLZARadio",
-    "stream_urls": [
-      "https://radio.nickflz.com/listen/flzaradio/radio.mp3"
     ],
     "country": "it",
     "languages": [
@@ -1003,17 +982,6 @@
     "name": "MC2 Radio Ga-Ga",
     "stream_urls": [
       "https://stream.rcs.revma.com/r84kr6dyt2uvv.xspf"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
-    "nanoid": "EgzM7C3G2mXdpM",
-    "name": "Milano XR",
-    "stream_urls": [
-      "https://milanoxr.gatesweb.info:8443/live"
     ],
     "country": "it",
     "languages": [
@@ -1683,6 +1651,17 @@
     "name": "Radio 51",
     "stream_urls": [
       "https://ice04.fluidstream.net/fluid0406.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "LEEGeCe1gzwgRi",
+    "name": "Radio 60 70 80",
+    "stream_urls": [
+      "https://ice.studiopiu.net/607080.aac"
     ],
     "country": "it",
     "languages": [
@@ -4165,6 +4144,17 @@
     ]
   },
   {
+    "nanoid": "WMR1YUSZXmzyMT",
+    "name": "Radio Nettuno Bologna Uno",
+    "stream_urls": [
+      "https://audio6.nemostream.tv/proxy/nettunobologna1ice1/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "JAWxdOZoOMptqv",
     "name": "Radio News 24",
     "stream_urls": [
@@ -4371,6 +4361,17 @@
     "name": "Radio Parma",
     "stream_urls": [
       "https://ice05.fluidstream.net/radioparma.aac"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "0sWNtsmepAnpFj",
+    "name": "Radio Parole di Vita",
+    "stream_urls": [
+      "https://video2.azotosolutions.com:2020/stream/radioparoledivita2"
     ],
     "country": "it",
     "languages": [

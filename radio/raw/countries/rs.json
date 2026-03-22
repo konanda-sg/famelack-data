@@ -999,17 +999,6 @@
     ]
   },
   {
-    "nanoid": "1dBpqJWp5slZrF",
-    "name": "Radio Maestro",
-    "stream_urls": [
-      "https://radio-maestro.com:8443/stream.mp3"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
     "nanoid": "Y7ecUqppvjdlUW",
     "name": "Radio Morava",
     "stream_urls": [
@@ -1025,6 +1014,17 @@
     "name": "Radio Nostalgija",
     "stream_urls": [
       "https://nostalgie128ssl.streaming.rs:9252/;stream.mp3"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "gwfhWACNAGkVwG",
+    "name": "Radio Novosti Ex-Yu",
+    "stream_urls": [
+      "https://novosti.radiostreaming.rs/novosti2"
     ],
     "country": "rs",
     "languages": [

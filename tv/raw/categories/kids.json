@@ -307,19 +307,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lSTW1dzY0A0GTW",
-    "name": "Cartoon Classics",
-    "stream_urls": [
-      "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QFKHFoExvGyTwt",
     "name": "Cartoon Network",
     "stream_urls": [],
@@ -1290,7 +1277,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0qJW-3xOz9M"
+      "https://www.youtube-nocookie.com/embed/4qYGnmQNz7E"
     ],
     "languages": [
       "por"
@@ -1886,8 +1873,7 @@
     "nanoid": "seBkiHFn8gkgrY",
     "name": "Карусель",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1982,7 +1968,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A9liHrM0WT8"
+      "https://www.youtube-nocookie.com/embed/R27PW_0qLz0"
     ],
     "languages": [
       "zho"

@@ -35,10 +35,10 @@
     ]
   },
   {
-    "nanoid": "guWIs6VbGBXg5q",
-    "name": "0nlineradio Deutschrap",
+    "nanoid": "2x4e0w1Xd2xmmx",
+    "name": "0nlineradio Lovehits",
     "stream_urls": [
-      "https://stream.0nlineradio.com/deutschrap"
+      "https://stream.0nlineradio.com/lovehits"
     ],
     "country": "de",
     "languages": [
@@ -451,17 +451,6 @@
     ],
     "country": "us",
     "languages": []
-  },
-  {
-    "nanoid": "Cj9gvoDudR3I5n",
-    "name": "1A Radio - 60er",
-    "stream_urls": [
-      "https://1a-60er.radionetz.de/1a-60er.aac"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
   },
   {
     "nanoid": "5y0d2oMhxBxrpi",
@@ -1172,17 +1161,6 @@
     "country": "br",
     "languages": [
       "por"
-    ]
-  },
-  {
-    "nanoid": "D6lsH6MmPrljvM",
-    "name": "Big R Radio - Classic R&B",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5194_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -4192,6 +4170,18 @@
     ]
   },
   {
+    "nanoid": "dudeyjFGw7VQZH",
+    "name": "Just Music Radio",
+    "stream_urls": [
+      "https://radiostream.neotel.mk/justmusicradio"
+    ],
+    "country": "mk",
+    "languages": [
+      "eng",
+      "mkd"
+    ]
+  },
+  {
     "nanoid": "uu9IFR2QAvrDpa",
     "name": "K.I.F",
     "stream_urls": [
@@ -4493,8 +4483,7 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg",
-      "https://player.streamhosting.ch/lounge64.aac"
+      "https://player.streamhosting.ch/lounge128.ogg"
     ],
     "country": "ch",
     "languages": [
@@ -6283,7 +6272,8 @@
     "nanoid": "x9vSOlBWvw34aB",
     "name": "radio SAW Urban Music",
     "stream_urls": [
-      "https://stream.saw-musikwelt.de/saw-urban/mp3-128/radio-browser/stream.mp3"
+      "https://stream.saw-musikwelt.de/saw-urban/mp3-128/radio-browser/stream.mp3",
+      "https://stream.radiosaw.de/saw-urban/mp3-192/radio-browser/"
     ],
     "country": "de",
     "languages": [
@@ -6663,32 +6653,10 @@
     ]
   },
   {
-    "nanoid": "dkufqTdaTUzxTp",
-    "name": "RPR1. 2000er Black",
-    "stream_urls": [
-      "https://streams.rpr1.de/rpr-2000erblack-128-mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "VO1G8QVsVTUtWy",
     "name": "RPR1. 70er",
     "stream_urls": [
       "https://stream.rpr1.de/70er/mp3-128/radiobrowser"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "tAVNS1u91GvPgB",
-    "name": "RPR1. 90er Black",
-    "stream_urls": [
-      "https://streams.rpr1.de/rpr-90erblack-128-mp3"
     ],
     "country": "de",
     "languages": [
@@ -7336,17 +7304,6 @@
     ]
   },
   {
-    "nanoid": "KZdOn05W8rdqEn",
-    "name": "Sucesso FM 88.3",
-    "stream_urls": [
-      "https://servidor36.brlogic.com:8300/live"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "qq5U7pj9pHD3u9",
     "name": "SUN Soul & Funk",
     "stream_urls": [
@@ -7542,8 +7499,7 @@
     "nanoid": "llajRjda2BS7wB",
     "name": "The Finest",
     "stream_urls": [
-      "https://ex52.voordeligstreamen.nl/8206/stream",
-      "https://live.thefinest.amsterdam/hq"
+      "https://ex52.voordeligstreamen.nl/8206/stream"
     ],
     "country": "nl",
     "languages": [
@@ -8284,17 +8240,6 @@
     "country": "ua",
     "languages": [
       "ukr"
-    ]
-  },
-  {
-    "nanoid": "ku83IJOvENhQ6a",
-    "name": "Свое Радио",
-    "stream_urls": [
-      "https://svoeradiofm.hostingradio.ru:8032/svoe-320.mp3"
-    ],
-    "country": "ru",
-    "languages": [
-      "rus"
     ]
   }
 ]

@@ -33,6 +33,18 @@
     ]
   },
   {
+    "nanoid": "dudeyjFGw7VQZH",
+    "name": "Just Music Radio",
+    "stream_urls": [
+      "https://radiostream.neotel.mk/justmusicradio"
+    ],
+    "country": "mk",
+    "languages": [
+      "eng",
+      "mkd"
+    ]
+  },
+  {
     "nanoid": "W7bCwkx7XKw8wv",
     "name": "Kanal 103",
     "stream_urls": [
@@ -106,6 +118,17 @@
     "name": "Radio Meff",
     "stream_urls": [
       "https://s32.myradiostream.com:16040/;"
+    ],
+    "country": "mk",
+    "languages": [
+      "mkd"
+    ]
+  },
+  {
+    "nanoid": "j2LwVWJPfIj4Ti",
+    "name": "Samo MK",
+    "stream_urls": [
+      "https://radiostream.neotel.mk/samomk"
     ],
     "country": "mk",
     "languages": [

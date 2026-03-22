@@ -1149,6 +1149,17 @@
     ]
   },
   {
+    "nanoid": "wfDjZuBLf5Q2mK",
+    "name": "Радіо Накипіло",
+    "stream_urls": [
+      "https://radiostream.nakypilo.ua/full"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
     "nanoid": "NcjHKXvM5ciRN4",
     "name": "Радіо НВ (Radio NV)",
     "stream_urls": [

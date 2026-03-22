@@ -11,6 +11,18 @@
     ]
   },
   {
+    "nanoid": "yJE9ypZh8Omnlk",
+    "name": "0nlineradio 80s Rock",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/0r-80s-rock"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "zIKGS1ByOsIukI",
     "name": "0nlineradio Nature Relax",
     "stream_urls": [
@@ -64,6 +76,17 @@
       "https://strm112.1.fm/x_mobile_mp3"
     ],
     "country": "ch",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Ot1ZGZkHUkEcex",
+    "name": "100 XR",
+    "stream_urls": [
+      "https://xr.dockl.com/stream"
+    ],
+    "country": "us",
     "languages": [
       "eng"
     ]
@@ -227,17 +250,6 @@
     "name": "104.3 The Fuse",
     "stream_urls": [
       "https://woodward-radio.streamb.live/SB00052"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "tm4q7qW4tHg2RE",
-    "name": "105.5 The Bridge",
-    "stream_urls": [
-      "https://ice6.securenetsystems.net/WCOO"
     ],
     "country": "us",
     "languages": [
@@ -529,7 +541,19 @@
     "nanoid": "pQcEDos8WBs3SY",
     "name": "80s80s Alternative",
     "stream_urls": [
-      "https://streams.80s80s.de/alternative/mp3-192"
+      "https://streams.80s80s.de/alternative/mp3-192",
+      "https://streams.80s80s.de/alternative/mp3-192/homepage/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "aTeLWzQui05yAt",
+    "name": "80s80s Dark Wave",
+    "stream_urls": [
+      "https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123"
     ],
     "country": "de",
     "languages": [
@@ -1870,6 +1894,18 @@
     ]
   },
   {
+    "nanoid": "eeqM9gDuttukCm",
+    "name": "Best Radio 92.6",
+    "stream_urls": [
+      "https://best.live24.gr/best1222",
+      "https://netradio.live24.gr/best1222"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "Pvqvqj95V2KzZw",
     "name": "Best Radio 94.7",
     "stream_urls": [
@@ -1968,17 +2004,6 @@
     "languages": [
       "eng",
       "spa"
-    ]
-  },
-  {
-    "nanoid": "j0BztL4tRY5oZQ",
-    "name": "Birch Street Radio",
-    "stream_urls": [
-      "https://jenny.torontocast.com:8172/stream"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -3497,17 +3522,6 @@
     ]
   },
   {
-    "nanoid": "XTTsrXV2Zehq7O",
-    "name": "En Lefko Alternative",
-    "stream_urls": [
-      "https://n0b.radiojar.com/d9f74ydscrruv"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "neQNjLOVvvavLr",
     "name": "Envol 91",
     "stream_urls": [
@@ -3833,11 +3847,7 @@
     "nanoid": "ZwoFO78Js5hW9q",
     "name": "FluxFM",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445",
-      "https://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635",
-      "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035",
       "https://streams.fluxfm.de/live/mp3-320/audio/",
-      "https://streams.fluxfm.de/live/aac-64/audio/",
       "https://channels.fluxfm.de/FluxFM/stream.mp3"
     ],
     "country": "de",
@@ -3849,7 +3859,6 @@
     "nanoid": "KVr7JbVzRva670",
     "name": "FluxFM - Ohrspiel",
     "stream_urls": [
-      "https://streams.fluxfm.de/ohrspiel/aac-64/audio/",
       "https://streams.fluxfm.de/ohrspiel/mp3-128/audio/"
     ],
     "country": "de",
@@ -3905,6 +3914,18 @@
     ]
   },
   {
+    "nanoid": "yN0Lgi9LNMvbHM",
+    "name": "FluxFM FluxKompensator",
+    "stream_urls": [
+      "https://streams.fluxfm.de/fluxkompensator/mp3-320/audio/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "xXx1cIzC9sMCHb",
     "name": "FluxFM Indie Disco",
     "stream_urls": [
@@ -3919,20 +3940,8 @@
     "nanoid": "Y9XrGrFFRmJSoJ",
     "name": "FluxFM JägerMusic Radio",
     "stream_urls": [
-      "https://streams.fluxfm.de/jaegermusic/mp3-128/streams.fluxfm.de/",
       "https://streams.fluxfm.de/jaegermusic/mp3-320/streams.fluxfm.de/",
       "https://streams.fluxfm.de/jaegermusic/aac-64/streams.fluxfm.de/"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "TwNMs3hLSsRfJ8",
-    "name": "FluxFM Radio Alternative",
-    "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-alternative-mp3-320-8827705"
     ],
     "country": "de",
     "languages": [
@@ -4187,6 +4196,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "2xqahrpoZAT2fc",
+    "name": "Graffiti Urban Radio",
+    "stream_urls": [
+      "https://diffusion.lafrap.fr/graffiti"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
     ]
   },
   {
@@ -4879,6 +4899,17 @@
     ]
   },
   {
+    "nanoid": "71lSoOE9DQPcuw",
+    "name": "KCSS 91.9 FM",
+    "stream_urls": [
+      "https://kcss.streamguys1.com/live"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "duCM6thaETM7Cj",
     "name": "KCSU FM",
     "stream_urls": [
@@ -5126,6 +5157,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "1wA8wppwBvOnqL",
+    "name": "Kriti FM 87.5",
+    "stream_urls": [
+      "https://tls-chrome.live24.gr/1361"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -5802,17 +5844,6 @@
     ]
   },
   {
-    "nanoid": "EgzM7C3G2mXdpM",
-    "name": "Milano XR",
-    "stream_urls": [
-      "https://milanoxr.gatesweb.info:8443/live"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
     "nanoid": "tl7SvDOIGoq1HW",
     "name": "Mittendrin ALT!NEU",
     "stream_urls": [
@@ -5963,8 +5994,7 @@
     "nanoid": "GHEueSwY8wiCOR",
     "name": "Naim Radio",
     "stream_urls": [
-      "https://mscp3.live-streams.nl:8362/flac.flac",
-      "https://mscp3.live-streams.nl:8362/high.aac"
+      "https://mscp3.live-streams.nl:8362/flac.flac"
     ],
     "country": "uk",
     "languages": [
@@ -6314,6 +6344,17 @@
     ]
   },
   {
+    "nanoid": "zfEX3aIQpuonL4",
+    "name": "On the Rocks",
+    "stream_urls": [
+      "https://on_the_rocks.stream.laut.fm/on_the_rocks"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "3Squ4dh2QfB3df",
     "name": "Onda Wantuki",
     "stream_urls": [
@@ -6583,6 +6624,17 @@
       "https://popklub.stream.laut.fm/popklub"
     ],
     "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "som7L8S8p9ZsQc",
+    "name": "Popwelle. Das Musikradio",
+    "stream_urls": [
+      "https://popwelle.sp.radio.fm/stream"
+    ],
+    "country": "at",
     "languages": [
       "deu"
     ]
@@ -7076,10 +7128,22 @@
     ]
   },
   {
+    "nanoid": "lXc7x4UeW3LKiL",
+    "name": "RADIO BOB! College Rock",
+    "stream_urls": [
+      "https://streams.radiobob.de/collegerock/mp3-192/homepage/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "sP7FZM1tnKsgHh",
     "name": "RADIO BOB! Gothic Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/gothic/mp3-192/mediaplayer"
+      "https://streams.radiobob.de/gothic/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/gothic/mp3-192/homepage/"
     ],
     "country": "de",
     "languages": [
@@ -7420,10 +7484,10 @@
     ]
   },
   {
-    "nanoid": "iaPGRpTHTOgE0a",
-    "name": "radio flora",
+    "nanoid": "VUQqZhzV0IDFB9",
+    "name": "Radio F.R.E.I.",
     "stream_urls": [
-      "https://radioflora.de:8443/stream/live192.mp3"
+      "https://stream1.datenkollektiv.net/Radio-F.R.E.I"
     ],
     "country": "de",
     "languages": [
@@ -7548,6 +7612,17 @@
     "name": "Radio Grand Brive 94.3 FM",
     "stream_urls": [
       "https://hosting.studioradiomedia.fr:1420/stream.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "h2Rsj0FPlQF0i9",
+    "name": "Radio Grand Lieu",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/377152/stream/427591"
     ],
     "country": "fr",
     "languages": [
@@ -8404,6 +8479,17 @@
     ]
   },
   {
+    "nanoid": "xf32zvZnXsphTF",
+    "name": "Radio Stadtfilter",
+    "stream_urls": [
+      "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "bGFyKDCYBxczcQ",
     "name": "Radio Studio Souto - The Beatles",
     "stream_urls": [
@@ -9038,10 +9124,10 @@
     ]
   },
   {
-    "nanoid": "V9sdXM09vgNFt7",
-    "name": "ROCK FM Indie Rock",
+    "nanoid": "IROcLvMYaxxwNI",
+    "name": "ROCK FM - Alternative Rock",
     "stream_urls": [
-      "https://stream.regenbogen2.de/indierock/mp3-128/radiobrowser"
+      "https://stream.regenbogen2.de/modernrock/mp3-128/radio-browser"
     ],
     "country": "de",
     "languages": [
@@ -10146,6 +10232,17 @@
     "country": "de",
     "languages": [
       "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ibifWfW7H1EznT",
+    "name": "TildeRadio",
+    "stream_urls": [
+      "https://tilderadio.org/listen"
+    ],
+    "country": "jp",
+    "languages": [
       "eng"
     ]
   },

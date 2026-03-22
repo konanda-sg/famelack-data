@@ -442,19 +442,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gh6WHvpQmXShdI",
-    "name": "Turbo Mix Radio TV",
-    "stream_urls": [
-      "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9jlzCfuFrzzmTZ",
     "name": "TV Peru",
     "stream_urls": [
@@ -590,6 +577,19 @@
     "name": "Viva TV Yurimaguas",
     "stream_urls": [
       "https://live.obslivestream.com/vivatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sAN5lqkNeMhvi8",
+    "name": "VNP",
+    "stream_urls": [
+      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

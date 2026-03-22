@@ -262,17 +262,6 @@
     ]
   },
   {
-    "nanoid": "VpdsArn5A6o99v",
-    "name": "KBC Pwani FM",
-    "stream_urls": [
-      "https://stream-153.zeno.fm/3fmgar1a94zuv"
-    ],
-    "country": "ke",
-    "languages": [
-      "swa"
-    ]
-  },
-  {
     "nanoid": "KHF8u6BFw33wVZ",
     "name": "KBC Radio Taifa",
     "stream_urls": [
@@ -388,6 +377,17 @@
     "name": "Radio Jambo",
     "stream_urls": [
       "https://atunwadigital.streamguys1.com/radiojambo"
+    ],
+    "country": "ke",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "V8Y6uotGZFnh91",
+    "name": "Radio Tumaini",
+    "stream_urls": [
+      "https://stream.zeno.fm/nu9qfhxx9reuv"
     ],
     "country": "ke",
     "languages": [

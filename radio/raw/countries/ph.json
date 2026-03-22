@@ -84,14 +84,15 @@
     ]
   },
   {
-    "nanoid": "U0EWixXTe39ARk",
-    "name": "87.5 Republ1ka FM1",
+    "nanoid": "yiIkKMW3uqYrLN",
+    "name": "90.7 Birada FM Claver",
     "stream_urls": [
-      "https://listen.radioking.com/radio/453221/stream/508076"
+      "https://stream.zeno.fm/srw89vzrmgiuv"
     ],
     "country": "ph",
     "languages": [
-      "eng"
+      "eng",
+      "tgl"
     ]
   },
   {
@@ -111,18 +112,6 @@
     "name": "93.3 DXFB Star",
     "stream_urls": [
       "https://stream.zeno.fm/40bgexmyd0quv"
-    ],
-    "country": "ph",
-    "languages": [
-      "tgl",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "RzYpHT5zLjp5ZQ",
-    "name": "93.3 Infinite Radio Surigao",
-    "stream_urls": [
-      "https://stream.zeno.fm/yy0d3w86zxhvv"
     ],
     "country": "ph",
     "languages": [
@@ -195,18 +184,6 @@
     "name": "Aksyon Radyo Cebu",
     "stream_urls": [
       "https://a9.asurahosting.com:8260/radio.mp3"
-    ],
-    "country": "ph",
-    "languages": [
-      "tgl",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "EAwTSDXBJobCgJ",
-    "name": "Aksyon Radyo Tacloban",
-    "stream_urls": [
-      "https://de3.amfmph.com:8203/live"
     ],
     "country": "ph",
     "languages": [
@@ -493,18 +470,6 @@
     ]
   },
   {
-    "nanoid": "8GQ7UwvraQNdKC",
-    "name": "Bombo Radyo Tacloban",
-    "stream_urls": [
-      "https://stream.zeno.fm/e8zw1dg0xy5tv"
-    ],
-    "country": "ph",
-    "languages": [
-      "tgl",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "TOKhRaW2HkFXJR",
     "name": "Bombo Radyo Tuguegarao",
     "stream_urls": [
@@ -763,6 +728,18 @@
     "name": "Extreme Radio",
     "stream_urls": [
       "https://razzrdfx.com/listen/extreme_radio/radio.mp3"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "UURP0vsw0i3BhW",
+    "name": "FactBusters Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/h8xpcgffowluv"
     ],
     "country": "ph",
     "languages": [
@@ -1059,6 +1036,18 @@
     ]
   },
   {
+    "nanoid": "IpyONCqy6wwSpU",
+    "name": "King Radio Tabuk City",
+    "stream_urls": [
+      "https://stream.zeno.fm/hqmmdrw2b48uv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "YzdWPdcps33Io2",
     "name": "Kings Radio Davao",
     "stream_urls": [
@@ -1080,6 +1069,18 @@
     "languages": [
       "tgl",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "2TtqERwrwdovaN",
+    "name": "KKBN Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/8qt5kzmh144vv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
     ]
   },
   {
@@ -1478,30 +1479,6 @@
     "languages": [
       "eng",
       "tgl"
-    ]
-  },
-  {
-    "nanoid": "fMj69vwaSYf0VJ",
-    "name": "Radio Libertas",
-    "stream_urls": [
-      "https://stream.zeno.fm/9td2da86gg8uv"
-    ],
-    "country": "ph",
-    "languages": [
-      "tgl",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "cEBcLMXwFPXmo1",
-    "name": "Radio Natin",
-    "stream_urls": [
-      "https://in-icecast.eradioportal.com:8443/radyo_natin"
-    ],
-    "country": "ph",
-    "languages": [
-      "tgl",
-      "eng"
     ]
   },
   {
@@ -2021,6 +1998,18 @@
     ]
   },
   {
+    "nanoid": "3ZZnyqbjMTiHcY",
+    "name": "Radyo Alternatibo Prime FM",
+    "stream_urls": [
+      "https://de3.amfmph.com:8245/high_live"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "wWPFAcX3dSefpo",
     "name": "Radyo Bandera 107.1 Olongapo",
     "stream_urls": [
@@ -2121,18 +2110,6 @@
     "name": "RMN DWNX 91.1 Naga",
     "stream_urls": [
       "https://stream.zeno.fm/1ytydzphq7zuv"
-    ],
-    "country": "ph",
-    "languages": [
-      "tgl",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "jJpCCXXurAd33G",
-    "name": "RMN DXDC 621 Davao",
-    "stream_urls": [
-      "https://stream.zeno.fm/qrrgyy1hyuatv"
     ],
     "country": "ph",
     "languages": [
@@ -2567,7 +2544,8 @@
     "nanoid": "Ze0bTIMfm9ZjPU",
     "name": "Win Radio 97.7",
     "stream_urls": [
-      "https://stream.zeno.fm/vzrt2visttbvv"
+      "https://stream.zeno.fm/vzrt2visttbvv",
+      "https://stream.zeno.fm/1uphwerxpnquv"
     ],
     "country": "ph",
     "languages": [
@@ -2640,6 +2618,18 @@
     "name": "XFM Sagay",
     "stream_urls": [
       "https://proud-glitter-ed5b.johnrserantes424.workers.dev/"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Y1TgiF6LcPhKht",
+    "name": "Yes The Best 102.7",
+    "stream_urls": [
+      "https://yesfmzamboanga.radioca.st/tunein/yesfmzamboanga-stream.pls"
     ],
     "country": "ph",
     "languages": [

@@ -80,19 +80,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o15OiPkM4jxoZp",
-    "name": "Bayres TV",
-    "stream_urls": [
-      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SHCgFbO79Hh4Z8",
     "name": "Beats Radio",
     "stream_urls": [
@@ -427,7 +414,7 @@
     "name": "Canal 13 San Juan",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n1RA6IHnBIQ"
+      "https://www.youtube-nocookie.com/embed/fSqHVP3z1bQ"
     ],
     "languages": [
       "spa"
@@ -476,18 +463,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IKwTslDp6GIv1l",
+    "nanoid": "EBJnvOws8NXMUv",
     "name": "Canal 26",
-    "stream_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Akf2MWm8vfk"
     ],
     "languages": [
       "spa"
     ],
+    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -625,10 +610,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TyUx4dR3i3hPtN",
     "name": "Celta TV",
     "stream_urls": [
       "https://vivo.solumedia.com:19360/celta/celta.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YK4jerPW8Ia03w",
+    "name": "Chaco TV",
+    "stream_urls": [
+      "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -723,7 +734,7 @@
     "name": "El Ocho",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p0xU5qEJnp8"
+      "https://www.youtube-nocookie.com/embed/Zrmkc-2yRAM"
     ],
     "languages": [
       "spa"
@@ -896,20 +907,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nCjEym27rIb7Sc",
-    "name": "NET TV",
-    "stream_urls": [
-      "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ajBSt6NuLSUT5M",
     "name": "Pop Radio 101.5",
     "stream_urls": [],
@@ -1034,6 +1031,19 @@
     "name": "RTN (Neuquén)",
     "stream_urls": [
       "https://media.neuquen.gov.ar/rtn/television/media.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4D71cx5fvZCZ53",
+    "name": "San Pedro TV",
+    "stream_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

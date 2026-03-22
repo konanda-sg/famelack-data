@@ -29,7 +29,6 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "stream_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
       "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
     ],
     "youtube_urls": [],
@@ -234,6 +233,19 @@
     "youtube_urls": [],
     "languages": [
       "urd"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nuCkj2isILRO5a",
+    "name": "EET TV",
+    "stream_urls": [
+      "https://eu.streamjo.com/eetlive/eettv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -568,7 +580,7 @@
     "name": "Made In History",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e92RRtTKDFw"
+      "https://www.youtube-nocookie.com/embed/wxTPk0LKAk4"
     ],
     "languages": [
       "en"

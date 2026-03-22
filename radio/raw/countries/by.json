@@ -112,17 +112,6 @@
     ]
   },
   {
-    "nanoid": "S0CLLONLwn4vEA",
-    "name": "Zefir FM",
-    "stream_urls": [
-      "https://stream2.datacenter.by/zefirfm"
-    ],
-    "country": "by",
-    "languages": [
-      "rus"
-    ]
-  },
-  {
     "nanoid": "5Jp53wts5wCb7Q",
     "name": "Авторадио Минск",
     "stream_urls": [

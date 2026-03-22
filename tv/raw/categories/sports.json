@@ -282,6 +282,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BkNvZNcvt4fu9h",
     "name": "F1 Channel",
     "stream_urls": [
@@ -438,6 +452,56 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "dsBKZyQRGT7j8N",
+    "name": "Fuel TV",
+    "stream_urls": [
+      "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QXXYQyEvzt0r35",
+    "name": "Fuel TV",
+    "stream_urls": [
+      "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Iuaewjg35O2O7W",
+    "name": "FUEL TV",
+    "stream_urls": [
+      "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q2KimDhflePyDK",
+    "name": "FUEL TV",
+    "stream_urls": [
+      "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "440EBhNILeBYuU",
     "name": "Futbol",
     "stream_urls": [
@@ -488,6 +552,19 @@
     ],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -569,6 +646,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H7YKUTmTDg1xzR",
+    "name": "M-Net Sport",
+    "stream_urls": [
+      "https://live.mnet.mk/hls/mnet-sport.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mkd"
+    ],
+    "country": "mk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "stream_urls": [
@@ -596,6 +686,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "WjzlJmHsxUPxpZ",
+    "name": "MNB Sport",
+    "stream_urls": [
+      "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mon"
+    ],
+    "country": "mn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VV5nh58QSIjuA6",
     "name": "More Than Sports TV",
     "stream_urls": [
@@ -606,20 +709,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nKepPfPxroGdqa",
-    "name": "MotoGP",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/97rK13dz5PQ"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -721,9 +810,9 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "stream_urls": [
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8",
-      "https://pac12-firetv.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1139,7 +1228,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

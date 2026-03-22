@@ -378,6 +378,17 @@
     ]
   },
   {
+    "nanoid": "ibifWfW7H1EznT",
+    "name": "TildeRadio",
+    "stream_urls": [
+      "https://tilderadio.org/listen"
+    ],
+    "country": "jp",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "cYPTMlk1FSFbbb",
     "name": "WREP",
     "stream_urls": [

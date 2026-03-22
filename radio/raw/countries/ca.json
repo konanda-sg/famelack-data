@@ -728,7 +728,8 @@
     "name": "89.1 Max FM",
     "stream_urls": [
       "https://bayshore.leanstream.co/CISOFM",
-      "https://bayshore-ais.leanstream.co/CISOFM"
+      "https://bayshore-ais.leanstream.co/CISOFM",
+      "https://bayshore-ais.leanstream.co/CISOFM-MP3"
     ],
     "country": "ca",
     "languages": [
@@ -972,6 +973,17 @@
     "name": "94.1 CJOC",
     "stream_urls": [
       "https://vistaradio.streamb.live/SB00093"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kYDxsTk2ISbGdD",
+    "name": "94.1 Juice FM",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00087"
     ],
     "country": "ca",
     "languages": [
@@ -1530,7 +1542,8 @@
     "nanoid": "r1iyMEfpwVwM6x",
     "name": "Allsound Radio",
     "stream_urls": [
-      "https://kathy.torontocast.com:2495/stream"
+      "https://kathy.torontocast.com:2495/stream",
+      "https://kathy.torontocast.com:2525/stream"
     ],
     "country": "ca",
     "languages": [
@@ -1687,17 +1700,6 @@
     "name": "Big Land FM 97.9",
     "stream_urls": [
       "https://newcap.leanstream.co/CFLNFM"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "j0BztL4tRY5oZQ",
-    "name": "Birch Street Radio",
-    "stream_urls": [
-      "https://jenny.torontocast.com:8172/stream"
     ],
     "country": "ca",
     "languages": [
@@ -2251,6 +2253,17 @@
     "name": "Calm Radio - Solo Piano",
     "stream_urls": [
       "https://streams.calmradio.com:1228/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LNE3mEM2Gjrm4c",
+    "name": "Calm Radio - Solo Piano & Guitar",
+    "stream_urls": [
+      "https://streams.calmradio.com:30228/stream"
     ],
     "country": "ca",
     "languages": [
@@ -4904,10 +4917,10 @@
     ]
   },
   {
-    "nanoid": "F0jktzx9Z0f1fq",
-    "name": "Coast 91.5",
+    "nanoid": "zGKa7j5wPjpqD5",
+    "name": "Coast FM 91.7",
     "stream_urls": [
-      "https://n09.rcs.revma.com/ygxn9vgennruv"
+      "https://vistaradio.streamb.live/SB00081"
     ],
     "country": "ca",
     "languages": [
@@ -4915,10 +4928,10 @@
     ]
   },
   {
-    "nanoid": "zGKa7j5wPjpqD5",
-    "name": "Coast FM 91.7",
+    "nanoid": "1SjAwlQ7XSU3Yd",
+    "name": "Code Radio",
     "stream_urls": [
-      "https://vistaradio.streamb.live/SB00081"
+      "https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3"
     ],
     "country": "ca",
     "languages": [
@@ -6773,17 +6786,6 @@
     ]
   },
   {
-    "nanoid": "MVYyoiAGCJk2dB",
-    "name": "La Bonita X101",
-    "stream_urls": [
-      "https://listen.labonita.torontocast.stream/"
-    ],
-    "country": "ca",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "kMGrmV4qTVZcPh",
     "name": "La Superstation CJVA",
     "stream_urls": [
@@ -7990,6 +7992,19 @@
     "country": "ca",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "alXHbTNE6GwCAQ",
+    "name": "Radio Centre-Ville 102.3 FM",
+    "stream_urls": [
+      "https://stream.statsradio.com:8108/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra",
+      "eng",
+      "spa"
     ]
   },
   {
@@ -9835,6 +9850,17 @@
     "country": "ca",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "FR2GItkCJ7M0HB",
+    "name": "Zingzing",
+    "stream_urls": [
+      "https://stream.zeno.fm/qgaxw53e4zhvv"
+    ],
+    "country": "ca",
+    "languages": [
+      "zho"
     ]
   }
 ]

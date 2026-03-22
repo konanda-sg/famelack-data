@@ -13,19 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aYAhxfge3884Ci",
-    "name": "Agro TV",
-    "stream_urls": [
-      "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bul"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g5kkuBi9J5OPSY",
     "name": "Agro TV",
     "stream_urls": [

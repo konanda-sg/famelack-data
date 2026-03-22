@@ -57,6 +57,17 @@
     ]
   },
   {
+    "nanoid": "uDJ14VWT6gNnbN",
+    "name": "Base FM 107.3",
+    "stream_urls": [
+      "https://stream.basefm.co.nz:8000/BaseHi"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "hLMBmbEtG5A6ao",
     "name": "Bay FM 100.7",
     "stream_urls": [
@@ -380,6 +391,17 @@
     ]
   },
   {
+    "nanoid": "T3z1rxtgUtfMmu",
+    "name": "New Zealand Net Radio",
+    "stream_urls": [
+      "https://radio.nznetradio.net.nz/stream3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "9aZ0SylzyKtDWi",
     "name": "Newstalk ZB",
     "stream_urls": [
@@ -616,7 +638,6 @@
     "name": "Radiowave NZ",
     "stream_urls": [
       "https://stream.radiowavenz.com/stream",
-      "https://stream.radiowavenz.com/stream-aac",
       "https://stream.radiowavenz.com/stream-aac-low"
     ],
     "country": "nz",

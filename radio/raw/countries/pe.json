@@ -667,17 +667,6 @@
     ]
   },
   {
-    "nanoid": "NKOyaorZ8UqIvj",
-    "name": "Radio Fantasía",
-    "stream_urls": [
-      "https://sp.oyotunstream.com:10943/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "bQnuRdzMjIMKe6",
     "name": "Radio Felicidad",
     "stream_urls": [
@@ -806,17 +795,6 @@
     ]
   },
   {
-    "nanoid": "KQq8grxnXWrO6E",
-    "name": "Radio Huancayo",
-    "stream_urls": [
-      "https://cloud9.ldwebstudios.net:7000/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "RA1afp0AuRhaaN",
     "name": "Radio Intiraymi",
     "stream_urls": [
@@ -931,6 +909,17 @@
     "name": "Radio La Nube 91.9 FM",
     "stream_urls": [
       "https://mdstrm.com/audio/6598b70f86344b02b58ce836/icecast.audio"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bgOCVQqo4wdWl9",
+    "name": "Radio La Poderosa",
+    "stream_urls": [
+      "https://stream.zeno.fm/8dppgdapxneuv"
     ],
     "country": "pe",
     "languages": [
@@ -1315,6 +1304,17 @@
     ]
   },
   {
+    "nanoid": "I2ehmzZomN4e3u",
+    "name": "Radio Sad Perú",
+    "stream_urls": [
+      "https://stream.zeno.fm/2kma2c011uquv"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "2cdNOD7xlQlEbQ",
     "name": "Radio Salsa Perú",
     "stream_urls": [
@@ -1619,17 +1619,6 @@
     "stream_urls": [
       "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a",
       "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "AETt9hrnSVHOni",
-    "name": "RPP Noticias",
-    "stream_urls": [
-      "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio"
     ],
     "country": "pe",
     "languages": [

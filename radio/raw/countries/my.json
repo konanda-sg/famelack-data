@@ -318,8 +318,7 @@
     "nanoid": "UmmLBrDfK6Yenl",
     "name": "Radio Klasik",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
-      "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3"
     ],
     "country": "my",
     "languages": [

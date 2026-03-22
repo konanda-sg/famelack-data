@@ -192,6 +192,17 @@
     ]
   },
   {
+    "nanoid": "3M8mle8G61WWfD",
+    "name": "Almodóvar en La Onda",
+    "stream_urls": [
+      "https://nrf1.newradio.it:9972/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "wHnvwL5KDmuU1O",
     "name": "Alpicat Ràdio",
     "stream_urls": [
@@ -1364,17 +1375,6 @@
     "languages": [
       "eng",
       "spa"
-    ]
-  },
-  {
-    "nanoid": "vdHcilKNSICHQR",
-    "name": "China FM",
-    "stream_urls": [
-      "https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "zho"
     ]
   },
   {
@@ -3870,17 +3870,6 @@
     ]
   },
   {
-    "nanoid": "6adYL0N7seJIlq",
-    "name": "Onda Cero Cinca",
-    "stream_urls": [
-      "https://sonando-us.digitalproserver.com/litera.aac"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "WQPoKbnnqmecfI",
     "name": "Onda Cero La Bañeza y Astorga",
     "stream_urls": [
@@ -4688,17 +4677,6 @@
     "name": "Radio La Granja 102.1 FM",
     "stream_urls": [
       "https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "mb3UFgERQrSjPi",
-    "name": "Radio Laciana",
-    "stream_urls": [
-      "https://server8.emitironline.com:18528/stream"
     ],
     "country": "es",
     "languages": [
@@ -6216,29 +6194,6 @@
     ]
   },
   {
-    "nanoid": "deiZDwG6WRcdz2",
-    "name": "Ràdio Ponts",
-    "stream_urls": [
-      "https://enacast.com/radioponts/streams/HD"
-    ],
-    "country": "es",
-    "languages": [
-      "cat"
-    ]
-  },
-  {
-    "nanoid": "thfdFcbKLjpzMr",
-    "name": "Ràdio Ponts 107.1",
-    "stream_urls": [
-      "https://streaming.enacast.com/radioponts128.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "cat",
-      "spa"
-    ]
-  },
-  {
     "nanoid": "Kx71VF8mrRPDdl",
     "name": "Ràdio Puig-reig",
     "stream_urls": [
@@ -6763,18 +6718,6 @@
     "country": "es",
     "languages": [
       "ita",
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "e3upQFXbJhdQV0",
-    "name": "Sunshine FM",
-    "stream_urls": [
-      "https://ice31.securenetsystems.net/SRFM"
-    ],
-    "country": "es",
-    "languages": [
-      "eng",
       "spa"
     ]
   },

@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CIjy64bcdR6iOi",
-    "name": "Duende Tv",
-    "stream_urls": [
-      "https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zHfJMORTmUY70P",
     "name": "Ecotel TV",
     "stream_urls": [
@@ -377,10 +364,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uyqGhNahms3fZ0",
-    "name": "Multicanal Catamayo",
+    "nanoid": "CR0jUhLqfPaEmf",
+    "name": "Nortvisión",
     "stream_urls": [
-      "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+      "https://server.asilivehd.com:3242/live/nortvisionlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -390,10 +377,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CR0jUhLqfPaEmf",
-    "name": "Nortvisión",
+    "nanoid": "1rUb7jXosDq9U6",
+    "name": "Ñuka TV",
     "stream_urls": [
-      "https://server.asilivehd.com:3242/live/nortvisionlive.m3u8"
+      "https://cloudvideo.servers10.com:8081/8118/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -48,6 +48,7 @@
     "nanoid": "wqvSZhq1RLKF3y",
     "name": "Antyradio",
     "stream_urls": [
+      "https://an.cdn.eurozet.pl/ant-web.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
       "https://an02.cdn.eurozet.pl/ant-web.mp3"
     ],
@@ -980,6 +981,7 @@
     "name": "Radio 357",
     "stream_urls": [
       "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
+      "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
       "https://n23a-eu.rcs.revma.com/ye5kghkgcm0uv",
       "https://n23a-eu.rcs.revma.com/an1ugyygzk8uv",
       "https://n04a-eu.rcs.revma.com/an1ugyygzk8uv",
@@ -3423,17 +3425,6 @@
     "name": "Radio Łódź nad Wartą",
     "stream_urls": [
       "https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "R3OioucKtiZut9",
-    "name": "Radio Łódź Sport",
-    "stream_urls": [
-      "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac"
     ],
     "country": "pl",
     "languages": [

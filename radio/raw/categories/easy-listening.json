@@ -58,6 +58,17 @@
     ]
   },
   {
+    "nanoid": "G1S0Smmj0MfgOT",
+    "name": "0nlineradio Coffee Lounge",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/lounge-coffee-bar-lounge"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "2qYW37XEmDyuP8",
     "name": "0nlineradio Deep House",
     "stream_urls": [
@@ -70,10 +81,10 @@
     ]
   },
   {
-    "nanoid": "RGw9EJMtbWI5lb",
-    "name": "0nlineradio Dinner Lounge",
+    "nanoid": "lfsMCJYeM63XLa",
+    "name": "0nlineradio Hotel Lounge",
     "stream_urls": [
-      "https://0nlineradio.radioho.st/lounge-dinner-lounge"
+      "https://0nlineradio.radioho.st/lounge-hotel-lounge"
     ],
     "country": "de",
     "languages": [
@@ -281,6 +292,17 @@
     "name": "101.5 KPLA",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LonbqmjpsBCeOT",
+    "name": "101.5 The River",
+    "stream_urls": [
+      "https://ample.revma.ihrhls.com/zc1853/19_1n3b2kyukilj602/playlist.m3u8"
     ],
     "country": "us",
     "languages": [
@@ -916,17 +938,6 @@
     ]
   },
   {
-    "nanoid": "U0EWixXTe39ARk",
-    "name": "87.5 Republ1ka FM1",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/453221/stream/508076"
-    ],
-    "country": "ph",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "mWFX4R4mn9aZnL",
     "name": "88.9 Titan Radio",
     "stream_urls": [
@@ -1006,17 +1017,6 @@
     ]
   },
   {
-    "nanoid": "sO5UiF1XlUH4qJ",
-    "name": "92.7 The Wave",
-    "stream_urls": [
-      "https://crystalout.surfernetwork.com:8001/WHVE_MP3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "1C4WZVeGzNlZs7",
     "name": "92.7 WOBM",
     "stream_urls": [
@@ -1057,6 +1057,17 @@
       "https://playerservices.streamtheworld.com/api/livestream-redirect/941FM.mp3"
     ],
     "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kYDxsTk2ISbGdD",
+    "name": "94.1 Juice FM",
+    "stream_urls": [
+      "https://vistaradio.streamb.live/SB00087"
+    ],
+    "country": "ca",
     "languages": [
       "eng"
     ]
@@ -1327,6 +1338,19 @@
     "country": "fr",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "ouJoyb6oZ8BdRG",
+    "name": "Absolut Relax",
+    "stream_urls": [
+      "https://absolut-relax.live-sm.absolutradio.de/absolut-relax",
+      "https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3",
+      "https://edge05.live-sm.absolutradio.de/absolut-relax"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -1751,6 +1775,17 @@
     ]
   },
   {
+    "nanoid": "LNE3mEM2Gjrm4c",
+    "name": "Calm Radio - Solo Piano & Guitar",
+    "stream_urls": [
+      "https://streams.calmradio.com:30228/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "veAOk1IvCCHCgs",
     "name": "Candlelight Radio",
     "stream_urls": [
@@ -1842,6 +1877,28 @@
     ]
   },
   {
+    "nanoid": "D7YE6x1s501x7k",
+    "name": "Centro América Easy",
+    "stream_urls": [
+      "https://centova.svdns.com.br:20109/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "DmIE3Lnhg3AnIs",
+    "name": "Centro América FM Easy 101",
+    "stream_urls": [
+      "https://centova.svdns.com.br:20111/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "K6z95vKiXlV3Lc",
     "name": "CFAM 950",
     "stream_urls": [
@@ -1912,7 +1969,6 @@
     "nanoid": "BmJ4qCNwd5qIUD",
     "name": "Christmas Vinyl",
     "stream_urls": [
-      "https://walmradio.com:8443/christmas",
       "https://icecast.walmradio.com:8443/christmas",
       "https://icecast.walmradio.com:8443/christmas_opus"
     ],
@@ -2838,6 +2894,7 @@
     "nanoid": "X8vOg0wY33KA4F",
     "name": "Galaxy 92 FM",
     "stream_urls": [
+      "https://galaxy.live24.gr/galaxy9292",
       "https://netradio.live24.gr/galaxy9292"
     ],
     "country": "gr",
@@ -3028,17 +3085,6 @@
     "country": "za",
     "languages": [
       "afr",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "lLrlPdQF1f9n0U",
-    "name": "HearMe - Love Songs",
-    "stream_urls": [
-      "https://radio.hearme.fm:8140/stream"
-    ],
-    "country": "uk",
-    "languages": [
       "eng"
     ]
   },
@@ -3488,6 +3534,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "HtNtBTMTj5uwzc",
+    "name": "IP Music Slow",
+    "stream_urls": [
+      "https://live9.avf.ch/ipmusicslowaacp96"
+    ],
+    "country": "ch",
+    "languages": [
+      "fra"
     ]
   },
   {
@@ -5052,7 +5109,9 @@
     "nanoid": "WhVIabZKklnTY0",
     "name": "Otvoreni Radio",
     "stream_urls": [
-      "https://stream.otvoreni.hr/stream48"
+      "https://stream2.otvoreni.hr/otvoreni",
+      "https://stream.otvoreni.hr/stream48",
+      "https://stream.otvoreni.hr/otvoreni"
     ],
     "country": "hr",
     "languages": [
@@ -5131,7 +5190,9 @@
     "nanoid": "bk10wJr44fHg0C",
     "name": "Pepper 96.6 FM",
     "stream_urls": [
-      "https://stream.radiojar.com/pepper.m4a"
+      "https://stream.radiojar.com/pepper.m4a",
+      "https://pepper966.live24.gr/pepper9660",
+      "https://netradio.live24.gr/pepper9660"
     ],
     "country": "gr",
     "languages": [
@@ -5456,17 +5517,6 @@
     ]
   },
   {
-    "nanoid": "zUzp07LyHnaX17",
-    "name": "Radio AR Bali",
-    "stream_urls": [
-      "https://live.radioarbali.com:8450/radioar"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "leCYDKrFeZeIxT",
     "name": "Radio Argovia",
     "stream_urls": [
@@ -5501,32 +5551,10 @@
     ]
   },
   {
-    "nanoid": "1PaOHkKrSteobs",
-    "name": "Radio Art - Eric Satie",
-    "stream_urls": [
-      "https://air.radioart.com/fEric_satie.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "U6OvjuS2szd80W",
     "name": "Radio Art - George Handel",
     "stream_urls": [
       "https://air.radioart.com/fGeorge_handel.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "hJWRMSqycedC52",
-    "name": "Radio Art - Joseph Haydn",
-    "stream_urls": [
-      "https://air.radioart.com/fJoseph_haydn.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -5696,7 +5724,6 @@
     "name": "Radio Dulce",
     "stream_urls": [
       "https://stream.zeno.fm/3yv0enxnp7zuv",
-      "https://stream.zeno.fm/bx6zuwssrnjvv",
       "https://stream.zeno.fm/yo6udiulqhbvv",
       "https://stream.zeno.fm/kc5hofr05tavv",
       "https://stream.zeno.fm/uftblekcpxguv",
@@ -5966,8 +5993,7 @@
     "nanoid": "UmmLBrDfK6Yenl",
     "name": "Radio Klasik",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3",
-      "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3"
     ],
     "country": "my",
     "languages": [
@@ -6160,6 +6186,17 @@
     "name": "Radio Monte Carlo: Nights",
     "stream_urls": [
       "https://mc-mcnight.hostingradio.ru/mcnight96.aacp"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "NDToxL4kaPfyyU",
+    "name": "Radio Monte Carlo: Summertime",
+    "stream_urls": [
+      "https://mc-summertime.hostingradio.ru/summertime96.aacp"
     ],
     "country": "ru",
     "languages": [
@@ -6492,7 +6529,6 @@
     "name": "Radiowave NZ",
     "stream_urls": [
       "https://stream.radiowavenz.com/stream",
-      "https://stream.radiowavenz.com/stream-aac",
       "https://stream.radiowavenz.com/stream-aac-low"
     ],
     "country": "nz",
@@ -7673,17 +7709,6 @@
     ]
   },
   {
-    "nanoid": "2iUvD7Yu7WQYNf",
-    "name": "The Beat 104.1 FM",
-    "stream_urls": [
-      "https://ice66.securenetsystems.net/THEBEAT1041"
-    ],
-    "country": "bb",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "pUuRs6BNFsN9Rd",
     "name": "The Breeze",
     "stream_urls": [
@@ -8041,6 +8066,17 @@
     "country": "fr",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "NfhXyNMkRsBcgm",
+    "name": "VRT Radio 2 Unwind",
+    "stream_urls": [
+      "https://icecast.vrtcdn.be/radio2_unwind-high.mp3"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
     ]
   },
   {

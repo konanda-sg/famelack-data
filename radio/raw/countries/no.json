@@ -133,7 +133,6 @@
     "name": "NRK Jazz",
     "stream_urls": [
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
-      "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_l"
     ],
@@ -159,6 +158,7 @@
     "nanoid": "toGa2uxE9JGszr",
     "name": "NRK mP3",
     "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_mp3_aac_h",
       "https://lyd.nrk.no/nrk_radio_mp3_mp3_h",
       "https://lyd.nrk.no/nrk_radio_mp3_mp3_l",
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h"
@@ -197,8 +197,7 @@
     "nanoid": "bJ4UqZXlLG8aI8",
     "name": "NRK P1 Buskerud",
     "stream_urls": [
-      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h",
-      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h"
+      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h"
     ],
     "country": "no",
     "languages": [
@@ -255,8 +254,7 @@
     "nanoid": "g2P515UkHJG7C5",
     "name": "NRK P1 Nordland",
     "stream_urls": [
-      "https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h",
-      "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4"
+      "https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h"
     ],
     "country": "no",
     "languages": [
@@ -426,6 +424,7 @@
     "nanoid": "festkjIEcqLsgS",
     "name": "NRK P3",
     "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p3_aac_h",
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
       "https://lyd.nrk.no/nrk_radio_p3_mp3_h",
       "https://lyd.nrk.no/nrk_radio_p3_mp3_l"
@@ -451,7 +450,8 @@
     "name": "NRK Sport",
     "stream_urls": [
       "https://lyd.nrk.no/nrk_radio_sport_aac_h",
-      "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
+      "https://lyd.nrk.no/nrk_radio_sport_mp3_m",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h"
     ],
     "country": "no",
     "languages": [
@@ -861,17 +861,6 @@
     "stream_urls": [
       "https://stream.radiorakel.no/radiorakel_hq",
       "https://stream.radiorakel.no/fm993.mp3"
-    ],
-    "country": "no",
-    "languages": [
-      "nor"
-    ]
-  },
-  {
-    "nanoid": "KFYQHRVe3B1LpL",
-    "name": "Sørlandsradioen",
-    "stream_urls": [
-      "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
     ],
     "country": "no",
     "languages": [

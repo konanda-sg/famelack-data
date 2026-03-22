@@ -79,7 +79,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -167,6 +167,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GD6GIT9MV0x6kz",
+    "name": "Garabito TV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vPLx0tYa5CbY79",
     "name": "Gex TV",
     "stream_urls": [
@@ -220,6 +233,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "K2jiXD7UiZELMV",
+    "name": "Nicoya TV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4hISVyUvSKd79p",
     "name": "Norte Informativo TV",
     "stream_urls": [
@@ -237,6 +263,19 @@
     "name": "Quince UCR",
     "stream_urls": [
       "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -315,19 +354,6 @@
     "name": "Telered Television",
     "stream_urls": [
       "https://k20.usastreams.com:8081/telered/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
-    "stream_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -554,7 +554,8 @@
     "nanoid": "1ZOIVdANdR6Z37",
     "name": "Air Connect Radio",
     "stream_urls": [
-      "https://stream.airconnectradio.com/ac192.mp3"
+      "https://stream.airconnectradio.com/ac192.mp3",
+      "https://stream.airconnectradio.com/ac64.aac"
     ],
     "country": "fr",
     "languages": [
@@ -2502,7 +2503,8 @@
     "nanoid": "TkH5bpsFL5YL9l",
     "name": "Crooner Radio",
     "stream_urls": [
-      "https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3"
+      "https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3",
+      "https://direct.croonerradio.fr/croonerradio-midfi.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -2716,8 +2718,7 @@
     "nanoid": "cHyTkghDfrMV4u",
     "name": "Crooner Radio Premium",
     "stream_urls": [
-      "https://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3",
-      "https://direct.croonerradio.fr/croonerradio-inprivate-midfi.mp3"
+      "https://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -4811,6 +4812,17 @@
     ]
   },
   {
+    "nanoid": "2xqahrpoZAT2fc",
+    "name": "Graffiti Urban Radio",
+    "stream_urls": [
+      "https://diffusion.lafrap.fr/graffiti"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "u2Si97piYZteeh",
     "name": "Grand Sud FM",
     "stream_urls": [
@@ -5713,17 +5725,6 @@
     ]
   },
   {
-    "nanoid": "z37dGalegxd3OS",
-    "name": "In2Mixx Radio",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/384/stream/1613"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "ucKdH1KZOjfMHb",
     "name": "InfoRC",
     "stream_urls": [
@@ -6321,17 +6322,6 @@
     "name": "Konpa Mix Radio",
     "stream_urls": [
       "https://das-edge09-live365-dal03.cdnstream.com/a15951"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "FgBkJZ27CKehm1",
-    "name": "Kréol FM",
-    "stream_urls": [
-      "https://kreolfm.ice.infomaniak.ch/kreolfm-96.aac"
     ],
     "country": "fr",
     "languages": [
@@ -7845,17 +7835,6 @@
     "name": "N'Radio",
     "stream_urls": [
       "https://radio.ice.infomaniak.ch/nradio-48aac.aac"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "N0LIXmbUPC1hpl",
-    "name": "Neptune FM",
-    "stream_urls": [
-      "https://diffusion.lafrap.fr/neptune.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -10548,17 +10527,6 @@
     ]
   },
   {
-    "nanoid": "R0V8Vu6tRjUzpZ",
-    "name": "Radio Albigès",
-    "stream_urls": [
-      "https://live-albiges.radiom.fr/antenne.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "w31qAqraWAGFrQ",
     "name": "Radio Alligator",
     "stream_urls": [
@@ -10743,6 +10711,7 @@
     "nanoid": "UlkfeXQliEkJTx",
     "name": "Radio Broussaille",
     "stream_urls": [
+      "https://stream.radiobroussaille.fr:8443/broussaille-hifi",
       "https://stream.radiobroussaille.fr:8443/broussaille-lofi"
     ],
     "country": "fr",
@@ -11167,6 +11136,17 @@
     ]
   },
   {
+    "nanoid": "feAhx6LVO2zX7d",
+    "name": "Radio Disney Paris",
+    "stream_urls": [
+      "https://stream-176.zeno.fm/ks5wfxkubv8uv"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "RVCyHcYefvJJEl",
     "name": "Radio Disney Village",
     "stream_urls": [
@@ -11295,6 +11275,18 @@
     "name": "Radio En Construction 90.7 FM",
     "stream_urls": [
       "https://str0.creacast.com/rec"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "3DYIGhbn5wFu4b",
+    "name": "Radio Equinoxe",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/39218/stream/75659",
+      "https://www.radioking.com/play/radio-equinoxe"
     ],
     "country": "fr",
     "languages": [
@@ -11570,17 +11562,6 @@
     ]
   },
   {
-    "nanoid": "nqT9Wbb3yrjLT7",
-    "name": "Radio Gandharva Gana",
-    "stream_urls": [
-      "https://play.radioking.io/radiogandharvagana"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "PoK6W8yE8ACWpV",
     "name": "Radio Gospel",
     "stream_urls": [
@@ -11608,6 +11589,17 @@
     "name": "Radio Grand Ciel",
     "stream_urls": [
       "https://str0.creacast.com/radio_grand_ciel"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "h2Rsj0FPlQF0i9",
+    "name": "Radio Grand Lieu",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/377152/stream/427591"
     ],
     "country": "fr",
     "languages": [
@@ -12718,6 +12710,17 @@
     "name": "Radio Salam",
     "stream_urls": [
       "https://radiosalam.ice.infomaniak.ch/radiosalam-128.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "EuisA4ry6MdNLi",
+    "name": "Radio Santa Milonga",
+    "stream_urls": [
+      "https://stream-149.zeno.fm/h1bp8fqy3tzuv"
     ],
     "country": "fr",
     "languages": [
@@ -14649,6 +14652,7 @@
     "nanoid": "eg6jsvKtt0rwLE",
     "name": "RLP 102.3",
     "stream_urls": [
+      "https://direct.radioslibresenperigord.com/rlp.64.aac",
       "https://direct.radioslibresenperigord.com/rlp.192.mp3"
     ],
     "country": "fr",
@@ -14755,9 +14759,19 @@
       "https://streamer-03.rtl.fr/rtl-1-44-128",
       "https://streamer-04.rtl.fr/rtl-1-44-128",
       "https://icecast.rtl.fr/rtl-1-44-128",
-      "https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8",
       "https://streaming.radio.rtl.fr/rtl-1-44-128",
       "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "AahsurKe3bkdW9",
+    "name": "RTL 100% 80",
+    "stream_urls": [
+      "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl100pc80/130/audio-64000/index.m3u8"
     ],
     "country": "fr",
     "languages": [
@@ -14769,17 +14783,6 @@
     "name": "RTL 100% Hits",
     "stream_urls": [
       "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl/201/audio-64000/index.m3u8"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "oM47VG55uZZ9w7",
-    "name": "RTL Georges Lang",
-    "stream_urls": [
-      "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl-georges-lang/130/audio-64000/index.m3u8"
     ],
     "country": "fr",
     "languages": [
@@ -14912,6 +14915,17 @@
     "name": "RTV FM",
     "stream_urls": [
       "https://stream.vestaradio.com/RTVFM"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "b6VUgpVsgZLkes",
+    "name": "RVR Radio",
+    "stream_urls": [
+      "https://live.aurafm.org:7443/rvr-tarareplata"
     ],
     "country": "fr",
     "languages": [
@@ -15235,17 +15249,6 @@
     "name": "StereoChic Radio",
     "stream_urls": [
       "https://listen.radioking.com/radio/2079/stream/6533"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "SBclSFzKgYwC1c",
-    "name": "Stone Rock Radio",
-    "stream_urls": [
-      "https://stonerockradio.radioca.st/stream"
     ],
     "country": "fr",
     "languages": [
@@ -15688,17 +15691,6 @@
     ]
   },
   {
-    "nanoid": "m42fqZkec3s1KM",
-    "name": "Toulouse FM",
-    "stream_urls": [
-      "https://n32a-eu.rcs.revma.com/1x41712gy7uvv"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "3hrmI5si4dOiNX",
     "name": "Toutes les Couleurs du Trad",
     "stream_urls": [
@@ -15849,17 +15841,6 @@
     "name": "Vaucluse FM",
     "stream_urls": [
       "https://azuracast-scrs-2.foxoud.synology.me/listen/vauclusefm/radio.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "KF1Hv4UsR0jrgQ",
-    "name": "Vertige Radio",
-    "stream_urls": [
-      "https://stream.vestaradio.com/VertigeRadio"
     ],
     "country": "fr",
     "languages": [

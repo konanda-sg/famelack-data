@@ -81,6 +81,17 @@
     ]
   },
   {
+    "nanoid": "dYnI7SuS0UHs9A",
+    "name": "Mega 88 FM",
+    "stream_urls": [
+      "https://s5.voscast.com:10219/live"
+    ],
+    "country": "aw",
+    "languages": [
+      "pap"
+    ]
+  },
+  {
     "nanoid": "bPd12QlkgQyHhx",
     "name": "Salsotekaindo",
     "stream_urls": [
@@ -89,6 +100,17 @@
     "country": "aw",
     "languages": [
       "spa"
+    ]
+  },
+  {
+    "nanoid": "AO4QLI4WsyGUOb",
+    "name": "VIP Radio Online Dance",
+    "stream_urls": [
+      "https://s02.whooshserver.net:8054/dance"
+    ],
+    "country": "aw",
+    "languages": [
+      "eng"
     ]
   }
 ]

@@ -55,6 +55,17 @@
     ]
   },
   {
+    "nanoid": "1AgoViEgAj3JV1",
+    "name": "Elmag Kids",
+    "stream_urls": [
+      "https://radio.elmag.me/kids.mp3"
+    ],
+    "country": "me",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "t9XCr9hM5widvn",
     "name": "Elmag Love",
     "stream_urls": [
@@ -81,6 +92,28 @@
     "name": "Elmag Party",
     "stream_urls": [
       "https://radio.elmag.me/party.mp3"
+    ],
+    "country": "me",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "2L9kcmv69HZbs8",
+    "name": "Elmag Pop Rock EX YU",
+    "stream_urls": [
+      "https://radio.elmag.me/poprock.mp3"
+    ],
+    "country": "me",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "HTSw4QJ3GwI6OC",
+    "name": "Elmag Radio",
+    "stream_urls": [
+      "https://radio.elmag.me/elmag.mp3"
     ],
     "country": "me",
     "languages": [

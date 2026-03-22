@@ -1,14 +1,13 @@
 [
   {
-    "nanoid": "RGw9EJMtbWI5lb",
-    "name": "0nlineradio Dinner Lounge",
+    "nanoid": "G1S0Smmj0MfgOT",
+    "name": "0nlineradio Coffee Lounge",
     "stream_urls": [
-      "https://0nlineradio.radioho.st/lounge-dinner-lounge"
+      "https://0nlineradio.radioho.st/lounge-coffee-bar-lounge"
     ],
     "country": "de",
     "languages": [
-      "deu",
-      "eng"
+      "deu"
     ]
   },
   {
@@ -1251,8 +1250,8 @@
     "nanoid": "S8LZBefhfsWdGt",
     "name": "BluesWave Radio",
     "stream_urls": [
-      "https://blueswave.radio:8000/blueswave",
-      "https://blueswave.radio:8100/hifiblues"
+      "https://blueswave.radio:8100/icyblues",
+      "https://blueswave.radio:8000/blueswave"
     ],
     "country": "gr",
     "languages": [
@@ -1797,7 +1796,8 @@
     "nanoid": "TkH5bpsFL5YL9l",
     "name": "Crooner Radio",
     "stream_urls": [
-      "https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3"
+      "https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3",
+      "https://direct.croonerradio.fr/croonerradio-midfi.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -1891,8 +1891,7 @@
     "nanoid": "cHyTkghDfrMV4u",
     "name": "Crooner Radio Premium",
     "stream_urls": [
-      "https://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3",
-      "https://direct.croonerradio.fr/croonerradio-inprivate-midfi.mp3"
+      "https://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -2699,18 +2698,6 @@
     ]
   },
   {
-    "nanoid": "0qN5yCX2vkEzQp",
-    "name": "Epic Classical - Dinner",
-    "stream_urls": [
-      "https://stream.epic-classical.com/classical-dinner"
-    ],
-    "country": "de",
-    "languages": [
-      "deu",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "bu76nfoCYZTRrx",
     "name": "Epic Classical - Modern Classical",
     "stream_urls": [
@@ -2795,10 +2782,10 @@
     ]
   },
   {
-    "nanoid": "iqdChK4XPlKikp",
-    "name": "Epic Lounge - Jazzhop",
+    "nanoid": "yya1SVxmMtg4t1",
+    "name": "Epic Lounge - Hotel Lounge",
     "stream_urls": [
-      "https://stream.epic-lounge.com/jazzhop-lounge"
+      "https://stream.epic-lounge.com/hotel-lounge"
     ],
     "country": "de",
     "languages": [
@@ -2807,10 +2794,10 @@
     ]
   },
   {
-    "nanoid": "UP2xjQkO1PmmbE",
-    "name": "Epic Lounge - Lounge Covers",
+    "nanoid": "iqdChK4XPlKikp",
+    "name": "Epic Lounge - Jazzhop",
     "stream_urls": [
-      "https://stream.epic-lounge.com/lounge-covers"
+      "https://stream.epic-lounge.com/jazzhop-lounge"
     ],
     "country": "de",
     "languages": [
@@ -3473,8 +3460,8 @@
     "nanoid": "U5SNsNY2nseqGy",
     "name": "FluxFM Jazzradio Schwarzenstein",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-jazzradio-aacplus-64-1366806",
-      "https://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342"
+      "https://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342",
+      "https://fluxfm.streamabc.net/flx-jazzradio-mp3-128-4986317"
     ],
     "country": "de",
     "languages": [
@@ -3485,7 +3472,6 @@
     "nanoid": "CaH6zkqeux88Nq",
     "name": "FluxFM XJAZZ",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663"
     ],
@@ -5144,6 +5130,18 @@
     ]
   },
   {
+    "nanoid": "dudeyjFGw7VQZH",
+    "name": "Just Music Radio",
+    "stream_urls": [
+      "https://radiostream.neotel.mk/justmusicradio"
+    ],
+    "country": "mk",
+    "languages": [
+      "eng",
+      "mkd"
+    ]
+  },
+  {
     "nanoid": "4xl8Dk3x7CIFs4",
     "name": "K-TOR3 Radio Swing Worldwide",
     "stream_urls": [
@@ -5488,6 +5486,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "pNeH1Y1gX2nODa",
+    "name": "Kosmos Jazz",
+    "stream_urls": [
+      "https://radiostreaming.ert.gr/ert-webjazz"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -6157,8 +6166,7 @@
     "nanoid": "GHEueSwY8wiCOR",
     "name": "Naim Radio",
     "stream_urls": [
-      "https://mscp3.live-streams.nl:8362/flac.flac",
-      "https://mscp3.live-streams.nl:8362/high.aac"
+      "https://mscp3.live-streams.nl:8362/flac.flac"
     ],
     "country": "uk",
     "languages": [
@@ -6338,7 +6346,6 @@
     "name": "NRK Jazz",
     "stream_urls": [
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
-      "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_l"
     ],
@@ -6768,17 +6775,6 @@
     ]
   },
   {
-    "nanoid": "njr34LOY4E9xvu",
-    "name": "Radio Art - Jazz Ballads",
-    "stream_urls": [
-      "https://live.radioart.com/fJazz_ballads.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "qMnuSzaQhZkIN7",
     "name": "Radio Art - Jazz for Sleep",
     "stream_urls": [
@@ -6790,76 +6786,10 @@
     ]
   },
   {
-    "nanoid": "IJF5GqWgwO1lmo",
-    "name": "Radio Art - Jazz Trios",
+    "nanoid": "S2JTXwOH81yb1N",
+    "name": "Radio Art - Mellow Smooth Jazz",
     "stream_urls": [
-      "https://live.radioart.com/fJazz_trios.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "qd2fS3VzkEtivW",
-    "name": "Radio Art - Love Smooth Jazz",
-    "stream_urls": [
-      "https://live.radioart.com/fLove_smooth_jazz.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "yyp1kYRKf8mWap",
-    "name": "Radio Art - Saxophone Jazz",
-    "stream_urls": [
-      "https://air.radioart.com/fSaxophone_jazz.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "hd6OBlhMlCOleL",
-    "name": "Radio Art - Sinatra Style",
-    "stream_urls": [
-      "https://live.radioart.com/fSinatra_style.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "jdZafgboKvVt5O",
-    "name": "Radio Art - Smooth Bossa Nova",
-    "stream_urls": [
-      "https://live.radioart.com/fSmooth_bossa_nova.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "hYC4s0dGfDR0kf",
-    "name": "Radio Art - Smooth Jazz",
-    "stream_urls": [
-      "https://live.radioart.com/fSmooth_jazz.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "NgCaKxGUWdUsbP",
-    "name": "Radio Art - Smooth Lounge",
-    "stream_urls": [
-      "https://air.radioart.com/fSmooth_lounge.mp3"
+      "https://live.radioart.com/fMellow_smooth_jazz.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -6871,28 +6801,6 @@
     "name": "Radio Art - Smooth Up Tempo",
     "stream_urls": [
       "https://air.radioart.com/fSmooth_up_tempo.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "9AIpmo1VLjBsa9",
-    "name": "Radio Art - Smooth Vocal",
-    "stream_urls": [
-      "https://live.radioart.com/fSmooth_vocal.mp3"
-    ],
-    "country": "gr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "iOq2jY9N3D9ehw",
-    "name": "Radio Art - Timeless Classics",
-    "stream_urls": [
-      "https://live.radioart.com/fTimeless_classics.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -7434,6 +7342,17 @@
     "languages": [
       "slv",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "qk1ipnoZaJRIdn",
+    "name": "Radio Provincia del Chaco 101.5 FM",
+    "stream_urls": [
+      "https://debred5.ecomchaco.com.ar:8443/radioecom"
+    ],
+    "country": "ar",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -8178,6 +8097,17 @@
     "country": "co",
     "languages": [
       "spa"
+    ]
+  },
+  {
+    "nanoid": "j2LwVWJPfIj4Ti",
+    "name": "Samo MK",
+    "stream_urls": [
+      "https://radiostream.neotel.mk/samomk"
+    ],
+    "country": "mk",
+    "languages": [
+      "mkd"
     ]
   },
   {
@@ -8975,6 +8905,17 @@
     "name": "The Thursday Night Show",
     "stream_urls": [
       "https://listen.thethursdaynightshow.com/live"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yBps6AlLK4Ycxf",
+    "name": "thegreatiamb Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/0ntnamyl4q7uv"
     ],
     "country": "us",
     "languages": [
@@ -9864,6 +9805,17 @@
     "country": "ru",
     "languages": [
       "rus"
+    ]
+  },
+  {
+    "nanoid": "wfDjZuBLf5Q2mK",
+    "name": "Радіо Накипіло",
+    "stream_urls": [
+      "https://radiostream.nakypilo.ua/full"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
     ]
   },
   {

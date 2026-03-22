@@ -40,32 +40,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "drwJ1KWzBTlLLz",
-    "name": "Alcance TV",
-    "stream_urls": [
-      "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "14OgEakSRkYx8J",
-    "name": "AMX Noticias",
-    "stream_urls": [
-      "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "49nmeVhY8qIuOA",
     "name": "Azteca Internacional",
     "stream_urls": [
@@ -96,19 +70,6 @@
     "name": "BAMOS TV",
     "stream_urls": [
       "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GYpj19hD6m2qFh",
-    "name": "California Medios TV",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -236,19 +197,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjs8fScsFVoj7q",
-    "name": "Canal Parlamento del Congreso de Jalisco",
-    "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kcUlTpEd2EjJLo",
     "name": "Capital 21",
     "stream_urls": [
@@ -300,19 +248,6 @@
       "spa"
     ],
     "language": "spa",
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -478,19 +413,6 @@
     "name": "María Visión Mexico",
     "stream_urls": [
       "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P3PQh3YlBALxV5",
-    "name": "Mexiquense TV",
-    "stream_urls": [
-      "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -957,7 +879,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4sj_XsD7QMc"
+      "https://www.youtube-nocookie.com/embed/PDmp0u7Aweo"
     ],
     "languages": [
       "spa"
@@ -1342,10 +1264,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EHXNJG9CKImTT2",
-    "name": "Ultra TV Puebla",
+    "nanoid": "Ok9SBkw2hJdLsx",
+    "name": "TVP Obregón",
     "stream_urls": [
-      "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8"
+      "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

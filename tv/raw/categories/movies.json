@@ -105,6 +105,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "miNrjenD6E2QJg",
+    "name": "alpha Cinema",
+    "stream_urls": [
+      "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zDrvFUZTP4zt2k",
+    "name": "alpha Moretime",
+    "stream_urls": [
+      "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S8C2M7VpJq4l1b",
     "name": "ALTER: Scary Movies",
     "stream_urls": [],
@@ -632,19 +658,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FJT1T5Bg3eMVVa",
-    "name": "Itage TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "yor"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9tdQOe3oPZhf4V",
     "name": "Kairali We",
     "stream_urls": [
@@ -746,19 +759,6 @@
     "youtube_urls": [],
     "languages": [
       "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eYL7gjaPIYarUU",
-    "name": "Max Movies",
-    "stream_urls": [
-      "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -1261,19 +1261,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "99YOjXEtHzlDSd",
-    "name": "Rakuten TV Drama Movies Spain",
-    "stream_urls": [
-      "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tofHYJp7SflK4T",
     "name": "Rakuten TV Drama Movies UK",
     "stream_urls": [
@@ -1511,8 +1498,7 @@
     "nanoid": "bcMCtiQR1EZ7L7",
     "name": "Sony One Hits Action",
     "stream_urls": [
-      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
-      "https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8"
+      "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1543,19 +1529,6 @@
     "youtube_urls": [],
     "languages": [
       "tel"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9XCIxSDz7ScIo3",
-    "name": "Suriyan TV",
-    "stream_urls": [
-      "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -1654,6 +1627,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jznTuWIBt2HrkT",
+    "name": "ZB Cinema",
+    "stream_urls": [
+      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ucoNo9BnF3MpPw",
     "name": "Zylo Cine Friki",
     "stream_urls": [
@@ -1720,19 +1706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
-    "stream_urls": [
-      "https://streaming.thestream.cyou/live/44.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lQnAhlrKiieUTC",
     "name": "Кино 1 International",
     "stream_urls": [
@@ -1777,97 +1750,6 @@
     "name": "Патриот (576i)",
     "stream_urls": [
       "https://catchup.videoline.ru/asvtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UGkFnAuONipW2e",
-    "name": "Сити Эдем КиноАрт",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38398/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jqp4ZHvmJjGFio",
-    "name": "Сити Эдем КиноДрама",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/45269/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3bwrLU3me5VJ37",
-    "name": "Сити Эдем КиноКлассика",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34185/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6NRgQX5F3uvhNk",
-    "name": "Сити Эдем КиноМистика",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/40783/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pqEgU0y3jnIV9h",
-    "name": "Сити Эдем КиноФантастика",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/45268/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ID6NJjfwQAnwkN",
-    "name": "Сити Эдем КиноЭкшен",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41333/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

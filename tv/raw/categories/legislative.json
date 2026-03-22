@@ -172,19 +172,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjs8fScsFVoj7q",
-    "name": "Canal Parlamento del Congreso de Jalisco",
-    "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xIwhqLk3kSoWQX",
     "name": "CFM TV Channel 98",
     "stream_urls": [
@@ -957,6 +944,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "stream_urls": [
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "stream_urls": [
@@ -1279,7 +1279,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1b8XTNayrUY"
+      "https://www.youtube-nocookie.com/embed/11kLbcva4F0"
     ],
     "languages": [
       "por"
@@ -1298,20 +1298,6 @@
     "languages": [
       "por"
     ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ljxQJllBAK9Pvk",
-    "name": "TV Câmara Porto Alegre",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/imAlDLsdDrg"
-    ],
-    "languages": [
-      "por"
-    ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },

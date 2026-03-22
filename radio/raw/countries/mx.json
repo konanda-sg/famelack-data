@@ -534,18 +534,6 @@
     ]
   },
   {
-    "nanoid": "XfAZmRM8RrtVpJ",
-    "name": "Arandas FM 107.3",
-    "stream_urls": [
-      "https://live.zuperdns.net/1073/;",
-      "https://live.zuperdns.net/1073/stream"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "Zejr4T5HCXgqTP",
     "name": "Arroba FM",
     "stream_urls": [
@@ -1576,17 +1564,6 @@
     "name": "El Adolfo Radio",
     "stream_urls": [
       "https://s4.radio.co/s0909bf3ed/listen"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "F1JFwY8b17RRIA",
-    "name": "El basurero de Dago",
-    "stream_urls": [
-      "https://stream.zeno.fm/y3kjeqsrdasuv"
     ],
     "country": "mx",
     "languages": [
@@ -3512,7 +3489,6 @@
     "name": "La Comadre 98.5 FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac",
-      "https://cast4.my-control-panel.com/proxy/televiso/comadremid",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC_SC",
       "https://webprod.sipse.com.mx:8080/lacomadre/"
     ],
@@ -4935,17 +4911,6 @@
     ]
   },
   {
-    "nanoid": "4ZGB0l51rOVElM",
-    "name": "La Poderosa 96.9 FM",
-    "stream_urls": [
-      "https://sg.centrocibernetico.com/poderosa969"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "rauBMCmnJt4Qcw",
     "name": "La Primera 101.7 FM",
     "stream_urls": [
@@ -5102,17 +5067,6 @@
     ]
   },
   {
-    "nanoid": "IrPM7cabsRw2g9",
-    "name": "La Ranchera de Paquimé 540 AM",
-    "stream_urls": [
-      "https://stream.zeno.fm/8db4bm3xa84tv"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "1klPp3IyzM97Dx",
     "name": "La Rancherita 105.1 FM",
     "stream_urls": [
@@ -5139,17 +5093,6 @@
     "name": "La Rancherita 89.1 FM",
     "stream_urls": [
       "https://edge.mixlr.com/channel/caifk"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "X1yPCQg0Pw0x2v",
-    "name": "La Rancherita 91.7 FM",
-    "stream_urls": [
-      "https://radios.blumhost.es/8124/;"
     ],
     "country": "mx",
     "languages": [
@@ -7753,18 +7696,6 @@
     ]
   },
   {
-    "nanoid": "ADqpZ93UveSxKc",
-    "name": "Radio Fórmula 97.5 FM",
-    "stream_urls": [
-      "https://stream.radiojar.com/n9nz7y4n3p8uv",
-      "https://n09.radiojar.com/n9nz7y4n3p8uv"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "Lr5ALCKSj4sVsv",
     "name": "Radio Fórmula 98.5 FM",
     "stream_urls": [
@@ -8651,17 +8582,6 @@
     ]
   },
   {
-    "nanoid": "V7hYHKQN9Hj7rZ",
-    "name": "Rocola 9-90 990 AM",
-    "stream_urls": [
-      "https://stream.zeno.fm/bcbs57s5dkhvv"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "g74T5fh5tkhjn3",
     "name": "Romanti-ka 107.7 FM",
     "stream_urls": [
@@ -9319,21 +9239,9 @@
     ]
   },
   {
-    "nanoid": "tyTXPWRAQG7LMG",
-    "name": "Ultra 102.9 FM",
-    "stream_urls": [
-      "https://icecastultra.duckdns.org/livetul"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "r2kYYzRECBBh0x",
     "name": "Ultra 91.7 FM",
     "stream_urls": [
-      "https://icecastultra.duckdns.org/livehua",
       "https://sp3.servidorrprivado.com/8104/stream"
     ],
     "country": "mx",
@@ -9449,17 +9357,6 @@
     "name": "Vibra 99.5 FM",
     "stream_urls": [
       "https://sp3.servidorrprivado.com:10827/stream"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "oN9gyqSAjW3mUX",
-    "name": "Vibra FM 92.1",
-    "stream_urls": [
-      "https://sp3.servidorrprivado.com:10829/stream"
     ],
     "country": "mx",
     "languages": [

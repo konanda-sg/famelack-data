@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "bUvpC01RVlwBvA",
-    "name": "1010 XL",
-    "stream_urls": [
-      "https://ice23.securenetsystems.net/WJXL"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "kUO4DaqMfcIgqq",
     "name": "102.5 The Game",
     "stream_urls": [
@@ -188,17 +177,6 @@
     ]
   },
   {
-    "nanoid": "LAzKjIfNFzF6Ra",
-    "name": "1650 The Fan (KCNZ)",
-    "stream_urls": [
-      "https://ice23.securenetsystems.net/KCNZ"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "9K6pewdW6RR3a6",
     "name": "221 Radio 103.1",
     "stream_urls": [
@@ -250,6 +228,18 @@
     ],
     "country": "us",
     "languages": []
+  },
+  {
+    "nanoid": "ddqvdQQwpvmvCz",
+    "name": "92.1 The Ticket",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KQSMFMAAC.aac",
+      "https://14943.live.streamtheworld.com/KQSMFMAAC.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
   },
   {
     "nanoid": "QbpTcw3liPUxF2",
@@ -504,17 +494,6 @@
     "name": "AEL Radio 104.8",
     "stream_urls": [
       "https://sp1.32bit.gr/8006/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
-    "nanoid": "nRPqOoXPyuHD0h",
-    "name": "Akritas 94.8",
-    "stream_urls": [
-      "https://stream.ellada943.gr:10338/live.ogg"
     ],
     "country": "gr",
     "languages": [
@@ -799,6 +778,17 @@
     ]
   },
   {
+    "nanoid": "k8KjdxEWquM3YW",
+    "name": "EOK Web Radio",
+    "stream_urls": [
+      "https://netradio.live24.gr/elomkal"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "xJP1wz7DPUCUSp",
     "name": "ERA Sport 101.8",
     "stream_urls": [
@@ -942,10 +932,10 @@
     ]
   },
   {
-    "nanoid": "V8FsUhET13qfYQ",
-    "name": "ESPN 99.5 (KAKS)",
+    "nanoid": "d1ZMGPiFjX7esV",
+    "name": "ESPN 97.5 (KFNC)",
     "stream_urls": [
-      "https://ice5.securenetsystems.net/KAKSFM"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC"
     ],
     "country": "us",
     "languages": [
@@ -953,10 +943,10 @@
     ]
   },
   {
-    "nanoid": "56B1qwqdRXIyaa",
-    "name": "ESPN Decatur 1050 AM",
+    "nanoid": "V8FsUhET13qfYQ",
+    "name": "ESPN 99.5 (KAKS)",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/WDZAMAAC_SC"
+      "https://ice5.securenetsystems.net/KAKSFM"
     ],
     "country": "us",
     "languages": [
@@ -1609,7 +1599,8 @@
     "name": "NRK Sport",
     "stream_urls": [
       "https://lyd.nrk.no/nrk_radio_sport_aac_h",
-      "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
+      "https://lyd.nrk.no/nrk_radio_sport_mp3_m",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h"
     ],
     "country": "no",
     "languages": [
@@ -1725,17 +1716,6 @@
     "country": "it",
     "languages": [
       "ita"
-    ]
-  },
-  {
-    "nanoid": "bUb3AehlALm6xO",
-    "name": "Radio COCO",
-    "stream_urls": [
-      "https://icecast.teveo.cu/fvc4RVRz"
-    ],
-    "country": "cu",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -2060,17 +2040,6 @@
     "languages": [
       "cat",
       "spa"
-    ]
-  },
-  {
-    "nanoid": "R3OioucKtiZut9",
-    "name": "Radio Łódź Sport",
-    "stream_urls": [
-      "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
     ]
   },
   {
@@ -2476,7 +2445,8 @@
     "nanoid": "d9C3lzInvB7X4k",
     "name": "Sport FM 94.6",
     "stream_urls": [
-      "https://sportfm.live24.gr/sportfm7712"
+      "https://sportfm.live24.gr/sportfm7712",
+      "https://netradio.live24.gr/sportfm7712"
     ],
     "country": "gr",
     "languages": [
@@ -2582,6 +2552,17 @@
     ]
   },
   {
+    "nanoid": "XnE6QjjwwlmrYU",
+    "name": "Sports Radio 1450",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBAMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "Qc1sHvfTPdZdOp",
     "name": "Sports Radio 730 The Ump",
     "stream_urls": [
@@ -2632,6 +2613,17 @@
       "https://playerservices.streamtheworld.com/api/livestream-redirect/WLLFFMAAC_SC"
     ],
     "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VpbosmBJzf013S",
+    "name": "Sports Radio Brila FM",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/brilafm"
+    ],
+    "country": "ng",
     "languages": [
       "eng"
     ]
@@ -3250,17 +3242,6 @@
     ],
     "country": "us",
     "languages": []
-  },
-  {
-    "nanoid": "a0S8xl0E9SRb70",
-    "name": "WIZS 1450 AM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/WIZSAMAAC_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
   },
   {
     "nanoid": "oY4daEdmOJsQVT",

@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "guWIs6VbGBXg5q",
-    "name": "0nlineradio Deutschrap",
+    "nanoid": "8E41qYSGq1peEc",
+    "name": "0nlineradio 2000er",
     "stream_urls": [
-      "https://stream.0nlineradio.com/deutschrap"
+      "https://stream.0nlineradio.com/2000er"
     ],
     "country": "de",
     "languages": [
@@ -16,6 +16,18 @@
     "name": "0nlineradio Latin",
     "stream_urls": [
       "https://stream.0nlineradio.com/latin"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2x4e0w1Xd2xmmx",
+    "name": "0nlineradio Lovehits",
+    "stream_urls": [
+      "https://stream.0nlineradio.com/lovehits"
     ],
     "country": "de",
     "languages": [
@@ -428,6 +440,18 @@
     ]
   },
   {
+    "nanoid": "u9ePV4EEDZdCS2",
+    "name": "90s90s Hip Hop & Rap",
+    "stream_urls": [
+      "https://streams.90s90s.de/hiphop/mp3-128/streams.90s90s.de/",
+      "https://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "q5VXjYoxA1vtlT",
     "name": "919",
     "stream_urls": [
@@ -682,7 +706,8 @@
     "nanoid": "1ZOIVdANdR6Z37",
     "name": "Air Connect Radio",
     "stream_urls": [
-      "https://stream.airconnectradio.com/ac192.mp3"
+      "https://stream.airconnectradio.com/ac192.mp3",
+      "https://stream.airconnectradio.com/ac64.aac"
     ],
     "country": "fr",
     "languages": [
@@ -949,17 +974,6 @@
     ]
   },
   {
-    "nanoid": "D6lsH6MmPrljvM",
-    "name": "Big R Radio - Classic R&B",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5194_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "UdEOcVclWlFNjx",
     "name": "Big R Radio - New R&B",
     "stream_urls": [
@@ -982,22 +996,10 @@
     ]
   },
   {
-    "nanoid": "VDxn8ojaTD4AOV",
-    "name": "bigFM Bremen",
+    "nanoid": "t3tAEV1kemRzfS",
+    "name": "bigFM Berlin",
     "stream_urls": [
-      "https://stream.bigfm.de/bremen/aac-128/radiobrowser"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "1DOU2bcwtvX1Wu",
-    "name": "bigFM Deutschland",
-    "stream_urls": [
-      "https://streams.bigfm.de/bigfm-deutschland-128-mp3",
-      "https://stream.bigfm.de/deutschland/mp3-128/radio-browser"
+      "https://stream.bigfm.de/berlin/mp3-128/radio-browser"
     ],
     "country": "de",
     "languages": [
@@ -1027,10 +1029,44 @@
     ]
   },
   {
+    "nanoid": "DqGBRyuZFLfolo",
+    "name": "bigFM Hessen",
+    "stream_urls": [
+      "https://stream.bigfm.de/hessen/aac-128/radiobrowser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "pGy62wBOu4Uwon",
+    "name": "bigFM Hip-Hop Radio",
+    "stream_urls": [
+      "https://stream.bigfm.de/hiphop/mp3-128/radio-browser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "PlWlP9ZJZhjBXi",
     "name": "bigFM LoFi Focus",
     "stream_urls": [
       "https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ENeDka36mcwcmY",
+    "name": "bigFM Niedersachsen",
+    "stream_urls": [
+      "https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364",
+      "https://stream.bigfm.de/niedersachsen/mp3-128/radiobrowser"
     ],
     "country": "de",
     "languages": [
@@ -1064,17 +1100,6 @@
     "name": "bigFM Rap Feature",
     "stream_urls": [
       "https://streams.bigfm.de/bigfm-rapfeature-128-mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "geWf9Tm0ilc9yL",
-    "name": "bigFM Rheinland-Pfalz",
-    "stream_urls": [
-      "https://streams.bigfm.de/bigfm-rlp-128-aac"
     ],
     "country": "de",
     "languages": [
@@ -1871,7 +1896,8 @@
     "nanoid": "KnUKPYtm38iNMn",
     "name": "Energy Deutschrap",
     "stream_urls": [
-      "https://edge07.streamonkey.net/energy-deutschrap"
+      "https://edge07.streamonkey.net/energy-deutschrap",
+      "https://nrj.de/deutschrap"
     ],
     "country": "de",
     "languages": [
@@ -2273,11 +2299,7 @@
     "nanoid": "ZwoFO78Js5hW9q",
     "name": "FluxFM",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445",
-      "https://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635",
-      "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035",
       "https://streams.fluxfm.de/live/mp3-320/audio/",
-      "https://streams.fluxfm.de/live/aac-64/audio/",
       "https://channels.fluxfm.de/FluxFM/stream.mp3"
     ],
     "country": "de",
@@ -3092,6 +3114,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "yl5vdugPw6F1jN",
+    "name": "Home 89.1 FM",
+    "stream_urls": [
+      "https://streaming.home891.gr/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -5731,7 +5764,8 @@
     "nanoid": "x9vSOlBWvw34aB",
     "name": "radio SAW Urban Music",
     "stream_urls": [
-      "https://stream.saw-musikwelt.de/saw-urban/mp3-128/radio-browser/stream.mp3"
+      "https://stream.saw-musikwelt.de/saw-urban/mp3-128/radio-browser/stream.mp3",
+      "https://stream.radiosaw.de/saw-urban/mp3-192/radio-browser/"
     ],
     "country": "de",
     "languages": [
@@ -6203,28 +6237,6 @@
     "country": "nz",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "dkufqTdaTUzxTp",
-    "name": "RPR1. 2000er Black",
-    "stream_urls": [
-      "https://streams.rpr1.de/rpr-2000erblack-128-mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "tAVNS1u91GvPgB",
-    "name": "RPR1. 90er Black",
-    "stream_urls": [
-      "https://streams.rpr1.de/rpr-90erblack-128-mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
     ]
   },
   {
@@ -6927,17 +6939,6 @@
     ]
   },
   {
-    "nanoid": "7N3idNlFRdQXZU",
-    "name": "TOWER TOWN New Hip Hop",
-    "stream_urls": [
-      "https://radio-grafenwoehr-new-hip-hop.stream.laut.fm/radio-grafenwoehr-new-hip-hop"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "KuPtimTUUCm13w",
     "name": "Trace FM Côte d'Ivoire",
     "stream_urls": [
@@ -7598,17 +7599,6 @@
     "country": "tr",
     "languages": [
       "tur"
-    ]
-  },
-  {
-    "nanoid": "x5vQjjuOugL6bQ",
-    "name": "X Radio 91.3",
-    "stream_urls": [
-      "https://live.sugarweb.gr/913.aac"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {

@@ -157,6 +157,17 @@
     ]
   },
   {
+    "nanoid": "fIeaMoXMQMbSqY",
+    "name": "Radio Activa Guanay",
+    "stream_urls": [
+      "https://sonic.dattassd.com:10902/stream"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "0W6etoeizFPDV7",
     "name": "Radio Advenir Internacional",
     "stream_urls": [
@@ -217,17 +228,6 @@
     "name": "Radio Chacaltaya",
     "stream_urls": [
       "https://cast6.asurahosting.com/proxy/irfradio/stream"
-    ],
-    "country": "bo",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "mzJxqjN0JPX0oZ",
-    "name": "Radio Ciudad",
-    "stream_urls": [
-      "https://streamingenbolivia.com/8002/stream"
     ],
     "country": "bo",
     "languages": [

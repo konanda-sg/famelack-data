@@ -720,6 +720,17 @@
     ]
   },
   {
+    "nanoid": "CMdYRwzfdksHUB",
+    "name": "BCfm",
+    "stream_urls": [
+      "https://bcfmradiomain.radioca.st/live.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "RAKofmiZx4DBC8",
     "name": "Beat Geeks Radio",
     "stream_urls": [
@@ -2672,17 +2683,6 @@
     ]
   },
   {
-    "nanoid": "aJcaVeoI6z0aes",
-    "name": "England Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/tazh0bmfeg8uv"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "hTWZjpRPmGakki",
     "name": "Enjoy Radio",
     "stream_urls": [
@@ -3240,6 +3240,17 @@
     ]
   },
   {
+    "nanoid": "Jbsff7Ri9saAJ3",
+    "name": "Go Radio",
+    "stream_urls": [
+      "https://streaming.broadcastradio.com:8252/goradio"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "9UoGtoskkQSF4m",
     "name": "Gold",
     "stream_urls": [
@@ -3498,28 +3509,6 @@
     "name": "HearMe - Classic Hard Rock",
     "stream_urls": [
       "https://radio.hearme.fm:8250/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wf8wlbkxAC3hsz",
-    "name": "HearMe - Classic Rock",
-    "stream_urls": [
-      "https://radio.hearme.fm:8270/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "lLrlPdQF1f9n0U",
-    "name": "HearMe - Love Songs",
-    "stream_urls": [
-      "https://radio.hearme.fm:8140/stream"
     ],
     "country": "uk",
     "languages": [
@@ -4090,17 +4079,6 @@
     "name": "Hospital Radio Perth",
     "stream_urls": [
       "https://streaming.broadcastradio.com:9222/perth"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5Ob5ONriO0NP2v",
-    "name": "Hospital Radio Plymouth",
-    "stream_urls": [
-      "https://hospitalradioplymouth.radioca.st/stream"
     ],
     "country": "uk",
     "languages": [
@@ -5641,8 +5619,7 @@
     "nanoid": "GHEueSwY8wiCOR",
     "name": "Naim Radio",
     "stream_urls": [
-      "https://mscp3.live-streams.nl:8362/flac.flac",
-      "https://mscp3.live-streams.nl:8362/high.aac"
+      "https://mscp3.live-streams.nl:8362/flac.flac"
     ],
     "country": "uk",
     "languages": [
@@ -6408,6 +6385,17 @@
     "name": "Party Vibe Radio - Reggae",
     "stream_urls": [
       "https://www.partyvibe.com:8060/;listen.pls"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bKKuGnycVDiHLi",
+    "name": "Passion Radio",
+    "stream_urls": [
+      "https://stream.mybroadbandradio.com/passionradio"
     ],
     "country": "uk",
     "languages": [
@@ -7620,6 +7608,17 @@
     ]
   },
   {
+    "nanoid": "2EqtrWmC3GevjR",
+    "name": "RadioSEGA",
+    "stream_urls": [
+      "https://icecast.radiosega.net/live"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "RKZRLPPcGtdERH",
     "name": "Raiders Radio",
     "stream_urls": [
@@ -7778,6 +7777,17 @@
     "name": "Revolution Radio One",
     "stream_urls": [
       "https://visual.shoutca.st/stream/revolutionone/stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4FwSVBKAri4vkx",
+    "name": "Rewind Radio Cornwall",
+    "stream_urls": [
+      "https://s4.radio.co/s2eaa194f6/listen"
     ],
     "country": "uk",
     "languages": [
@@ -8710,6 +8720,17 @@
     ]
   },
   {
+    "nanoid": "Cv8LqriCegkoC5",
+    "name": "SpotPixle Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/ck4rxvgazs8uv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "rhG6w4qbamhIT9",
     "name": "SSRadio",
     "stream_urls": [
@@ -9569,6 +9590,17 @@
     ]
   },
   {
+    "nanoid": "CPHnIOX6iDhY4m",
+    "name": "VIP Radio Birmingham",
+    "stream_urls": [
+      "https://stream.zeno.fm/3pj93ecmhuouv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "8ATqN06uWEV7WU",
     "name": "Virgin Radio Anthems",
     "stream_urls": [
@@ -9807,6 +9839,18 @@
     ],
     "country": "uk",
     "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "2QqXkbU598Lf37",
+    "name": "Xpression FM",
+    "stream_urls": [
+      "https://streaming.broadcastradio.com:10855/xpression"
+    ],
+    "country": "uk",
+    "languages": [
+      "hin",
       "eng"
     ]
   },

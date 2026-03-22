@@ -101,17 +101,6 @@
     ]
   },
   {
-    "nanoid": "IrglhoFbSHMGYm",
-    "name": "Buzz FM",
-    "stream_urls": [
-      "https://buzzfm897.com/wp-content/uploads/2021/01/josh_pan.mp3"
-    ],
-    "country": "ng",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "IcfdQGHkhPldeS",
     "name": "Dream Center Internet Radio",
     "stream_urls": [
@@ -328,6 +317,28 @@
     "name": "Splash FM 105.5",
     "stream_urls": [
       "https://edge.mixlr.com/channel/cfeki"
+    ],
+    "country": "ng",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "p4K0CCd2abz5zs",
+    "name": "Splash FM 106.7",
+    "stream_urls": [
+      "https://stream.zeno.fm/m9x6zr5trp8uv"
+    ],
+    "country": "ng",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VpbosmBJzf013S",
+    "name": "Sports Radio Brila FM",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/brilafm"
     ],
     "country": "ng",
     "languages": [

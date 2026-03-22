@@ -142,6 +142,17 @@
     ]
   },
   {
+    "nanoid": "uDJ14VWT6gNnbN",
+    "name": "Base FM 107.3",
+    "stream_urls": [
+      "https://stream.basefm.co.nz:8000/BaseHi"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "InZ3AzKBD174U8",
     "name": "Big Reggae Mix",
     "stream_urls": [
@@ -659,6 +670,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "yl5vdugPw6F1jN",
+    "name": "Home 89.1 FM",
+    "stream_urls": [
+      "https://streaming.home891.gr/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -1211,17 +1233,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "ABPCoaapNhlwaA",
-    "name": "RADIO BOB! Ska",
-    "stream_urls": [
-      "https://regiocast.streamabc.net/regc-radiobobska6892150-mp3-192-1651077"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
     ]
   },
   {
@@ -1843,8 +1854,7 @@
     "nanoid": "llajRjda2BS7wB",
     "name": "The Finest",
     "stream_urls": [
-      "https://ex52.voordeligstreamen.nl/8206/stream",
-      "https://live.thefinest.amsterdam/hq"
+      "https://ex52.voordeligstreamen.nl/8206/stream"
     ],
     "country": "nl",
     "languages": [

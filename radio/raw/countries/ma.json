@@ -181,17 +181,6 @@
     ]
   },
   {
-    "nanoid": "VOecyLI2a7f8zX",
-    "name": "Medi 1 Andalouse",
-    "stream_urls": [
-      "https://live.medi1.com/Andalouse"
-    ],
-    "country": "ma",
-    "languages": [
-      "ara"
-    ]
-  },
-  {
     "nanoid": "5PVDropy0yGh3Q",
     "name": "Medi 1 Classique",
     "stream_urls": [
@@ -249,28 +238,6 @@
     "languages": [
       "ara",
       "fra"
-    ]
-  },
-  {
-    "nanoid": "Aa7khiHgOzuNpG",
-    "name": "Medi 1 Soufi",
-    "stream_urls": [
-      "https://live.medi1.com/Soufi"
-    ],
-    "country": "ma",
-    "languages": [
-      "ara"
-    ]
-  },
-  {
-    "nanoid": "7LquP6ZqddiOXy",
-    "name": "Medi 1 Tarab",
-    "stream_urls": [
-      "https://live.medi1.com/Tarab"
-    ],
-    "country": "ma",
-    "languages": [
-      "ara"
     ]
   },
   {

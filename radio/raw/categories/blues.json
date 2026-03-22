@@ -318,8 +318,8 @@
     "nanoid": "S8LZBefhfsWdGt",
     "name": "BluesWave Radio",
     "stream_urls": [
-      "https://blueswave.radio:8000/blueswave",
-      "https://blueswave.radio:8100/hifiblues"
+      "https://blueswave.radio:8100/icyblues",
+      "https://blueswave.radio:8000/blueswave"
     ],
     "country": "gr",
     "languages": [
@@ -591,7 +591,6 @@
     "nanoid": "CaH6zkqeux88Nq",
     "name": "FluxFM XJAZZ",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663"
     ],
@@ -1252,6 +1251,39 @@
     "name": "RADIO BOB! Blues",
     "stream_urls": [
       "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "vftGcX0Qua3O2j",
+    "name": "RADIO BOB! Blues",
+    "stream_urls": [
+      "https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "KyPu6hlhwjqmOS",
+    "name": "RADIO BOB! Classic Rock",
+    "stream_urls": [
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "eyx4ukQvwH3r1P",
+    "name": "RADIO BOB! Southern Rock",
+    "stream_urls": [
+      "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/"
     ],
     "country": "de",
     "languages": [

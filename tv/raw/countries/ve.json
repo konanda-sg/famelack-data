@@ -13,6 +13,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0X5lB22f2RPA0r",
+    "name": "Alcance TV",
+    "stream_urls": [
+      "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "stream_urls": [
@@ -43,19 +56,6 @@
     "name": "Canal 21 Táchira",
     "stream_urls": [
       "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
-    "stream_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -121,19 +121,6 @@
     "name": "Isla TV",
     "stream_urls": [
       "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MIcJy2C1jnLtEJ",
-    "name": "KandelaTV",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -274,6 +261,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hWlY6DCrbQlbH1",
+    "name": "Telecolor",
+    "stream_urls": [
+      "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fs7LDp8LH9En3R",
     "name": "Telesur",
     "stream_urls": [
@@ -356,19 +356,6 @@
     "name": "Torococo TV",
     "stream_urls": [
       "https://us.streaminghd.cl/torococotelevision/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "stream_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -11,6 +11,18 @@
     ]
   },
   {
+    "nanoid": "txOAy32EmyGkSK",
+    "name": "0nlineradio Metal",
+    "stream_urls": [
+      "https://stream.0nlineradio.com/metal"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "a2GP3RmV3zSlZp",
     "name": "1.FM - High Voltage",
     "stream_urls": [
@@ -41,6 +53,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "Ot1ZGZkHUkEcex",
+    "name": "100 XR",
+    "stream_urls": [
+      "https://xr.dockl.com/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -142,17 +165,6 @@
     ]
   },
   {
-    "nanoid": "VktyUI4SBDWvrx",
-    "name": "Absolut ROCK",
-    "stream_urls": [
-      "https://edge59.live-sm.absolutradio.de/absolut-rock/stream/mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "GBlKQZeM9ga1n7",
     "name": "AceRadio: The Hairband Channel",
     "stream_urls": [
@@ -201,6 +213,7 @@
     "nanoid": "wqvSZhq1RLKF3y",
     "name": "Antyradio",
     "stream_urls": [
+      "https://an.cdn.eurozet.pl/ant-web.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
       "https://an02.cdn.eurozet.pl/ant-web.mp3"
     ],
@@ -463,6 +476,7 @@
     "nanoid": "kvtu9VGWkkYwOO",
     "name": "Classic 21 Metal",
     "stream_urls": [
+      "https://radio.rtbf.be/c21-metal/aac-128/fl",
       "https://radios.rtbf.be/wr-c21-metal-128.mp3"
     ],
     "country": "be",
@@ -743,8 +757,7 @@
     "nanoid": "0I2No9PSRqxLhi",
     "name": "FluxFM MetalFM",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971",
-      "https://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871"
+      "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971"
     ],
     "country": "de",
     "languages": [
@@ -1160,17 +1173,6 @@
     ]
   },
   {
-    "nanoid": "plE7XHvd2eGBzY",
-    "name": "MetalMusicRadio",
-    "stream_urls": [
-      "https://metalradio.net/128K.aac"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "z6veV02v79F5ne",
     "name": "Metalománie",
     "stream_urls": [
@@ -1340,6 +1342,17 @@
     ]
   },
   {
+    "nanoid": "zfEX3aIQpuonL4",
+    "name": "On the Rocks",
+    "stream_urls": [
+      "https://on_the_rocks.stream.laut.fm/on_the_rocks"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "8frrSEfnQC0CiU",
     "name": "Philly Rock Radio",
     "stream_urls": [
@@ -1451,6 +1464,17 @@
     ]
   },
   {
+    "nanoid": "i6BSn3RShXwFuP",
+    "name": "Radio Astral 102.9 FM",
+    "stream_urls": [
+      "https://streaming.rcs.com.sv/proxy/astral/stream"
+    ],
+    "country": "sv",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "FS8EUzV7LQphpI",
     "name": "RADIO BOB! AC/DC Collection",
     "stream_urls": [
@@ -1458,6 +1482,18 @@
       "https://streams.radiobob.de/bob-acdc/mp3-192/homepage/",
       "https://streams.radiobob.de/bob-acdc/aac-64/onlineradiobox/",
       "https://streams.radiobob.de/bob-acdc/aac-64/mediaplayer"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ukaEgTxlDF1x87",
+    "name": "RADIO BOB! Death Metal",
+    "stream_urls": [
+      "https://streams.radiobob.de/deathmetal/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/"
     ],
     "country": "de",
     "languages": [
@@ -1476,11 +1512,22 @@
     ]
   },
   {
-    "nanoid": "OwxDkYqtPUOs06",
-    "name": "RADIO BOB! Metalcore",
+    "nanoid": "98AxcTYJRZAgIy",
+    "name": "RADIO BOB! Livestream National",
     "stream_urls": [
-      "https://streams.radiobob.de/metalcore/mp3-192/mediaplayer",
-      "https://streams.radiobob.de/metalcore/mp3-192/streams.radiobob.de/"
+      "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "1sbGCRS7F7g6Bu",
+    "name": "RADIO BOB! Metal",
+    "stream_urls": [
+      "https://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/bob-metal/mp3-192/homepage/"
     ],
     "country": "de",
     "languages": [
@@ -1491,7 +1538,7 @@
     "nanoid": "KjUFWm8j77Sl4s",
     "name": "RADIO BOB! Metallica",
     "stream_urls": [
-      "https://streams.radiobob.de/metallica/mp3-192/mediaplayer/"
+      "https://streams.radiobob.de/metallica/mp3-192/homepage/"
     ],
     "country": "de",
     "languages": [
@@ -1503,17 +1550,6 @@
     "name": "RADIO BOB! Mittelalter Rock",
     "stream_urls": [
       "https://streams.radiobob.de/mittelalter/mp3-128/streams.radiobob.de/"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "5RekR8JYToy7Yg",
-    "name": "RADIO BOB! Motörhead",
-    "stream_urls": [
-      "https://streams.radiobob.de/motoerhead/mp3-192/homepage/"
     ],
     "country": "de",
     "languages": [
@@ -1546,11 +1582,35 @@
     "nanoid": "EyWqYPPgcZ9iUv",
     "name": "RADIO BOB! Rockparty",
     "stream_urls": [
-      "https://streams.radiobob.de/rockparty/mp3-192/mediaplayer/"
+      "https://streams.radiobob.de/rockparty/mp3-192/mediaplayer/",
+      "https://streams.radiobob.de/rockparty/mp3-192/homepage/"
     ],
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "cWZ0StHdbNbFlr",
+    "name": "RADIO BOB! Symphonic Metal",
+    "stream_urls": [
+      "https://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "3rECmNacP5nMoY",
+    "name": "RADIO BOB! Wacken Radio",
+    "stream_urls": [
+      "https://streams.radiobob.de/bob-wacken/aac-64/radiosure/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
     ]
   },
   {
@@ -1638,6 +1698,7 @@
     "nanoid": "Qb0VmUHFO0193s",
     "name": "Radio Maximum - Heavy Monday",
     "stream_urls": [
+      "https://s.fmplay.ru/3ce8899d",
       "https://heavymonday.hostingradio.ru/heavymonday96.aacp"
     ],
     "country": "ru",
@@ -1760,14 +1821,15 @@
     ]
   },
   {
-    "nanoid": "jGktPdLlW6nQMG",
-    "name": "Radio Nigga Metal",
+    "nanoid": "d8vxHM4sqUn34Z",
+    "name": "Radio Regenbogen - Metal",
     "stream_urls": [
-      "https://nigga.pt/metal.ogg"
+      "https://streams.regenbogen.de/rr-metal-128-aac",
+      "https://streams.regenbogen.de/rr-metal-128-mp3"
     ],
-    "country": "pt",
+    "country": "de",
     "languages": [
-      "por"
+      "deu"
     ]
   },
   {
@@ -2214,17 +2276,6 @@
     "name": "Rosenland",
     "stream_urls": [
       "https://rosenland.stream.laut.fm/rosenland"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "aWsBIg2J5NscIM",
-    "name": "RPR1. Heavy Metal",
-    "stream_urls": [
-      "https://stream.rpr1.de/metal/mp3-128/radiobrowser"
     ],
     "country": "de",
     "languages": [

@@ -197,19 +197,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "l2c248PtwB0qu4",
-    "name": "Guangzhou TV",
-    "stream_urls": [
-      "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f1nxbKF3lgdEIT",
     "name": "Harbin Comprehensive News Channel",
     "stream_urls": [
@@ -527,11 +514,33 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LhzYAfOxktXLl3",
+    "name": "宿州新闻综合",
+    "stream_urls": [
+      "https://live.ahsz.tv/video/s10001-szzh/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ez5NBYjpiihwmc",
+    "name": "宿州科教",
+    "stream_urls": [
+      "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A9liHrM0WT8"
+      "https://www.youtube-nocookie.com/embed/R27PW_0qLz0"
     ],
     "languages": [
       "zho"
@@ -611,6 +620,17 @@
     "name": "河源综合",
     "stream_urls": [
       "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWjSdo4t72dhtd",
+    "name": "浙江 Ⅰ 绍兴综合",
+    "stream_urls": [
+      "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -734,17 +754,6 @@
     "name": "福州电视台少儿频道 (FZTV-少儿)",
     "stream_urls": [
       "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HGBni7wKrtguXm",
-    "name": "萧山新闻综合",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

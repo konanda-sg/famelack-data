@@ -294,6 +294,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GnCb5ceUbTkz25",
+    "name": "La Cantina Memorias",
+    "stream_urls": [
+      "https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wzR0TNYEFfuhVq",
     "name": "La Hermandad Salsera",
     "stream_urls": [
@@ -333,10 +346,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
+    "nanoid": "RfchJq1KTGTlOM",
+    "name": "Mas Norte TV",
     "stream_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
+      "https://live.arnoproducciones.com/hls/norte.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -547,6 +560,19 @@
     "name": "Reyali",
     "stream_urls": [
       "https://eu1.servers10.com:8081/8090/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

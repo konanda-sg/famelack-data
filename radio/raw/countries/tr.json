@@ -182,18 +182,6 @@
     ]
   },
   {
-    "nanoid": "bYhqBnJizbJ3Zy",
-    "name": "Dinamo.fm Caffe",
-    "stream_urls": [
-      "https://channels.dinamo.fm/caffe-mp3"
-    ],
-    "country": "tr",
-    "languages": [
-      "eng",
-      "tur"
-    ]
-  },
-  {
     "nanoid": "h36Kh3HeA1pLji",
     "name": "Dinamo.fm Deep",
     "stream_urls": [
@@ -234,18 +222,6 @@
     "name": "Dinamo.fm Legacy",
     "stream_urls": [
       "https://channels.dinamo.fm/legacy-mp3"
-    ],
-    "country": "tr",
-    "languages": [
-      "eng",
-      "tur"
-    ]
-  },
-  {
-    "nanoid": "d0qzvH6sf4XpQs",
-    "name": "Dinamo.fm Live from Minimuzikhol",
-    "stream_urls": [
-      "https://channels.dinamo.fm/mmradyo-mp3"
     ],
     "country": "tr",
     "languages": [
@@ -1708,6 +1684,17 @@
     "name": "TGRT FM 93.2",
     "stream_urls": [
       "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "jo1WkcCEipf2p5",
+    "name": "TRT Diyanet Çocuk",
+    "stream_urls": [
+      "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8"
     ],
     "country": "tr",
     "languages": [

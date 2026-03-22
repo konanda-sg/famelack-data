@@ -737,7 +737,7 @@
     "name": "Made In History",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e92RRtTKDFw"
+      "https://www.youtube-nocookie.com/embed/wxTPk0LKAk4"
     ],
     "languages": [
       "en"
@@ -1176,6 +1176,19 @@
       "spa"
     ],
     "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HhUtzRJjCR6lUu",
+    "name": "TV UFOP",
+    "stream_urls": [
+      "https://app.tvufop.com.br/hls/tvufop.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {

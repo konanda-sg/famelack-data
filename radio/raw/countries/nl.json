@@ -609,7 +609,8 @@
     "name": "BredaNu",
     "stream_urls": [
       "https://icecast.bredanu.nl/high",
-      "https://icecast.bredanu.nl/bredanu.mp3"
+      "https://icecast.bredanu.nl/bredanu.mp3",
+      "https://icecast.bredanu.nl/bredanu.stl"
     ],
     "country": "nl",
     "languages": [
@@ -817,12 +818,22 @@
     "nanoid": "TdErItFzqT5aFe",
     "name": "Concertgebouworkest Webradio",
     "stream_urls": [
-      "https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192",
-      "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192",
       "https://ice.cr2.streamzilla.xlcdn.com:8000/sz%3DRCOLiveWebradio%3Daac128"
     ],
     "country": "nl",
     "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "BtHGsA17KYC17C",
+    "name": "Contikenzo",
+    "stream_urls": [
+      "https://contikenzo.beheerstream.nl:8136/stream"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
       "nld"
     ]
   },
@@ -2117,6 +2128,18 @@
     ]
   },
   {
+    "nanoid": "zPJ7rGGzTuVzdE",
+    "name": "KBC Radio",
+    "stream_urls": [
+      "https://stream01.itego.nl/kbc-low"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "8OZwmYgE3NrJZT",
     "name": "Keizerstad Classics",
     "stream_urls": [
@@ -2957,6 +2980,17 @@
     ]
   },
   {
+    "nanoid": "eZCfIveUUK7V1s",
+    "name": "Omroep Venray",
+    "stream_urls": [
+      "https://icecast.omroepvenray.nl/lov.mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "l46L4CNJ5zq9Qs",
     "name": "Omroep West",
     "stream_urls": [
@@ -3715,18 +3749,6 @@
     ]
   },
   {
-    "nanoid": "r4H7nEq6HlLumG",
-    "name": "Pyro-Tec Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/wfafmjdyhrrvv"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "nld"
-    ]
-  },
-  {
     "nanoid": "lxrTMlEAfgAnfn",
     "name": "Pyro-Tec Retro",
     "stream_urls": [
@@ -4098,6 +4120,18 @@
     ],
     "country": "nl",
     "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "bTYRm8Ih51xBMD",
+    "name": "Radio Calypso",
+    "stream_urls": [
+      "https://mcp-1.streampanel.nl:8024/mobiel"
+    ],
+    "country": "nl",
+    "languages": [
+      "deu",
       "nld"
     ]
   },
@@ -4936,6 +4970,18 @@
     ]
   },
   {
+    "nanoid": "Q98fLqpb6XIlU0",
+    "name": "Radionickita",
+    "stream_urls": [
+      "https://fra-pioneer08.dedicateware.com:1685/stream"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "lYaOCIqxVsxZTh",
     "name": "RADIONL",
     "stream_urls": [
@@ -5634,6 +5680,17 @@
     ]
   },
   {
+    "nanoid": "DVuhjyRbPumUTY",
+    "name": "Station AMG",
+    "stream_urls": [
+      "https://stream.rcast.net/71079"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "Is7z59mlpJPUfW",
     "name": "Station Mooi Dat Kan",
     "stream_urls": [
@@ -5784,8 +5841,7 @@
     "nanoid": "llajRjda2BS7wB",
     "name": "The Finest",
     "stream_urls": [
-      "https://ex52.voordeligstreamen.nl/8206/stream",
-      "https://live.thefinest.amsterdam/hq"
+      "https://ex52.voordeligstreamen.nl/8206/stream"
     ],
     "country": "nl",
     "languages": [
@@ -6021,6 +6077,18 @@
     ]
   },
   {
+    "nanoid": "KA36aPlNVNZMC5",
+    "name": "WestRadio",
+    "stream_urls": [
+      "https://streaming.westradio.nl/WestRadio-aac-96"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "1rQLuqSghHRHR2",
     "name": "WGRV.FM",
     "stream_urls": [
@@ -6148,17 +6216,6 @@
     "name": "ZFM Zandvoort",
     "stream_urls": [
       "https://icecast.bytesheep.net/zfmzandvoort.mp3"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "sHbT9ZzzSEzHNt",
-    "name": "ZuidWest FM",
-    "stream_urls": [
-      "https://icecast.zuidwestfm.nl/zuidwest.aac"
     ],
     "country": "nl",
     "languages": [

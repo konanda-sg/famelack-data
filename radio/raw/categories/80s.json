@@ -46,6 +46,18 @@
     ]
   },
   {
+    "nanoid": "yJE9ypZh8Omnlk",
+    "name": "0nlineradio 80s Rock",
+    "stream_urls": [
+      "https://0nlineradio.radioho.st/0r-80s-rock"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "YyJnaLl2wx82Za",
     "name": "0nlineradio Greatest Hits",
     "stream_urls": [
@@ -231,6 +243,7 @@
     "nanoid": "T6bJYo2F3REJSR",
     "name": "101FM - 80er",
     "stream_urls": [
+      "https://0-24_80er_pop_rock.stream.laut.fm/0-24_80er_pop_rock",
       "https://0-2480erpoprock.stream.laut.fm/0-24_80er_pop_rock"
     ],
     "country": "de",
@@ -483,17 +496,6 @@
     ]
   },
   {
-    "nanoid": "rgco3ojQ4iC3KH",
-    "name": "80er-Radio harmony",
-    "stream_urls": [
-      "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "JJmh5FekqzXZlQ",
     "name": "80er-Revival",
     "stream_urls": [
@@ -684,7 +686,8 @@
     "nanoid": "pQcEDos8WBs3SY",
     "name": "80s80s Alternative",
     "stream_urls": [
-      "https://streams.80s80s.de/alternative/mp3-192"
+      "https://streams.80s80s.de/alternative/mp3-192",
+      "https://streams.80s80s.de/alternative/mp3-192/homepage/"
     ],
     "country": "de",
     "languages": [
@@ -707,6 +710,40 @@
     "name": "80s80s Breakdance",
     "stream_urls": [
       "https://streams.80s80s.de/breakdance/mp3-192/homepage"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "sTXLwVhQr9WSTf",
+    "name": "80s80s Christmas",
+    "stream_urls": [
+      "https://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "tOPwnalgHSFm7K",
+    "name": "80s80s Dance",
+    "stream_urls": [
+      "https://regiocast.streamabc.net/regc-80s80sdance2523717-aacplus-64-1061596",
+      "https://streams.80s80s.de/dance/mp3-192/homepage/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "aTeLWzQui05yAt",
+    "name": "80s80s Dark Wave",
+    "stream_urls": [
+      "https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123"
     ],
     "country": "de",
     "languages": [
@@ -748,6 +785,17 @@
     ]
   },
   {
+    "nanoid": "hvNuPQTdtmlAce",
+    "name": "80s80s Italo Disco",
+    "stream_urls": [
+      "https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "Z2qY6sUhTwaL7C",
     "name": "80s80s Live",
     "stream_urls": [
@@ -774,7 +822,10 @@
     "nanoid": "aUfXGILFOoX2sw",
     "name": "80s80s Maxis",
     "stream_urls": [
-      "https://streams.80s80s.de/web/mp3-192/homepage/"
+      "https://streams.80s80s.de/web/mp3-192/homepage/",
+      "https://regiocast.streamabc.net/regc-80s80smaxis2114493-mp3-192-5359027",
+      "https://streams.80s80s.de/maxis/mp3-192",
+      "https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de/"
     ],
     "country": "de",
     "languages": [
@@ -786,6 +837,28 @@
     "name": "80s80s Michael Jackson",
     "stream_urls": [
       "https://streams.80s80s.de/mj/mp3-192/streams.80s80s.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Fp5kGn7iiH6LCz",
+    "name": "80s80s NDS",
+    "stream_urls": [
+      "https://streams.80s80s.de/nds/mp3-192/streams.80s80s.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "dNecmGi1zTByNK",
+    "name": "80s80s NDW",
+    "stream_urls": [
+      "https://streams.80s80s.de/ndw/mp3-192/streams.80s80s.de/"
     ],
     "country": "de",
     "languages": [
@@ -820,6 +893,28 @@
     "name": "80s80s Pop Stories",
     "stream_urls": [
       "https://regiocast.streamabc.net/regc-80s80spopstories-mp3-192-9460042"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "CnMGAGaSpFUegQ",
+    "name": "80s80s Prince",
+    "stream_urls": [
+      "https://streams.80s80s.de/100/mp3-192/streams.80s80s.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "gNBjPAqBMvbAw4",
+    "name": "80s80s Queen",
+    "stream_urls": [
+      "https://streams.80s80s.de/queen/mp3-192/streams.80s80s.de/"
     ],
     "country": "de",
     "languages": [
@@ -873,6 +968,28 @@
     "name": "80s80s Soul Ballads",
     "stream_urls": [
       "https://streams.80s80s.de/soulballads/mp3-192/streams.80s80s.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "D6CjKjdEmmHlVk",
+    "name": "80s80s Summerhits",
+    "stream_urls": [
+      "https://streams.80s80s.de/summerhits/mp3-192/streams.80s80s.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ACsmbQaKnjKDeu",
+    "name": "80s80s Techno",
+    "stream_urls": [
+      "https://regiocast.streamabc.net/regc-80s80stechno-mp3-192-6907852"
     ],
     "country": "de",
     "languages": [
@@ -1128,9 +1245,7 @@
     "nanoid": "TxzSeLYZ6cS25I",
     "name": "antenne SACHSEN",
     "stream_urls": [
-      "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3",
-      "https://edge69.radio.antennesachsen.de/antsa-dresden",
-      "https://edge13.radio.antennesachsen.de/antsa-dresden"
+      "https://edge69.radio.antennesachsen.de/antsa-dresden"
     ],
     "country": "de",
     "languages": [
@@ -1144,18 +1259,6 @@
       "https://edge84.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
       "https://edge01.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
       "https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "POHkszHmYCQl0r",
-    "name": "ANTENNE THÜRINGEN",
-    "stream_urls": [
-      "https://stream.antennethueringen.de/live/mp3-128/",
-      "https://stream.antennethueringen.de/live/mp3-128"
     ],
     "country": "de",
     "languages": [
@@ -1199,8 +1302,7 @@
     "nanoid": "jKuBthLREVpJJV",
     "name": "Arabella Bayern",
     "stream_urls": [
-      "https://live.stream.radioarabella.de/radioarabella-bayern",
-      "https://live.stream.radioarabella.de/radioarabella-bayern/stream/mp3"
+      "https://live.stream.radioarabella.de/radioarabella-bayern"
     ],
     "country": "de",
     "languages": [
@@ -1227,6 +1329,17 @@
     "country": "it",
     "languages": [
       "ita"
+    ]
+  },
+  {
+    "nanoid": "bScjqNwqC2iicf",
+    "name": "Back In Time",
+    "stream_urls": [
+      "https://back_in_time.stream.laut.fm/back_in_time"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -1688,17 +1801,6 @@
     ]
   },
   {
-    "nanoid": "2EiWjNfygJ4xXs",
-    "name": "Club Music Radio - 70s 80s 90s",
-    "stream_urls": [
-      "https://cmr-hosting.com:7003/;stream/1"
-    ],
-    "country": "hr",
-    "languages": [
-      "hrv"
-    ]
-  },
-  {
     "nanoid": "oH36bsTWvNclsc",
     "name": "Coast 2 Coast Radio Australia",
     "stream_urls": [
@@ -2019,10 +2121,7 @@
     "name": "FluxFM 80s",
     "stream_urls": [
       "https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107",
-      "https://fluxfm.streamabc.net/flx-80er-mp3-128-8386455",
-      "https://fluxfm.streamabc.net/flx-80er-aacplus-64-7776977",
-      "https://streams.fluxfm.de/80er/mp3-320/streams.fluxfm.de/",
-      "https://streams.fluxfm.de/80er/mp3-128/fluxfm.de_webplayer/"
+      "https://fluxfm.streamabc.net/flx-80er-aacplus-64-7776977"
     ],
     "country": "de",
     "languages": [
@@ -2293,17 +2392,6 @@
     "name": "HAMBURG ZWEI",
     "stream_urls": [
       "https://frontend.streamonkey.net/hh2-950"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "1IThDfWkH2BgIX",
-    "name": "harmony.fm",
-    "stream_urls": [
-      "https://mp3.harmonyfm.de/harmonyfm/livestream.aac"
     ],
     "country": "de",
     "languages": [
@@ -3663,17 +3751,6 @@
     ]
   },
   {
-    "nanoid": "gHqVHIJbotEwcy",
-    "name": "ON Evergreens",
-    "stream_urls": [
-      "https://0n-evergreens.radionetz.de/0n-evergreens.mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "0EsluFH9O1TKsY",
     "name": "ON Greatest Hits",
     "stream_urls": [
@@ -4052,6 +4129,28 @@
     ]
   },
   {
+    "nanoid": "98AxcTYJRZAgIy",
+    "name": "RADIO BOB! Livestream National",
+    "stream_urls": [
+      "https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "BK5ne3B9XTOlWu",
+    "name": "Radio Brocken 80er",
+    "stream_urls": [
+      "https://stream.radiobrocken.de/80er/mp3-256"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "GaZdu4rlhEhxfp",
     "name": "Radio City 102.8 FM",
     "stream_urls": [
@@ -4120,43 +4219,10 @@
     ]
   },
   {
-    "nanoid": "qYlmd6hNHucdTJ",
-    "name": "Radio Dresden 80er",
-    "stream_urls": [
-      "https://streaming.radiodresden.de/radio-dresden_80er_192k_mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "4Pqco96EKY893c",
     "name": "Radio Emscher Lippe - Dein 80er Radio",
     "stream_urls": [
       "https://rnrw.cast.addradio.de/rnrw-0166/dein80er/high/stream.mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "B0paocuLzUiGbD",
-    "name": "Radio Erzgebirge - 80er Kulthits",
-    "stream_urls": [
-      "https://streams.bcs-systems.de/slp/80er/erzgebirge/mp3/radioplayer/web"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "cUUUYvS1Zwz1zZ",
-    "name": "Radio Erzgebirge 80er Kulthits",
-    "stream_urls": [
-      "https://streaming.radioerzgebirge.de/radio-erzgebirge_80er_192k_mp3"
     ],
     "country": "de",
     "languages": [
@@ -4634,8 +4700,7 @@
     "nanoid": "I4TFIW1MzUJUjx",
     "name": "Radio Regenbogen 80er",
     "stream_urls": [
-      "https://streams.regenbogen.de/rr-80er-128-mp3",
-      "https://stream.regenbogen.de/80er/mp3-128/radiobrowser"
+      "https://streams.regenbogen.de/rr-80er-128-mp3"
     ],
     "country": "de",
     "languages": [
@@ -4673,6 +4738,17 @@
     "country": "pe",
     "languages": [
       "spa"
+    ]
+  },
+  {
+    "nanoid": "Cm52umAh2cZqAk",
+    "name": "radio SAW 80er",
+    "stream_urls": [
+      "https://stream.saw-musikwelt.de/saw-80er/mp3-128/radio-browser/stream.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -4881,6 +4957,19 @@
     ]
   },
   {
+    "nanoid": "hcyAYUs1JogWQH",
+    "name": "RauteMusik Main",
+    "stream_urls": [
+      "https://main-high.rautemusik.fm/",
+      "https://rautemusik-de-hz-fal-stream11.radiohost.de/main_aacp",
+      "https://main-aacp.rautemusik.fm/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "RZCdfAyYLxs0VC",
     "name": "rbb 88.8",
     "stream_urls": [
@@ -5042,6 +5131,17 @@
     ]
   },
   {
+    "nanoid": "4FwSVBKAri4vkx",
+    "name": "Rewind Radio Cornwall",
+    "stream_urls": [
+      "https://s4.radio.co/s2eaa194f6/listen"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "RLZ26HkAxbLoXe",
     "name": "RFM 80",
     "stream_urls": [
@@ -5194,7 +5294,7 @@
     "nanoid": "BVxK7Xg2Xg5koT",
     "name": "RPR1. 80er",
     "stream_urls": [
-      "https://streams.rpr1.de/rpr-80er-128-aac"
+      "https://streams.rpr1.de/rpr-80er-128-mp3"
     ],
     "country": "de",
     "languages": [
@@ -5202,10 +5302,10 @@
     ]
   },
   {
-    "nanoid": "7vQejBcH9cX4oN",
-    "name": "RPR1. Flashback",
+    "nanoid": "nU9vKKVGtCE2iT",
+    "name": "RPR1. 80er Rock",
     "stream_urls": [
-      "https://stream.rpr1.de/flashback/mp3-128/radiobrowser"
+      "https://streams.rpr1.de/rpr-80errock-128-mp3"
     ],
     "country": "de",
     "languages": [
@@ -5243,6 +5343,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "AahsurKe3bkdW9",
+    "name": "RTL 100% 80",
+    "stream_urls": [
+      "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl100pc80/130/audio-64000/index.m3u8"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
     ]
   },
   {
@@ -5510,8 +5621,7 @@
     "nanoid": "Ti2VTWElVhBNg6",
     "name": "sunshine live - Die 80er",
     "stream_urls": [
-      "https://stream.sunshine-live.de/80er/mp3-192",
-      "https://stream.sunshine-live.de/80er/mp3-192/stream.sunshine-live.de/"
+      "https://stream.sunshine-live.de/80er/mp3-192"
     ],
     "country": "de",
     "languages": [
@@ -6013,7 +6123,6 @@
     "nanoid": "aflZnU1NjaxacI",
     "name": "Vinyl Hits",
     "stream_urls": [
-      "https://stream.vinylhits.dk/vinylaac",
       "https://stream.vinylhits.dk/vinylmp3"
     ],
     "country": "dk",

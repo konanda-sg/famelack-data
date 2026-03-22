@@ -344,17 +344,6 @@
     ]
   },
   {
-    "nanoid": "P0Jl3qShuQyboB",
-    "name": "Gema Surya FM",
-    "stream_urls": [
-      "https://r5.siar.us:9420/aac.m4a"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "3xVOEEsCpRoGUi",
     "name": "Hard Rock FM Bandung",
     "stream_urls": [
@@ -371,6 +360,17 @@
     "stream_urls": [
       "https://n13.radiojar.com/7csmg90fuqruv",
       "https://stream.radiojar.com/7csmg90fuqruv"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "GM8W0iuKHzvj0H",
+    "name": "Hard Rock FM Surabaya",
+    "stream_urls": [
+      "https://n0c.radiojar.com/yg8ne2v80k8uv"
     ],
     "country": "id",
     "languages": [
@@ -472,17 +472,6 @@
     "name": "Insania FM Mataram",
     "stream_urls": [
       "https://stream-sg1.galuhmedia.co.id/listen/insaniamataram/876mataram"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "Cx3WwKqY8o2VwS",
-    "name": "Insania FM Sorong",
-    "stream_urls": [
-      "https://stream-sg1.galuhmedia.co.id/listen/insaniasorong/887sorong"
     ],
     "country": "id",
     "languages": [
@@ -700,29 +689,6 @@
     ]
   },
   {
-    "nanoid": "rNAGbjAfkbxW70",
-    "name": "Mettaswara 2000",
-    "stream_urls": [
-      "https://mettaswara.com:8700//theonest"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "yGm9i85yo4808g",
-    "name": "Mettaswara Koplo",
-    "stream_urls": [
-      "https://mettaswara.com:8700//koplo"
-    ],
-    "country": "id",
-    "languages": [
-      "ind",
-      "jav"
-    ]
-  },
-  {
     "nanoid": "8yuej5pY4PAEMu",
     "name": "MFM 101.3",
     "stream_urls": [
@@ -737,8 +703,7 @@
     "nanoid": "c6K8u6Em8vWg3c",
     "name": "MGT Radio",
     "stream_urls": [
-      "https://sukmben.radiogentara.com/listen/mgtradio/mgtradio",
-      "https://s1.gntr.net/listen/mgtradio/mgtradio"
+      "https://sukmben.radiogentara.com/listen/mgtradio/mgtradio"
     ],
     "country": "id",
     "languages": [
@@ -767,18 +732,6 @@
     "languages": [
       "eng",
       "ind"
-    ]
-  },
-  {
-    "nanoid": "tewUXzGRKqAoax",
-    "name": "Nur FM Rembang",
-    "stream_urls": [
-      "https://ssi.streamingmurah.com:8002/live"
-    ],
-    "country": "id",
-    "languages": [
-      "ind",
-      "jav"
     ]
   },
   {
@@ -875,17 +828,6 @@
     "name": "Radio Alternatif FM 98.1",
     "stream_urls": [
       "https://void.idserverhost.com:8016/stream/1/"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "zUzp07LyHnaX17",
-    "name": "Radio AR Bali",
-    "stream_urls": [
-      "https://live.radioarbali.com:8450/radioar"
     ],
     "country": "id",
     "languages": [
@@ -1028,6 +970,17 @@
     ]
   },
   {
+    "nanoid": "vCTXoxzyRx3vIu",
+    "name": "Radio Hidayah 103.4 FM",
+    "stream_urls": [
+      "https://radioislamindonesia.com/radiohidayah.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "qI4p82QlIleODZ",
     "name": "Radio Ichthus FM",
     "stream_urls": [
@@ -1076,17 +1029,6 @@
     "name": "Radio Losta FM Blitar",
     "stream_urls": [
       "https://stream.zeno.fm/ar3nv92ahfhvv"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "AFMEhQcuC6hAnk",
-    "name": "Radio Luhak Nan Tuo 102.5 FM",
-    "stream_urls": [
-      "https://stream2.jejestreaming.com:8100/stream"
     ],
     "country": "id",
     "languages": [
@@ -1375,17 +1317,6 @@
     ]
   },
   {
-    "nanoid": "WxQQWmPZX6U1sg",
-    "name": "RRI Pro 1 Atambua",
-    "stream_urls": [
-      "https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "07TtOgtI40I99D",
     "name": "RRI Pro 1 Banda Aceh",
     "stream_urls": [
@@ -1474,17 +1405,6 @@
     ]
   },
   {
-    "nanoid": "SrwioqTOGD6xnp",
-    "name": "RRI Pro 1 Nias Selatan",
-    "stream_urls": [
-      "https://stream-node1.rri.co.id/streaming/20/9220/rriniasselatanpro1.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "EZz7EqzUouOCFd",
     "name": "RRI Pro 1 Palembang",
     "stream_urls": [
@@ -1500,28 +1420,6 @@
     "name": "RRI Pro 1 Purwokerto",
     "stream_urls": [
       "https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "zHi9cQGCvNkdwR",
-    "name": "RRI Pro 1 Ranai",
-    "stream_urls": [
-      "https://stream-node0.rri.co.id/streaming/24/9124/rriranaipro1.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "8ZdRfKRq13lOSI",
-    "name": "RRI Pro 1 Sungailiat",
-    "stream_urls": [
-      "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro1.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1606,17 +1504,6 @@
     ]
   },
   {
-    "nanoid": "dvw7FEITmGMxkQ",
-    "name": "RRI Pro 2 Sungailiat",
-    "stream_urls": [
-      "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro2.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "7EApaEM4P9wR9K",
     "name": "RRI Pro 2 Surabaya",
     "stream_urls": [
@@ -1676,6 +1563,17 @@
     "name": "RRI Pro 4 Manado",
     "stream_urls": [
       "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "F0ZOSMemEBf7tx",
+    "name": "RRI Pro 4 Palembang",
+    "stream_urls": [
+      "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro4.mp3"
     ],
     "country": "id",
     "languages": [

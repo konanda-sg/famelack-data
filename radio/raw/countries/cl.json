@@ -1041,17 +1041,6 @@
     ]
   },
   {
-    "nanoid": "wl7NH0gwGZAwD3",
-    "name": "Radio Crystal",
-    "stream_urls": [
-      "https://radiolatina.live/9980/;"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "r9wuRSBrf0HZwJ",
     "name": "Radio Del Maipo",
     "stream_urls": [
@@ -1090,7 +1079,6 @@
     "name": "Radio Dulce",
     "stream_urls": [
       "https://stream.zeno.fm/3yv0enxnp7zuv",
-      "https://stream.zeno.fm/bx6zuwssrnjvv",
       "https://stream.zeno.fm/yo6udiulqhbvv",
       "https://stream.zeno.fm/kc5hofr05tavv",
       "https://stream.zeno.fm/uftblekcpxguv",
@@ -1862,6 +1850,17 @@
     "name": "Radio Sunrise Online",
     "stream_urls": [
       "https://sonic-cl.arkeo.cl/8044/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ywg6zdZlawG2rs",
+    "name": "Radio Tiempo Salvador",
+    "stream_urls": [
+      "https://cast235.indax.cl/8024/stream"
     ],
     "country": "cl",
     "languages": [

@@ -37,8 +37,7 @@
     "nanoid": "4y2s0iWYqCFx80",
     "name": "987FM",
     "stream_urls": [
-      "https://14033.live.streamtheworld.com/987FM_SC",
-      "https://22393.live.streamtheworld.com/987FM_PREM.aac"
+      "https://14033.live.streamtheworld.com/987FM_SC"
     ],
     "country": "sg",
     "languages": [
@@ -104,17 +103,6 @@
     ]
   },
   {
-    "nanoid": "GwJhya1PpQmXPS",
-    "name": "Gold 905",
-    "stream_urls": [
-      "https://22403.live.streamtheworld.com/GOLD905_SC"
-    ],
-    "country": "sg",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "cKsDwmsayH0ZmW",
     "name": "Kiss92",
     "stream_urls": [
@@ -170,17 +158,6 @@
     "country": "sg",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "4AkDUUkpfp88sS",
-    "name": "Ria 897",
-    "stream_urls": [
-      "https://22393.live.streamtheworld.com/RIA897FM_SC"
-    ],
-    "country": "sg",
-    "languages": [
-      "msa"
     ]
   },
   {

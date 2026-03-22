@@ -670,6 +670,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OYw2cXxtunYzyV",
+    "name": "Rakuten VIKI",
+    "stream_urls": [
+      "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vosJ1MimmKjovt",
     "name": "Roya Drama",
     "stream_urls": [
@@ -1125,19 +1138,6 @@
       "rus"
     ],
     "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
     "country": "ru",
     "isGeoBlocked": false
   },

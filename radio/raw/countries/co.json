@@ -503,6 +503,17 @@
     ]
   },
   {
+    "nanoid": "xWebnuYysxF7UE",
+    "name": "Brisas del San Juan 106.3 FM",
+    "stream_urls": [
+      "https://virtualtronics.net/proxy/brisasdelsanjuan"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "MKqwVNUnJpOziA",
     "name": "Brutal 91.9 FM",
     "stream_urls": [
@@ -661,6 +672,17 @@
     "name": "Calentura Stereo",
     "stream_urls": [
       "https://emisorasdigitales2.com/8174/stream"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "REZc6nTlb9W44U",
+    "name": "Calidad Stereo 100.6 FM",
+    "stream_urls": [
+      "https://sonic.paulatina.co/7070/stream.mp3/live"
     ],
     "country": "co",
     "languages": [
@@ -1109,17 +1131,6 @@
     ]
   },
   {
-    "nanoid": "AFEMT4yyFzsDU5",
-    "name": "Emisora Mariana 1400 AM",
-    "stream_urls": [
-      "https://servidor24.brlogic.com:7654/live"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "H6imdDblmkpE5s",
     "name": "Emisora Minuto de Dios (Bogotá) 107.9 FM",
     "stream_urls": [
@@ -1175,10 +1186,10 @@
     ]
   },
   {
-    "nanoid": "ckHJHdbBp9XpOR",
-    "name": "Energía 103.7",
+    "nanoid": "MLuHbn862K1ea8",
+    "name": "Exitosa Stereo 107.8 FM",
     "stream_urls": [
-      "https://radiostreamcolombia.albpo.com:8070/radio.mp3"
+      "https://stream.zeno.fm/zx3zzt5vvjdtv"
     ],
     "country": "co",
     "languages": [
@@ -1186,10 +1197,10 @@
     ]
   },
   {
-    "nanoid": "MLuHbn862K1ea8",
-    "name": "Exitosa Stereo 107.8 FM",
+    "nanoid": "nnV465X0CdvGRC",
+    "name": "Fanática Stereo",
     "stream_urls": [
-      "https://stream.zeno.fm/zx3zzt5vvjdtv"
+      "https://stream.zeno.fm/virlugnz0nmvv"
     ],
     "country": "co",
     "languages": [
@@ -1330,6 +1341,17 @@
     ]
   },
   {
+    "nanoid": "zhx3w7mQmU5A20",
+    "name": "Himnos Cristianos del Ayer",
+    "stream_urls": [
+      "https://stream.zeno.fm/vkancadp2v8uv"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "U5iNrktCO41yH9",
     "name": "HJ Doble K 840 AM",
     "stream_urls": [
@@ -1389,17 +1411,6 @@
     "name": "Jazmar Estéreo 101.3 FM",
     "stream_urls": [
       "https://radiohd.streaminghd.co:9398/stream"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "DPUh6fzvgxGU1X",
-    "name": "Juventud Stereo 101.9 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/8dp0r5hamzzuv"
     ],
     "country": "co",
     "languages": [
@@ -1766,6 +1777,17 @@
     "stream_urls": [
       "https://stream.zeno.fm/phybdd3ph98uv",
       "https://stream.zeno.fm/phybdd3ph98uv/;type=mp3"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Mb2OMyTCTIeDgp",
+    "name": "La Voz de la Liberación Ibagué",
+    "stream_urls": [
+      "https://stream.zeno.fm/2wyefrmuruhvv"
     ],
     "country": "co",
     "languages": [
@@ -2494,6 +2516,17 @@
     ]
   },
   {
+    "nanoid": "CcIpHo8v7akXk2",
+    "name": "Radio Informativa de Colombia",
+    "stream_urls": [
+      "https://stream.zeno.fm/uhaugz8qk3rtv"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "eeP1WZTUXLxCRS",
     "name": "Radio Laodicea",
     "stream_urls": [
@@ -2751,10 +2784,10 @@
     ]
   },
   {
-    "nanoid": "O2PIn0C6Miv2Xb",
-    "name": "Radio Viva Fénix 780 AM",
+    "nanoid": "Rma3j54er1n20M",
+    "name": "Radio Viva Fénix 89.1 FM",
     "stream_urls": [
-      "https://radiolatina.info/8166/stream"
+      "https://radiolatina.info/8170/stream"
     ],
     "country": "co",
     "languages": [
@@ -3411,6 +3444,17 @@
     "name": "Worproducer Radio",
     "stream_urls": [
       "https://stream.zeno.fm/d8mxhnset7zuv"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "iQMf64nYFnfhJK",
+    "name": "Yeikon Demonio",
+    "stream_urls": [
+      "https://stream.zeno.fm/60nboncgcmavv"
     ],
     "country": "co",
     "languages": [
