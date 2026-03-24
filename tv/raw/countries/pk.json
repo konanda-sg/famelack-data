@@ -18,25 +18,12 @@
     "name": "92 NEWS HD",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0qibTEWsk0A"
+      "https://www.youtube-nocookie.com/embed/mKt_LduCAyQ"
     ],
     "languages": [
       "urd"
     ],
     "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rU6vHTb2mU89s2",
-    "name": "Aaj Entertainment",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
-    ],
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -95,15 +82,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AdIl1CSIOqCaJ6",
-    "name": "Bol Entertainment",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8"
+    "nanoid": "cZ9d48TM7BDXBM",
+    "name": "Awaz Tv News",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YM4_d67tWAw"
     ],
-    "youtube_urls": [],
     "languages": [
-      "urd"
+      "sd"
     ],
+    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -210,19 +198,6 @@
     "stream_urls": [
       "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
       "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4xxsG81BRkH6LA",
-    "name": "Express Entertainment",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -500,7 +475,7 @@
     "name": "KTN NEWS TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gyMHng9_0PE"
+      "https://www.youtube-nocookie.com/embed/b3Ey0C5bM9U"
     ],
     "languages": [
       "sd"
@@ -655,19 +630,6 @@
       "urd"
     ],
     "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DzzedUhln9Zwfs",
-    "name": "SAB TV",
-    "stream_urls": [
-      "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
-    ],
     "country": "pk",
     "isGeoBlocked": false
   },

@@ -222,19 +222,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dXHXpcJZT8sCe9",
-    "name": "La Fabulosa Radio y TV",
-    "stream_urls": [
-      "https://eu1.servers10.com:8081/8004/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qm7kjjw4XjKxtz",
     "name": "Mega TV Jaen",
     "stream_urls": [
@@ -476,32 +463,6 @@
     "youtube_urls": [],
     "languages": [
       "aym"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JAu8npSaIqe0rd",
-    "name": "TV Peru Internacional",
-    "stream_urls": [
-      "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tgMJA8Yrpo64wp",
-    "name": "TV Peru Noticias",
-    "stream_urls": [
-      "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
     ],
     "country": "pe",
     "isGeoBlocked": false

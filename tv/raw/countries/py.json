@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BZ9ohjnwvpwyuR",
-    "name": "Cosmos TV",
-    "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RszKNvM58V3E5m",
     "name": "Dismar Radio TV",
     "stream_urls": [

@@ -201,20 +201,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xk2bL1B2O6nqIC",
-    "name": "CNC Bugavisión",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/cncbuga.m3u8",
-      "https://video.ejeserver.com/live/cncbuga.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b33gHrv8dtanp4",
     "name": "CNC Santander de Quilichao",
     "stream_urls": [
@@ -333,6 +319,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ip9MDCdkimyNqv",
+    "name": "Luna Estéreo 106.4 FM",
+    "stream_urls": [
+      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2RNOyGKRiGPXuw",
     "name": "MasMusica FM",
     "stream_urls": [
@@ -425,6 +424,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "snUHMUBtSh5kZt",
+    "name": "Memorias TV Toons",
+    "stream_urls": [
+      "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v84rF2TjmPJMTT",
     "name": "Memorias TV Tropical",
     "stream_urls": [
@@ -448,6 +460,19 @@
       "spa"
     ],
     "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZBrkRLlKR8dvbe",
+    "name": "NSTV",
+    "stream_urls": [
+      "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
     "country": "co",
     "isGeoBlocked": false
   },

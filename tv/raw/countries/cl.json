@@ -199,7 +199,7 @@
     "name": "Chilevisión",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n1zwBaOf6mg"
+      "https://www.youtube-nocookie.com/embed/WUZb7C5-61s"
     ],
     "languages": [
       "spa"
@@ -379,6 +379,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LtuGw8CUEvQRPo",
+    "name": "La Popular TV",
+    "stream_urls": [
+      "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O37bey4UFDgp1Q",
     "name": "Latina Network TV (576i)",
     "stream_urls": [
@@ -396,25 +409,12 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Omjr4bAhAUw"
+      "https://www.youtube-nocookie.com/embed/riPKLE2Tpgo"
     ],
     "languages": [
       "spa"
     ],
     "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rFCQYWbNPQlvWE",
-    "name": "MTNA TV",
-    "stream_urls": [
-      "https://live.mtna.tv/hls/mtna/mtna.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
     "country": "cl",
     "isGeoBlocked": false
   },
@@ -489,7 +489,9 @@
     "stream_urls": [
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/895bdtdEPoo"
+    ],
     "languages": [
       "spa"
     ],

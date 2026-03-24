@@ -358,6 +358,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FJtzLdZFsgH9Sj",
+    "name": "Ekran Movies",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lRHRzjgUVRLYir",
     "name": "Filmex (Xumo)",
     "stream_urls": [
@@ -410,10 +423,128 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "rJv1freH8fF0Qu",
+    "name": "GEM Bollywood",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lRQCuI9mFxyWvf",
+    "name": "GEM Drama",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z3Q6N01sHoYLWs",
+    "name": "GEM Drama Plus",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XOjUmZp6nL6Jqx",
+    "name": "GEM Film",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "en2fVlMS3A0323",
+    "name": "GEM Onyx",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fN7GQX8c6GD2uU",
     "name": "GEM Pixel",
     "stream_urls": [
-      "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8"
+      "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
+      "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dbKOvZEw7naFJZ",
+    "name": "GEM Rubix",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "woSwlmzFE87rfp",
+    "name": "GEM Rubix Plus",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "andOHWfMMNi0tK",
+    "name": "GEM TV",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cMA4Z4YzDINUPH",
+    "name": "GEM TV Plus",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -938,8 +1069,7 @@
     "nanoid": "OO4sfDrtpxEZzI",
     "name": "MyTime Movie Network",
     "stream_urls": [
-      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
-      "https://mytime-tcl.amagi.tv/playlist.m3u8"
+      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1249,6 +1379,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jLlxOKRQAsHJaj",
+    "name": "Rakuten TV Drama Movies Finland",
+    "stream_urls": [
+      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fin"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EaeTZ1F3YbDKxk",
     "name": "Rakuten TV Drama Movies Germany",
     "stream_urls": [
@@ -1288,6 +1431,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tofHYJp7SflK4T",
+    "name": "Rakuten TV Drama Movies UK",
+    "stream_urls": [
+      "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hfwTzzqbXODdPh",
     "name": "Rakuten TV Family Movies Finland",
     "stream_urls": [
@@ -1296,19 +1452,6 @@
     "youtube_urls": [],
     "languages": [
       "fin"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "47gMxXtvKDDhIZ",
-    "name": "Rakuten TV Family Movies Germany",
-    "stream_urls": [
-      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1561,6 +1704,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XuWfe4a08uRwNd",
+    "name": "T2 Movies",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "w47DW29bnDBimX",
     "name": "TokuSHOUTsu: Jackie Chan Movie Marathon",
     "stream_urls": [],
@@ -1651,19 +1807,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jznTuWIBt2HrkT",
-    "name": "ZB Cinema",
-    "stream_urls": [
-      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1838,10 +1981,88 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ujlkE2Qc3sujr0",
+    "name": "Сити Эдем КиноДетектив",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41327/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Jqp4ZHvmJjGFio",
+    "name": "Сити Эдем КиноДрама",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/45269/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3bwrLU3me5VJ37",
+    "name": "Сити Эдем КиноКлассика",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LN1hGmRGEKcWz7",
+    "name": "Сити Эдем КиноКомедия",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41331/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6NRgQX5F3uvhNk",
+    "name": "Сити Эдем КиноМистика",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pqEgU0y3jnIV9h",
     "name": "Сити Эдем КиноФантастика",
     "stream_urls": [
       "https://cityeden.catcast.tv/content/45268/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ID6NJjfwQAnwkN",
+    "name": "Сити Эдем КиноЭкшен",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41333/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

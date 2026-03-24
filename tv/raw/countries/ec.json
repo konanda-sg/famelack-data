@@ -403,6 +403,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4ytSfKDZHX9kDO",
+    "name": "Ondas Quevedeñas TV",
+    "stream_urls": [
+      "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LRZplckRTbzRYe",
     "name": "Oromar TV",
     "stream_urls": [

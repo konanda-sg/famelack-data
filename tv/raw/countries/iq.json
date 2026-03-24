@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F9S4QFLYWa9FpX",
-    "name": "Al-Sharqiya News",
-    "stream_urls": [
-      "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oH3JHlocRjrWih",
     "name": "Alquran",
     "stream_urls": [
@@ -183,6 +170,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HjSyVfRfsJOuSb",
+    "name": "Iraq Future",
+    "stream_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GNcGmADBjc6NVP",
+    "name": "Kurd Channel",
+    "stream_urls": [
+      "https://kurdchhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9RdvwjYBwgdvbP",
+    "name": "Kurdistan TV",
+    "stream_urls": [
+      "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uNdIMJAevPIVAV",
     "name": "Kurdistan24",
     "stream_urls": [],
@@ -266,6 +292,19 @@
     "name": "Mixkurdy",
     "stream_urls": [
       "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z1xarEkNQ77Icp",
+    "name": "Payam TV",
+    "stream_urls": [
+      "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

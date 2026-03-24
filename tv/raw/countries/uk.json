@@ -398,7 +398,7 @@
     "name": "Crafter's TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/D1PWArEOnGk"
+      "https://www.youtube-nocookie.com/embed/enie2-wG27E"
     ],
     "languages": [
       "eng"
@@ -761,6 +761,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hZnck01GsH43td",
+    "name": "Kalemeh TV",
+    "stream_urls": [
+      "https://klmhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1ofGe1QGySoTAU",
     "name": "Kanal Jadid",
     "stream_urls": [
@@ -819,6 +832,19 @@
     "youtube_urls": [],
     "languages": [
       "mal"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uRulb7ZJ6GHCyf",
+    "name": "Manoto TV",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1265,17 +1291,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "stream_urls": [
-      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "stream_urls": [
@@ -1313,6 +1328,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UFAu3UqV4xmpUm",
+    "name": "Setareh TV",
+    "stream_urls": [
+      "https://setarehhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "stream_urls": [],
@@ -1323,6 +1351,19 @@
       "eng"
     ],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "stream_urls": [
+      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },

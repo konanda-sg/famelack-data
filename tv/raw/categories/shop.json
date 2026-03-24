@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rtbi6hxyaPNSIn",
-    "name": "1001 Noites",
-    "stream_urls": [
-      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ugGAivxJyE8GHx",
     "name": "AAC Television",
     "stream_urls": [],
@@ -70,7 +57,7 @@
     "name": "BTQ - Телеканал",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vDjP0_VEHZc"
+      "https://www.youtube-nocookie.com/embed/mWirt6hbSr0"
     ],
     "languages": [
       "ukr"
@@ -124,7 +111,7 @@
     "name": "Crafter's TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/D1PWArEOnGk"
+      "https://www.youtube-nocookie.com/embed/enie2-wG27E"
     ],
     "languages": [
       "eng"
@@ -499,7 +486,9 @@
     "stream_urls": [
       "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vbKz0nMFKGY"
+    ],
     "languages": [
       "deu"
     ],

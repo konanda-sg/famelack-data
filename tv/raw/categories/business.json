@@ -417,16 +417,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rMsmNDEeM1gRlB",
+    "nanoid": "su2eDwMfYQsEMR",
     "name": "Ekhon TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/xVbGmFbKc4U"
     ],
     "languages": [
       "ben"
     ],
-    "language": "ben",
     "country": "bd",
     "isGeoBlocked": false
   },
@@ -507,6 +508,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "stream_urls": [
+      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
     "isGeoBlocked": false
   },
   {

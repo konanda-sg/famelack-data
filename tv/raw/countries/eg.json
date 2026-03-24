@@ -80,6 +80,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cldgrOT0slw0oJ",
+    "name": "Coptic TV",
+    "stream_urls": [
+      "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dSBCv9wMIeHZkP",
     "name": "El Radio 9090 FM",
     "stream_urls": [
@@ -97,7 +110,7 @@
     "name": "eXtra news",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AgQP6qUSzSs"
+      "https://www.youtube-nocookie.com/embed/xz9zsFne_6c"
     ],
     "languages": [
       "ara"

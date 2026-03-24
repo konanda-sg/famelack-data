@@ -28,11 +28,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H0fTRstAnfWOk3",
+    "name": "Avers",
+    "stream_urls": [
+      "https://avers.pp.ua/hls/efir.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jOAIqaLMKe2dyy",
     "name": "BTQ - Телеканал",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vDjP0_VEHZc"
+      "https://www.youtube-nocookie.com/embed/mWirt6hbSr0"
     ],
     "languages": [
       "ukr"

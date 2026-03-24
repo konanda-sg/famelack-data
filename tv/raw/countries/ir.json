@@ -208,6 +208,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "r9svBVfKjlDKfR",
+    "name": "Dej TV",
+    "stream_urls": [
+      "https://rdejhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FJtzLdZFsgH9Sj",
+    "name": "Ekran Movies",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iWUUKHrNYmm1vc",
     "name": "FX TV 1",
     "stream_urls": [
@@ -325,10 +351,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AUxfFZfjCkbWnr",
-    "name": "ITN",
+    "nanoid": "yZ6BTpbezMPkEI",
+    "name": "Khabarbin TV",
     "stream_urls": [
-      "https://itnhls.wns.live/hls/stream.m3u8"
+      "https://khbhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RPzsbGvay5vzZl",
+    "name": "Khalij TV",
+    "stream_urls": [
+      "https://khalijhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -455,6 +494,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XuWfe4a08uRwNd",
+    "name": "T2 Movies",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cu7YGaPAVwkgGg",
     "name": "T2 TV",
     "stream_urls": [
@@ -481,6 +533,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PDYUVQOORGvET6",
+    "name": "TV ITN",
+    "stream_urls": [
+      "https://itnhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hukeqny6nOwPuT",
     "name": "WiseHumanTv",
     "stream_urls": [
@@ -489,6 +554,19 @@
     "youtube_urls": [],
     "languages": [
       "far"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sufBrIYaOUMBHf",
+    "name": "Zed TV",
+    "stream_urls": [
+      "https://zedhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
     ],
     "country": "ir",
     "isGeoBlocked": false

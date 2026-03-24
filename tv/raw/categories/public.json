@@ -260,7 +260,9 @@
       "https://app.tvufop.com.br/hls/tvufop.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "por"
+    ],
     "country": "br",
     "isGeoBlocked": false
   }

@@ -251,6 +251,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "azhG99aYqRL4cV",
+    "name": "GEM Life",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oA2uTAVn9Fd59h",
     "name": "Global Fashion Channel",
     "stream_urls": [
@@ -333,7 +346,8 @@
     "nanoid": "NTGny7tSfvhncO",
     "name": "Jamie Oliver",
     "stream_urls": [
-      "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8"
+      "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
+      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
