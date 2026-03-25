@@ -61,7 +61,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -129,7 +128,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -299,7 +297,32 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8iJoMS9rqPk"
+    ],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -553,9 +576,7 @@
       "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QhahoVG0BfI"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -585,7 +606,6 @@
     "languages": [
       "en"
     ],
-    "language": "en",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -890,23 +910,13 @@
     "nanoid": "OXr6CABR0yIRQF",
     "name": "Stingray Remember the 80s",
     "stream_urls": [
-      "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
+      "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OXr6CABR0yIRQF",
-    "name": "Stingray Remember the 80s",
-    "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1033,7 +1043,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1047,7 +1056,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1061,7 +1069,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1112,7 +1119,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1126,7 +1132,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1140,7 +1145,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1154,7 +1158,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1194,7 +1197,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1221,7 +1223,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },

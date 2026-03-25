@@ -53,6 +53,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
+    "stream_urls": [
+      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9cN6rSKGfOi3ha",
     "name": "Canal 3 KMK TV",
     "stream_urls": [
@@ -242,7 +255,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "cr",
     "isGeoBlocked": false
   },
@@ -286,19 +298,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KWtXBE79zVCsGO",
     "name": "San José TV",
     "stream_urls": [
@@ -325,19 +324,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2ogrHzPUOLVEgc",
-    "name": "SOY Plancha TV",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TBkO2VeN8pxR9c",
     "name": "TDtv",
     "stream_urls": [
@@ -355,6 +341,19 @@
     "name": "TeleBrunca",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GHvLc9YKjbjb4r",
+    "name": "Telefides",
+    "stream_urls": [
+      "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -446,19 +445,6 @@
     "name": "VoiceOver Radio TV",
     "stream_urls": [
       "https://cloudvideo.servers10.com:8081/8198/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CLjMxTVbFP2ZHP",
-    "name": "Zurquí TV",
-    "stream_urls": [
-      "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

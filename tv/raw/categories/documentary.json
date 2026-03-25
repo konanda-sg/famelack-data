@@ -17,12 +17,11 @@
     "name": "Asahi: Documentary",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OVWOIYqW6Ew"
+      "https://www.youtube-nocookie.com/embed/4TQ7pC6sESQ"
     ],
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false
   },
@@ -115,6 +114,17 @@
       "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
       "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S7lyJHbl70de7u",
+    "name": "Bloomberg Originals",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
     ],
@@ -187,7 +197,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "sg",
     "isGeoBlocked": false
   },
@@ -359,7 +368,8 @@
     "name": "History TV18 HD",
     "stream_urls": [
       "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
-      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8"
+      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
+      "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -469,21 +479,7 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AbcJxYxf3cyf3H",
-    "name": "NatureTime",
-    "stream_urls": [
-      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -510,19 +506,6 @@
       "fas"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
     "isGeoBlocked": false
   },
   {
@@ -653,19 +636,6 @@
     "name": "Наука",
     "stream_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

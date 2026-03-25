@@ -39,6 +39,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "et5iR1Oc0qBZ3J",
+    "name": "AMG TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cYXM1U8SiVQdBO",
     "name": "Asia TV",
     "stream_urls": [
@@ -194,6 +207,19 @@
     "youtube_urls": [],
     "languages": [
       "fin"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "47gMxXtvKDDhIZ",
+    "name": "Rakuten TV Family Movies Germany",
+    "stream_urls": [
+      "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
     ],
     "country": "es",
     "isGeoBlocked": false

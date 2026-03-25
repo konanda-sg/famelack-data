@@ -22,7 +22,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "za",
     "isGeoBlocked": false
   },
@@ -36,7 +35,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "za",
     "isGeoBlocked": false
   },
@@ -76,7 +74,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "za",
     "isGeoBlocked": false
   },
@@ -103,7 +100,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "za",
     "isGeoBlocked": false
   },
@@ -130,7 +126,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "za",
     "isGeoBlocked": false
   },
@@ -165,6 +160,19 @@
     "name": "Redemption TV Ministry",
     "stream_urls": [
       "https://live.nixsat.com/play/rtm/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YQ48DJSkmj6ZBT",
+    "name": "ROV TV",
+    "stream_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

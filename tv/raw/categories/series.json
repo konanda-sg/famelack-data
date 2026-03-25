@@ -183,7 +183,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -288,7 +287,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -302,7 +300,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -316,7 +313,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -374,10 +370,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "COFZbnjrkjQq8b",
     "name": "Duck Dynasty",
     "stream_urls": [
-      "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8"
+      "https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -385,17 +395,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "COFZbnjrkjQq8b",
-    "name": "Duck Dynasty",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "aUMgSxs4t83jMD",
@@ -407,7 +406,6 @@
     "languages": [
       "tur"
     ],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -421,7 +419,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -488,7 +485,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
   },
@@ -554,7 +550,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -621,7 +616,6 @@
     "languages": [
       "tur"
     ],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -732,7 +726,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -746,7 +739,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -760,7 +752,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -774,7 +765,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -788,7 +778,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -802,7 +791,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -816,7 +804,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -830,7 +817,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -838,7 +824,8 @@
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "stream_urls": [
-      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8"
+      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -949,7 +936,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -958,12 +944,11 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xpJOJh9GQNE"
+      "https://www.youtube-nocookie.com/embed/Q9N_IllkIzE"
     ],
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -977,7 +962,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -991,7 +975,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1005,7 +988,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1150,7 +1132,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -1161,33 +1142,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "languages": [
-      "rus"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XEtBmZuJSvlx",
-    "name": "Сити Эдем ТелеНовелла",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/46209/index.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "rus"
     ],
@@ -1217,7 +1171,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -1231,7 +1184,6 @@
     "languages": [
       "kor"
     ],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   }

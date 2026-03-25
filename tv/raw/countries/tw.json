@@ -9,7 +9,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -49,21 +48,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "otid9imSgOgaGV",
-    "name": "CTITV News 中天新聞",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C_RoXFTeUSk"
-    ],
-    "languages": [
-      "zho"
-    ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -77,7 +61,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -91,7 +74,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -105,7 +87,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -119,7 +100,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -133,7 +113,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -173,7 +152,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -187,7 +165,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -201,7 +178,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -215,7 +191,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -229,7 +204,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -256,7 +230,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -270,7 +243,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -284,7 +256,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -293,13 +264,24 @@
     "name": "TVBS NEWS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc",
+      "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Feyhb8n6tcW2vl",
+    "name": "TVBS NEWS",
+    "stream_urls": [],
+    "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/2mCSYvcfhtc"
     ],
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -313,7 +295,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -327,7 +308,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -341,7 +321,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -355,7 +334,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -369,7 +347,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -383,7 +360,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -410,7 +386,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -424,7 +399,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -438,7 +412,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -452,7 +425,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -466,7 +438,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -480,7 +451,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -494,7 +464,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   },
@@ -508,7 +477,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "tw",
     "isGeoBlocked": false
   }

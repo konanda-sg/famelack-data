@@ -74,7 +74,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -162,6 +161,17 @@
     "stream_urls": [
       "https://canalgov-stream.ebc.com.br/index.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8Gyi9kv4HNsSoy",
+    "name": "Canal Gov",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/eg_Ts0rz61Y"
     ],
@@ -324,7 +334,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "pe",
     "isGeoBlocked": false
   },
@@ -423,6 +432,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "stream_urls": [
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
@@ -911,7 +921,6 @@
     "languages": [
       "slv"
     ],
-    "language": "slv",
     "country": "si",
     "isGeoBlocked": false
   },
@@ -969,23 +978,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jtokavrUrj69rD",
-    "name": "Parlamento de Navarra",
-    "stream_urls": [
-      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "stream_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1129,12 +1126,11 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/brSE_ZpzXS8"
+      "https://www.youtube-nocookie.com/embed/gQ99UqlWAeg"
     ],
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1155,8 +1151,20 @@
     "nanoid": "02FZNtdjYpb1eU",
     "name": "Sansad TV 1",
     "stream_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
       "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j8GjIxe1UG7jq7",
+    "name": "Sansad TV 1 HD",
+    "stream_urls": [
+      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1302,12 +1310,11 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/v-TCl7d4kSk"
+      "https://www.youtube-nocookie.com/embed/eSzKvHiPMR8"
     ],
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1334,7 +1341,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1348,7 +1354,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1584,6 +1589,19 @@
       "ell"
     ],
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

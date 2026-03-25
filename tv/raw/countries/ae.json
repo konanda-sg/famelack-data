@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "o7f2wdALXEzHZs",
+    "name": "Ajman TV",
+    "stream_urls": [
+      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "izm1ENwmj0AflI",
     "name": "Al Arabiya",
     "stream_urls": [],
@@ -9,7 +22,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -49,7 +61,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -128,7 +139,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -142,7 +152,19 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UOQdhq6UsdYdn7",
+    "name": "Asharq News",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
+    ],
+    "languages": [
+      "ara"
+    ],
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -156,7 +178,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -170,7 +191,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -184,7 +204,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -365,7 +384,8 @@
     "name": "Sky News Arabia",
     "stream_urls": [
       "https://stream.skynewsarabia.com/ott/ott.m3u8",
-      "https://stream.skynewsarabia.com/hls/sna.m3u8"
+      "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -375,11 +395,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lHA8lYSDtLC5LR",
+    "nanoid": "tAGINiWAHRrMtM",
     "name": "Sky News Arabia",
-    "stream_urls": [
-      "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/U--OjmpjF5o"
     ],

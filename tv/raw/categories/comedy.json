@@ -139,7 +139,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -153,7 +152,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -195,7 +193,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -235,7 +232,6 @@
     "languages": [
       "tur"
     ],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -288,7 +284,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -316,7 +311,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -357,7 +351,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -423,7 +416,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -452,19 +444,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "seCu6SlVTQcDoJ",
-    "name": "Top Million Dollar Agent",
-    "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {

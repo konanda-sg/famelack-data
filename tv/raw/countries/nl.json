@@ -115,7 +115,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -129,7 +128,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -143,7 +141,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -157,7 +154,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -230,19 +226,7 @@
     "nanoid": "Vl0QVZKyw8Jx7M",
     "name": "INTRAVEL",
     "stream_urls": [
-      "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Vl0QVZKyw8Jx7M",
-    "name": "INTRAVEL",
-    "stream_urls": [
+      "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -297,19 +281,7 @@
     "stream_urls": [
       "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8",
-      "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmb6ehRkLI6kQW",
-    "name": "INWONDER",
-    "stream_urls": [
+      "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8",
       "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -531,19 +503,6 @@
     "name": "Omroep Gelderland HD",
     "stream_urls": [
       "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hk7PXKEYotjuny",
-    "name": "Omroep Hoeksche Waard",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

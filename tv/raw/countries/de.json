@@ -157,19 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T9dI0W8iuj2OFY",
-    "name": "Baden TV Süd",
-    "stream_urls": [
-      "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uVgni6lRnPbvo9",
     "name": "BBC Top Gear Germany",
     "stream_urls": [
@@ -255,7 +242,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -382,6 +368,17 @@
     "stream_urls": [
       "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PC6sHdwzmaXSLW",
+    "name": "DW Arabic",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AGkp2AL8e7o"
     ],
@@ -396,8 +393,20 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BvN8ASSYxjZS9j",
+    "name": "DW English",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
     ],
@@ -430,7 +439,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -440,6 +448,17 @@
     "stream_urls": [
       "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DVI7GyZARZZPbM",
+    "name": "DW Russian",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/gP7872YRFDk"
     ],
@@ -583,7 +602,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -645,7 +663,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -659,7 +676,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -747,6 +763,17 @@
     "stream_urls": [
       "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5jbc9t0tIwhZuW",
+    "name": "Juwelo",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vbKz0nMFKGY"
     ],
@@ -779,7 +806,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -828,19 +854,6 @@
     "name": "L-TV",
     "stream_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "stream_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1121,7 +1134,8 @@
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "stream_urls": [
-      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8"
+      "https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8",
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1179,7 +1193,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1206,7 +1219,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1220,7 +1232,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1485,6 +1496,19 @@
       "https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Shv7333JOv8tjv",
+    "name": "Shop LC",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/omxxaJLELAE"
+    ],
     "languages": [
       "deu"
     ],
@@ -1950,23 +1974,13 @@
     "nanoid": "Rbcaed64dSHjvH",
     "name": "World of Freesports",
     "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "deu"
     ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rbcaed64dSHjvH",
-    "name": "World of Freesports",
-    "stream_urls": [
-      "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   }

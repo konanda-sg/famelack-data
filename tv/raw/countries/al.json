@@ -5,6 +5,17 @@
     "stream_urls": [
       "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "sqi"
+    ],
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gy35vPrdR2k7jM",
+    "name": "Euronews Albania",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/3LO0C3zmB7U"
     ],
@@ -45,6 +56,19 @@
     "name": "Syri",
     "stream_urls": [
       "https://stream.syritv.al/live/syritv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "sqi"
+    ],
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "16gGAjZZtes1Qk",
+    "name": "Zjarr TV",
+    "stream_urls": [
+      "https://zjarr.future.al/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

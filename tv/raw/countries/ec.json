@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XNa5AM5I0Mvv8Q",
-    "name": "Capricho TV",
-    "stream_urls": [
-      "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
     "stream_urls": [
@@ -186,19 +173,6 @@
     "name": "FM Mundo",
     "stream_urls": [
       "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "c3zaL7CKyoj6u1",
-    "name": "Gamavisión",
-    "stream_urls": [
-      "https://stream.esradioecuador.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -433,6 +407,19 @@
     "name": "PJ Digital Radio TV",
     "stream_urls": [
       "https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xWGjAVSP39eb8X",
+    "name": "Plus TV",
+    "stream_urls": [
+      "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

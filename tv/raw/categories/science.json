@@ -13,16 +13,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BZ9ohjnwvpwyuR",
+    "name": "Cosmos TV",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pPdE8C8cpyAqht",
     "name": "Force Thirteen Earthquakes",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V8XNPZPTBFs"
+      "https://www.youtube-nocookie.com/embed/-UG5vAooMn8"
     ],
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "au",
     "isGeoBlocked": false
   },
@@ -45,19 +57,7 @@
     "stream_urls": [
       "https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8",
-      "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmb6ehRkLI6kQW",
-    "name": "INWONDER",
-    "stream_urls": [
+      "https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8",
       "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -77,7 +77,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -91,7 +90,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -105,7 +103,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "jp",
     "isGeoBlocked": false
   },

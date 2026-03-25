@@ -22,7 +22,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -89,19 +88,6 @@
       "spa"
     ],
     "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1FGdyXp2FzRogD",
-    "name": "Canal 15 ILCE Summa Sabres",
-    "stream_urls": [
-      "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -484,20 +470,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AY9El1RUmBJaPD",
-    "name": "Earthquake Alert Channel",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/c7_kqMFDE8c"
-    ],
-    "languages": [
-      "jpn"
-    ],
-    "language": "jpn",
-    "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NpUlbVPgoMC0BT",
     "name": "EBS 1",
     "stream_urls": [
@@ -742,7 +714,6 @@
     "languages": [
       "en"
     ],
-    "language": "en",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -808,7 +779,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -1109,7 +1079,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1322,19 +1291,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "stream_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7UeLUueVRqvHR1",
     "name": "UNISUL TV",
     "stream_urls": [
@@ -1357,16 +1313,13 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o42XfPEZyBkZVI",
+    "nanoid": "8WWJX1RmDb9DC0",
     "name": "Vav TV",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CsY0_Q3jTTs"
     ],
@@ -1468,7 +1421,6 @@
     "languages": [
       "kor"
     ],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   }

@@ -49,7 +49,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -58,6 +57,19 @@
     "name": "Bigtime",
     "stream_urls": [
       "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZgdcsAoxUBnS3U",
+    "name": "BTB HD",
+    "stream_urls": [
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -110,6 +122,19 @@
     "name": "Car City Adventures",
     "stream_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YVXMNDK2rpUCOO",
+    "name": "dlaCiebie.tv",
+    "stream_urls": [
+      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -180,7 +205,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -207,7 +231,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -273,6 +296,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -365,7 +401,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -379,7 +414,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -403,6 +437,19 @@
       "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-qwo1fcMvjw"
+    ],
     "languages": [
       "pol"
     ],
@@ -436,6 +483,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1BgwlFIal9aEik",
+    "name": "Telewizja Olsztyn",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_WfqynQRsoE"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lZ08XnHwjKG7mF",
     "name": "Telewizja Regionalna Zary",
     "stream_urls": [
@@ -458,7 +518,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -472,7 +531,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -486,21 +544,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9s6DDTJkNu9V38",
-    "name": "Telewizja Zabrze",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uQMDBmH_IXM"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -514,7 +557,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -549,19 +591,6 @@
     "name": "TOP Barca",
     "stream_urls": [
       "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "seCu6SlVTQcDoJ",
-    "name": "Top Million Dollar Agent",
-    "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883107"
     ],
     "youtube_urls": [],
     "languages": [
@@ -684,7 +713,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -724,7 +752,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -777,7 +804,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   }

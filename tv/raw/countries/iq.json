@@ -65,6 +65,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F9S4QFLYWa9FpX",
+    "name": "Al-Sharqiya News",
+    "stream_urls": [
+      "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oH3JHlocRjrWih",
     "name": "Alquran",
     "stream_urls": [
@@ -112,20 +125,6 @@
     ],
     "languages": [
       "kur"
-    ],
-    "language": "kur",
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MIpBDCxySOyKyM",
-    "name": "Dijlah TV",
-    "stream_urls": [
-      "https://ghaasiflu.online/Dijlah/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -218,7 +217,6 @@
     "languages": [
       "kur"
     ],
-    "language": "kur",
     "country": "iq",
     "isGeoBlocked": false
   },
@@ -227,6 +225,19 @@
     "name": "KurdMax Music",
     "stream_urls": [
       "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RzX8WqJgd5GWa8",
+    "name": "KurdMax Show",
+    "stream_urls": [
+      "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

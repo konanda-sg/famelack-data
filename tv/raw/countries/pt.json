@@ -16,23 +16,13 @@
     "nanoid": "dsBKZyQRGT7j8N",
     "name": "Fuel TV",
     "stream_urls": [
-      "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8"
+      "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+      "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dsBKZyQRGT7j8N",
-    "name": "Fuel TV",
-    "stream_urls": [
-      "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "pt",
     "isGeoBlocked": false
   },
@@ -97,19 +87,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TrC35T74Zxe5uK",
-    "name": "Maná Cirkev Online",
-    "stream_urls": [
-      "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "slk"
     ],
     "country": "pt",
     "isGeoBlocked": false

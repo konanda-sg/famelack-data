@@ -35,7 +35,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -88,7 +87,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "ae",
     "isGeoBlocked": false
   },
@@ -99,9 +97,7 @@
       "https://live-news.asharq.com/asharq.m3u8",
       "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
-    ],
+    "youtube_urls": [],
     "languages": [
       "ara"
     ],
@@ -171,7 +167,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -195,9 +190,7 @@
       "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
       "https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OlUMDZchivQ"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -214,7 +207,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -263,6 +255,17 @@
     "stream_urls": [
       "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ia6DKGHybv1coU",
+    "name": "Canal E",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/tytTT629brE"
     ],
@@ -394,19 +397,7 @@
     "nanoid": "2E1QCHJTYwtjGg",
     "name": "DeFiance Media",
     "stream_urls": [
-      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2E1QCHJTYwtjGg",
-    "name": "DeFiance Media",
-    "stream_urls": [
+      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
       "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -422,6 +413,17 @@
     "stream_urls": [
       "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rMsmNDEeM1gRlB",
+    "name": "Ekhon TV",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/xVbGmFbKc4U"
     ],
@@ -454,7 +456,6 @@
     "languages": [
       "kor"
     ],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   },
@@ -475,7 +476,8 @@
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "stream_urls": [
-      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
+      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -485,15 +487,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PrbGgJSVKuINgQ",
+    "nanoid": "NfAHv8wWHOHOXl",
     "name": "NDTV Profit",
-    "stream_urls": [
-      "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/EN-N1xhtBqU"
     ],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "in",
     "isGeoBlocked": false
   },
@@ -508,19 +510,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fEhuSbh6UZiVWk",
-    "name": "NW Economie",
-    "stream_urls": [
-      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "tg",
     "isGeoBlocked": false
   },
   {
@@ -573,7 +562,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -618,7 +606,6 @@
     "languages": [
       "kor"
     ],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   },
@@ -632,7 +619,6 @@
     "languages": [
       "kor"
     ],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   },
@@ -646,7 +632,6 @@
     "languages": [
       "kor"
     ],
-    "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
   }

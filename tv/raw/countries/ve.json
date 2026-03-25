@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L2ckl8qUgIXBH9",
-    "name": "Anzoátegui TV",
-    "stream_urls": [
-      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "stream_urls": [
@@ -234,6 +221,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1b6pwDCZHXANgu",
+    "name": "PortuTV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YQGNpYUE3gQTO4",
     "name": "PromarTV",
     "stream_urls": [
@@ -404,10 +404,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
     "stream_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

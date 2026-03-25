@@ -65,10 +65,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XZ0ppzFYNKAs79",
-    "name": "Angelus TV",
+    "nanoid": "9UqseJeoJNwuVC",
+    "name": "Antena Monden",
     "stream_urls": [
-      "https://video.angelustv.ro/hls/angelustv.m3u8"
+      "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -78,10 +78,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9UqseJeoJNwuVC",
-    "name": "Antena Monden",
+    "nanoid": "2UXhXxAP9FifSB",
+    "name": "Arges TV",
     "stream_urls": [
-      "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+      "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -295,7 +295,6 @@
     "languages": [
       "ron"
     ],
-    "language": "ron",
     "country": "ro",
     "isGeoBlocked": false
   },
@@ -469,6 +468,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hIj4Fm6gOaC8Wj",
+    "name": "TeleMoldova +",
+    "stream_urls": [
+      "https://vdo.ssl-stream.com:3247/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xgGgBivUKaFSsJ",
     "name": "Telestar1",
     "stream_urls": [
@@ -486,12 +498,11 @@
     "name": "TRINITAS TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Q9R56mgOols"
+      "https://www.youtube-nocookie.com/embed/-yivulGb_HQ"
     ],
     "languages": [
       "ron"
     ],
-    "language": "ron",
     "country": "ro",
     "isGeoBlocked": false
   },
@@ -505,7 +516,6 @@
     "languages": [
       "ron"
     ],
-    "language": "ron",
     "country": "ro",
     "isGeoBlocked": false
   },
@@ -675,7 +685,6 @@
     "languages": [
       "ron"
     ],
-    "language": "ron",
     "country": "ro",
     "isGeoBlocked": false
   }

@@ -65,6 +65,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ErSMGBMNsRAyT3",
+    "name": "Cubavision HD",
+    "stream_urls": [
+      "https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qs1GHXRh3BCYdu",
     "name": "Cubavision Internacional",
     "stream_urls": [

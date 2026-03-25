@@ -78,17 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MC6eofj34HPSlv",
-    "name": "Africanews",
-    "stream_urls": [
-      "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2U4gd5rnY0obyR",
     "name": "AfricaNews English",
     "stream_urls": [],
@@ -98,7 +87,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -109,20 +97,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM"
     ],
-    "languages": [
-      "fra"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JYn1ySxy92KPFz",
-    "name": "Africanews French",
-    "stream_urls": [
-      "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "fra"
     ],
@@ -165,7 +139,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -424,6 +397,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RMbGSeJmY7CCNa",
+    "name": "Cannes Lérins TV",
+    "stream_urls": [
+      "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mPbuqsHG1z2Sb6",
     "name": "Cartoonito France: Tom Et Jerry",
     "stream_urls": [],
@@ -433,7 +419,19 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4TFbQdQIR6USV5",
+    "name": "DBM TV",
+    "stream_urls": [
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -469,7 +467,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -483,7 +480,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -510,7 +506,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -524,7 +519,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -538,7 +532,6 @@
     "languages": [
       "ita"
     ],
-    "language": "ita",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -552,7 +545,6 @@
     "languages": [
       "hun"
     ],
-    "language": "hun",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -566,7 +558,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -580,7 +571,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -594,7 +584,6 @@
     "languages": [
       "ron"
     ],
-    "language": "ron",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -608,7 +597,6 @@
     "languages": [
       "ell"
     ],
-    "language": "ell",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -622,7 +610,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -722,26 +709,26 @@
     "nanoid": "kUPfKpGmxXWYT4",
     "name": "France 24",
     "stream_urls": [
-      "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8"
+      "https://dash4.antik.sk/live/test_france24_france/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "eng"
     ],
     "country": "fr",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kUPfKpGmxXWYT4",
+    "nanoid": "zx91VDF8SlB0hr",
     "name": "France 24",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/l8PMl7tUDIE"
     ],
     "languages": [
-      "eng"
+      "fra"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -789,7 +776,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -814,7 +800,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -938,8 +923,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A5n4N3XJy0eMaU",
-    "name": "Les Z'Amours",
+    "nanoid": "FSarTXtXzxj5ih",
+    "name": "Les Z'amours",
     "stream_urls": [
       "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8"
     ],
@@ -971,7 +956,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -985,7 +969,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1012,7 +995,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1267,7 +1249,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1281,7 +1262,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1334,10 +1314,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9PtGiKgkdbGXR3",
-    "name": "Rakuten TV Films Action",
+    "nanoid": "3UupDDnNXaxwcR",
+    "name": "Rakuten TV Films Comédie",
     "stream_urls": [
-      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
+      "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1378,10 +1358,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "phice2bsfFKDLs",
-    "name": "Rakuten TV Séries Crime",
+    "nanoid": "AIirayhr6r6kA6",
+    "name": "Rakuten TV Films Thriller",
     "stream_urls": [
-      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
+      "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1389,10 +1369,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dK7Tr0arpe0iTb",
-    "name": "Rakuten TV Top Films France",
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
     "stream_urls": [
-      "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8"
+      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1420,7 +1400,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1448,7 +1427,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1456,7 +1434,8 @@
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "stream_urls": [
-      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8"
+      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1540,7 +1519,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1554,7 +1532,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1568,7 +1545,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1582,7 +1558,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },

@@ -145,6 +145,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cuxA3La6G9rkzp",
     "name": "CineLife",
     "stream_urls": [
@@ -180,7 +193,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -246,7 +258,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -312,7 +323,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -584,7 +594,8 @@
     "name": "The Design Network",
     "stream_urls": [
       "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8",
-      "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -594,34 +605,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "FTDcL7vk8KIWEC",
-    "name": "The Design Network",
-    "stream_urls": [
-      "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PTb3tdaVEXk3oP",
     "name": "Открытый мир. Здоровье",
     "stream_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kmnCkTtdi4cLR8",
-    "name": "Сити Эдем МедЗдрав",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

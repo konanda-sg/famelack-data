@@ -61,7 +61,6 @@
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -114,7 +113,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -343,7 +341,6 @@
     "nanoid": "IoBPBg5ALFnRHd",
     "name": "Tonghua TV",
     "stream_urls": [
-      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8",
       "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8"
     ],
     "youtube_urls": [],
@@ -538,27 +535,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ez5NBYjpiihwmc",
-    "name": "宿州科教",
-    "stream_urls": [
-      "https://live.ahsz.tv/video/s10001-kxjy/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0REjP55mYk4y0F",
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BsmE-_WYFWQ"
+      "https://www.youtube-nocookie.com/embed/JB6j03O68Jk"
     ],
     "languages": [
       "zho"
     ],
-    "language": "zho",
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -666,6 +651,39 @@
     "name": "浙江国际",
     "stream_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9lXsFkxoK3Y81Q",
+    "name": "浙江教科",
+    "stream_urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TT80T0Uhd4YSQT",
+    "name": "浙江新闻",
+    "stream_urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DGN51eNb7kGHRy",
+    "name": "浙江民生",
+    "stream_urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

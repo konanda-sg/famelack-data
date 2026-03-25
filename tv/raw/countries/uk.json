@@ -61,7 +61,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -88,7 +87,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -106,6 +104,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yqAqfz8NLIipuY",
+    "name": "Banijay Bluelight: Real Life Hospital Documentaries",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QIdzJYeeSr8"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hDMTpIP2tlNJNl",
+    "name": "Banijay Crime: Britain's Biggest Heists",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/oxgOAirirtA"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oFHtWQgYWs3Y0k",
     "name": "Banijay Documentaries: Haunted Stories",
     "stream_urls": [],
@@ -115,7 +139,32 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hvqcyi1KP5PsvX",
+    "name": "Banijay Engine: Full Custom Garage",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_5ICw1UfM0g"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pJl8pmCiIwVpiF",
+    "name": "Banijay History: Secrets They Tried to Bury",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/t4Yjz37mQOw"
+    ],
+    "languages": [
+      "eng"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -212,7 +261,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -224,6 +272,17 @@
       "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
       "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DUDayMC7MoDAoY",
+    "name": "BBC Persian",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
     ],
@@ -269,7 +328,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -283,7 +341,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -297,7 +354,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -311,7 +367,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -338,7 +393,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -356,6 +410,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "upZUS4jnd1EPJG",
+    "name": "Chelsea Football Club",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/rTly9cYoMms"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K1Rki2QXOUbCd5",
     "name": "Classic Mr Bean",
     "stream_urls": [],
@@ -365,7 +432,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -394,20 +460,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/enie2-wG27E"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "stream_urls": [],
@@ -417,7 +469,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -468,7 +519,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -556,6 +606,17 @@
     "stream_urls": [
       "https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0rldb1A8xe4EuF",
+    "name": "GB News",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/QliL4CGc7iY"
     ],
@@ -686,7 +747,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -725,7 +785,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -738,9 +797,7 @@
       "https://live.playstop.me/1816184091/index.m3u8",
       "https://live.playstop.me/LS-63503-4/index.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wk0uvX60fxg"
-    ],
+    "youtube_urls": [],
     "languages": [
       "fas"
     ],
@@ -767,9 +824,7 @@
       "https://klmhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -850,19 +905,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LbTx61exNziTLe",
-    "name": "Miracle TV",
-    "stream_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
@@ -923,7 +965,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -946,11 +987,22 @@
     "stream_urls": [
       "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "s54Foa20IJMtoe",
+    "name": "MTA2 Europe",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/TEGnBvhnCj0"
     ],
     "languages": [
-      "hin"
+      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1000,11 +1052,22 @@
     "stream_urls": [
       "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ABvz5besjAbXTq",
+    "name": "MTA6 Asia",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/e2NELtEb_nI"
     ],
     "languages": [
-      "urd"
+      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1150,23 +1213,13 @@
     "nanoid": "nhxyWnxbL3kVsl",
     "name": "NOW Rock",
     "stream_urls": [
-      "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8"
+      "https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nhxyWnxbL3kVsl",
-    "name": "NOW Rock",
-    "stream_urls": [
-      "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1204,6 +1257,17 @@
     "stream_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4CrGfF39Pz474f",
+    "name": "QVC UK Beauty",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/B-A-co6p2BI"
     ],
@@ -1219,6 +1283,17 @@
     "stream_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KkVmn6JTwTt1Is",
+    "name": "QVC UK Extra",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/8m3sdzsPxXg"
     ],
@@ -1238,7 +1313,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1248,6 +1322,17 @@
     "stream_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RsuhjAvGjU8afn",
+    "name": "QVC UK Style",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HXjDtuel2Zw"
     ],
@@ -1284,6 +1369,17 @@
     "name": "Rakuten TV Sci-Fi UK",
     "stream_urls": [
       "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jz4YnIQOr3KiI6",
+    "name": "Rakuten TV Thrillers UK",
+    "stream_urls": [
+      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1334,9 +1430,7 @@
       "https://setarehhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
+    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1350,7 +1444,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1377,7 +1470,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1404,7 +1496,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1495,7 +1586,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1523,7 +1613,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1659,7 +1748,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1673,7 +1761,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1682,12 +1769,11 @@
     "name": "WildBrain: Teletubbies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pcgQznN86yI"
+      "https://www.youtube-nocookie.com/embed/toDKsvwfiXw"
     ],
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },

@@ -5,9 +5,7 @@
     "stream_urls": [
       "https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gCNeDWCI0vo"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -19,11 +17,10 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -70,7 +67,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -80,6 +76,17 @@
     "stream_urls": [
       "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1RYI9mEKLKbyln",
+    "name": "TRT World",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ABfFhWzWs0s"
     ],

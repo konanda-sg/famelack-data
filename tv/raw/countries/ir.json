@@ -214,9 +214,7 @@
       "https://rdejhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
+    "languages": [],
     "country": "ir",
     "isGeoBlocked": false
   },
@@ -357,9 +355,7 @@
       "https://khbhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
+    "languages": [],
     "country": "ir",
     "isGeoBlocked": false
   },
@@ -370,9 +366,7 @@
       "https://khalijhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
+    "languages": [],
     "country": "ir",
     "isGeoBlocked": false
   },
@@ -565,9 +559,7 @@
       "https://zedhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
+    "languages": [],
     "country": "ir",
     "isGeoBlocked": false
   }

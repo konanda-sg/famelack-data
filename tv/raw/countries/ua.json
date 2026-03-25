@@ -9,7 +9,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -23,7 +22,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -50,7 +48,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -64,7 +61,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -91,7 +87,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -131,7 +126,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -239,7 +233,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -266,7 +259,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -293,7 +285,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -302,12 +293,11 @@
     "name": "Телеканал Конкурент TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/127_-wPG3oI"
+      "https://www.youtube-nocookie.com/embed/WvYiKeELPC4"
     ],
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -321,7 +311,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -335,7 +324,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -349,7 +337,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -363,7 +350,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   },
@@ -390,7 +376,6 @@
     "languages": [
       "ukr"
     ],
-    "language": "ukr",
     "country": "ua",
     "isGeoBlocked": false
   }

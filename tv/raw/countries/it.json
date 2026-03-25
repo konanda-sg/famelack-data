@@ -217,6 +217,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "enn4H4qkUlzoNX",
+    "name": "CafeTV24",
+    "stream_urls": [
+      "https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YuBy0QEyEVrO0O",
     "name": "Calabria TV",
     "stream_urls": [
@@ -312,6 +325,19 @@
     "name": "DI.TV 80",
     "stream_urls": [
       "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -467,6 +493,7 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "stream_urls": [
+      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -575,7 +602,6 @@
     "languages": [
       "ita"
     ],
-    "language": "ita",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -665,6 +691,19 @@
     "name": "LaC News 24",
     "stream_urls": [
       "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ex98n0tFYkUwoo",
+    "name": "Lazio TV",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -776,6 +815,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vep0J58HudEoW3",
+    "name": "Odeon 24",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "02hgQBIaeAN9gz",
     "name": "Onda Novara TV",
     "stream_urls": [
@@ -836,45 +888,6 @@
     "youtube_urls": [],
     "languages": [
       "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "stream_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "stream_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "stream_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
     ],
     "country": "it",
     "isGeoBlocked": false
@@ -954,7 +967,6 @@
     "languages": [
       "ita"
     ],
-    "language": "ita",
     "country": "it",
     "isGeoBlocked": false
   },
@@ -977,6 +989,17 @@
     "stream_urls": [
       "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1q10wvFV4WGvVe",
+    "name": "QVC Italia",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/BVJfAOmkjnQ"
     ],
@@ -1175,17 +1198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oURW9nLoHQEwxm",
-    "name": "Rakuten TV Sci-Fi Italy",
-    "stream_urls": [
-      "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mwaE9Of5KjZvBf",
     "name": "ReggioTV",
     "stream_urls": [
@@ -1359,19 +1371,6 @@
     "name": "RTL 102.5 TV",
     "stream_urls": [
       "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oqN5ACQhB7Jq82",
-    "name": "RTM TV",
-    "stream_urls": [
-      "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1879,19 +1878,6 @@
     "name": "TR Sport",
     "stream_urls": [
       "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4lRmmKh0IB2m5u",
-    "name": "TV Campane 1",
-    "stream_urls": [
-      "https://eu1.servers10.com:8081/8032/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

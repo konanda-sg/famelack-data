@@ -61,7 +61,6 @@
     "languages": [
       "tur"
     ],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -101,7 +100,6 @@
     "languages": [
       "tur"
     ],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -115,7 +113,6 @@
     "languages": [
       "tur"
     ],
-    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -129,7 +126,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -163,19 +159,7 @@
     "nanoid": "Br53BhiHjkS3op",
     "name": "RetroCrush",
     "stream_urls": [
-      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Br53BhiHjkS3op",
-    "name": "RetroCrush",
-    "stream_urls": [
+      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
       "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -183,19 +167,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
     "isGeoBlocked": false
   },
   {
@@ -208,7 +179,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -222,7 +192,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -236,7 +205,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -250,7 +218,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -264,7 +231,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -304,7 +270,6 @@
     "languages": [
       "jpn"
     ],
-    "language": "jpn",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -513,7 +478,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -528,6 +492,19 @@
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jznTuWIBt2HrkT",
+    "name": "ZB Cinema",
+    "stream_urls": [
+      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {

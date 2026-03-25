@@ -35,7 +35,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -138,7 +137,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -152,7 +150,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -166,7 +163,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -193,7 +189,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -207,7 +202,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "sg",
     "isGeoBlocked": false
   },
@@ -216,12 +210,11 @@
     "name": "CONtv: Yu-Gi-Oh! (Deutsch)",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x2b_iHsQhR0"
+      "https://www.youtube-nocookie.com/embed/eNvXmPBLOpg"
     ],
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -235,7 +228,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -249,7 +241,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -263,7 +254,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -329,7 +319,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -364,14 +353,25 @@
     "name": "Gumball",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IT1IZpY7uzA",
-      "https://www.youtube-nocookie.com/embed/9LDR3lHACKM"
+      "https://www.youtube-nocookie.com/embed/IT1IZpY7uzA"
     ],
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5YtwjYlglp4KTy",
+    "name": "Gumball",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/9LDR3lHACKM"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -384,7 +384,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -398,7 +397,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -412,7 +410,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -426,7 +423,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -466,7 +462,6 @@
     "languages": [
       "pol"
     ],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -493,7 +488,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -507,7 +501,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -573,7 +566,6 @@
     "languages": [
       "por"
     ],
-    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -594,19 +586,7 @@
     "nanoid": "Br53BhiHjkS3op",
     "name": "RetroCrush",
     "stream_urls": [
-      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Br53BhiHjkS3op",
-    "name": "RetroCrush",
-    "stream_urls": [
+      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
       "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -626,7 +606,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -640,7 +619,6 @@
     "languages": [
       "fra"
     ],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -654,7 +632,6 @@
     "languages": [
       "rus"
     ],
-    "language": "rus",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -668,7 +645,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -695,7 +671,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -709,7 +684,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -723,7 +697,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -737,7 +710,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -751,7 +723,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -765,7 +736,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -779,7 +749,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },

@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWEE7C3XgKSvyt",
-    "name": "Q-Music (Belgium)",
-    "stream_urls": [
-      "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZBGk2hfKslTEiC",
     "name": "Radio Contact",
     "stream_urls": [

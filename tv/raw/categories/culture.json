@@ -196,12 +196,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WsnjAbyAewcp2y",
+    "nanoid": "eBQvdhBLUdsLwz",
     "name": "Canal Sur Andalucia",
-    "stream_urls": [
-      "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
-      "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Jes7v5Mm0Jc"
     ],
@@ -336,6 +333,17 @@
       "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vFNCaAwRc0UY6z",
+    "name": "DD Bharati",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/wpb77nl38HA"
     ],
@@ -346,17 +354,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3RFBxxtq5PlDQ7",
+    "nanoid": "ZtL7zxGFBmbkdi",
     "name": "DD Kashir",
-    "stream_urls": [
-      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
-      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
     "languages": [
-      "hin"
+      "ksm"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -388,12 +393,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FCckxA9xKjRmBd",
+    "nanoid": "5VAqVtAJLz9Qp2",
     "name": "DD Urdu",
-    "stream_urls": [
-      "https://cdn-4.pishow.tv/live/8/master.m3u8",
-      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i--xfotJs7w"
     ],
@@ -470,19 +472,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SLi8f8Yz14oKR0",
     "name": "ETV2",
     "stream_urls": [
@@ -512,19 +501,7 @@
     "nanoid": "y4MKCI3gxpO3zU",
     "name": "FNX",
     "stream_urls": [
-      "https://fnx.lls.pbs.org/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y4MKCI3gxpO3zU",
-    "name": "FNX",
-    "stream_urls": [
+      "https://fnx.lls.pbs.org/index.m3u8",
       "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
     ],
     "youtube_urls": [],
@@ -539,6 +516,7 @@
     "name": "Fox Soul",
     "stream_urls": [
       "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -730,19 +708,6 @@
       "kur"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -1081,7 +1046,6 @@
     "languages": [
       "deu"
     ],
-    "language": "deu",
     "country": "at",
     "isGeoBlocked": false
   },
@@ -1294,6 +1258,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAUF947AFuFdtH",
+    "name": "Vĩnh Long TV5",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "stream_urls": [
@@ -1324,8 +1299,20 @@
     "nanoid": "KBcCoX6T4T4OZ7",
     "name": "Культура",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

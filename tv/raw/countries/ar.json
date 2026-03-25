@@ -22,7 +22,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -49,7 +48,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -128,7 +126,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -155,7 +152,19 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mbc3tMycOFDjGt",
+    "name": "Canal 2 de Ushuaia",
+    "stream_urls": [
+      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -273,7 +282,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -353,7 +361,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -414,12 +421,11 @@
     "name": "Canal 13 San Juan",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fSqHVP3z1bQ"
+      "https://www.youtube-nocookie.com/embed/vdcJ5ytglps"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -463,12 +469,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IKwTslDp6GIv1l",
+    "nanoid": "EBJnvOws8NXMUv",
     "name": "Canal 26",
-    "stream_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Akf2MWm8vfk"
     ],
@@ -518,6 +521,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DGdrDzPisNgZkI",
+    "name": "Canal 79 Puan",
+    "stream_urls": [
+      "https://streamconex.com:19360/puan/puan.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MaonGrlqkdtlLv",
     "name": "Canal 79 Santa Clara del Mar",
     "stream_urls": [
@@ -540,7 +556,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -550,6 +565,17 @@
     "stream_urls": [
       "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ia6DKGHybv1coU",
+    "name": "Canal E",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/tytTT629brE"
     ],
@@ -577,6 +603,19 @@
     "name": "Canal Provincial",
     "stream_urls": [
       "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tZLaG8MHkNY9P0",
+    "name": "Canal Santa María",
+    "stream_urls": [
+      "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -625,19 +664,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "njewIOEi3Bzjbb",
-    "name": "Chilecito TV",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "stream_urls": [
@@ -660,7 +686,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -687,7 +712,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -701,7 +725,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -710,12 +733,11 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eL5x_w3772I"
+      "https://www.youtube-nocookie.com/embed/eyBeGEETdwo"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -729,7 +751,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -743,7 +764,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -757,7 +777,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -771,7 +790,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -790,6 +808,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ror_aTt6vbo"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NYXd2ClRBhOZGJ",
     "name": "FMVale975",
     "stream_urls": [],
@@ -799,7 +830,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -839,7 +869,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -879,7 +908,17 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nxOuJBvN9WDNwl",
+    "name": "Milennio TV",
+    "stream_urls": [
+      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -915,12 +954,11 @@
     "name": "Pop Radio 101.5",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7IGgrPGetoI"
+      "https://www.youtube-nocookie.com/embed/64YBL3OJ8Oo"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -947,7 +985,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -974,7 +1011,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1074,12 +1110,11 @@
     "name": "Telediario Digital",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hzST8IQ3kaE"
+      "https://www.youtube-nocookie.com/embed/CmxiJEoedHE"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1093,7 +1128,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1104,20 +1138,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5ABLiIbQchA"
     ],
-    "languages": [
-      "spa"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rMuHd71jVt63rI",
-    "name": "Telemax",
-    "stream_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -1147,7 +1167,6 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1161,7 +1180,19 @@
     "languages": [
       "spa"
     ],
-    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AWVSaRt2GpdnGp",
+    "name": "TV Maná Argentina",
+    "stream_urls": [
+      "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1236,12 +1267,11 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/epzNHJXPuHY"
+      "https://www.youtube-nocookie.com/embed/NuBAFBcACgE"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },

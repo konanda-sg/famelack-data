@@ -45,6 +45,17 @@
     "stream_urls": [
       "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mwGmboNSNypQp0",
+    "name": "Al Ekhbariya",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/yYJjtr3fbZE"
     ],
@@ -111,12 +122,24 @@
     "name": "AlHadath: الحدث",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xWXpl7azI8k"
+      "https://www.youtube-nocookie.com/embed/0STUpSryLWY"
     ],
     "languages": [
       "ara"
     ],
-    "language": "ara",
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VrSTFRwQ0PAQKF",
+    "name": "Alkhuzama Radio",
+    "stream_urls": [
+      "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
     "country": "sa",
     "isGeoBlocked": false
   },
@@ -153,9 +176,7 @@
       "https://live-news.asharq.com/asharq.m3u8",
       "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y"
-    ],
+    "youtube_urls": [],
     "languages": [
       "ara"
     ],
@@ -194,13 +215,11 @@
     "name": "Gumball",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IT1IZpY7uzA",
-      "https://www.youtube-nocookie.com/embed/9LDR3lHACKM"
+      "https://www.youtube-nocookie.com/embed/IT1IZpY7uzA"
     ],
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
   },
@@ -214,7 +233,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
   },
@@ -397,7 +415,6 @@
     "languages": [
       "ara"
     ],
-    "language": "ara",
     "country": "sa",
     "isGeoBlocked": false
   }

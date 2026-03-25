@@ -82,19 +82,7 @@
     "nanoid": "2E1QCHJTYwtjGg",
     "name": "DeFiance Media",
     "stream_urls": [
-      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2E1QCHJTYwtjGg",
-    "name": "DeFiance Media",
-    "stream_urls": [
+      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8",
       "https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -109,6 +97,19 @@
     "name": "EBN Televisión",
     "stream_urls": [
       "https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9rhqdMh4MdKhL2",
+    "name": "Familia Visión HD",
+    "stream_urls": [
+      "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -161,6 +162,19 @@
     "name": "Nueva Vida TV",
     "stream_urls": [
       "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u7W37SlvKNjw3c",
+    "name": "Paraíso TV",
+    "stream_urls": [
+      "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -227,6 +241,19 @@
     "stream_urls": [
       "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
       "https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7G6HCuUwByIsBi",
+    "name": "Triunfo 96.9 FM TV",
+    "stream_urls": [
+      "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

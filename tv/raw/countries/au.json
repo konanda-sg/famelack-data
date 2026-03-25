@@ -35,7 +35,6 @@
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "au",
     "isGeoBlocked": false
   },
@@ -190,12 +189,11 @@
     "name": "Force Thirteen Earthquakes",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V8XNPZPTBFs"
+      "https://www.youtube-nocookie.com/embed/-UG5vAooMn8"
     ],
     "languages": [
       "eng"
     ],
-    "language": "eng",
     "country": "au",
     "isGeoBlocked": false
   },
@@ -422,6 +420,17 @@
     "stream_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uedAJDUaeZkibe",
+    "name": "TVSN",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ysq4OP9BZgU"
     ],
