@@ -56,6 +56,17 @@
     ]
   },
   {
+    "nanoid": "fcMHgJEOfw83Mz",
+    "name": "Dub Radio 96.7",
+    "stream_urls": [
+      "https://s1.mojstream.eu:8162/;"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
     "nanoid": "VUtxLcIMendRO6",
     "name": "Esoterica Radio S1",
     "stream_urls": [
@@ -168,6 +179,19 @@
     ]
   },
   {
+    "nanoid": "UZzy9shvznSDWc",
+    "name": "Kontakt Radio",
+    "stream_urls": [
+      "https://mojstream.eu:8114/kontaktradio",
+      "https://s1.mojstream.eu:8114/;"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos",
+      "srp"
+    ]
+  },
+  {
     "nanoid": "6sDTDGWJUtBaL3",
     "name": "Kupreški Radio",
     "stream_urls": [
@@ -218,17 +242,6 @@
     "name": "POP FM 97.6",
     "stream_urls": [
       "https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM"
-    ],
-    "country": "ba",
-    "languages": [
-      "bos"
-    ]
-  },
-  {
-    "nanoid": "2ycnv6ds8TNvDc",
-    "name": "Radio Bihać",
-    "stream_urls": [
-      "https://radiobihaclive.radioca.st/;"
     ],
     "country": "ba",
     "languages": [
@@ -454,6 +467,29 @@
     ]
   },
   {
+    "nanoid": "hXdCmMtevUsMbM",
+    "name": "Radio Jajce",
+    "stream_urls": [
+      "https://s8.iqstreaming.com:8034/stream"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "VoRjGJ7rqSk05r",
+    "name": "Radio K3",
+    "stream_urls": [
+      "https://s1.mojstream.eu:9164/stream"
+    ],
+    "country": "ba",
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
     "nanoid": "THkKUR6M2zoxOx",
     "name": "Radio Kameleon",
     "stream_urls": [
@@ -587,6 +623,28 @@
     ]
   },
   {
+    "nanoid": "SjljvDzLPYGtEb",
+    "name": "Radio Prijedor",
+    "stream_urls": [
+      "https://eliot.vestreams.com/8004/stream"
+    ],
+    "country": "ba",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "MdLEqF8JjfHlgz",
+    "name": "Radio Prnjavor",
+    "stream_urls": [
+      "https://s1.mojstream.eu:8164/stream"
+    ],
+    "country": "ba",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "3uFinT7uE20bd0",
     "name": "Radio Rama",
     "stream_urls": [
@@ -595,17 +653,6 @@
     "country": "ba",
     "languages": [
       "hrv"
-    ]
-  },
-  {
-    "nanoid": "31O3IHuxUPfDRL",
-    "name": "Radio Ritmo",
-    "stream_urls": [
-      "https://stream-179.zeno.fm/3xufu087fc9uv"
-    ],
-    "country": "ba",
-    "languages": [
-      "bos"
     ]
   },
   {

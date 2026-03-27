@@ -281,6 +281,18 @@
     ]
   },
   {
+    "nanoid": "V56ne7MtrEjCZz",
+    "name": "Note FM",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/notefm.mp3"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "lJznRqjo71vyhW",
     "name": "Note Party",
     "stream_urls": [
@@ -487,6 +499,18 @@
     ]
   },
   {
+    "nanoid": "L7SGINLEcqh7pq",
+    "name": "Radio Nostalgia",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radionostalgia.mp3"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "EW24RCc6T52Q1S",
     "name": "Radio Nova",
     "stream_urls": [
@@ -618,6 +642,17 @@
     "country": "bg",
     "languages": [
       "bul"
+    ]
+  },
+  {
+    "nanoid": "RriXBboWOWYl1x",
+    "name": "XRaydio 1",
+    "stream_urls": [
+      "https://xraydio.ddns.net/live"
+    ],
+    "country": "bg",
+    "languages": [
+      "eng"
     ]
   },
   {

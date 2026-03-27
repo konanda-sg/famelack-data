@@ -14,8 +14,7 @@
     "nanoid": "9BFyf45WhOQ65Y",
     "name": "ADN Radio",
     "stream_urls": [
-      "https://27413.live.streamtheworld.com/ADNAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
+      "https://27413.live.streamtheworld.com/ADNAAC.aac"
     ],
     "country": "cl",
     "languages": [
@@ -493,17 +492,6 @@
     ]
   },
   {
-    "nanoid": "cNn28vkToneql3",
-    "name": "Orocoipo FM",
-    "stream_urls": [
-      "https://live-audio-lite-1.digitalproserver.com/proxy/orocoipo/oroc"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "1xkqbLcuwpp7nn",
     "name": "Play FM 100.9",
     "stream_urls": [
@@ -561,10 +549,10 @@
     ]
   },
   {
-    "nanoid": "ocbyUT8zG2p2DQ",
-    "name": "Radio Actual FM 102.9",
+    "nanoid": "eQwArPkoomQBMu",
+    "name": "Radio Agricultura",
     "stream_urls": [
-      "https://archi-us.digitalproserver.com/actual.aac"
+      "https://unlimited4-us.dps.live/agricultura/mp3/icecast.audio"
     ],
     "country": "cl",
     "languages": [
@@ -572,10 +560,10 @@
     ]
   },
   {
-    "nanoid": "eQwArPkoomQBMu",
-    "name": "Radio Agricultura",
+    "nanoid": "tNH4uLmCFDreT6",
+    "name": "Radio Alegría del Transporte",
     "stream_urls": [
-      "https://unlimited4-us.dps.live/agricultura/mp3/icecast.audio"
+      "https://streaming01.xhost.cl/8048/;"
     ],
     "country": "cl",
     "languages": [
@@ -664,6 +652,17 @@
     "name": "Radio Atractiva",
     "stream_urls": [
       "https://sonicstream-puntual.grupozgh.cl/8126/;"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tzuwJErCNjztZh",
+    "name": "Radio Austral",
+    "stream_urls": [
+      "https://archi-us.digitalproserver.com/austral.aac"
     ],
     "country": "cl",
     "languages": [
@@ -1019,6 +1018,28 @@
     ]
   },
   {
+    "nanoid": "wl7NH0gwGZAwD3",
+    "name": "Radio Crystal",
+    "stream_urls": [
+      "https://radiolatina.live/9980/;"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "r9wuRSBrf0HZwJ",
+    "name": "Radio Del Maipo",
+    "stream_urls": [
+      "https://sonic.mallocohosting.cl/8012/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "k2H4oIbUBSmmCV",
     "name": "Radio Destino",
     "stream_urls": [
@@ -1047,6 +1068,7 @@
     "stream_urls": [
       "https://stream.zeno.fm/3yv0enxnp7zuv",
       "https://stream.zeno.fm/bx6zuwssrnjvv",
+      "https://stream.zeno.fm/yo6udiulqhbvv",
       "https://stream.zeno.fm/kc5hofr05tavv",
       "https://stream.zeno.fm/uftblekcpxguv",
       "https://stream.zeno.fm/dzvavezs85ouv"
@@ -1579,17 +1601,6 @@
     ]
   },
   {
-    "nanoid": "dPjd0tO8nmbxrK",
-    "name": "Radio Pamela FM",
-    "stream_urls": [
-      "https://sonic-us.arkeo.cl/8562/stream.mp3"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "8DTgQuSnsWNsvY",
     "name": "Radio Paula FM",
     "stream_urls": [
@@ -1605,17 +1616,6 @@
     "name": "Radio Paulina",
     "stream_urls": [
       "https://sp1.streamingssl.com/8058/stream"
-    ],
-    "country": "cl",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "RX1VXMZgbMfRUT",
-    "name": "Radio Picados",
-    "stream_urls": [
-      "https://stream.picados.beer/radio/live"
     ],
     "country": "cl",
     "languages": [
@@ -1757,6 +1757,18 @@
     ]
   },
   {
+    "nanoid": "J0FTw6qRcLMWhg",
+    "name": "Radio Silens Clamor",
+    "stream_urls": [
+      "https://www.silensclamor.com/live"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "eQqUUvogmtyeZ2",
     "name": "Radio Sol",
     "stream_urls": [
@@ -1794,6 +1806,17 @@
     "name": "Radio Sunrise Online",
     "stream_urls": [
       "https://sonic-cl.arkeo.cl/8044/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ywg6zdZlawG2rs",
+    "name": "Radio Tiempo Salvador",
+    "stream_urls": [
+      "https://cast235.indax.cl/8024/stream"
     ],
     "country": "cl",
     "languages": [

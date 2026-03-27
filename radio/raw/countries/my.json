@@ -235,18 +235,6 @@
     ]
   },
   {
-    "nanoid": "JLfplALNJnAqcR",
-    "name": "Music Vault FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/zqxbxkviipcvv"
-    ],
-    "country": "my",
-    "languages": [
-      "eng",
-      "msa"
-    ]
-  },
-  {
     "nanoid": "c438OuUUEuRmzQ",
     "name": "MyFriends Station",
     "stream_urls": [
@@ -273,6 +261,7 @@
     "nanoid": "xgwbY7wBsk6cH9",
     "name": "Pahang FM",
     "stream_urls": [
+      "https://22253.live.streamtheworld.com/PAHANG_FMAAC.aac",
       "https://28163.live.streamtheworld.com/PAHANG_FMAAC.aac"
     ],
     "country": "my",

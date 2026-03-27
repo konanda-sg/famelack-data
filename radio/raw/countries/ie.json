@@ -383,6 +383,17 @@
     ]
   },
   {
+    "nanoid": "ovdJxPZaBvHFUv",
+    "name": "Ignore Radio Shoegaze",
+    "stream_urls": [
+      "https://sp1.autopo.st/8026/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "LbCCxSyc2HgGC9",
     "name": "iRadio",
     "stream_urls": [
@@ -530,10 +541,32 @@
     ]
   },
   {
+    "nanoid": "hMY5FdH2Fck6FH",
+    "name": "MPB Radio 2 90s & 00s",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radio2-90s00s.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "1pJoOJKbArEWg2",
     "name": "MPB Radio 2 Christmas",
     "stream_urls": [
       "https://radiozender.mpbnetwerken.nl/radio2xmas.mp3"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BjlPcSl3jYYqNy",
+    "name": "MPB Radio 2 Easy",
+    "stream_urls": [
+      "https://sc.mpbnl.nl/radio2easy.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -927,6 +960,17 @@
     ]
   },
   {
+    "nanoid": "YDRJxn5W6V0NKZ",
+    "name": "South East Radio",
+    "stream_urls": [
+      "https://edge4.audioxi.com/SOUTHEAST"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "L6DQBwoo4JeeDQ",
     "name": "SPIN 1038",
     "stream_urls": [
@@ -1038,17 +1082,6 @@
     "name": "Today FM 90s",
     "stream_urls": [
       "https://live-bauerie.sharp-stream.com/T90"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ELEss9FYd3a5gA",
-    "name": "Total Country",
-    "stream_urls": [
-      "https://totalcountry.radioca.st/stream"
     ],
     "country": "ie",
     "languages": [

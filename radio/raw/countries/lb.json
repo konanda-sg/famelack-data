@@ -55,17 +55,6 @@
     ]
   },
   {
-    "nanoid": "jiBElfeGiDk8tc",
-    "name": "Jabal Lebnan Radio",
-    "stream_urls": [
-      "https://streaming.nrjaudio.fm/ousra9m4z85f"
-    ],
-    "country": "lb",
-    "languages": [
-      "ara"
-    ]
-  },
-  {
     "nanoid": "ib4sGLbG47jdET",
     "name": "LBI Radio",
     "stream_urls": [
@@ -75,6 +64,18 @@
     "languages": [
       "eng",
       "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "yyLGbMPUADY3pO",
+    "name": "Light FM 90.5",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC"
+    ],
+    "country": "lb",
+    "languages": [
+      "eng",
       "fra"
     ]
   },

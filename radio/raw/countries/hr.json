@@ -22,17 +22,6 @@
     ]
   },
   {
-    "nanoid": "2XDwlLNAlxaVVQ",
-    "name": "bravo! kids",
-    "stream_urls": [
-      "https://audio.social3.hr/listen/bravo_kids/stream"
-    ],
-    "country": "hr",
-    "languages": [
-      "hrv"
-    ]
-  },
-  {
     "nanoid": "2EiWjNfygJ4xXs",
     "name": "Club Music Radio - 70s 80s 90s",
     "stream_urls": [
@@ -148,17 +137,6 @@
     "name": "FolkyTon Radio",
     "stream_urls": [
       "https://ec2s.crolive.com.hr:6035/stream"
-    ],
-    "country": "hr",
-    "languages": [
-      "hrv"
-    ]
-  },
-  {
-    "nanoid": "acAcU6G1WSINJ0",
-    "name": "Gradski Radio Belišće",
-    "stream_urls": [
-      "https://mcp1.mydataknox.com:8006/stream"
     ],
     "country": "hr",
     "languages": [

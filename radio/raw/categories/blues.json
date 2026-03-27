@@ -167,18 +167,6 @@
     ]
   },
   {
-    "nanoid": "vfVWjR1FdlRSJi",
-    "name": "Arctic Outpost Radio",
-    "stream_urls": [
-      "https://radio.streemlion.com:3715/stream"
-    ],
-    "country": "no",
-    "languages": [
-      "nor",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "eU7MzgJZMJ7xsa",
     "name": "ArtSound FM",
     "stream_urls": [
@@ -209,6 +197,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "Pvqvqj95V2KzZw",
+    "name": "Best Radio 94.7",
+    "stream_urls": [
+      "https://i2.streams.ovh:9470/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -349,17 +348,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "KKL3PVY6H4vEF5",
-    "name": "Candil Radio",
-    "stream_urls": [
-      "https://candilradio.com/liveradio/candil/live.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -588,6 +576,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "HuTfJAwQ561RDd",
+    "name": "Friends of 'CSB",
+    "stream_urls": [
+      "https://s20.myradiostream.com:18792/listen.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -1037,6 +1036,19 @@
     ]
   },
   {
+    "nanoid": "DLF4dBJIIYaQoR",
+    "name": "Music City Roadhouse",
+    "stream_urls": [
+      "https://ais-edge09-live365-dal02.cdnstream.com/a73754",
+      "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
+      "https://streaming.live365.com/a73754"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "2BnQJiENSDHEap",
     "name": "Music Corner",
     "stream_urls": [
@@ -1136,6 +1148,18 @@
     ]
   },
   {
+    "nanoid": "zUqndeUTGOq7l0",
+    "name": "OÜI FM Blues 'n' Rock",
+    "stream_urls": [
+      "https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-64.aac",
+      "https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "uDtbLoEPZ9FKmE",
     "name": "Pakito FM",
     "stream_urls": [
@@ -1224,20 +1248,10 @@
     ]
   },
   {
-    "nanoid": "c8MCjroSyWS5vP",
-    "name": "RADIO BOB! Blues",
-    "stream_urls": [
-      "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "vftGcX0Qua3O2j",
     "name": "RADIO BOB! Blues",
     "stream_urls": [
+      "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902",
       "https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/",
       "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/",
       "https://streams.radiobob.de/blues/mp3-192/homepage/",

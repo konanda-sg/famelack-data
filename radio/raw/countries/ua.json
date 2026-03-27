@@ -218,15 +218,49 @@
     ]
   },
   {
+    "nanoid": "VG7oH7hjmlGsvb",
+    "name": "LogicRadio",
+    "stream_urls": [
+      "https://logicworld.ru/icecast/live.mp3"
+    ],
+    "country": "ua",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
     "nanoid": "YtOi7tT3RtFjp7",
     "name": "Lounge FM",
     "stream_urls": [
-      "https://cast.mediaonline.net.ua/loungefm320"
+      "https://cast.mediaonline.net.ua/loungefm320",
+      "https://cast.mediaonline.net.ua/chillout320"
     ],
     "country": "ua",
     "languages": [
       "ukr",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "ukoBc04LIQYJC5",
+    "name": "Lounge FM Acoustic",
+    "stream_urls": [
+      "https://cast.mediaonline.net.ua/acoustic320"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "kcbphyymMb18VF",
+    "name": "Lounge FM Terrace",
+    "stream_urls": [
+      "https://cast.mediaonline.net.ua/terrace320"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
     ]
   },
   {
@@ -584,17 +618,6 @@
     ]
   },
   {
-    "nanoid": "UXnQmoPekiVfkv",
-    "name": "RockRadio UA (РокРадіо UA)",
-    "stream_urls": [
-      "https://rockradioua.online:8433/rock_256"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ]
-  },
-  {
     "nanoid": "DKI2LAISvIj66j",
     "name": "Seven Rays Radio",
     "stream_urls": [
@@ -769,6 +792,17 @@
     ]
   },
   {
+    "nanoid": "y0Ek4ULQBzRGxL",
+    "name": "Буковинська Хвиля (Bukovynska Hvylia)",
+    "stream_urls": [
+      "https://100.cv.ua:8443/play"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
     "nanoid": "aEzaCE151JXVxM",
     "name": "Бізнес Радіо (Business Radio)",
     "stream_urls": [
@@ -788,6 +822,17 @@
     "country": "ua",
     "languages": [
       "rus"
+    ]
+  },
+  {
+    "nanoid": "74XNvHooqr4tcv",
+    "name": "Вільне Радіо (Vilne Radio)",
+    "stream_urls": [
+      "https://complex.in.ua/live"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
     ]
   },
   {
@@ -1183,6 +1228,17 @@
     ]
   },
   {
+    "nanoid": "Fyj0RdAPiE7fkQ",
+    "name": "Радіо Перше",
+    "stream_urls": [
+      "https://live.radio1.com.ua/liveradio64"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
     "nanoid": "WfufwHn8228wZR",
     "name": "Радіо ПТРК",
     "stream_urls": [
@@ -1283,17 +1339,6 @@
     ]
   },
   {
-    "nanoid": "lTlpiDN4HncVco",
-    "name": "Радіо Ґарта",
-    "stream_urls": [
-      "https://rockradioua.online:8433/metal_256"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ]
-  },
-  {
     "nanoid": "oV85EQX27Ky0Dw",
     "name": "Севастополь FM (Sevastopol FM)",
     "stream_urls": [
@@ -1386,7 +1431,8 @@
     "nanoid": "6LGGue63rOYovh",
     "name": "Хіт FM Best",
     "stream_urls": [
-      "https://online.hitfm.ua/HitFM_Best"
+      "https://online.hitfm.ua/HitFM_Best",
+      "https://online.hitfm.ua/HitFM_Best_Live"
     ],
     "country": "ua",
     "languages": [
@@ -1422,17 +1468,6 @@
     "stream_urls": [
       "https://complex.in.ua/Yavir320",
       "https://complex.in.ua/Yavir"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ]
-  },
-  {
-    "nanoid": "qxj3ds28UHRxIL",
-    "name": "Єдині Новини",
-    "stream_urls": [
-      "https://online-news.radioplayer.ua/RadioNews"
     ],
     "country": "ua",
     "languages": [

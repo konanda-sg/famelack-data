@@ -410,18 +410,6 @@
     ]
   },
   {
-    "nanoid": "M95N5Bmk7hRJrW",
-    "name": "Cadena Dial",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "3UmIiSIREIjU21",
     "name": "Cadena Dial Baladas",
     "stream_urls": [
@@ -681,6 +669,17 @@
     ]
   },
   {
+    "nanoid": "qMNzV1GxA13sJQ",
+    "name": "Cadena SER Radio Palencia",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PALENCIA.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "ARGVMEJEwkAlDG",
     "name": "Cadena SER Radio San Sebastián",
     "stream_urls": [
@@ -759,6 +758,17 @@
     "country": "es",
     "languages": [
       "cat",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZuB1m1UCch5lgn",
+    "name": "Cadena SER+",
+    "stream_urls": [
+      "https://27953.live.streamtheworld.com/CADENASER_ALT1AAC.aac"
+    ],
+    "country": "es",
+    "languages": [
       "spa"
     ]
   },
@@ -1251,17 +1261,6 @@
     ]
   },
   {
-    "nanoid": "KKL3PVY6H4vEF5",
-    "name": "Candil Radio",
-    "stream_urls": [
-      "https://candilradio.com/liveradio/candil/live.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "5qZAUD666QmcyW",
     "name": "Cantabria FM",
     "stream_urls": [
@@ -1458,10 +1457,10 @@
     ]
   },
   {
-    "nanoid": "RFVGlRIhgVKd2e",
-    "name": "COPE+ Sevilla",
+    "nanoid": "TILno9MuSzxrT1",
+    "name": "COPE Sierra Norte",
     "stream_urls": [
-      "https://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3"
+      "https://sonic.mediatelekom.net/8096/stream"
     ],
     "country": "es",
     "languages": [
@@ -1540,6 +1539,18 @@
     ]
   },
   {
+    "nanoid": "NvOrP6s2nONDhO",
+    "name": "Cugat Ràdio",
+    "stream_urls": [
+      "https://directe.cugat.cat/directeHQ.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "cat",
+      "spa"
+    ]
+  },
+  {
     "nanoid": "x74tLMavJ7d2pz",
     "name": "Das Inselradio Mallorca",
     "stream_urls": [
@@ -1548,17 +1559,6 @@
     "country": "es",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "0R92NdM2XXhkV6",
-    "name": "Davisow Radio",
-    "stream_urls": [
-      "https://stream-47.zeno.fm/gdyhnx3xem8uv"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -1760,6 +1760,17 @@
     "name": "Elite FM",
     "stream_urls": [
       "https://stream.zeno.fm/atsvz45arm0uv"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "eWCHLAqMAaTF9f",
+    "name": "Elixir FM",
+    "stream_urls": [
+      "https://radio.grupoelixir.es:9006/stream"
     ],
     "country": "es",
     "languages": [
@@ -2478,6 +2489,18 @@
     "name": "Ibiza Global Classics",
     "stream_urls": [
       "https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Co3EzbPURiIGOd",
+    "name": "Ibiza Live Radio",
+    "stream_urls": [
+      "https://uksoutha.streaming.broadcast.radio/ibiza-live-radio"
     ],
     "country": "es",
     "languages": [
@@ -3879,10 +3902,10 @@
     ]
   },
   {
-    "nanoid": "clEi6SkbYPcUnr",
-    "name": "Onda Marina Radio",
+    "nanoid": "jqOT89Nkpzfw0A",
+    "name": "Onda Musical de Yecla",
     "stream_urls": [
-      "https://srv7031.dns-lcinternet.com/8052/stream"
+      "https://stream.zeno.fm/89t31p4mdwzuv"
     ],
     "country": "es",
     "languages": [
@@ -3890,10 +3913,10 @@
     ]
   },
   {
-    "nanoid": "jqOT89Nkpzfw0A",
-    "name": "Onda Musical de Yecla",
+    "nanoid": "NxjV6QZsp72FIc",
+    "name": "Onda Polígono",
     "stream_urls": [
-      "https://stream.zeno.fm/89t31p4mdwzuv"
+      "https://icecast.ondapoligono.org/stream"
     ],
     "country": "es",
     "languages": [
@@ -4061,6 +4084,7 @@
     "nanoid": "RRVksghUDLu5RN",
     "name": "PlayTrance Radio",
     "stream_urls": [
+      "https://live-ff.playtrance.com/playtrance-main.mp3",
       "https://streaming.playtrance.com/playtrance-main-high"
     ],
     "country": "es",
@@ -4201,6 +4225,7 @@
     "name": "Radio Almaina",
     "stream_urls": [
       "https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3",
+      "https://radiobot.radioslibres.info:8020/radio.mp3",
       "https://s.streampunk.cc/almaina.ogg",
       "https://blimp.streampunk.cc/_stream/almaina.ogg"
     ],
@@ -4582,6 +4607,17 @@
     ]
   },
   {
+    "nanoid": "1oiMZ6Y2zYjo1r",
+    "name": "Radio Huayna Picchu",
+    "stream_urls": [
+      "https://conectperu.com/8048/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "upqX98X4H3IJdc",
     "name": "Radio Humor FM",
     "stream_urls": [
@@ -4713,6 +4749,17 @@
     ]
   },
   {
+    "nanoid": "6YmuG8Ym83Ju6W",
+    "name": "Radio Líder",
+    "stream_urls": [
+      "https://server9.emitironline.com:8200/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "G9uGtYmkON97JG",
     "name": "Radio Líder Santiago",
     "stream_urls": [
@@ -4784,6 +4831,7 @@
     "nanoid": "gCVw37l22cKSo7",
     "name": "Radio Marca Málaga",
     "stream_urls": [
+      "https://malagafm.streaming-pro.com:8131/malagafmmobile",
       "https://malagafm.streaming-pro.com:8130/malagafmmobile"
     ],
     "country": "es",
@@ -5501,17 +5549,6 @@
     "name": "RadioMv Español El Antiguo Testamento",
     "stream_urls": [
       "https://stream.radiomv.com/spanish-ot/stream.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "Ey3kzLvL70fniY",
-    "name": "RadioMv Español El Nuevo Testamento",
-    "stream_urls": [
-      "https://stream.radiomv.com/spanish-nt/stream.mp3"
     ],
     "country": "es",
     "languages": [
@@ -6285,17 +6322,6 @@
     ]
   },
   {
-    "nanoid": "1njoBpMY9gaDgI",
-    "name": "Ràdio Sant Fruitós",
-    "stream_urls": [
-      "https://ascella.streamerr.co/listen/radiosantfruitos/radio.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "cat"
-    ]
-  },
-  {
     "nanoid": "2naRvgqKQlULY2",
     "name": "Ràdio SantVi 107.4 FM",
     "stream_urls": [
@@ -6478,17 +6504,6 @@
     "country": "es",
     "languages": [
       "por"
-    ]
-  },
-  {
-    "nanoid": "TPX3JFhPsSZFL4",
-    "name": "scannerFM",
-    "stream_urls": [
-      "https://eu10.fastcast4u.com/scannerfm"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
     ]
   },
   {

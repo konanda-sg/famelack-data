@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "jvzGsgMa7KyKJu",
+    "name": "AXR Hong Kong",
+    "stream_urls": [
+      "https://hongkongstream.axr.online/"
+    ],
+    "country": "hk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "V1f41VrHUTYx65",
     "name": "Bluesfan Radio",
     "stream_urls": [

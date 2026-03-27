@@ -286,10 +286,10 @@
     ]
   },
   {
-    "nanoid": "5mr8BV2gQRsE4O",
-    "name": "Fame 95 FM",
+    "nanoid": "hVgsZF75BE2sDG",
+    "name": "Faith Radio",
     "stream_urls": [
-      "https://stream.zenolive.com/d5mn12bchkeuv"
+      "https://nwm.streamguys1.com/ktis-am"
     ],
     "country": "ug",
     "languages": [
@@ -297,10 +297,10 @@
     ]
   },
   {
-    "nanoid": "1WU7YYudyTw0zH",
-    "name": "Galaxy FM 100.2",
+    "nanoid": "5mr8BV2gQRsE4O",
+    "name": "Fame 95 FM",
     "stream_urls": [
-      "https://streamingv2.shoutcast.com/galaxy-fm-1002"
+      "https://stream.zenolive.com/d5mn12bchkeuv"
     ],
     "country": "ug",
     "languages": [
@@ -893,6 +893,17 @@
     "country": "ug",
     "languages": [
       "lug"
+    ]
+  },
+  {
+    "nanoid": "U2eWhLKVGaAazJ",
+    "name": "Way To God Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/g876nxxz8vzuv"
+    ],
+    "country": "ug",
+    "languages": [
+      "eng"
     ]
   },
   {

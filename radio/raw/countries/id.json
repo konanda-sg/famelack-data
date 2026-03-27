@@ -44,17 +44,6 @@
     ]
   },
   {
-    "nanoid": "VDn0mRIsHzXSas",
-    "name": "Ananda Radio",
-    "stream_urls": [
-      "https://sx.alhasmedia.com/radio/8220/radio"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "eagOGm95C8N0NF",
     "name": "Andika FM Kediri",
     "stream_urls": [
@@ -148,6 +137,17 @@
     "name": "Braya Radio",
     "stream_urls": [
       "https://live.brayaradio.com/listen/brayaradio/stream"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "Tjc1W7Rd9cqkNd",
+    "name": "Cakrawala FM Surabaya",
+    "stream_urls": [
+      "https://streaming.cakrawalafm.net:8040/;"
     ],
     "country": "id",
     "languages": [
@@ -311,17 +311,6 @@
     ]
   },
   {
-    "nanoid": "CfpynH30iU6OGW",
-    "name": "Gajahmada 102.4 FM",
-    "stream_urls": [
-      "https://server.radioimeldafm.co.id:8040/gajahmadafm"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "VP8CLs7h4BoX27",
     "name": "Galuh Media",
     "stream_urls": [
@@ -337,17 +326,6 @@
     "name": "GCD FM 98.6",
     "stream_urls": [
       "https://studio1.indostreamers.com:8014/stream/1/"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "P0Jl3qShuQyboB",
-    "name": "Gema Surya FM",
-    "stream_urls": [
-      "https://r5.siar.us:9420/aac.m4a"
     ],
     "country": "id",
     "languages": [
@@ -446,32 +424,10 @@
     ]
   },
   {
-    "nanoid": "UDnM9kce2qBLSt",
-    "name": "Imelda 104.4 FM",
-    "stream_urls": [
-      "https://server.radioimeldafm.co.id:8030/imeldafm"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "4AcLy2WIvyioKI",
     "name": "Insania FM Luwuk",
     "stream_urls": [
       "https://stream-sg1.galuhmedia.co.id/listen/insanialuwuk/925luwuk"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "sdXCLM9bo5KRzr",
-    "name": "Insania FM Makassar",
-    "stream_urls": [
-      "https://stream-sg1.galuhmedia.co.id/listen/insaniamakassar/1008makassar"
     ],
     "country": "id",
     "languages": [
@@ -516,6 +472,17 @@
     "name": "Insania FM Ternate",
     "stream_urls": [
       "https://stream-sg1.galuhmedia.co.id/listen/insaniaternate/876ternate"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "Xp9xlss0x6wHho",
+    "name": "Istara 101.1 FM",
+    "stream_urls": [
+      "https://live.radioistara.com/listen/radioistara/radioistara"
     ],
     "country": "id",
     "languages": [
@@ -615,17 +582,6 @@
     "name": "Loker Musik Indonesia",
     "stream_urls": [
       "https://stream.lokermusik.com/listen/lokermusik/lokermusik"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "zJXdCw2VkBrINv",
-    "name": "LPPL Radio Kota Batik",
-    "stream_urls": [
-      "https://studio1.indostreamers.com:8010/stream/1/"
     ],
     "country": "id",
     "languages": [
@@ -893,17 +849,6 @@
     ]
   },
   {
-    "nanoid": "zUzp07LyHnaX17",
-    "name": "Radio AR Bali",
-    "stream_urls": [
-      "https://live.radioarbali.com:8450/radioar"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "n8h7txwnTk0eMV",
     "name": "Radio Campursari 89.2 FM",
     "stream_urls": [
@@ -914,17 +859,6 @@
     "languages": [
       "ind",
       "jav"
-    ]
-  },
-  {
-    "nanoid": "abTI7j0zfbSIOV",
-    "name": "Radio CBB 105.4 FM",
-    "stream_urls": [
-      "https://stream01-ssl.arenastreaming.com:8056/live"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
     ]
   },
   {
@@ -1017,43 +951,10 @@
     ]
   },
   {
-    "nanoid": "LG7aBIDIzIIpif",
-    "name": "Radio Fajri 99.3 FM",
-    "stream_urls": [
-      "https://ars.mitradio.com:8000/radio.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "fm5SqquLM8BYIZ",
     "name": "Radio Gentara",
     "stream_urls": [
       "https://s1.gntr.net/listen/radio_gentara/gentara64"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "shYCH1UgYkhudv",
-    "name": "Radio Gobers",
-    "stream_urls": [
-      "https://sx.alhasmedia.com/radio/8140/radio"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "vCTXoxzyRx3vIu",
-    "name": "Radio Hidayah 103.4 FM",
-    "stream_urls": [
-      "https://radioislamindonesia.com/radiohidayah.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1408,17 +1309,6 @@
     ]
   },
   {
-    "nanoid": "WxQQWmPZX6U1sg",
-    "name": "RRI Pro 1 Atambua",
-    "stream_urls": [
-      "https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "07TtOgtI40I99D",
     "name": "RRI Pro 1 Banda Aceh",
     "stream_urls": [
@@ -1452,6 +1342,17 @@
     ]
   },
   {
+    "nanoid": "yQppKJTnPZkVpC",
+    "name": "RRI Pro 1 Jakarta",
+    "stream_urls": [
+      "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "VNqcwXmMnWA5lf",
     "name": "RRI Pro 1 Kupang",
     "stream_urls": [
@@ -1478,6 +1379,17 @@
     "name": "RRI Pro 1 Manado",
     "stream_urls": [
       "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "WF0gS0IIrFMfFJ",
+    "name": "RRI Pro 1 Medan",
+    "stream_urls": [
+      "https://stream-node0.rri.co.id/streaming/11/9011/rrimedanpro1.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1522,17 +1434,6 @@
     "name": "RRI Pro 1 Ranai",
     "stream_urls": [
       "https://stream-node0.rri.co.id/streaming/24/9124/rriranaipro1.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "8ZdRfKRq13lOSI",
-    "name": "RRI Pro 1 Sungailiat",
-    "stream_urls": [
-      "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro1.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1595,10 +1496,10 @@
     ]
   },
   {
-    "nanoid": "YMewlJnc3wBDM2",
-    "name": "RRI Pro 2 Manado",
+    "nanoid": "JYpHTWiKalhha7",
+    "name": "RRI Pro 2 Makassar",
     "stream_urls": [
-      "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3"
+      "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1606,10 +1507,10 @@
     ]
   },
   {
-    "nanoid": "dvw7FEITmGMxkQ",
-    "name": "RRI Pro 2 Sungailiat",
+    "nanoid": "YMewlJnc3wBDM2",
+    "name": "RRI Pro 2 Manado",
     "stream_urls": [
-      "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro2.mp3"
+      "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1705,17 +1606,6 @@
     ]
   },
   {
-    "nanoid": "UHlHyRM8pOZY6c",
-    "name": "Safasindo FM",
-    "stream_urls": [
-      "https://radio.safasindo.com/listen/radio_safasindo/radio.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "VEzY3wTEU00g7O",
     "name": "SB FM Parepare",
     "stream_urls": [
@@ -1775,6 +1665,17 @@
     "name": "Sonora FM Bandung",
     "stream_urls": [
       "https://streamingv2.shoutcast.com/sonora-bandung"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "HNH6dLAzpXU1ja",
+    "name": "Spirit Online",
+    "stream_urls": [
+      "https://radio.spirittoc.com:8060/spirit_online"
     ],
     "country": "id",
     "languages": [
@@ -1988,18 +1889,6 @@
     ],
     "country": "id",
     "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "eVBGE8VoIDdxrT",
-    "name": "Voice of Indonesia",
-    "stream_urls": [
-      "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "eng",
       "ind"
     ]
   },

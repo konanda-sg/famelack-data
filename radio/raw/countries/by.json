@@ -167,6 +167,18 @@
     ]
   },
   {
+    "nanoid": "gWxgvwnAJlAAXh",
+    "name": "Легенды FM",
+    "stream_urls": [
+      "https://livefm.legendy.by/legendy"
+    ],
+    "country": "by",
+    "languages": [
+      "bel",
+      "rus"
+    ]
+  },
+  {
     "nanoid": "GYwYKo48h2ypuh",
     "name": "Лидер FM 94.3",
     "stream_urls": [
@@ -300,17 +312,6 @@
     ]
   },
   {
-    "nanoid": "jSISsCfjXEct60",
-    "name": "Радио Город FM",
-    "stream_urls": [
-      "https://stream2.datacenter.by/GorodFM"
-    ],
-    "country": "by",
-    "languages": [
-      "rus"
-    ]
-  },
-  {
     "nanoid": "bA8pgvJ6JNC9gq",
     "name": "Радио Минск",
     "stream_urls": [
@@ -347,7 +348,6 @@
     "nanoid": "wJIg803a6X2ive",
     "name": "Радио РОКС",
     "stream_urls": [
-      "https://stream.pcradio.ru/roks_minsk-hi",
       "https://stream.roks.com:8443/live128"
     ],
     "country": "by",

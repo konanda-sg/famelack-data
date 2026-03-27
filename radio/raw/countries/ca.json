@@ -1328,18 +1328,6 @@
     ]
   },
   {
-    "nanoid": "wa6eAr4T7VkFQ9",
-    "name": "98.5 Montréal",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC%20.aac"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "0urWWOYJ7xSskd",
     "name": "98.7 K-Rock",
     "stream_urls": [
@@ -1857,17 +1845,6 @@
     "stream_urls": [
       "https://stream.bpmsports.ca/cklx.mp3",
       "https://icecast-cklx.rncm.ca/cklx.mp3"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "npIta0r99BiVF5",
-    "name": "BPM Sports 96.5",
-    "stream_urls": [
-      "https://stream0.bpmsports.ca/cftx.aac"
     ],
     "country": "ca",
     "languages": [
@@ -3178,6 +3155,17 @@
     ]
   },
   {
+    "nanoid": "TmP0zSbF0wVBJv",
+    "name": "CFUR 88.7 FM",
+    "stream_urls": [
+      "https://listen.cfur.ca/aac"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "CwbOXMlP56DvpC",
     "name": "CFUT 92.9 FM",
     "stream_urls": [
@@ -3292,17 +3280,6 @@
     "name": "CHHR 94.7 FM",
     "stream_urls": [
       "https://sheetharbour.out.airtime.pro/sheetharbour_a"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "KhEOkfoiaQH9Z7",
-    "name": "CHIM Christian Radio",
-    "stream_urls": [
-      "https://ice7.securenetsystems.net/CHIMFM"
     ],
     "country": "ca",
     "languages": [
@@ -3536,17 +3513,6 @@
     ]
   },
   {
-    "nanoid": "vZAjcoLat0F4Jh",
-    "name": "CHPR 102.1 FM",
-    "stream_urls": [
-      "https://19473.live.streamtheworld.com/CJLAFMAAC.aac"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "rONlGkhymClQIS",
     "name": "CHRC 92.5 FM",
     "stream_urls": [
@@ -3606,6 +3572,17 @@
     "name": "CHRX 98.5",
     "stream_urls": [
       "https://vistaradio.streamb.live/SB00404"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TCRd75rXtJmFed",
+    "name": "CHRZ 91.3",
+    "stream_urls": [
+      "https://satcom.rfchosting.ca:9109/stream"
     ],
     "country": "ca",
     "languages": [
@@ -3731,6 +3708,17 @@
     "country": "ca",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "AXzt28LwScXwt2",
+    "name": "CIKX 93.5",
+    "stream_urls": [
+      "https://mbsradio-ais.leanstream.co/CIKXFM-MP3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -3941,6 +3929,17 @@
     "name": "CJAD 800 AM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC_SC"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jUddQHywXl1D7d",
+    "name": "CJAM 99.1 FM",
+    "stream_urls": [
+      "https://cast5.my-control-panel.com/proxy/lorne/stream.aac"
     ],
     "country": "ca",
     "languages": [
@@ -4729,17 +4728,6 @@
     ]
   },
   {
-    "nanoid": "zMjawoUM7VFpbC",
-    "name": "CKVL 100.1 FM",
-    "stream_urls": [
-      "https://stream.statsradio.com:8072/stream"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "J8Hi383gx7b68p",
     "name": "CKVM 93.1",
     "stream_urls": [
@@ -4851,17 +4839,6 @@
     ]
   },
   {
-    "nanoid": "wJX7Umzkfy5INY",
-    "name": "Classic Oldies Mix",
-    "stream_urls": [
-      "https://online.jamminvibezradio.com/listen/oldies/live.flac"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "Uecx5RuEoBkTtj",
     "name": "Classic Rock 109",
     "stream_urls": [
@@ -4881,6 +4858,17 @@
     "country": "ca",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "lD1IB3ewhdnDhQ",
+    "name": "CMR Punjabi",
+    "stream_urls": [
+      "https://live.cmr24.net/CMR/Punjabi-MQ/icecast.audio"
+    ],
+    "country": "ca",
+    "languages": [
+      "pan"
     ]
   },
   {
@@ -5605,18 +5593,6 @@
     "country": "ca",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "kvUFSaiPw0QPoa",
-    "name": "FM93",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFM_SC.aac"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -6653,6 +6629,17 @@
     ]
   },
   {
+    "nanoid": "XMOtsQVVnpJpHE",
+    "name": "KiSS 99.3",
+    "stream_urls": [
+      "https://rogers.leanstream.co/rogers/tim993.stream/icy"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "cMHgbKKsmgZUSS",
     "name": "KIX FM 106",
     "stream_urls": [
@@ -6753,17 +6740,6 @@
     ]
   },
   {
-    "nanoid": "wDeB5x4hU1RknL",
-    "name": "KYK 95.7",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CKYKFMAAC.aac"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "MVYyoiAGCJk2dB",
     "name": "La Bonita X101",
     "stream_urls": [
@@ -6790,17 +6766,6 @@
     "name": "La Superstation CKLE",
     "stream_urls": [
       "https://stream2.statsradio.com:8114/stream"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "kAzHjvASSXK1oI",
-    "name": "La Voix de St-Lo 90.7",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/11310/stream/22574"
     ],
     "country": "ca",
     "languages": [
@@ -7728,14 +7693,14 @@
     ]
   },
   {
-    "nanoid": "bGK6WNR73YlgPG",
-    "name": "Planète 93.5",
+    "nanoid": "ESDkJPOeqhalV6",
+    "name": "Piranha Radio",
     "stream_urls": [
-      "https://18093.live.streamtheworld.com/CKXOFMAAC.aac"
+      "https://stream.zeno.fm/pf53pa54kg8uv"
     ],
     "country": "ca",
     "languages": [
-      "fra"
+      "eng"
     ]
   },
   {
@@ -7884,6 +7849,17 @@
     ]
   },
   {
+    "nanoid": "VFyvrIgm7nC8zA",
+    "name": "Radio 42° North",
+    "stream_urls": [
+      "https://ice66.securenetsystems.net/R42N"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "92X4WSJrA7ga8z",
     "name": "Radio 7 Toronto",
     "stream_urls": [
@@ -7986,17 +7962,6 @@
     ]
   },
   {
-    "nanoid": "7u2DMaPugTOWBu",
-    "name": "Radio CHGA",
-    "stream_urls": [
-      "https://stream02.ustream.ca/chga128.mp3"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "m12LaAcXFGyGY1",
     "name": "Radio CINA 102.3 FM",
     "stream_urls": [
@@ -8005,17 +7970,6 @@
     "country": "ca",
     "languages": [
       "ara"
-    ]
-  },
-  {
-    "nanoid": "iI2nvB8ltWXi1R",
-    "name": "Radio Circulation 730 AM",
-    "stream_urls": [
-      "https://18193.live.streamtheworld.com/CKACAMAAC.aac"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -8968,7 +8922,6 @@
     "nanoid": "GKYa09oecSOMp8",
     "name": "SerrebiRadio",
     "stream_urls": [
-      "https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio",
       "https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD"
     ],
     "country": "ca",
@@ -9191,17 +9144,6 @@
     ]
   },
   {
-    "nanoid": "lUCqJ7lbJrhKjE",
-    "name": "The Coast 89.7",
-    "stream_urls": [
-      "https://s45.myradiostream.com/:15204/listen.mp3/;"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "0gFL62kzHurM9D",
     "name": "The Eagle 100.9",
     "stream_urls": [
@@ -9376,6 +9318,17 @@
     "name": "The Storm",
     "stream_urls": [
       "https://s9.voscast.com:9705/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qgcwu4zBn9dly5",
+    "name": "Thugzone",
+    "stream_urls": [
+      "https://ingold.thugzone.ca/proxy/thugzone5/stream"
     ],
     "country": "ca",
     "languages": [
@@ -9828,6 +9781,17 @@
     "country": "ca",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "FR2GItkCJ7M0HB",
+    "name": "Zingzing",
+    "stream_urls": [
+      "https://stream.zeno.fm/qgaxw53e4zhvv"
+    ],
+    "country": "ca",
+    "languages": [
+      "zho"
     ]
   }
 ]

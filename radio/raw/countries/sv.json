@@ -77,17 +77,6 @@
     ]
   },
   {
-    "nanoid": "Zy2HLDOWoOFkai",
-    "name": "Radio ABC 100.1 FM",
-    "stream_urls": [
-      "https://streaming.rcs.com.sv/proxy/abc/stream"
-    ],
-    "country": "sv",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "i6BSn3RShXwFuP",
     "name": "Radio Astral 102.9 FM",
     "stream_urls": [
@@ -148,17 +137,6 @@
     "name": "Radio Fiesta 104.9 FM",
     "stream_urls": [
       "https://sp4.colombiatelecom.com.co/8026/stream"
-    ],
-    "country": "sv",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "YzZtJlrCJPYQXF",
-    "name": "Radio La Chévere 100.9 FM",
-    "stream_urls": [
-      "https://streaming.rcs.com.sv/proxy/chevere/stream"
     ],
     "country": "sv",
     "languages": [
@@ -270,17 +248,6 @@
     "name": "Radio Soda 105.3 FM",
     "stream_urls": [
       "https://streaming.rcs.com.sv/proxy/soda/stream"
-    ],
-    "country": "sv",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "a5g2NXIWvIp6Ly",
-    "name": "Radio Super Estrella 94.1 FM",
-    "stream_urls": [
-      "https://streaming.rcs.com.sv/proxy/super/stream"
     ],
     "country": "sv",
     "languages": [

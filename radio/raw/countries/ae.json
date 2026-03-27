@@ -390,10 +390,32 @@
     ]
   },
   {
+    "nanoid": "0W9hOJc7UN53MK",
+    "name": "Classical Radio - André Rieu",
+    "stream_urls": [
+      "https://drive.uber.radio/uber/crandrerieu/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "0fN3gyJHVTTX5q",
     "name": "Classical Radio - Andrés Segovia",
     "stream_urls": [
       "https://drive.uber.radio/uber/crandressegovia/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ICKLunNsKV28s3",
+    "name": "Classical Radio - Arturo Toscanini",
+    "stream_urls": [
+      "https://drive.uber.radio/uber/crarturotoscanini/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -1434,6 +1456,17 @@
     "name": "Exclusively Alabama",
     "stream_urls": [
       "https://streaming.exclusive.radio/er/alabama/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "28PLvfUiR4nwHs",
+    "name": "Exclusively Alanis Morissette",
+    "stream_urls": [
+      "https://streaming.exclusive.radio/er/alanismorissette/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2568,17 +2601,6 @@
     ]
   },
   {
-    "nanoid": "Wzvnz4wXHEt1KW",
-    "name": "Exclusively Coldplay Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/coldplayhits/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "9MeA7nybZbMLhy",
     "name": "Exclusively Cream",
     "stream_urls": [
@@ -2815,17 +2837,6 @@
     ]
   },
   {
-    "nanoid": "VGI157jvXBWMbZ",
-    "name": "Exclusively Doja Cat",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/dojacat/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "cbYgoc1kOIuqpH",
     "name": "Exclusively Dolly Parton",
     "stream_urls": [
@@ -2997,7 +3008,6 @@
     "nanoid": "E5sKE3uIsMpe4c",
     "name": "Exclusively Ella Fitzgerald",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio",
       "https://2.mystreaming.net/er/ellafitzgerald/icecast.audio",
       "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio"
     ],
@@ -3268,17 +3278,6 @@
     "stream_urls": [
       "https://2.mystreaming.net/er/franksinatra/icecast.audio",
       "https://streaming.exclusive.radio/er/franksinatra/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5tTbElgwEMdFwQ",
-    "name": "Exclusively Frank Sinatra Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/franksinatrahits/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -5953,17 +5952,6 @@
     ]
   },
   {
-    "nanoid": "ag1Y5UL9fNlZgy",
-    "name": "Exclusively Small Faces",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/smallfaces/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "KeK6qziEUKWBFQ",
     "name": "Exclusively Smokey Robinson",
     "stream_urls": [
@@ -7334,6 +7322,17 @@
     ]
   },
   {
+    "nanoid": "YlibrdgunOuOw2",
+    "name": "Kadak FM",
+    "stream_urls": [
+      "https://n05.radiojar.com/s1mygd1frxquv"
+    ],
+    "country": "ae",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
     "nanoid": "cMB7RLIkVfRCYi",
     "name": "Love Radio - 1950s",
     "stream_urls": [
@@ -7393,17 +7392,6 @@
     "name": "Love Radio - 2000s",
     "stream_urls": [
       "https://drive.uber.radio/uber/lr2000s/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "rrQNgtwNOedeWk",
-    "name": "Love Radio - 2010s",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/lr2010s/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -7999,32 +7987,10 @@
     ]
   },
   {
-    "nanoid": "EFHBfAScKgVkIa",
-    "name": "Positively Peaceful 432Hz",
-    "stream_urls": [
-      "https://streaming.positivity.radio/pr/posipeaceful/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "7rUuNHm121OuxF",
     "name": "Positively Piano",
     "stream_urls": [
       "https://streaming.positivity.radio/pr/piano/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "HiAtEYaXmvNFKk",
-    "name": "Positively Reiki",
-    "stream_urls": [
-      "https://streaming.positivity.radio/pr/reiki/icecast.audio"
     ],
     "country": "ae",
     "languages": [

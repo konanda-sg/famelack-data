@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "4QFLpjzqiwMDrn",
+    "name": "All The Best Radio",
+    "stream_urls": [
+      "https://c4.radioboss.fm/stream/537"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
     "nanoid": "tYBYocapbIXXZ5",
     "name": "Duo Country",
     "stream_urls": [
@@ -583,6 +594,17 @@
     "country": "ee",
     "languages": [
       "est"
+    ]
+  },
+  {
+    "nanoid": "ThxGIo5EOwkZvR",
+    "name": "Sky Radio",
+    "stream_urls": [
+      "https://stream.skymedia.ee/live/SKY"
+    ],
+    "country": "ee",
+    "languages": [
+      "rus"
     ]
   },
   {

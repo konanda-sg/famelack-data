@@ -1792,17 +1792,6 @@
     ]
   },
   {
-    "nanoid": "kavTetmob2ufAx",
-    "name": "Radio A.R.C.",
-    "stream_urls": [
-      "https://arclibrary.grausof.it/stream"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
     "nanoid": "GyEZGhPIeccbIb",
     "name": "Radio Aelle",
     "stream_urls": [
@@ -3629,17 +3618,6 @@
     ]
   },
   {
-    "nanoid": "IiAGy7DQwcmlCZ",
-    "name": "Radio Linea Drive",
-    "stream_urls": [
-      "https://rblive.it:8100//radio.mp3"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
     "nanoid": "fjj02BrHzgkrHb",
     "name": "Radio Linea Italia",
     "stream_urls": [
@@ -4216,6 +4194,17 @@
       "https://ice18.fluidstream.net/area05.mp3",
       "https://ice12.fluidstream.net/rn1.aac",
       "https://rn1.fluidstream.eu/rn1.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "OwJ2SBIRfwz3Tt",
+    "name": "Radio Nuova Macerata",
+    "stream_urls": [
+      "https://ice09.fluidstream.net/fluid0903.mp3"
     ],
     "country": "it",
     "languages": [
@@ -5135,6 +5124,17 @@
     ]
   },
   {
+    "nanoid": "IzqkuDqyekNvIk",
+    "name": "Radio Sunbeat",
+    "stream_urls": [
+      "https://stream.rcs.revma.com/5tbxc6f39yuvv"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "GsMeKeCpRMnlu1",
     "name": "Radio Supersound",
     "stream_urls": [
@@ -5240,17 +5240,6 @@
     "name": "Radio Trapena",
     "stream_urls": [
       "https://stream.zeno.fm/ytxxawhz67zuv"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
-    "nanoid": "gtLNZxLyh5yIyw",
-    "name": "Radio Underground Italia",
-    "stream_urls": [
-      "https://nr14.newradio.it:8707/stream"
     ],
     "country": "it",
     "languages": [

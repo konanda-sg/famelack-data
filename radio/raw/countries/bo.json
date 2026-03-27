@@ -79,10 +79,10 @@
     ]
   },
   {
-    "nanoid": "vM6SuRw1IHyFTG",
-    "name": "esLatino Radio",
+    "nanoid": "k2jhV7G3DcUrth",
+    "name": "FM Bolivia",
     "stream_urls": [
-      "https://spanel.gcomstreaming.com/8030/stream"
+      "https://stm11.xcast.com.br:11300/stream/1/"
     ],
     "country": "bo",
     "languages": [
@@ -128,17 +128,6 @@
     "name": "Radio Acer",
     "stream_urls": [
       "https://live.turadiotv.com/8004/stream"
-    ],
-    "country": "bo",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "RQgIWlmMPZMUa7",
-    "name": "Radio Activa",
-    "stream_urls": [
-      "https://radio02.com/7002/stream"
     ],
     "country": "bo",
     "languages": [
@@ -202,6 +191,17 @@
     ]
   },
   {
+    "nanoid": "7Od6goFRSY0bhc",
+    "name": "Radio CEPRA",
+    "stream_urls": [
+      "https://fm.awanahost.com/8058/cbba"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "fRCt5IEiaDOkUj",
     "name": "Radio Chacaltaya",
     "stream_urls": [
@@ -250,6 +250,17 @@
     "name": "Radio El Sonido de Vida",
     "stream_urls": [
       "https://stream-158.zeno.fm/c4z6tu9gqeruv"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ummaJE2q8PutC9",
+    "name": "Radio Estelar",
+    "stream_urls": [
+      "https://a3.asurahosting.com:6080/radio.mp3"
     ],
     "country": "bo",
     "languages": [
@@ -363,6 +374,17 @@
     "stream_urls": [
       "https://stream.zeno.fm/5hfx7xfambruv",
       "https://stream.zeno.fm/pnwpbyfambruv"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5KAVVWL5uxw58W",
+    "name": "Radio Pío XII 97.9",
+    "stream_urls": [
+      "https://aler.org:8445/pio12cbba.mp3"
     ],
     "country": "bo",
     "languages": [
@@ -487,17 +509,6 @@
     "name": "Radio Tuti Internacional",
     "stream_urls": [
       "https://stream.zeno.fm/nplf6hpufi5uv"
-    ],
-    "country": "bo",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "fCxgMAiTPpH5qV",
-    "name": "Radio Wiracocha",
-    "stream_urls": [
-      "https://stream.zeno.fm/rtui1p0xscetv"
     ],
     "country": "bo",
     "languages": [

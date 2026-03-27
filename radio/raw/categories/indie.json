@@ -81,6 +81,17 @@
     ]
   },
   {
+    "nanoid": "Ot1ZGZkHUkEcex",
+    "name": "100 XR",
+    "stream_urls": [
+      "https://xr.dockl.com/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "pyhIc9R2Zjzcst",
     "name": "100.1 WXTJ",
     "stream_urls": [
@@ -755,6 +766,17 @@
       "https://wortcast01.wortfm.org:8443/high.mp3"
     ],
     "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JWPxoXWNlIxGWT",
+    "name": "8K.NZ",
+    "stream_urls": [
+      "https://radio8k.out.airtime.pro:8000/radio8k_a"
+    ],
+    "country": "nz",
     "languages": [
       "eng"
     ]
@@ -1921,6 +1943,17 @@
     ]
   },
   {
+    "nanoid": "Pvqvqj95V2KzZw",
+    "name": "Best Radio 94.7",
+    "stream_urls": [
+      "https://i2.streams.ovh:9470/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "E0UEvNrylJPyoK",
     "name": "BFBS Edge",
     "stream_urls": [
@@ -2330,17 +2363,6 @@
     ]
   },
   {
-    "nanoid": "gZXGskDIbZd2AO",
-    "name": "Cathedral 13",
-    "stream_urls": [
-      "https://listen.shoutcast.com/cathedralxiii"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "ZrCstzXFkTYM6N",
     "name": "CBC Music Atlantic",
     "stream_urls": [
@@ -2412,6 +2434,17 @@
     "name": "CFRL Radio",
     "stream_urls": [
       "https://ice24.securenetsystems.net/CFRLIN"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TmP0zSbF0wVBJv",
+    "name": "CFUR 88.7 FM",
+    "stream_urls": [
+      "https://listen.cfur.ca/aac"
     ],
     "country": "ca",
     "languages": [
@@ -2534,6 +2567,17 @@
     "name": "CIVL-FM 101.7",
     "stream_urls": [
       "https://live.civl.ca:8000/live.mp3"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jUddQHywXl1D7d",
+    "name": "CJAM 99.1 FM",
+    "stream_urls": [
+      "https://cast5.my-control-panel.com/proxy/lorne/stream.aac"
     ],
     "country": "ca",
     "languages": [
@@ -3131,6 +3175,17 @@
     ]
   },
   {
+    "nanoid": "EJlAxTEecmCRRT",
+    "name": "Domus Radio",
+    "stream_urls": [
+      "https://libretime.domusradio.com/icecast/main"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "IV1RAVLcvMd3bc",
     "name": "Dork Radio",
     "stream_urls": [
@@ -3478,17 +3533,6 @@
     "languages": [
       "ell",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "XTTsrXV2Zehq7O",
-    "name": "En Lefko Alternative",
-    "stream_urls": [
-      "https://n0b.radiojar.com/d9f74ydscrruv"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -3854,6 +3898,17 @@
     ]
   },
   {
+    "nanoid": "ziTyEDKQIfjQ2n",
+    "name": "FluxFM - Radio Alternative",
+    "stream_urls": [
+      "https://streams.fluxfm.de/radioalt/mp3-320/streams.fluxfm.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "4wZIRCvbO4p2SV",
     "name": "FluxFM Alternative",
     "stream_urls": [
@@ -3982,6 +4037,17 @@
     ]
   },
   {
+    "nanoid": "HuTfJAwQ561RDd",
+    "name": "Friends of 'CSB",
+    "stream_urls": [
+      "https://s20.myradiostream.com:18792/listen.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "8idQm5quy2waDG",
     "name": "Fritto FM",
     "stream_urls": [
@@ -4064,6 +4130,17 @@
     ]
   },
   {
+    "nanoid": "gIn5vnO6uecTcg",
+    "name": "Gangstaville Radio",
+    "stream_urls": [
+      "https://stream.radio.co/s1cffd7347/listen"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "vqTK7J3bfmYpOW",
     "name": "Gitarre FM",
     "stream_urls": [
@@ -4072,6 +4149,18 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "BnihhpCiPJDSyC",
+    "name": "GoA World",
+    "stream_urls": [
+      "https://a11.asurahosting.com:8350/radio.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
     ]
   },
   {
@@ -4149,6 +4238,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "2xqahrpoZAT2fc",
+    "name": "Graffiti Urban Radio",
+    "stream_urls": [
+      "https://diffusion.lafrap.fr/graffiti"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
     ]
   },
   {
@@ -4346,6 +4446,17 @@
     ]
   },
   {
+    "nanoid": "ovdJxPZaBvHFUv",
+    "name": "Ignore Radio Shoegaze",
+    "stream_urls": [
+      "https://sp1.autopo.st/8026/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "tyJ1zQ9I3gysCc",
     "name": "iHeartRadio Alternative Rewind",
     "stream_urls": [
@@ -4506,8 +4617,7 @@
     "nanoid": "RBxShai05rWEU3",
     "name": "Iowa Public Radio Studio One",
     "stream_urls": [
-      "https://studioone-stream.iowapublicradio.org/StudioOne.mp3",
-      "https://studioone-stream.iowapublicradio.org/StudioOneLow.mp3"
+      "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
     ],
     "country": "us",
     "languages": [
@@ -4852,6 +4962,18 @@
     ]
   },
   {
+    "nanoid": "OsEOzCFSVXJWd4",
+    "name": "KDVS 90.3 FM",
+    "stream_urls": [
+      "https://archives.kdvs.org/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
     "nanoid": "0gcmAFoypvyYCV",
     "name": "KEXP 90.3 FM",
     "stream_urls": [
@@ -5057,17 +5179,6 @@
     ]
   },
   {
-    "nanoid": "GD9IcNVYqibc5q",
-    "name": "KPJK",
-    "stream_urls": [
-      "https://streaming.radio.co/s9378c22ee/listen"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "7sZvPeVPGDkorR",
     "name": "KRFC 88.9 FM",
     "stream_urls": [
@@ -5249,6 +5360,17 @@
     "name": "KWNK 97.7 FM",
     "stream_urls": [
       "https://s3.radio.co/sd2b4bf544/listen"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AXkFAhEc8samfL",
+    "name": "KWTS 91.1 FM The One",
+    "stream_urls": [
+      "https://ice41.securenetsystems.net/KWTS"
     ],
     "country": "us",
     "languages": [
@@ -5561,17 +5683,6 @@
     ]
   },
   {
-    "nanoid": "gi2G6IuvUKixNF",
-    "name": "Lone Star Community Radio",
-    "stream_urls": [
-      "https://ice6.securenetsystems.net/LSIR"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "CakLOyezbsTGmF",
     "name": "Louder Than War",
     "stream_urls": [
@@ -5818,17 +5929,6 @@
     "country": "gr",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "P87IBEiEt50VlV",
-    "name": "Mundo Livre FM 102.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_MGAAAC.aac"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
     ]
   },
   {
@@ -6268,17 +6368,6 @@
     "name": "ON Indie",
     "stream_urls": [
       "https://0n-indie.radionetz.de/0n-indie.aac"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "zfEX3aIQpuonL4",
-    "name": "On the Rocks",
-    "stream_urls": [
-      "https://on_the_rocks.stream.laut.fm/on_the_rocks"
     ],
     "country": "de",
     "languages": [
@@ -6910,17 +6999,6 @@
     "country": "ru",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "UdsJX8rGGRMS5a",
-    "name": "Radio Afera 98.6 FM",
-    "stream_urls": [
-      "https://radio.afera.com.pl/afera128.ogg"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
     ]
   },
   {
@@ -8368,14 +8446,15 @@
     ]
   },
   {
-    "nanoid": "PPFKBhmRO5CI44",
-    "name": "Radio Sing Sing",
+    "nanoid": "J0FTw6qRcLMWhg",
+    "name": "Radio Silens Clamor",
     "stream_urls": [
-      "https://stream.sing-sing-bis.org:8443/singsingaac128"
+      "https://www.silensclamor.com/live"
     ],
-    "country": "fr",
+    "country": "cl",
     "languages": [
-      "fra"
+      "spa",
+      "eng"
     ]
   },
   {
@@ -8544,7 +8623,6 @@
     "nanoid": "RFx4FgfJYRAByu",
     "name": "Radio Vostok",
     "stream_urls": [
-      "https://radiovostok.ice.infomaniak.ch/lavostoke.aac",
       "https://radiovostok.ice.infomaniak.ch/radiovostok.aac"
     ],
     "country": "ch",
@@ -9075,17 +9153,6 @@
     "name": "ROCK FM - Alternative Rock",
     "stream_urls": [
       "https://stream.regenbogen2.de/modernrock/mp3-128/radio-browser"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "V9sdXM09vgNFt7",
-    "name": "ROCK FM Indie Rock",
-    "stream_urls": [
-      "https://stream.regenbogen2.de/indierock/mp3-128/radiobrowser"
     ],
     "country": "de",
     "languages": [
@@ -10424,28 +10491,6 @@
     ]
   },
   {
-    "nanoid": "NCNI8y1yw5RGKW",
-    "name": "Twisted Grape Radio",
-    "stream_urls": [
-      "https://ice23.securenetsystems.net/TGR"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "y5WqcIqthR3cg4",
-    "name": "U92 The Moose",
-    "stream_urls": [
-      "https://stream.radiojar.com/56p3rt9eytzuv"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "UZMKc8VyCBnTaz",
     "name": "UCFM 87.8",
     "stream_urls": [
@@ -10849,7 +10894,8 @@
     "nanoid": "GpdMaVsL8ae1zk",
     "name": "WITR 89.7 FM",
     "stream_urls": [
-      "https://streaming.witr.rit.edu/live-aac-96"
+      "https://streaming.witr.rit.edu/live-aac-96",
+      "https://streaming.witr.rit.edu/live"
     ],
     "country": "us",
     "languages": [
@@ -11364,6 +11410,17 @@
       "https://listen.xray.fm/stream"
     ],
     "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RriXBboWOWYl1x",
+    "name": "XRaydio 1",
+    "stream_urls": [
+      "https://xraydio.ddns.net/live"
+    ],
+    "country": "bg",
     "languages": [
       "eng"
     ]

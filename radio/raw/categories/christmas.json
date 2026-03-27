@@ -249,7 +249,6 @@
     "nanoid": "bMM45PPHEkVCz9",
     "name": "24/7 Christmas Music Radio",
     "stream_urls": [
-      "https://streaming.live365.com/a29903",
       "https://ais-edge101-live365-dal02.cdnstream.com/a29903"
     ],
     "country": "us",
@@ -745,6 +744,7 @@
     "nanoid": "BmJ4qCNwd5qIUD",
     "name": "Christmas Vinyl",
     "stream_urls": [
+      "https://walmradio.com:8443/christmas",
       "https://icecast.walmradio.com:8443/christmas",
       "https://icecast.walmradio.com:8443/christmas_opus"
     ],
@@ -982,6 +982,17 @@
     "name": "FFH Weihnachtsradio",
     "stream_urls": [
       "https://mp3.ffh.de/ffhchannels/hqspezial1.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "mb2ulCjXuA406Y",
+    "name": "ffn Tannenbaum",
+    "stream_urls": [
+      "https://player.ffn.de/ffntannenbaum.m3u"
     ],
     "country": "de",
     "languages": [
@@ -1313,17 +1324,6 @@
     "country": "uk",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "tPKjWDp5xO5BM0",
-    "name": "Melyh Christmas",
-    "stream_urls": [
-      "https://stream.zeno.fm/rks5ag8p2w9uv"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -2243,17 +2243,6 @@
     ]
   },
   {
-    "nanoid": "XLdrvpvFWeB73L",
-    "name": "The Miller Lights Radio",
-    "stream_urls": [
-      "https://radio.themillerlights.com/listen/themillerlights/radio.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "FnrfcolUz09mwh",
     "name": "TheLight Christmas",
     "stream_urls": [
@@ -2436,17 +2425,6 @@
     "name": "Your Classical Holiday",
     "stream_urls": [
       "https://holiday.stream.publicradio.org/holiday_yc.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "RGqqbUnaZg8w2I",
-    "name": "ZChristmas",
-    "stream_urls": [
-      "https://ice.zradio.org/c/high.mp3"
     ],
     "country": "us",
     "languages": [

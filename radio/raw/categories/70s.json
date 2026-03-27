@@ -465,17 +465,6 @@
     ]
   },
   {
-    "nanoid": "7nCUH4oHoHfghk",
-    "name": "Classic FM Fyn",
-    "stream_urls": [
-      "https://netradio.classicfm.dk/cla12a"
-    ],
-    "country": "dk",
-    "languages": [
-      "dan"
-    ]
-  },
-  {
     "nanoid": "jIMAQoJBYxVTzB",
     "name": "Classic Hits Forest Radio",
     "stream_urls": [
@@ -719,17 +708,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "7RJDWYBi91hsqB",
-    "name": "HearMe - 70s Rock",
-    "stream_urls": [
-      "https://radio.hearme.fm:8240/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
     ]
   },
   {

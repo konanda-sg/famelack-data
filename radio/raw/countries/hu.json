@@ -718,17 +718,6 @@
     ]
   },
   {
-    "nanoid": "lex6o9LqcmTKt2",
-    "name": "JazzRadio.hu",
-    "stream_urls": [
-      "https://www.jazzradio.hu:8000/jazzradio_192.ogg"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ]
-  },
-  {
     "nanoid": "vUMtos6TVSRhII",
     "name": "Jazzy Cool",
     "stream_urls": [
@@ -810,7 +799,6 @@
     "nanoid": "rpfeq0BConOuFA",
     "name": "Kossuth Rádió",
     "stream_urls": [
-      "https://icast.connectmedia.hu/4736/mr1.mp3",
       "https://mr-stream.connectmedia.hu/4736/mr1.mp3"
     ],
     "country": "hu",
@@ -829,17 +817,6 @@
     "languages": [
       "hun",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "ePOAuAmvmnc6Js",
-    "name": "Lakihegy Rádió",
-    "stream_urls": [
-      "https://lakihegyradio.hu/player/stream.php"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
     ]
   },
   {
@@ -1349,17 +1326,6 @@
     ]
   },
   {
-    "nanoid": "gxf9vTVz9lgyO2",
-    "name": "Reménység Hangja Rádió",
-    "stream_urls": [
-      "https://live.rvs.ro/mg"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ]
-  },
-  {
     "nanoid": "kKnMfOlRUDVOZk",
     "name": "Retro Rádió",
     "stream_urls": [
@@ -1760,18 +1726,6 @@
     "country": "hu",
     "languages": [
       "hun"
-    ]
-  },
-  {
-    "nanoid": "qlWprHXsYULVXL",
-    "name": "Zalan Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/kvqrsxeeafctv"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun",
-      "eng"
     ]
   },
   {

@@ -323,17 +323,6 @@
     ]
   },
   {
-    "nanoid": "ox3WB9i8uQIHgd",
-    "name": "Engelliler Radyosu",
-    "stream_urls": [
-      "https://stream.zeno.fm/iuqovax9ftsvv"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ]
-  },
-  {
     "nanoid": "0aQ5hweYxjUzFd",
     "name": "Ereğli FM",
     "stream_urls": [
@@ -1697,6 +1686,17 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
       "https://29053.live.streamtheworld.com/SUPER_FM128AAC.aac"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "N2vtkdvZYYV8yP",
+    "name": "Tarsus FM 95.5",
+    "stream_urls": [
+      "https://tarsusfm.80.yayin.com.tr//stream"
     ],
     "country": "tr",
     "languages": [

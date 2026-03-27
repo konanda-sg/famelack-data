@@ -1,5 +1,27 @@
 [
   {
+    "nanoid": "iKHIl12hPOVDke",
+    "name": "'t Is Vloms",
+    "stream_urls": [
+      "https://bluford.torontocast.com/proxy/iimfoptl/stream"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "RhdkuQffNnVavu",
+    "name": "100% Retro",
+    "stream_urls": [
+      "https://server.musicstars.online/radio/8000/listen"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "rjDNVRxb4t8dqW",
     "name": "100,5 Das Hitradio",
     "stream_urls": [
@@ -200,6 +222,17 @@
     ]
   },
   {
+    "nanoid": "aZTUvx5vy8IREx",
+    "name": "CK Deejay",
+    "stream_urls": [
+      "https://radio-pub.be/CKDJ/ckdjmix.mp3"
+    ],
+    "country": "be",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "Gr35HGjKXjZns7",
     "name": "CK Radio",
     "stream_urls": [
@@ -389,17 +422,6 @@
     "country": "be",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "axGixDlcbgfb5m",
-    "name": "Enjoy FM",
-    "stream_urls": [
-      "https://live.radiostudio.be/enjoyfm"
-    ],
-    "country": "be",
-    "languages": [
-      "nld"
     ]
   },
   {
@@ -671,19 +693,6 @@
     ],
     "country": "be",
     "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "3FhXoS6BwYrMKu",
-    "name": "Kiosk Radio",
-    "stream_urls": [
-      "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b"
-    ],
-    "country": "be",
-    "languages": [
-      "eng",
-      "fra",
       "nld"
     ]
   },
@@ -1243,8 +1252,7 @@
     "nanoid": "dkgbP5Bv1cHlEd",
     "name": "Radio Apollo",
     "stream_urls": [
-      "https://radioapollo.beheerstream.nl/8004/stream",
-      "https://loa.beheerstream.nl:8004/stream"
+      "https://radioapollo.beheerstream.nl/8004/stream"
     ],
     "country": "be",
     "languages": [
@@ -1825,6 +1833,17 @@
     "name": "RTBF VivaCité Bruxelles",
     "stream_urls": [
       "https://radios.rtbf.be/vivabxl-64.aac"
+    ],
+    "country": "be",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "qGHnbWkxpDDqES",
+    "name": "RTBF VivaCité Charleroi",
+    "stream_urls": [
+      "https://radios.rtbf.be/vivacharleroi-64.aac"
     ],
     "country": "be",
     "languages": [

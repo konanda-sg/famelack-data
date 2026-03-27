@@ -429,17 +429,6 @@
     ]
   },
   {
-    "nanoid": "E52ha4bebslOBo",
-    "name": "Radio Breslev Carmiel",
-    "stream_urls": [
-      "https://securestreams6.autopo.st:2294/mp3"
-    ],
-    "country": "il",
-    "languages": [
-      "heb"
-    ]
-  },
-  {
     "nanoid": "hDH6n927TaYzQ1",
     "name": "Radio Darom",
     "stream_urls": [
@@ -729,17 +718,6 @@
     ]
   },
   {
-    "nanoid": "eXZFFUXqYJTNE9",
-    "name": "Rak Musica",
-    "stream_urls": [
-      "https://play.radioking.io/rak-musica/670240"
-    ],
-    "country": "il",
-    "languages": [
-      "heb"
-    ]
-  },
-  {
     "nanoid": "fFAybGC08ZPDeK",
     "name": "Star 33 Radio",
     "stream_urls": [
@@ -749,6 +727,17 @@
     "languages": [
       "rus",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "4MPDInpZK5piHd",
+    "name": "Teder FM",
+    "stream_urls": [
+      "https://radio.streamgates.net/stream/teder"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
     ]
   },
   {

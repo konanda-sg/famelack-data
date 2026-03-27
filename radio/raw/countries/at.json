@@ -596,17 +596,6 @@
     ]
   },
   {
-    "nanoid": "oCHkC9P0re1XqF",
-    "name": "Freies Radio RRTH",
-    "stream_urls": [
-      "https://radio.rrth.at/RRTH"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "eMvAxCqgsiLUkV",
     "name": "Freies Radio Salzkammergut",
     "stream_urls": [
@@ -987,6 +976,17 @@
     "name": "Mountain Reggae Radio",
     "stream_urls": [
       "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "4tq4emKVzDalXq",
+    "name": "NJOY Radio 88.2 FM",
+    "stream_urls": [
+      "https://live.njoyradio.at/njoy"
     ],
     "country": "at",
     "languages": [
@@ -1702,6 +1702,17 @@
     "name": "Red Bull TV",
     "stream_urls": [
       "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Uw3BgIqJpzXvKg",
+    "name": "RePlayScape",
+    "stream_urls": [
+      "https://radio.replayscape.com:8443/128k.mp3"
     ],
     "country": "at",
     "languages": [

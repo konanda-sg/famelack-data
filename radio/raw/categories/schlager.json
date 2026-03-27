@@ -863,7 +863,8 @@
     "nanoid": "6w0aeRfB7kOZUs",
     "name": "Perfect Radio - Schlageroldies",
     "stream_urls": [
-      "https://n0b.radiojar.com/rk8e9x2vetzuv"
+      "https://n0b.radiojar.com/rk8e9x2vetzuv",
+      "https://stream.radiojar.com/rk8e9x2vetzuv"
     ],
     "country": "de",
     "languages": [
@@ -972,18 +973,6 @@
     "country": "at",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "bTYRm8Ih51xBMD",
-    "name": "Radio Calypso",
-    "stream_urls": [
-      "https://mcp-1.streampanel.nl:8024/mobiel"
-    ],
-    "country": "nl",
-    "languages": [
-      "deu",
-      "nld"
     ]
   },
   {
@@ -1402,17 +1391,6 @@
     "name": "Radio Schwany - Instrumental",
     "stream_urls": [
       "https://schwany.streampanel.cloud/11-instrumental"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "ZqsNLbL2AW0kAP",
-    "name": "Radio Schwany - Oldie Radio",
-    "stream_urls": [
-      "https://oldie.spcast.eu/stream"
     ],
     "country": "de",
     "languages": [
@@ -2092,17 +2070,6 @@
     "name": "SWR4 Kaiserslautern",
     "stream_urls": [
       "https://liveradio.swr.de/sw282p3/swr4kl/"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "TMezv5vxXekNVT",
-    "name": "SWR4 Karlsruhe",
-    "stream_urls": [
-      "https://liveradio.swr.de/sw282p3/swr4ka/play.mp3"
     ],
     "country": "de",
     "languages": [

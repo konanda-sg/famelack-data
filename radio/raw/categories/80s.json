@@ -243,6 +243,7 @@
     "nanoid": "T6bJYo2F3REJSR",
     "name": "101FM - 80er",
     "stream_urls": [
+      "https://0-24_80er_pop_rock.stream.laut.fm/0-24_80er_pop_rock",
       "https://0-2480erpoprock.stream.laut.fm/0-24_80er_pop_rock"
     ],
     "country": "de",
@@ -846,6 +847,7 @@
     "nanoid": "aUfXGILFOoX2sw",
     "name": "80s80s Maxis",
     "stream_urls": [
+      "https://streams.80s80s.de/web/mp3-192/homepage/",
       "https://regiocast.streamabc.net/regc-80s80smaxis2114493-mp3-192-5359027",
       "https://streams.80s80s.de/maxis/mp3-192",
       "https://streams.80s80s.de/maxis/mp3-192/streams.80s80s.de/"
@@ -1396,6 +1398,17 @@
     ]
   },
   {
+    "nanoid": "bScjqNwqC2iicf",
+    "name": "Back In Time",
+    "stream_urls": [
+      "https://back_in_time.stream.laut.fm/back_in_time"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "xSww0qkqZpeYuC",
     "name": "Bailiwick Radio Classics",
     "stream_urls": [
@@ -1787,17 +1800,6 @@
     ]
   },
   {
-    "nanoid": "7nCUH4oHoHfghk",
-    "name": "Classic FM Fyn",
-    "stream_urls": [
-      "https://netradio.classicfm.dk/cla12a"
-    ],
-    "country": "dk",
-    "languages": [
-      "dan"
-    ]
-  },
-  {
     "nanoid": "LVJGLeNIGixxtj",
     "name": "Classic Hits 80s",
     "stream_urls": [
@@ -1961,7 +1963,8 @@
     "nanoid": "Rwt8lt3lO9vDix",
     "name": "DJ Raimund",
     "stream_urls": [
-      "https://djraimund.stream.laut.fm/dj_raimund"
+      "https://djraimund.stream.laut.fm/dj_raimund",
+      "https://dj_raimund.stream.laut.fm/dj_raimund"
     ],
     "country": "de",
     "languages": [
@@ -2531,18 +2534,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "wggd9hJJXmZZ7u",
-    "name": "Hitradio 038",
-    "stream_urls": [
-      "https://loa.beheerstream.nl:8018/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "nld"
     ]
   },
   {
@@ -3963,6 +3954,17 @@
     ]
   },
   {
+    "nanoid": "6xkVM4a5fLmnDs",
+    "name": "Planet 80s",
+    "stream_urls": [
+      "https://planet80s.stream.laut.fm/planet80s"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "9jULBCP2d1FzYA",
     "name": "Play Gold",
     "stream_urls": [
@@ -4290,17 +4292,6 @@
     "name": "Radio Dresden 80er",
     "stream_urls": [
       "https://streaming.radiodresden.de/radio-dresden_80er_192k_mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "4Pqco96EKY893c",
-    "name": "Radio Emscher Lippe - Dein 80er Radio",
-    "stream_urls": [
-      "https://rnrw.cast.addradio.de/rnrw-0166/dein80er/high/stream.mp3"
     ],
     "country": "de",
     "languages": [
@@ -4709,18 +4700,6 @@
     ]
   },
   {
-    "nanoid": "vK61vzZ9KexROY",
-    "name": "Radio OldHit",
-    "stream_urls": [
-      "https://oldhit.ru:8000/"
-    ],
-    "country": "ru",
-    "languages": [
-      "eng",
-      "rus"
-    ]
-  },
-  {
     "nanoid": "8RRz8CU6Q8UiKG",
     "name": "Radio Paradiso NRW",
     "stream_urls": [
@@ -4951,17 +4930,6 @@
       "https://radiotx.radioca.st/stream"
     ],
     "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "8VNIzIIpOxSbdn",
-    "name": "Radio Unicar",
-    "stream_urls": [
-      "https://maximacenterdata.com/8086/stream"
-    ],
-    "country": "pe",
     "languages": [
       "spa"
     ]
@@ -5279,6 +5247,17 @@
     ]
   },
   {
+    "nanoid": "AltSL23IhZvcEp",
+    "name": "Rhythm 98 WTHM-DB",
+    "stream_urls": [
+      "https://cast6.my-control-panel.com/proxy/rhythm98/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "Z0nVpLbxES8hQi",
     "name": "Ridge Radio",
     "stream_urls": [
@@ -5431,6 +5410,17 @@
     ]
   },
   {
+    "nanoid": "2REqUJFn9MyJ5H",
+    "name": "RPR1. NDW",
+    "stream_urls": [
+      "https://stream.rpr1.de/ndw/mp3-128/radiobrowser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "OyhQR6cah4yGGO",
     "name": "RSE Freestyle Radio",
     "stream_urls": [
@@ -5450,17 +5440,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "AahsurKe3bkdW9",
-    "name": "RTL 100% 80",
-    "stream_urls": [
-      "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl100pc80/130/audio-64000/index.m3u8"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -5527,6 +5506,17 @@
     "country": "br",
     "languages": [
       "por"
+    ]
+  },
+  {
+    "nanoid": "4SBQS5CBzvVZYd",
+    "name": "SecondRadio",
+    "stream_urls": [
+      "https://stream.secondradio.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -5677,6 +5667,18 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "7dTIbM8RD7JoqC",
+    "name": "Stereo Cien 100.1 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
     ]
   },
   {

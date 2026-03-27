@@ -142,6 +142,17 @@
     ]
   },
   {
+    "nanoid": "kJOOp8NWeM19Zt",
+    "name": "Radio Space 104 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/noozxmffa38uv"
+    ],
+    "country": "az",
+    "languages": [
+      "aze"
+    ]
+  },
+  {
     "nanoid": "sJNnPnfrGpnCIK",
     "name": "Radio TMB 100.5",
     "stream_urls": [

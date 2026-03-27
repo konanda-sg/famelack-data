@@ -94,6 +94,18 @@
     ]
   },
   {
+    "nanoid": "F6nshPLuEFTyzV",
+    "name": "FM 101 Larkana",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:8050/stream"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "MZaKpbetJfsmA3",
     "name": "FM 101 Mithi",
     "stream_urls": [
@@ -246,17 +258,6 @@
     "name": "NCAC Radio Pakistan",
     "stream_urls": [
       "https://whmsonic.radio.gov.pk:7004/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "urd"
-    ]
-  },
-  {
-    "nanoid": "4l1d0pGJgDSBxu",
-    "name": "Radio Pakistan D.I. Khan",
-    "stream_urls": [
-      "https://whmsonic.radio.gov.pk:7000/Dikhan"
     ],
     "country": "pk",
     "languages": [

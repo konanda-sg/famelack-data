@@ -98,7 +98,6 @@
     "nanoid": "lAk6FoZOR0XPIo",
     "name": "Generation Dance",
     "stream_urls": [
-      "https://generationdance.lu/radio/8030/hd",
       "https://generationdance.lu/radio/8030/mobile"
     ],
     "country": "lu",
@@ -193,17 +192,6 @@
     "stream_urls": [
       "https://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
       "https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192"
-    ],
-    "country": "lu",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "KXl0CPP90yBNcj",
-    "name": "RTL Schlagerliebe",
-    "stream_urls": [
-      "https://stream.rtlradio.de/schlagerliebe/mp3-192/"
     ],
     "country": "lu",
     "languages": [

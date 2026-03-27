@@ -689,6 +689,17 @@
     ]
   },
   {
+    "nanoid": "2IZ74ovozJy2h6",
+    "name": "Baroque Sonatas Radio",
+    "stream_urls": [
+      "https://baroque_sonatas_radio.stream.laut.fm/baroque_sonatas_radio"
+    ],
+    "country": "de",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "iQCJUDWEqz45dr",
     "name": "Bartók Rádió",
     "stream_urls": [
@@ -1604,17 +1615,6 @@
     ]
   },
   {
-    "nanoid": "U51eXEIOlHegav",
-    "name": "Classical 89.3 WQED",
-    "stream_urls": [
-      "https://ice-1.streamhoster.com/lv_wqed--893"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "YUAzt0hkOb3EKj",
     "name": "Classical 90.5 (KBIA)",
     "stream_urls": [
@@ -1699,6 +1699,19 @@
     ],
     "country": "us",
     "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "61brYTL4xKILIt",
+    "name": "Classical California - Nuestra Música",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CC6_S01AAC_96.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CC7_S01AAC_96.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "spa",
       "eng"
     ]
   },
@@ -1827,10 +1840,32 @@
     ]
   },
   {
+    "nanoid": "0W9hOJc7UN53MK",
+    "name": "Classical Radio - André Rieu",
+    "stream_urls": [
+      "https://drive.uber.radio/uber/crandrerieu/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "0fN3gyJHVTTX5q",
     "name": "Classical Radio - Andrés Segovia",
     "stream_urls": [
       "https://drive.uber.radio/uber/crandressegovia/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ICKLunNsKV28s3",
+    "name": "Classical Radio - Arturo Toscanini",
+    "stream_urls": [
+      "https://drive.uber.radio/uber/crarturotoscanini/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -2564,6 +2599,7 @@
     "name": "Concertgebouworkest Webradio",
     "stream_urls": [
       "https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192",
+      "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192",
       "https://ice.cr2.streamzilla.xlcdn.com:8000/sz%3DRCOLiveWebradio%3Daac128"
     ],
     "country": "nl",
@@ -4747,18 +4783,6 @@
     ]
   },
   {
-    "nanoid": "5PVDropy0yGh3Q",
-    "name": "Medi 1 Classique",
-    "stream_urls": [
-      "https://live.medi1.com/Classique"
-    ],
-    "country": "ma",
-    "languages": [
-      "ara",
-      "fra"
-    ]
-  },
-  {
     "nanoid": "BPR1yvOLXouMUT",
     "name": "Miled Music Clásica",
     "stream_urls": [
@@ -5042,6 +5066,17 @@
     ]
   },
   {
+    "nanoid": "WX6piwLdzQcvxU",
+    "name": "ON Movies",
+    "stream_urls": [
+      "https://0n-movies.radionetz.de/0n-movies.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "mxjRtdEP3pWIRF",
     "name": "Onic Classical",
     "stream_urls": [
@@ -5096,17 +5131,6 @@
     "country": "mx",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "CbymLOzKG5TylD",
-    "name": "Organ Magic",
-    "stream_urls": [
-      "https://outpostradio.com/listen/omagic"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -6588,17 +6612,6 @@
     ]
   },
   {
-    "nanoid": "dPMtcic4UlcleG",
-    "name": "Radio TPI",
-    "stream_urls": [
-      "https://s1.slotex.pl/shoutcast/7632/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "UQuTy9ny23uajc",
     "name": "Radio UdeC",
     "stream_urls": [
@@ -7175,17 +7188,6 @@
     ]
   },
   {
-    "nanoid": "TMezv5vxXekNVT",
-    "name": "SWR4 Karlsruhe",
-    "stream_urls": [
-      "https://liveradio.swr.de/sw282p3/swr4ka/play.mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "3jzF1TUWbN1EgZ",
     "name": "SWR4 Mainz",
     "stream_urls": [
@@ -7253,17 +7255,6 @@
     ]
   },
   {
-    "nanoid": "28Jcla8JjJ9YCJ",
-    "name": "The Classical Station WCPE",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "XR6mX7e0E4d5HI",
     "name": "The New Classical FM",
     "stream_urls": [
@@ -7280,17 +7271,6 @@
     "stream_urls": [
       "https://streaming.live365.com/a95442",
       "https://das-edge09-live365-dal03.cdnstream.com/a95442"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "OcwQRIKqotxvb8",
-    "name": "thegreatiamb Kids",
-    "stream_urls": [
-      "https://stream.zeno.fm/fwcpjdir9o1uv"
     ],
     "country": "us",
     "languages": [
@@ -7484,6 +7464,7 @@
     "nanoid": "Xyy5wF5bHm56iA",
     "name": "WALM Radio",
     "stream_urls": [
+      "https://walmradio.com:8443/walm",
       "https://icecast.walmradio.com:8443/walm"
     ],
     "country": "us",
@@ -7898,17 +7879,6 @@
     "name": "WUWF HD2 Classical",
     "stream_urls": [
       "https://wuwf.streamguys1.com/WUWFHD2.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "MOKJT8lqc3oKpx",
-    "name": "WUWG 90.7 FM",
-    "stream_urls": [
-      "https://gpb.streamguys1.com/gpb-atlanta-mp3"
     ],
     "country": "us",
     "languages": [
@@ -8433,7 +8403,6 @@
     "nanoid": "lKzaFWRfxiLMZa",
     "name": "Радио Орфей: Фолк-музыка",
     "stream_urls": [
-      "https://channels.fonotron.ru:8000/Chan_63_128.aac",
       "https://channels.fonotron.ru:8000/Chan_63_256.mp3"
     ],
     "country": "ru",

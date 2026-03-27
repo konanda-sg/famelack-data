@@ -22,6 +22,17 @@
     ]
   },
   {
+    "nanoid": "EI4mz7qSB1CwCS",
+    "name": "CMKC Radio Revolución",
+    "stream_urls": [
+      "https://icecast.teveo.cu/C9vVPN7h"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "hdzA6jFpH910bE",
     "name": "Cubanía Radio",
     "stream_urls": [
@@ -77,10 +88,21 @@
     ]
   },
   {
-    "nanoid": "f9ZrwRbR3XB3X8",
-    "name": "Radio Baraguá 91.3 FM",
+    "nanoid": "IjarSwMW9pjPhs",
+    "name": "Radio Banes",
     "stream_urls": [
-      "https://icecast.teveo.cu/3CMM7zph"
+      "https://icecast.teveo.cu/9cMzdkK7"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "otSbeEb0TxKdgw",
+    "name": "Radio Bayamo 98.6 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/7hdNcTbM"
     ],
     "country": "cu",
     "languages": [
@@ -121,6 +143,17 @@
     ]
   },
   {
+    "nanoid": "eWn9p1bfOlKPyj",
+    "name": "Radio Ciudad Monumento 95.3 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/KR43FF7C"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "gF72AZhqpEbILF",
     "name": "Radio CMHW",
     "stream_urls": [
@@ -143,10 +176,32 @@
     ]
   },
   {
+    "nanoid": "UkPF0Bs5FLqiIh",
+    "name": "Radio Granma",
+    "stream_urls": [
+      "https://icecast.teveo.cu/9RLhkmRH"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "1YhBYqNSE8PiyN",
     "name": "Radio Habana Cuba",
     "stream_urls": [
       "https://icecast.teveo.cu/McW3fLhs"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "n7a4Sb7lAsO0dw",
+    "name": "Radio Jaruco 104.9 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/KH9tVwrC"
     ],
     "country": "cu",
     "languages": [
@@ -169,6 +224,17 @@
     "name": "Radio Metropolitana",
     "stream_urls": [
       "https://icecast.teveo.cu/ktW3mW74"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "iqOztx1FjRPjR6",
+    "name": "Radio Morón 98.9 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/jJ4JV3FK"
     ],
     "country": "cu",
     "languages": [
@@ -199,10 +265,10 @@
     ]
   },
   {
-    "nanoid": "sFMnvHVm81kwcy",
-    "name": "Radio Reloj",
+    "nanoid": "WIsULeHzEIVsLH",
+    "name": "Radio Sagua",
     "stream_urls": [
-      "https://icecast.teveo.cu/b3jbfThq"
+      "https://icecast.teveo.cu/wHm3qrMx"
     ],
     "country": "cu",
     "languages": [
@@ -210,10 +276,10 @@
     ]
   },
   {
-    "nanoid": "WIsULeHzEIVsLH",
-    "name": "Radio Sagua",
+    "nanoid": "xfRnvsrNjPWOjx",
+    "name": "Radio Sancti Spíritus",
     "stream_urls": [
-      "https://icecast.teveo.cu/wHm3qrMx"
+      "https://icecast.teveo.cu/NqWrgw7j"
     ],
     "country": "cu",
     "languages": [

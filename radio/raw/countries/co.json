@@ -492,6 +492,17 @@
     ]
   },
   {
+    "nanoid": "to2Ynl5G1EHGOO",
+    "name": "Brisa FM 93.1",
+    "stream_urls": [
+      "https://radio25.virtualtronics.com:20057/;"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "xWebnuYysxF7UE",
     "name": "Brisas del San Juan 106.3 FM",
     "stream_urls": [
@@ -518,17 +529,6 @@
     "name": "Buturama Stereo 101.7 FM",
     "stream_urls": [
       "https://tupanel.info:2000/stream/ButuramaStereo"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "Fc27zlrXMEeuYy",
-    "name": "Bésame (Cali) 106.5 FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC_SC"
     ],
     "country": "co",
     "languages": [
@@ -657,6 +657,17 @@
     ]
   },
   {
+    "nanoid": "JLtPd2LjGLsLWO",
+    "name": "Calentura Stereo",
+    "stream_urls": [
+      "https://emisorasdigitales2.com/8174/stream"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "REZc6nTlb9W44U",
     "name": "Calidad Stereo 100.6 FM",
     "stream_urls": [
@@ -716,17 +727,6 @@
     "name": "Canutal Estéreo",
     "stream_urls": [
       "https://stream.zeno.fm/ajgwsujd9eatv"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "dljx13Jf3EJg1p",
-    "name": "Caracol Radio (Santa Marta) 890 AM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_STAMARTAAAC_SC"
     ],
     "country": "co",
     "languages": [
@@ -1043,17 +1043,6 @@
     ]
   },
   {
-    "nanoid": "hAT7gprW7TnlrK",
-    "name": "Ebenezer Stereo 88.2 FM",
-    "stream_urls": [
-      "https://sonic.paulatina.co/7128/stream"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "yzyEO0922xOULc",
     "name": "Ecos 1360 Radio",
     "stream_urls": [
@@ -1190,6 +1179,17 @@
     "name": "Exitosa Stereo 107.8 FM",
     "stream_urls": [
       "https://stream.zeno.fm/zx3zzt5vvjdtv"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nnV465X0CdvGRC",
+    "name": "Fanática Stereo",
+    "stream_urls": [
+      "https://stream.zeno.fm/virlugnz0nmvv"
     ],
     "country": "co",
     "languages": [
@@ -1407,6 +1407,17 @@
     ]
   },
   {
+    "nanoid": "xd4Bzcc21rkgWp",
+    "name": "Jazmar Estéreo 101.3 FM",
+    "stream_urls": [
+      "https://radiohd.streaminghd.co:9398/stream"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "DPUh6fzvgxGU1X",
     "name": "Juventud Stereo 101.9 FM",
     "stream_urls": [
@@ -1433,6 +1444,17 @@
     "name": "La Caqueteña 93.1 FM",
     "stream_urls": [
       "https://inrai04.radioca.st/lacaquetena"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "TFZASywMmz5Svq",
+    "name": "La Ciento 7 Digital 107.8 FM",
+    "stream_urls": [
+      "https://radiohd.streaminghd.co:7190/live"
     ],
     "country": "co",
     "languages": [
@@ -1510,17 +1532,6 @@
     "name": "La FM 94.9",
     "stream_urls": [
       "https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/icecast.audio"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "3mn6cx9JAlyLy2",
-    "name": "La Isla 89.5 FM",
-    "stream_urls": [
-      "https://radiohd.streaminghd.co:7238/stream"
     ],
     "country": "co",
     "languages": [
@@ -1795,33 +1806,11 @@
     ]
   },
   {
-    "nanoid": "xPwKV2wrWvXI9d",
-    "name": "La Voz de los Llaneros 106.3 FM",
-    "stream_urls": [
-      "https://1063.meta.gov.co/"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "02Y1GMIsHtarjg",
     "name": "La Voz de Mi Tierrita 94.1 FM",
     "stream_urls": [
       "https://stream.zeno.fm/u8zxutp7mzzuv",
       "https://radiohd4.streaminghd.co:8040/stream"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "6uB92qIVM4TY80",
-    "name": "La Voz del Cañaguate 860 AM",
-    "stream_urls": [
-      "https://sonic.paulatina.co/7278/stream/;"
     ],
     "country": "co",
     "languages": [
@@ -1922,7 +1911,6 @@
     "nanoid": "l1PSuI8vewbTId",
     "name": "LOS40 Colombia",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/%20LOS40_COLOMBIA.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac"
     ],
     "country": "co",
@@ -2087,6 +2075,17 @@
     ]
   },
   {
+    "nanoid": "2dfYBNQ1VkjtFR",
+    "name": "Más Popular",
+    "stream_urls": [
+      "https://cloud11.vsgtech.co/proxy/maspopular/stream"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "cfkgDB35MWFdme",
     "name": "Nevermore Radio",
     "stream_urls": [
@@ -2095,17 +2094,6 @@
     "country": "co",
     "languages": [
       "eng",
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "SG49Rs2x78TaU9",
-    "name": "Nueva Era Stereo 107.8 FM",
-    "stream_urls": [
-      "https://radiohd.streaminghd.co:7154/stream"
-    ],
-    "country": "co",
-    "languages": [
       "spa"
     ]
   },
@@ -2773,17 +2761,6 @@
     ]
   },
   {
-    "nanoid": "v0GJJud0j8rsKd",
-    "name": "Radio Viva Fénix 1220 AM",
-    "stream_urls": [
-      "https://radiolatina.info/8172/stream"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "O2PIn0C6Miv2Xb",
     "name": "Radio Viva Fénix 780 AM",
     "stream_urls": [
@@ -3312,6 +3289,17 @@
     "name": "Vilmar Stereo 91.4 FM",
     "stream_urls": [
       "https://stream.zeno.fm/pfrwo2fzcbktv"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pL3UDBfYcrLuJT",
+    "name": "Violeta Stereo 89.7 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/qtlh7auu9m7uv"
     ],
     "country": "co",
     "languages": [

@@ -192,27 +192,27 @@
     ]
   },
   {
-    "nanoid": "5PVDropy0yGh3Q",
-    "name": "Medi 1 Classique",
+    "nanoid": "w3OeM64WkFQjqb",
+    "name": "Medi 1 DJ",
     "stream_urls": [
-      "https://live.medi1.com/Classique"
+      "https://live.medi1.com/Dj"
     ],
     "country": "ma",
     "languages": [
-      "ara",
-      "fra"
+      "ara"
     ]
   },
   {
-    "nanoid": "M06SXFZ8P7ZXnt",
-    "name": "Medi 1 Jazz",
+    "nanoid": "53GbiE3IixSZQv",
+    "name": "Medi 1 Latino",
     "stream_urls": [
-      "https://live.medi1.com/Jazz"
+      "https://live.medi1.com/Latino"
     ],
     "country": "ma",
     "languages": [
       "ara",
-      "fra"
+      "fra",
+      "spa"
     ]
   },
   {
@@ -244,6 +244,17 @@
     "name": "Medi 1 Soufi",
     "stream_urls": [
       "https://live.medi1.com/Soufi"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "7LquP6ZqddiOXy",
+    "name": "Medi 1 Tarab",
+    "stream_urls": [
+      "https://live.medi1.com/Tarab"
     ],
     "country": "ma",
     "languages": [
@@ -479,6 +490,39 @@
       "ara",
       "eng",
       "fra"
+    ]
+  },
+  {
+    "nanoid": "EcUegg0GrhFVj7",
+    "name": "Yabiladi Azawan Amazigh",
+    "stream_urls": [
+      "https://radio.yabiladi.com:9002/;stream.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HFoxCqsu245eF6",
+    "name": "Yabiladi Chaabi Maroc",
+    "stream_urls": [
+      "https://radio.yabiladi.com:8102/;stream.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mHdrLgolP2toHQ",
+    "name": "Yabiladi Radio",
+    "stream_urls": [
+      "https://radio.yabiladi.com:8002/;stream.mp3"
+    ],
+    "country": "ma",
+    "languages": [
+      "eng"
     ]
   }
 ]

@@ -394,18 +394,8 @@
     "nanoid": "PJC9StM3BIJSzc",
     "name": "AR Rahman Radio",
     "stream_urls": [
+      "https://psrlive2.listenon.in/arr",
       "https://psrweb1.listenon.in/arr"
-    ],
-    "country": "in",
-    "languages": [
-      "tam"
-    ]
-  },
-  {
-    "nanoid": "EzxVp3wUXawHQN",
-    "name": "AR Rahman Tamil Hits",
-    "stream_urls": [
-      "https://stream-176.zeno.fm/p7b0e3ms97zuv"
     ],
     "country": "in",
     "languages": [
@@ -1031,17 +1021,6 @@
     ]
   },
   {
-    "nanoid": "aYj1F6dkJm7UQ8",
-    "name": "Classic Radio Bhakti Sangeet",
-    "stream_urls": [
-      "https://stream.zeno.fm/epylmeu4zf7vv"
-    ],
-    "country": "in",
-    "languages": [
-      "hin"
-    ]
-  },
-  {
     "nanoid": "9py52M0OyPp2bV",
     "name": "Club Asia Radio",
     "stream_urls": [
@@ -1167,18 +1146,6 @@
     ]
   },
   {
-    "nanoid": "OOuSgYTx4vKuyE",
-    "name": "Dil FM UK",
-    "stream_urls": [
-      "https://my4.radiolize.com/radio/8110/radio.mp3"
-    ],
-    "country": "in",
-    "languages": [
-      "hin",
-      "guj"
-    ]
-  },
-  {
     "nanoid": "GIit3SosJlAlGp",
     "name": "Diverse FM",
     "stream_urls": [
@@ -1191,17 +1158,6 @@
     ]
   },
   {
-    "nanoid": "JAU5jXkMH0EBt6",
-    "name": "Dreamzz Punjabi Radio",
-    "stream_urls": [
-      "https://c7.radioboss.fm/stream/52"
-    ],
-    "country": "in",
-    "languages": [
-      "pan"
-    ]
-  },
-  {
     "nanoid": "jPPPMbtALvde4f",
     "name": "DVN Radio",
     "stream_urls": [
@@ -1210,17 +1166,6 @@
     "country": "in",
     "languages": [
       "mal"
-    ]
-  },
-  {
-    "nanoid": "8ru6zPUCHyoLBm",
-    "name": "Eagle FM HD",
-    "stream_urls": [
-      "https://streaming.radio.co/sf833cd785/listen"
-    ],
-    "country": "in",
-    "languages": [
-      "tam"
     ]
   },
   {
@@ -1657,17 +1602,6 @@
     ]
   },
   {
-    "nanoid": "YAJwjGfdzyAhdY",
-    "name": "Hand Of Jesus - Malayalam",
-    "stream_urls": [
-      "https://dc1.serverse.com/proxy/hojmalayalam/stream"
-    ],
-    "country": "in",
-    "languages": [
-      "mal"
-    ]
-  },
-  {
     "nanoid": "fWrGQ3cEz6zGjj",
     "name": "Hand Of Jesus - Manipuri",
     "stream_urls": [
@@ -1984,6 +1918,28 @@
     "name": "IBC Tamil Radio",
     "stream_urls": [
       "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3"
+    ],
+    "country": "in",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "MT2UV8dfTB6cvt",
+    "name": "Ilayaraja Lite Radio",
+    "stream_urls": [
+      "https://psrlive2.listenon.in/irlite"
+    ],
+    "country": "in",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
+    "nanoid": "lMhN9M8imGVgr0",
+    "name": "Ilayaraja Radio",
+    "stream_urls": [
+      "https://psrlive2.listenon.in/ir"
     ],
     "country": "in",
     "languages": [
@@ -3152,17 +3108,6 @@
     ]
   },
   {
-    "nanoid": "cesqSBAvnTHkwO",
-    "name": "Radio Bula Masti",
-    "stream_urls": [
-      "https://c7.radioboss.fm:18052/stream"
-    ],
-    "country": "in",
-    "languages": [
-      "hin"
-    ]
-  },
-  {
     "nanoid": "CsotllO9W7GW82",
     "name": "Radio BulBul",
     "stream_urls": [
@@ -3186,22 +3131,11 @@
     ]
   },
   {
-    "nanoid": "SgfOHfpmvXxoZy",
-    "name": "Radio Chann Pardesi",
+    "nanoid": "6VwteCI7sfyXII",
+    "name": "Radio City Hip-Hop",
     "stream_urls": [
-      "https://mehramedia.in:3021/;"
-    ],
-    "country": "in",
-    "languages": [
-      "pan"
-    ]
-  },
-  {
-    "nanoid": "p8yCw3a6hhQwMc",
-    "name": "Radio City Hindi",
-    "stream_urls": [
-      "https://stream-60.zeno.fm/pxc55r5uyc9uv",
-      "https://stream.zeno.fm/pxc55r5uyc9uv"
+      "https://stream-62.zeno.fm/gut7ff5uyc9uv",
+      "https://stream.zeno.fm/dgrgdv2zrf9uv"
     ],
     "country": "in",
     "languages": [
@@ -3254,6 +3188,17 @@
     ]
   },
   {
+    "nanoid": "yb4cjxtQEqyXTH",
+    "name": "Radio Dil",
+    "stream_urls": [
+      "https://us3.streamingpulse.com/ssl/radiodil2"
+    ],
+    "country": "in",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
     "nanoid": "7i5TAgfna6kIgi",
     "name": "Radio Dipak",
     "stream_urls": [
@@ -3262,17 +3207,6 @@
     "country": "in",
     "languages": [
       "ben"
-    ]
-  },
-  {
-    "nanoid": "doMf2hyKvOcWjD",
-    "name": "Radio DS Mumbai",
-    "stream_urls": [
-      "https://streamasiacdn.atc-labs.com/radiods.aac"
-    ],
-    "country": "in",
-    "languages": [
-      "hin"
     ]
   },
   {
@@ -3397,6 +3331,18 @@
     ]
   },
   {
+    "nanoid": "zozr5wmR49Yler",
+    "name": "Radio Khushkhabri",
+    "stream_urls": [
+      "https://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3"
+    ],
+    "country": "in",
+    "languages": [
+      "hin",
+      "pan"
+    ]
+  },
+  {
     "nanoid": "xUbh3PTPKmzcVD",
     "name": "Radio Lata Mangeshkar",
     "stream_urls": [
@@ -3405,17 +3351,6 @@
     "country": "in",
     "languages": [
       "hin"
-    ]
-  },
-  {
-    "nanoid": "6qwQO8DyyAKBGa",
-    "name": "Radio MACFAST 90.4 FM",
-    "stream_urls": [
-      "https://icecast.octosignals.com/radiomacfast"
-    ],
-    "country": "in",
-    "languages": [
-      "mal"
     ]
   },
   {
@@ -4080,6 +4015,17 @@
     ]
   },
   {
+    "nanoid": "UH5iFb5gIdcya0",
+    "name": "S Janaki Radio",
+    "stream_urls": [
+      "https://psrlive2.listenon.in/janaki"
+    ],
+    "country": "in",
+    "languages": [
+      "tam"
+    ]
+  },
+  {
     "nanoid": "zyoeHDcGvQqNlJ",
     "name": "Sahara FM Tamil",
     "stream_urls": [
@@ -4550,17 +4496,6 @@
     ]
   },
   {
-    "nanoid": "1ET7zfGhye5MMc",
-    "name": "Telangana FM",
-    "stream_urls": [
-      "https://skystream.skonlinedeals.in:8030/radio.mp3"
-    ],
-    "country": "in",
-    "languages": [
-      "tel"
-    ]
-  },
-  {
     "nanoid": "DoySoTTo8MI3Xa",
     "name": "Thaalam Radio",
     "stream_urls": [
@@ -4718,17 +4653,6 @@
     ]
   },
   {
-    "nanoid": "PUSJn3lh5Piib5",
-    "name": "Tube Tamil FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/p5k41f436qzuv"
-    ],
-    "country": "in",
-    "languages": [
-      "tam"
-    ]
-  },
-  {
     "nanoid": "NCaxwKnEyuqSMm",
     "name": "Tune India Radio",
     "stream_urls": [
@@ -4857,17 +4781,6 @@
     "name": "Vijay FM",
     "stream_urls": [
       "https://vijayfm-prabak78.radioca.st/stream"
-    ],
-    "country": "in",
-    "languages": [
-      "tam"
-    ]
-  },
-  {
-    "nanoid": "lVyhcu2JPVtaNJ",
-    "name": "VSVP Tech FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/egprld1sdsvvv"
     ],
     "country": "in",
     "languages": [

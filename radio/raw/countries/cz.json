@@ -638,6 +638,28 @@
     ]
   },
   {
+    "nanoid": "Y6Uae4W0EjUdp4",
+    "name": "Radia.cz - Relax Fire",
+    "stream_urls": [
+      "https://ice2.radia.cz/relax-fire64.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "OjgPfMRa5LneOM",
+    "name": "Radia.cz - Relax Sea",
+    "stream_urls": [
+      "https://ice2.radia.cz/relax-sea64.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "1WjIwhLrtxl5oK",
     "name": "Radia.cz - Relax Train",
     "stream_urls": [
@@ -1258,7 +1280,6 @@
     "nanoid": "Y092PJAm8VTgON",
     "name": "Rádio Samson",
     "stream_urls": [
-      "https://icecast8.play.cz/samsonfm128.mp3",
       "https://icecast2.play.cz/samsonfm128aac"
     ],
     "country": "cz",
@@ -1497,17 +1518,6 @@
     "name": "Český rozhlas Olomouc",
     "stream_urls": [
       "https://rozhlas.stream/olomouc_low.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "Z9rX60A0ug0n1w",
-    "name": "Český rozhlas Ostrava",
-    "stream_urls": [
-      "https://rozhlas.stream/ostrava_high.aac"
     ],
     "country": "cz",
     "languages": [

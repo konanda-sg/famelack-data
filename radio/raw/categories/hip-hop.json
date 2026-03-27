@@ -352,17 +352,6 @@
     "languages": []
   },
   {
-    "nanoid": "ateBm5o7vLQxXC",
-    "name": "1A Radio - Deutsch Rap",
-    "stream_urls": [
-      "https://1a-deutschrap.radionetz.de/1a-deutschrap.aac"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "9nksqqAK2DoUkf",
     "name": "1A Radio - Hits",
     "stream_urls": [
@@ -806,17 +795,6 @@
     ]
   },
   {
-    "nanoid": "oQrRCt5fmaxBvs",
-    "name": "Amazing 102.5 FM",
-    "stream_urls": [
-      "https://ice41.securenetsystems.net/KMAZ"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "jwbsoJm1qhNmTw",
     "name": "Amsterdam Funk Channel",
     "stream_urls": [
@@ -1086,6 +1064,28 @@
     ]
   },
   {
+    "nanoid": "6E4Vy3jIzEK0Zm",
+    "name": "bigFM Hamburg",
+    "stream_urls": [
+      "https://stream.bigfm.de/hamburg/mp3-128/radio-browser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "DqGBRyuZFLfolo",
+    "name": "bigFM Hessen",
+    "stream_urls": [
+      "https://stream.bigfm.de/hessen/aac-128/radiobrowser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "pGy62wBOu4Uwon",
     "name": "bigFM Hip-Hop Radio",
     "stream_urls": [
@@ -1122,6 +1122,7 @@
     "nanoid": "ENeDka36mcwcmY",
     "name": "bigFM Niedersachsen",
     "stream_urls": [
+      "https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364",
       "https://stream.bigfm.de/niedersachsen/mp3-128/radiobrowser",
       "https://stream.bigfm.de/niedersachsen/mp3-128/"
     ],
@@ -1181,6 +1182,17 @@
     "stream_urls": [
       "https://streams.bigfm.de/bigfm-rlp-128-aac",
       "https://stream.bigfm.de/rlp/mp3-128/radio-browser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "JeweuovcwEj2xK",
+    "name": "bigFM Saarland",
+    "stream_urls": [
+      "https://streams.bigfm.de/bigfm-saarland-128-mp3"
     ],
     "country": "de",
     "languages": [
@@ -2100,17 +2112,6 @@
     ]
   },
   {
-    "nanoid": "VGI157jvXBWMbZ",
-    "name": "Exclusively Doja Cat",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/dojacat/icecast.audio"
-    ],
-    "country": "ae",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "BS6RLVspiKtiOV",
     "name": "Exclusively Dr. Dre",
     "stream_urls": [
@@ -2598,6 +2599,17 @@
     ]
   },
   {
+    "nanoid": "gIn5vnO6uecTcg",
+    "name": "Gangstaville Radio",
+    "stream_urls": [
+      "https://stream.radio.co/s1cffd7347/listen"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "fMreOEcSr9e7X3",
     "name": "GDS.FM",
     "stream_urls": [
@@ -2729,6 +2741,7 @@
     "nanoid": "uz1ZCJS2Xmm2kg",
     "name": "GLXY Radio",
     "stream_urls": [
+      "https://stream.glxy.radio/GLXY",
       "https://stream23.gal.io/GLXY_CF01"
     ],
     "country": "nl",
@@ -3002,17 +3015,6 @@
     ]
   },
   {
-    "nanoid": "n71HyefaYUPfTa",
-    "name": "Générations Rohff",
-    "stream_urls": [
-      "https://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "TEnpYsjG1rV1te",
     "name": "Générations SlowJam",
     "stream_urls": [
@@ -3176,17 +3178,6 @@
     "country": "es",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "0oarbjsdpN4wEj",
-    "name": "Holy Culture Radio",
-    "stream_urls": [
-      "https://stream.radio.co/s09849366f/listen"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -3383,6 +3374,17 @@
     "name": "I Love Deutschrap First!",
     "stream_urls": [
       "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "66Lt3xlvjHCqra",
+    "name": "I Love Groove",
+    "stream_urls": [
+      "https://streams.bigfm.de/grooveilr-128-mp3"
     ],
     "country": "de",
     "languages": [
@@ -3812,6 +3814,17 @@
     ]
   },
   {
+    "nanoid": "xnUwKPxz2JboEN",
+    "name": "KPVU 91.3 FM",
+    "stream_urls": [
+      "https://kpvu.streamguys1.com/live-mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "nToaAnTiI77nPL",
     "name": "KUBE 93.3",
     "stream_urls": [
@@ -4047,6 +4060,17 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "3lAIADsuGQCB0H",
+    "name": "M2S Radio",
+    "stream_urls": [
+      "https://icecast.m2sradio.fr/radio.aac"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
     ]
   },
   {
@@ -5279,15 +5303,6 @@
     ]
   },
   {
-    "nanoid": "4t2h7wcxjhFR5z",
-    "name": "Radio BOP",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/283_medium.aac"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "XIa7OOOdAvYBmJ",
     "name": "Radio BurgerFuel",
     "stream_urls": [
@@ -5355,6 +5370,18 @@
     "languages": [
       "bul",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "6VwteCI7sfyXII",
+    "name": "Radio City Hip-Hop",
+    "stream_urls": [
+      "https://stream-62.zeno.fm/gut7ff5uyc9uv",
+      "https://stream.zeno.fm/dgrgdv2zrf9uv"
+    ],
+    "country": "in",
+    "languages": [
+      "hin"
     ]
   },
   {
@@ -5435,6 +5462,17 @@
     "country": "fr",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "yX01PxW8NWMOC2",
+    "name": "Radio Freedom",
+    "stream_urls": [
+      "https://stream.zeno.fm/sbm7c72dbkhvv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -6186,6 +6224,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "AltSL23IhZvcEp",
+    "name": "Rhythm 98 WTHM-DB",
+    "stream_urls": [
+      "https://cast6.my-control-panel.com/proxy/rhythm98/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -6968,6 +7017,17 @@
     ]
   },
   {
+    "nanoid": "qgcwu4zBn9dly5",
+    "name": "Thugzone",
+    "stream_urls": [
+      "https://ingold.thugzone.ca/proxy/thugzone5/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "ldcWFmSPX6WyLV",
     "name": "TOWER TOWN Hip Hop",
     "stream_urls": [
@@ -7586,6 +7646,15 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "uplMTbe66P8RdQ",
+    "name": "Wow Music: Hip-Hop",
+    "stream_urls": [
+      "https://stream03.pcradio.ru/rad_wwmschphp-med"
+    ],
+    "country": "ru",
+    "languages": []
   },
   {
     "nanoid": "cYPTMlk1FSFbbb",

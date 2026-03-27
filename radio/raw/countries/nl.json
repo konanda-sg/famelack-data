@@ -56,6 +56,17 @@
     ]
   },
   {
+    "nanoid": "tVjTgEMFcgME7l",
+    "name": "1Achterhoek",
+    "stream_urls": [
+      "https://nlpo.stream.vip/achterhoek/mp3-192/nlpo.stream.vip/"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "7hzWGlCKebquxY",
     "name": "1Zwolle Radio",
     "stream_urls": [
@@ -503,17 +514,6 @@
     ]
   },
   {
-    "nanoid": "PIcIvI5BitPCrQ",
-    "name": "beeRadio",
-    "stream_urls": [
-      "https://stream.beeradio.nl/main"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "tf2FvU8XZiBPoS",
     "name": "Bie Os Radio",
     "stream_urls": [
@@ -565,6 +565,17 @@
     "name": "Bollenstreek Omroep",
     "stream_urls": [
       "https://stream.bollenstreekomroep.nl/live-mp3-192-stereo"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "h4Tl0QMpu9NqTU",
+    "name": "BPRFM",
+    "stream_urls": [
+      "https://www.wizdevservices.nl/listen/bprfm/STREAM.mp3"
     ],
     "country": "nl",
     "languages": [
@@ -808,6 +819,7 @@
     "name": "Concertgebouworkest Webradio",
     "stream_urls": [
       "https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192",
+      "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192",
       "https://ice.cr2.streamzilla.xlcdn.com:8000/sz%3DRCOLiveWebradio%3Daac128"
     ],
     "country": "nl",
@@ -1234,17 +1246,6 @@
     ]
   },
   {
-    "nanoid": "ssucP4SWyfuhWB",
-    "name": "FunX Dance",
-    "stream_urls": [
-      "https://icecast.omroep.nl/funx-dancefb-bb-mp3"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "eZpjxtPJaVZk1c",
     "name": "FunX Hip Hop",
     "stream_urls": [
@@ -1316,6 +1317,7 @@
     "name": "Glow FM",
     "stream_urls": [
       "https://stream.glowfm.nl/glowfm.aac",
+      "https://nlpo.stream.vip/glowfm/mp3-192/nlpo.stream.vip/",
       "https://stream.glowfm.nl/glowfm.mp3"
     ],
     "country": "nl",
@@ -1327,6 +1329,7 @@
     "nanoid": "uz1ZCJS2Xmm2kg",
     "name": "GLXY Radio",
     "stream_urls": [
+      "https://stream.glxy.radio/GLXY",
       "https://stream23.gal.io/GLXY_CF01"
     ],
     "country": "nl",
@@ -1568,8 +1571,7 @@
     "nanoid": "Q0dTsUknQxUTjj",
     "name": "Hardcore Power Radio",
     "stream_urls": [
-      "https://hardcorepower.beheerstream.nl/8012/stream",
-      "https://loa.beheerstream.nl:8012/stream"
+      "https://hardcorepower.beheerstream.nl/8012/stream"
     ],
     "country": "nl",
     "languages": [
@@ -1666,18 +1668,6 @@
     ],
     "country": "nl",
     "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "wggd9hJJXmZZ7u",
-    "name": "Hitradio 038",
-    "stream_urls": [
-      "https://loa.beheerstream.nl:8018/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
       "nld"
     ]
   },
@@ -1796,6 +1786,7 @@
     "name": "i-turn Radio",
     "stream_urls": [
       "https://live.i-turnradio.nl/live",
+      "https://live2.i-turnradio.nl/stream4",
       "https://live.i-turnradio.nl:8035/;"
     ],
     "country": "nl",
@@ -2317,6 +2308,17 @@
     ]
   },
   {
+    "nanoid": "rud9cFuAidWM1N",
+    "name": "Leuk FM",
+    "stream_urls": [
+      "https://nlpo.stream.vip/leukfm/mp3-192/nlpo.stream.vip/"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "anoCFbBcXUlvP5",
     "name": "Lichtstad Radio",
     "stream_urls": [
@@ -2508,6 +2510,17 @@
     "name": "MFM Brabant",
     "stream_urls": [
       "https://nlpo.stream.vip/brabant/mp3-192/nlpo.stream.vip/"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "KEDNy8eee8lbh0",
+    "name": "MixPerfect Radio",
+    "stream_urls": [
+      "https://mixperfectradio.nl:9443/stream"
     ],
     "country": "nl",
     "languages": [
@@ -2893,6 +2906,17 @@
     "name": "Omroep Gelderland",
     "stream_urls": [
       "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "Eo1bq8vkK5mvD8",
+    "name": "Omroep Heemskerk",
+    "stream_urls": [
+      "https://live.omroepheemskerk.nl/hfm"
     ],
     "country": "nl",
     "languages": [
@@ -3604,8 +3628,7 @@
     "nanoid": "lz9dL2AzofR498",
     "name": "Polder Radio",
     "stream_urls": [
-      "https://server-67.stream-server.nl:8734/",
-      "https://server-67.stream-server.nl:8738/"
+      "https://server-67.stream-server.nl:8734/"
     ],
     "country": "nl",
     "languages": [
@@ -3928,6 +3951,17 @@
     ]
   },
   {
+    "nanoid": "WttNlLL5nZTBN8",
+    "name": "Radio 1224",
+    "stream_urls": [
+      "https://stream.radio1224.nl/1224"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "tIzELQNLGdDu1L",
     "name": "Radio 182",
     "stream_urls": [
@@ -4067,18 +4101,6 @@
     ]
   },
   {
-    "nanoid": "bTYRm8Ih51xBMD",
-    "name": "Radio Calypso",
-    "stream_urls": [
-      "https://mcp-1.streampanel.nl:8024/mobiel"
-    ],
-    "country": "nl",
-    "languages": [
-      "deu",
-      "nld"
-    ]
-  },
-  {
     "nanoid": "6lwcGPzFSxNWOC",
     "name": "Radio Capelle",
     "stream_urls": [
@@ -4158,19 +4180,6 @@
     ],
     "country": "nl",
     "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "LjHRPsMSu2pss8",
-    "name": "Radio De Musketiers",
-    "stream_urls": [
-      "https://loa.beheerstream.nl:8022/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "deu",
-      "eng",
       "nld"
     ]
   },
@@ -5217,17 +5226,6 @@
     ]
   },
   {
-    "nanoid": "YQuxGjofmlWfEM",
-    "name": "RTV80",
-    "stream_urls": [
-      "https://nlpo.stream.vip/rtv80/mp3-192/nlpo"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "QPCcyoGQfwoeib",
     "name": "RTW FM",
     "stream_urls": [
@@ -5873,18 +5871,6 @@
     ]
   },
   {
-    "nanoid": "QDeKJfYp7silCD",
-    "name": "Ujala Radio",
-    "stream_urls": [
-      "https://stream2.ujala.nl/stream/2/listen.mp3"
-    ],
-    "country": "nl",
-    "languages": [
-      "hin",
-      "nld"
-    ]
-  },
-  {
     "nanoid": "o8mUlVMRxC4w8Y",
     "name": "Unity NL",
     "stream_urls": [
@@ -6001,8 +5987,7 @@
     "nanoid": "W9DHEV1kOZgYhl",
     "name": "Waterland Radio",
     "stream_urls": [
-      "https://waterlandradio.beheerstream.nl:7020/stream",
-      "https://loa.beheerstream.nl:8034/stream"
+      "https://waterlandradio.beheerstream.nl:7020/stream"
     ],
     "country": "nl",
     "languages": [

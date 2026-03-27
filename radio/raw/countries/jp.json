@@ -34,18 +34,6 @@
     ]
   },
   {
-    "nanoid": "tvciwj8VN4PZYW",
-    "name": "Box Radio - Japan City Pop",
-    "stream_urls": [
-      "https://play.streamafrica.net/japancitypop"
-    ],
-    "country": "jp",
-    "languages": [
-      "jpn",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "Gk45cmg2UqUDt0",
     "name": "Daifu Radio",
     "stream_urls": [
@@ -282,6 +270,17 @@
     "name": "Opening Radio",
     "stream_urls": [
       "https://stream.zeno.fm/tza2ayy47qruv"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "oy2nOYg9Yke0ON",
+    "name": "Otaku Music Radio",
+    "stream_urls": [
+      "https://kathy.torontocast.com:2880/;"
     ],
     "country": "jp",
     "languages": [

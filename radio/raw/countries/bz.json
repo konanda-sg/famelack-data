@@ -11,17 +11,6 @@
     ]
   },
   {
-    "nanoid": "xIX2N0qii6k8Ms",
-    "name": "Christian Faith Ministries 102.3",
-    "stream_urls": [
-      "https://stream-179.zeno.fm/3uvhtuwdnkhvv"
-    ],
-    "country": "bz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "hYOKSnWi415K4g",
     "name": "Estereo Amor 97.5",
     "stream_urls": [
@@ -30,17 +19,6 @@
     "country": "bz",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "xdPn27Oy6SJd6x",
-    "name": "Horizon Radio 97.3 FM",
-    "stream_urls": [
-      "https://xstreamer.galcom.org:8443/HorizonRadio"
-    ],
-    "country": "bz",
-    "languages": [
-      "eng"
     ]
   },
   {

@@ -465,6 +465,17 @@
     "languages": []
   },
   {
+    "nanoid": "Cj9gvoDudR3I5n",
+    "name": "1A Radio - 60er",
+    "stream_urls": [
+      "https://1a-60er.radionetz.de/1a-60er.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "5y0d2oMhxBxrpi",
     "name": "1A Urban Music",
     "stream_urls": [
@@ -1139,6 +1150,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "Pvqvqj95V2KzZw",
+    "name": "Best Radio 94.7",
+    "stream_urls": [
+      "https://i2.streams.ovh:9470/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -2254,7 +2276,6 @@
     "nanoid": "E5sKE3uIsMpe4c",
     "name": "Exclusively Ella Fitzgerald",
     "stream_urls": [
-      "https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio",
       "https://2.mystreaming.net/er/ellafitzgerald/icecast.audio",
       "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio"
     ],
@@ -3092,6 +3113,17 @@
     ]
   },
   {
+    "nanoid": "gIn5vnO6uecTcg",
+    "name": "Gangstaville Radio",
+    "stream_urls": [
+      "https://stream.radio.co/s1cffd7347/listen"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "KCXZSEqfKYUXjP",
     "name": "Gaslight Square R&B",
     "stream_urls": [
@@ -3100,17 +3132,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "Ol7l97ZBqnnabi",
-    "name": "Generation Soul Disco Funk",
-    "stream_urls": [
-      "https://gestream.fr/g-radio-sd.aac"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -3183,6 +3204,7 @@
     "nanoid": "uz1ZCJS2Xmm2kg",
     "name": "GLXY Radio",
     "stream_urls": [
+      "https://stream.glxy.radio/GLXY",
       "https://stream23.gal.io/GLXY_CF01"
     ],
     "country": "nl",
@@ -3265,17 +3287,6 @@
     "country": "fr",
     "languages": [
       "fra"
-    ]
-  },
-  {
-    "nanoid": "S42tpUjjUAuI8C",
-    "name": "Groove FM",
-    "stream_urls": [
-      "https://groovefm.stream.laut.fm/groovefm"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
     ]
   },
   {
@@ -3544,17 +3555,6 @@
     ]
   },
   {
-    "nanoid": "0oarbjsdpN4wEj",
-    "name": "Holy Culture Radio",
-    "stream_urls": [
-      "https://stream.radio.co/s09849366f/listen"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "gGaeceNBXQvzG1",
     "name": "Hooptown 101.5 (KZFS)",
     "stream_urls": [
@@ -3744,10 +3744,22 @@
     ]
   },
   {
+    "nanoid": "66Lt3xlvjHCqra",
+    "name": "I Love Groove",
+    "stream_urls": [
+      "https://streams.bigfm.de/grooveilr-128-mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "jTPVw299MJ4ccF",
     "name": "i-turn Radio",
     "stream_urls": [
       "https://live.i-turnradio.nl/live",
+      "https://live2.i-turnradio.nl/stream4",
       "https://live.i-turnradio.nl:8035/;"
     ],
     "country": "nl",
@@ -3820,6 +3832,18 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "s3U9kAkQmpou31",
+    "name": "iMix Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/sbmi7cx5z8buv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
     ]
   },
   {
@@ -4471,7 +4495,8 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg"
+      "https://player.streamhosting.ch/lounge128.ogg",
+      "https://player.streamhosting.ch/lounge64.aac"
     ],
     "country": "ch",
     "languages": [
@@ -5689,15 +5714,6 @@
     ]
   },
   {
-    "nanoid": "4t2h7wcxjhFR5z",
-    "name": "Radio BOP",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/283_medium.aac"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "C2EEDLis6XBWaF",
     "name": "Radio Callao Madrid",
     "stream_urls": [
@@ -6358,17 +6374,6 @@
     ]
   },
   {
-    "nanoid": "8VNIzIIpOxSbdn",
-    "name": "Radio Unicar",
-    "stream_urls": [
-      "https://maximacenterdata.com/8086/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "TZO05b70CyA2rZ",
     "name": "Radio WoW",
     "stream_urls": [
@@ -6730,6 +6735,17 @@
     ]
   },
   {
+    "nanoid": "4SBQS5CBzvVZYd",
+    "name": "SecondRadio",
+    "stream_urls": [
+      "https://stream.secondradio.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "LTyY1kw4NevJkc",
     "name": "Shake!FM",
     "stream_urls": [
@@ -6875,17 +6891,6 @@
       "https://ais-sa1.streamon.fm/7281_64k.aac"
     ],
     "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "vmVBEkTEYlk6Vj",
-    "name": "Smooth Sailing Radio",
-    "stream_urls": [
-      "https://s44.myradiostream.com/9144/listen.mp3"
-    ],
-    "country": "au",
     "languages": [
       "eng"
     ]
@@ -8328,6 +8333,17 @@
     "country": "ua",
     "languages": [
       "ukr"
+    ]
+  },
+  {
+    "nanoid": "jCBOJ3gtxBNLFQ",
+    "name": "Свое FM",
+    "stream_urls": [
+      "https://stream02.pcradio.biz/svoe_fm-med"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
     ]
   },
   {

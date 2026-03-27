@@ -75,6 +75,17 @@
     ]
   },
   {
+    "nanoid": "4UnJDoqT4gxjx3",
+    "name": "Allzic Reggae",
+    "stream_urls": [
+      "https://allzic43.ice.infomaniak.ch/allzic43.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "75HU4PGSKzVclU",
     "name": "Alpha Blondy FM",
     "stream_urls": [
@@ -477,17 +488,6 @@
     "country": "fr",
     "languages": [
       "fra"
-    ]
-  },
-  {
-    "nanoid": "GbPj8gJd0rhtKw",
-    "name": "Five3Radio",
-    "stream_urls": [
-      "https://auds1.intacs.com/five3radio"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -1908,6 +1908,17 @@
     ]
   },
   {
+    "nanoid": "SXXD7LkybSJoJB",
+    "name": "The Reggae Spin: Soca Zone",
+    "stream_urls": [
+      "https://reggaespin.media/radio/8020/radio.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "TdSIMry8olGyuM",
     "name": "The Wave 94.5 & 93.7",
     "stream_urls": [
@@ -1949,17 +1960,6 @@
     "country": "gp",
     "languages": [
       "fra"
-    ]
-  },
-  {
-    "nanoid": "4IZ8rAQ25UaMiD",
-    "name": "Tropical Spice Radio",
-    "stream_urls": [
-      "https://auds1.intacs.com/tropicalspiceradio"
-    ],
-    "country": "bq",
-    "languages": [
-      "eng"
     ]
   },
   {

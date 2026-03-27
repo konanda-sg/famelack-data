@@ -22,17 +22,6 @@
     ]
   },
   {
-    "nanoid": "lvhgYeHVswj3nE",
-    "name": "1940s Radio - Light Programme",
-    "stream_urls": [
-      "https://cast2.asurahosting.com/proxy/malvernradiojrs/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "MeCRhqqUBhNnTk",
     "name": "1BTN",
     "stream_urls": [
@@ -768,6 +757,17 @@
     "name": "Bedlam Frequency Radio",
     "stream_urls": [
       "https://c11.radioboss.fm:8318/stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XKVV4aAjkLiY0B",
+    "name": "Bedrock Radio",
+    "stream_urls": [
+      "https://s40.myradiostream.com:16652/bedrockradio"
     ],
     "country": "uk",
     "languages": [
@@ -3449,109 +3449,10 @@
     ]
   },
   {
-    "nanoid": "8EgMQtcoX64JdE",
-    "name": "HearMe - 00s Pop",
+    "nanoid": "dKe6iX11H2oIg3",
+    "name": "Heart 00s",
     "stream_urls": [
-      "https://radio.hearme.fm:8040/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "zKGfCldhYU9V4Y",
-    "name": "HearMe - 00s Rock",
-    "stream_urls": [
-      "https://radio.hearme.fm:8130/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AwJKYrzt1Ky4WK",
-    "name": "HearMe - 60s Rock",
-    "stream_urls": [
-      "https://radio.hearme.fm:8230/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "7RJDWYBi91hsqB",
-    "name": "HearMe - 70s Rock",
-    "stream_urls": [
-      "https://radio.hearme.fm:8240/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "OyKSmSnm7UHBXO",
-    "name": "HearMe - 80s Rock",
-    "stream_urls": [
-      "https://radio.hearme.fm:8310/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "x7xwOqWPvrxs6D",
-    "name": "HearMe - 90s Pop",
-    "stream_urls": [
-      "https://radio.hearme.fm:8050/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "v1NpaZQEMPolWL",
-    "name": "HearMe - Classic EuroDisco",
-    "stream_urls": [
-      "https://radio.hearme.fm:9810/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "GKhrFka0Lh5UOc",
-    "name": "HearMe - Classic Hard Rock",
-    "stream_urls": [
-      "https://radio.hearme.fm:8250/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "lLrlPdQF1f9n0U",
-    "name": "HearMe - Love Songs",
-    "stream_urls": [
-      "https://radio.hearme.fm:8140/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AA0ychAQaHjW2g",
-    "name": "HearMe - Trance",
-    "stream_urls": [
-      "https://radio.hearme.fm:8100/stream"
+      "https://media-ssl.musicradio.com/Heart00sMP3"
     ],
     "country": "uk",
     "languages": [
@@ -3767,6 +3668,17 @@
     "name": "Heart North Lancs & Cumbria",
     "stream_urls": [
       "https://media-the.musicradio.com/HeartNorthLancsCumbria"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JtOWbVtO8cup20",
+    "name": "Heart North Wales",
+    "stream_urls": [
+      "https://media-ice.musicradio.com/HeartNorthWalesMP3"
     ],
     "country": "uk",
     "languages": [
@@ -4001,17 +3913,6 @@
     "name": "Heritage Chart Radio",
     "stream_urls": [
       "https://s4.radio.co/sd5b175766/listen"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wbyKsSZui5gnEz",
-    "name": "HiFi Prime",
-    "stream_urls": [
-      "https://stream.cloudrad.io/5913/8160"
     ],
     "country": "uk",
     "languages": [
@@ -4628,6 +4529,7 @@
     "nanoid": "ShIgK6t1JdRQ3h",
     "name": "KMF Radio",
     "stream_urls": [
+      "https://n03.radiojar.com/etuyduh923duv",
       "https://stream.radiojar.com/etuyduh923duv"
     ],
     "country": "uk",
@@ -4699,17 +4601,6 @@
     "country": "uk",
     "languages": [
       "heb"
-    ]
-  },
-  {
-    "nanoid": "hBKhVDgb6CRQag",
-    "name": "Kool FM",
-    "stream_urls": [
-      "https://admin.stream.rinse.fm/proxy/kool/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -5762,6 +5653,7 @@
     "nanoid": "O7LVfAC6yULsKj",
     "name": "Nation Radio London",
     "stream_urls": [
+      "https://listen-nation.sharp-stream.com/nationhulldab.mp3",
       "https://edge-ads-04-thn.sharp-stream.com/thamesradio.mp3"
     ],
     "country": "uk",
@@ -5818,6 +5710,17 @@
     "name": "Nazareth Radio",
     "stream_urls": [
       "https://stream.pcradio.ru/Nazareth-hi"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3vl3vO1rp8oJl1",
+    "name": "NCB Radio",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC90_SC"
     ],
     "country": "uk",
     "languages": [
@@ -6350,6 +6253,17 @@
     "name": "OSTM Radio",
     "stream_urls": [
       "https://stream.zeno.fm/1vx25xbdmzzuv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jSd0aV1VwM71AD",
+    "name": "Outreach Dance",
+    "stream_urls": [
+      "https://live.ukrp.tv/outreachdance.aac"
     ],
     "country": "uk",
     "languages": [
@@ -7038,6 +6952,17 @@
     ]
   },
   {
+    "nanoid": "iDcZK9FBhNRxyE",
+    "name": "Radio Halesowen Town",
+    "stream_urls": [
+      "https://s3.radio.co/s75a8968ca/listen"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "BvUj5vu8cCme9Q",
     "name": "Radio Harrow",
     "stream_urls": [
@@ -7672,6 +7597,17 @@
     ]
   },
   {
+    "nanoid": "2EqtrWmC3GevjR",
+    "name": "RadioSEGA",
+    "stream_urls": [
+      "https://icecast.radiosega.net/live"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "RKZRLPPcGtdERH",
     "name": "Raiders Radio",
     "stream_urls": [
@@ -7874,17 +7810,6 @@
     "name": "Ribble FM",
     "stream_urls": [
       "https://uksouth.streaming.broadcast.radio/ribblefm"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AhIcL7kdFCnovg",
-    "name": "Rinse FM",
-    "stream_urls": [
-      "https://admin.stream.rinse.fm/proxy/rinse_uk/stream"
     ],
     "country": "uk",
     "languages": [
@@ -9017,19 +8942,6 @@
     ]
   },
   {
-    "nanoid": "nx5eUZ0RDZDYS7",
-    "name": "Taiyabah Masjid",
-    "stream_urls": [
-      "https://taiyabahmbolton.radioca.st/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "ara",
-      "eng",
-      "urd"
-    ]
-  },
-  {
     "nanoid": "LmzLcVq2IHuRDC",
     "name": "talkRADIO",
     "stream_urls": [
@@ -9090,6 +9002,17 @@
     "name": "TD1 Radio",
     "stream_urls": [
       "https://streaming.mbc.scot/listen/td1_radio/radio.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xWob6RTHK4xQZN",
+    "name": "TeamSport Radio",
+    "stream_urls": [
+      "https://uksouth1.juiceboxradio.com/tsradionational"
     ],
     "country": "uk",
     "languages": [
@@ -9713,6 +9636,17 @@
     "name": "Virgin Radio Anthems",
     "stream_urls": [
       "https://radio.virginradio.co.uk/stream-anthems"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JcbH5TLI9QNd3M",
+    "name": "Virgin Radio Chilled",
+    "stream_urls": [
+      "https://radio.virginradio.co.uk/stream-chilled"
     ],
     "country": "uk",
     "languages": [

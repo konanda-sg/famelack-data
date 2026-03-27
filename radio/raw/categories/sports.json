@@ -405,18 +405,6 @@
     ]
   },
   {
-    "nanoid": "wa6eAr4T7VkFQ9",
-    "name": "98.5 Montréal",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC%20.aac"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "2NXjgrFLkovziV",
     "name": "99.9 The Fan",
     "stream_urls": [
@@ -492,8 +480,7 @@
     "nanoid": "9BFyf45WhOQ65Y",
     "name": "ADN Radio",
     "stream_urls": [
-      "https://27413.live.streamtheworld.com/ADNAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
+      "https://27413.live.streamtheworld.com/ADNAAC.aac"
     ],
     "country": "cl",
     "languages": [
@@ -638,17 +625,6 @@
     "stream_urls": [
       "https://stream.bpmsports.ca/cklx.mp3",
       "https://icecast-cklx.rncm.ca/cklx.mp3"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "npIta0r99BiVF5",
-    "name": "BPM Sports 96.5",
-    "stream_urls": [
-      "https://stream0.bpmsports.ca/cftx.aac"
     ],
     "country": "ca",
     "languages": [
@@ -1018,15 +994,6 @@
     "languages": [
       "eng"
     ]
-  },
-  {
-    "nanoid": "cXUHfYoaR3Pg8E",
-    "name": "ESPN Radio 93.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/WSJKFMAAC_SC"
-    ],
-    "country": "us",
-    "languages": []
   },
   {
     "nanoid": "ZGgWysYDyN4ABc",
@@ -1976,6 +1943,7 @@
     "nanoid": "gCVw37l22cKSo7",
     "name": "Radio Marca Málaga",
     "stream_urls": [
+      "https://malagafm.streaming-pro.com:8131/malagafmmobile",
       "https://malagafm.streaming-pro.com:8130/malagafmmobile"
     ],
     "country": "es",
@@ -2364,6 +2332,17 @@
     ]
   },
   {
+    "nanoid": "ISsWTXHByyYQow",
+    "name": "Rádio Grenal",
+    "stream_urls": [
+      "https://grenal.audiostream.com.br:20000/aac"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "lsHi8OSsAgMayz",
     "name": "Rádio Grenal 95.9 FM",
     "stream_urls": [
@@ -2672,12 +2651,12 @@
     ]
   },
   {
-    "nanoid": "9qe3KxWeTq37SV",
-    "name": "Sports Radio KWSN",
+    "nanoid": "VpbosmBJzf013S",
+    "name": "Sports Radio Brila FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KWSNAMAAC_SC"
+      "https://atunwadigital.streamguys1.com/brilafm"
     ],
-    "country": "us",
+    "country": "ng",
     "languages": [
       "eng"
     ]
@@ -3005,6 +2984,26 @@
     ]
   },
   {
+    "nanoid": "xWob6RTHK4xQZN",
+    "name": "TeamSport Radio",
+    "stream_urls": [
+      "https://uksouth1.juiceboxradio.com/tsradionational"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WfqBiovdpocQsn",
+    "name": "The Ball 560 AM",
+    "stream_urls": [
+      "https://ice8.securenetsystems.net/WOOFAM"
+    ],
+    "country": "us",
+    "languages": []
+  },
+  {
     "nanoid": "ZRTwQdRSOHWU06",
     "name": "The Big X 1450 AM",
     "stream_urls": [
@@ -3245,17 +3244,6 @@
     ],
     "country": "us",
     "languages": []
-  },
-  {
-    "nanoid": "iV9lMVQBv8dz37",
-    "name": "WGNS 1450",
-    "stream_urls": [
-      "https://ice3.securenetsystems.net/WGNS"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
   },
   {
     "nanoid": "ozDxQdgcjHm5Pk",

@@ -33,17 +33,6 @@
     ]
   },
   {
-    "nanoid": "XtJRQHuOO4SkjO",
-    "name": "ANR",
-    "stream_urls": [
-      "https://stream.anr.dk/anr"
-    ],
-    "country": "dk",
-    "languages": [
-      "dan"
-    ]
-  },
-  {
     "nanoid": "unAjjDeMj3p6aP",
     "name": "Classic FM",
     "stream_urls": [
@@ -60,17 +49,6 @@
     "name": "Classic FM Esbjerg",
     "stream_urls": [
       "https://webradio.classicfm.dk/classicvejle"
-    ],
-    "country": "dk",
-    "languages": [
-      "dan"
-    ]
-  },
-  {
-    "nanoid": "7nCUH4oHoHfghk",
-    "name": "Classic FM Fyn",
-    "stream_urls": [
-      "https://netradio.classicfm.dk/cla12a"
     ],
     "country": "dk",
     "languages": [
@@ -354,6 +332,7 @@
     "nanoid": "OOdS39SObxFDYS",
     "name": "PartyFM",
     "stream_urls": [
+      "https://stream1.partyfm.dk/Party320",
       "https://stream.partyfm.dk/Party320/"
     ],
     "country": "dk",

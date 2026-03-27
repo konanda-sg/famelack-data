@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "763YcXJkm4a0LW",
-    "name": "105.1 FM Fuerza Musical",
-    "stream_urls": [
-      "https://server6.globalhostla.com:9376/stream"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "SoAXGu0Cr5r9Vu",
     "name": "Acción 104.5 FM",
     "stream_urls": [
@@ -253,17 +242,6 @@
     ]
   },
   {
-    "nanoid": "tvI9laTkOj6EMK",
-    "name": "Club Retro Valles del Tuy Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/zrsfcx3351zuv.aac"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "oH8Djn8aFEBX9G",
     "name": "Clásicos del Vallenato",
     "stream_urls": [
@@ -364,6 +342,17 @@
     ]
   },
   {
+    "nanoid": "QrxvZsWQkJst8v",
+    "name": "Dinámica 103.3 FM",
+    "stream_urls": [
+      "https://acp2.lorini.net:36075/stream"
+    ],
+    "country": "ve",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "fgXZzPEWTxcwWR",
     "name": "DJ Nezux",
     "stream_urls": [
@@ -412,17 +401,6 @@
     "name": "El Show de Piña Mix",
     "stream_urls": [
       "https://stream.zeno.fm/mvu8ut5f2k0uv"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "dpynzKPRAQpwpm",
-    "name": "Electrik 97.7 FM",
-    "stream_urls": [
-      "https://streamingned.com:7044/stream"
     ],
     "country": "ve",
     "languages": [
@@ -777,17 +755,6 @@
     "name": "MinoRadioDJ",
     "stream_urls": [
       "https://stream.zeno.fm/k7glhzicabntv"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "IXQQO6GUJMfVxN",
-    "name": "MPB Radio Venezuela",
-    "stream_urls": [
-      "https://radiozender.mpbnetwerken.nl/radiovenezuela.mp3"
     ],
     "country": "ve",
     "languages": [
@@ -1173,6 +1140,17 @@
     "name": "Sierra 99.1 FM",
     "stream_urls": [
       "https://stream.zeno.fm/9m95mfutymruv"
+    ],
+    "country": "ve",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5x2tNeiLYXR2fO",
+    "name": "Studio 102.7 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/um833nab8tzuv"
     ],
     "country": "ve",
     "languages": [

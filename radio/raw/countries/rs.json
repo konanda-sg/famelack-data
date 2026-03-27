@@ -23,6 +23,17 @@
     ]
   },
   {
+    "nanoid": "EJlAxTEecmCRRT",
+    "name": "Domus Radio",
+    "stream_urls": [
+      "https://libretime.domusradio.com/icecast/main"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "aYIl11kELD1ngH",
     "name": "Dream Klub",
     "stream_urls": [
@@ -1087,17 +1098,6 @@
     ]
   },
   {
-    "nanoid": "827aCMc5frfBUU",
-    "name": "Radio S Xtra",
-    "stream_urls": [
-      "https://stream.radios.rs:9026/;*.mp3"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
     "nanoid": "MODEZwzb910YxQ",
     "name": "Radio S1",
     "stream_urls": [
@@ -1381,17 +1381,6 @@
     "stream_urls": [
       "https://edge9.pink.rs/rockstream",
       "https://edge9.pink.rs/rockstream/"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "U8VPRaldaYYBsy",
-    "name": "S21 Radio",
-    "stream_urls": [
-      "https://radiozender.mpbnetwerken.nl/s21radio"
     ],
     "country": "rs",
     "languages": [

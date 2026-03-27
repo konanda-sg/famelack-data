@@ -288,17 +288,6 @@
     ]
   },
   {
-    "nanoid": "cn0iuYmBIicznu",
-    "name": "Radio Alegría",
-    "stream_urls": [
-      "https://radio.sistemasandinos.org:10974/;stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "QolqBH5ST168uf",
     "name": "Radio Amo la Música",
     "stream_urls": [
@@ -756,6 +745,17 @@
     ]
   },
   {
+    "nanoid": "UOlZVDTX8Zc4mf",
+    "name": "Radio Frecuencia Popular",
+    "stream_urls": [
+      "https://radio.sistemasandinos.org/7412/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "MYztuGZnD8srK5",
     "name": "Radio Frecuencia Primera",
     "stream_urls": [
@@ -917,10 +917,10 @@
     ]
   },
   {
-    "nanoid": "Tv93Rt4M56nOOz",
-    "name": "Radio La Noventera",
+    "nanoid": "FGSjb16xMFQrhd",
+    "name": "Radio La Norteña",
     "stream_urls": [
-      "https://host.gometri.com/proxy/lanoventera/stream/"
+      "https://radio.livestreamingmundial.com:7060/live"
     ],
     "country": "pe",
     "languages": [
@@ -1060,10 +1060,32 @@
     ]
   },
   {
+    "nanoid": "9D2Hk0Yw7pPUZN",
+    "name": "Radio Madre de Dios",
+    "stream_urls": [
+      "https://tupanel.info:9000/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "RM9oIIgGZjQ1nT",
     "name": "Radio Manantial de Vida",
     "stream_urls": [
       "https://server.streamingradios.net/8036/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HDOobXeE6wWQXB",
+    "name": "Radio Maxi Mix",
+    "stream_urls": [
+      "https://stream.zeno.fm/znv7mhnuaxquv"
     ],
     "country": "pe",
     "languages": [
@@ -1393,6 +1415,17 @@
     ]
   },
   {
+    "nanoid": "X8bJUXmIQPar5z",
+    "name": "Radio Sol de los Andes",
+    "stream_urls": [
+      "https://cloudstream2036.conectarhosting.com/8036/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "UBo49s41febpqF",
     "name": "Radio Stereo 99 (Bagua Grande)",
     "stream_urls": [
@@ -1474,28 +1507,6 @@
     "name": "Radio Trinidad 1070 AM",
     "stream_urls": [
       "https://maximacenterdata.com/8056/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "YjE4CXo1Rwm6oE",
-    "name": "Radio Un Hueco en el Espacio",
-    "stream_urls": [
-      "https://cloudstream2032.conectarhosting.com/8106/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "8VNIzIIpOxSbdn",
-    "name": "Radio Unicar",
-    "stream_urls": [
-      "https://maximacenterdata.com/8086/stream"
     ],
     "country": "pe",
     "languages": [

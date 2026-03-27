@@ -183,17 +183,6 @@
     ]
   },
   {
-    "nanoid": "bzLH14yRYfaTLI",
-    "name": "Patejago Radijas",
-    "stream_urls": [
-      "https://stream-46.zeno.fm/f6m1zbud5p8uv"
-    ],
-    "country": "lt",
-    "languages": [
-      "lit"
-    ]
-  },
-  {
     "nanoid": "jzqN5qOvFSO4no",
     "name": "Play Radio",
     "stream_urls": [
@@ -222,6 +211,17 @@
     "name": "Pulsas",
     "stream_urls": [
       "https://pulsas.lt/stream"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "uQPWTmycvESPoc",
+    "name": "RA-8",
+    "stream_urls": [
+      "https://stream.zeno.fm/aae76827qtzuv"
     ],
     "country": "lt",
     "languages": [
@@ -290,17 +290,6 @@
     "name": "Relax FM Sentimentai",
     "stream_urls": [
       "https://klausyk.radijas.lt/listen/sentimentai/live"
-    ],
-    "country": "lt",
-    "languages": [
-      "lit"
-    ]
-  },
-  {
-    "nanoid": "5rR0GuRPj57MAn",
-    "name": "Remix RA",
-    "stream_urls": [
-      "https://stream.zeno.fm/46tdskm12tzuv"
     ],
     "country": "lt",
     "languages": [

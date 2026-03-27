@@ -99,6 +99,28 @@
     ]
   },
   {
+    "nanoid": "etttGdaCxv9mPA",
+    "name": "Radio Couffo",
+    "stream_urls": [
+      "https://stream-178.zeno.fm/audvdwfcsn6uv"
+    ],
+    "country": "bj",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "MiOOYhXozXQIDR",
+    "name": "Radio Lalo",
+    "stream_urls": [
+      "https://onlineradio.africawebmedia.com/8032/stream"
+    ],
+    "country": "bj",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "fbrdKCgUZBAV5K",
     "name": "Radio Maranatha",
     "stream_urls": [

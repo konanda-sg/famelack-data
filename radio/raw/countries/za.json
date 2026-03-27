@@ -364,15 +364,6 @@
     "languages": []
   },
   {
-    "nanoid": "3Xyl1a4hWGAGqv",
-    "name": "Impala Radio",
-    "stream_urls": [
-      "https://maggie.torontocast.com:8014/stream"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "loFp8BK9q6Ejo3",
     "name": "Jacaranda FM",
     "stream_urls": [
@@ -541,6 +532,15 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "JZtPhJH01I4sDk",
+    "name": "Merafong 360 Online Radio",
+    "stream_urls": [
+      "https://sv2.famcast.co.za/stream/merafong"
+    ],
+    "country": "za",
+    "languages": []
   },
   {
     "nanoid": "O9fO5J5BLrJnUZ",
@@ -712,15 +712,6 @@
     "languages": []
   },
   {
-    "nanoid": "bIvVHaMCKGZIbf",
-    "name": "Pitch Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/etw8vx9knm0uv"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "5mzCcoA7apOAOD",
     "name": "Power 98.7",
     "stream_urls": [
@@ -761,19 +752,30 @@
     "languages": []
   },
   {
-    "nanoid": "4t2h7wcxjhFR5z",
-    "name": "Radio BOP",
+    "nanoid": "BiYHTsBK0d1Je3",
+    "name": "Radio Fynbos",
     "stream_urls": [
-      "https://edge.iono.fm/xice/283_medium.aac"
+      "https://stream-152.zeno.fm/w0cyqt4cyy8uv"
     ],
     "country": "za",
     "languages": []
   },
   {
-    "nanoid": "BiYHTsBK0d1Je3",
-    "name": "Radio Fynbos",
+    "nanoid": "bqcnmwMzyTIRK3",
+    "name": "Radio Hallelujah",
     "stream_urls": [
-      "https://stream-152.zeno.fm/w0cyqt4cyy8uv"
+      "https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3"
+    ],
+    "country": "za",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BA6AaY96SvZMsL",
+    "name": "Radio Laeveld",
+    "stream_urls": [
+      "https://zas2.ndx.co.za:8046/stream"
     ],
     "country": "za",
     "languages": []

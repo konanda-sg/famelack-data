@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "2AlgcVOS30wdHR",
-    "name": "Kwezi FM",
-    "stream_urls": [
-      "https://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3"
-    ],
-    "country": "yt",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "wbhCDJ4lBgGZkz",
     "name": "Mayotte la 1ère",
     "stream_urls": [

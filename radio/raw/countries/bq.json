@@ -34,16 +34,5 @@
       "pap",
       "nld"
     ]
-  },
-  {
-    "nanoid": "4IZ8rAQ25UaMiD",
-    "name": "Tropical Spice Radio",
-    "stream_urls": [
-      "https://auds1.intacs.com/tropicalspiceradio"
-    ],
-    "country": "bq",
-    "languages": [
-      "eng"
-    ]
   }
 ]

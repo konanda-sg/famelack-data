@@ -22,18 +22,6 @@
     ]
   },
   {
-    "nanoid": "vfVWjR1FdlRSJi",
-    "name": "Arctic Outpost Radio",
-    "stream_urls": [
-      "https://radio.streemlion.com:3715/stream"
-    ],
-    "country": "no",
-    "languages": [
-      "nor",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "Ms9AGxk0aSYR9F",
     "name": "Guovdageainnu Lagasradio",
     "stream_urls": [
@@ -173,6 +161,7 @@
     "nanoid": "kQhRuOho8vnTz3",
     "name": "NRK Nyheter",
     "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h",
       "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l",
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
       "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter"
@@ -720,6 +709,18 @@
     "languages": [
       "spa",
       "nor"
+    ]
+  },
+  {
+    "nanoid": "EgfjRZnyDeSQPF",
+    "name": "Radio Lyngdal",
+    "stream_urls": [
+      "https://live.radiolyngdal.com/rly_mq"
+    ],
+    "country": "no",
+    "languages": [
+      "nor",
+      "eng"
     ]
   },
   {

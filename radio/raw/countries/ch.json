@@ -1212,7 +1212,8 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg"
+      "https://player.streamhosting.ch/lounge128.ogg",
+      "https://player.streamhosting.ch/lounge64.aac"
     ],
     "country": "ch",
     "languages": [
@@ -2315,10 +2316,20 @@
     ]
   },
   {
+    "nanoid": "MwNkz98TGlXgAD",
+    "name": "Radio Vintage",
+    "stream_urls": [
+      "https://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3"
+    ],
+    "country": "ch",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "RFx4FgfJYRAByu",
     "name": "Radio Vostok",
     "stream_urls": [
-      "https://radiovostok.ice.infomaniak.ch/lavostoke.aac",
       "https://radiovostok.ice.infomaniak.ch/radiovostok.aac"
     ],
     "country": "ch",
@@ -2438,6 +2449,17 @@
     "country": "ch",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "j33s70B7WWtU6q",
+    "name": "Rockstation",
+    "stream_urls": [
+      "https://radio2.stream24.net:8130/live.mp3"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
     ]
   },
   {

@@ -67,18 +67,6 @@
     ]
   },
   {
-    "nanoid": "HdLWlAkWEmbBiE",
-    "name": "Radio Capodistria",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/capo"
-    ],
-    "country": "si",
-    "languages": [
-      "ita",
-      "slv"
-    ]
-  },
-  {
     "nanoid": "Uz3EknPD2g0yOL",
     "name": "Radio City",
     "stream_urls": [
@@ -128,6 +116,17 @@
     "name": "Radio Maribor",
     "stream_urls": [
       "https://mp3.rtvslo.si/rmb"
+    ],
+    "country": "si",
+    "languages": [
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "7EycVvzi77mUgs",
+    "name": "Radio Maxi",
+    "stream_urls": [
+      "https://live.radio.si/Maxi"
     ],
     "country": "si",
     "languages": [
