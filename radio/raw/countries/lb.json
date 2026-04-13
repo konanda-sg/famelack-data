@@ -91,10 +91,10 @@
     ]
   },
   {
-    "nanoid": "QwgBH6GgOnzYSL",
-    "name": "Radio Albachaer",
+    "nanoid": "ugLRAeM1N9y868",
+    "name": "One FM",
     "stream_urls": [
-      "https://stream-169.zeno.fm/q3wqw4ahtuhvv"
+      "https://hms.pfs.gdn/v1/broadcast/onefmaudio/playlist.m3u8"
     ],
     "country": "lb",
     "languages": [

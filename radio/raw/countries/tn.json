@@ -221,17 +221,6 @@
     ]
   },
   {
-    "nanoid": "AzXcavwEoOgAIi",
-    "name": "Radio Med",
-    "stream_urls": [
-      "https://stream6.tanitweb.com/radiomed"
-    ],
-    "country": "tn",
-    "languages": [
-      "ara"
-    ]
-  },
-  {
     "nanoid": "aMqEz6amKIUUFF",
     "name": "Radio Misk",
     "stream_urls": [
@@ -289,17 +278,6 @@
     ]
   },
   {
-    "nanoid": "Fd278dVJYfAiHD",
-    "name": "Radio Tunisia Med",
-    "stream_urls": [
-      "https://azuracast.conceptradio.fr:8000/radio.mp3"
-    ],
-    "country": "tn",
-    "languages": [
-      "ara"
-    ]
-  },
-  {
     "nanoid": "NbOdaMp0qWh6nm",
     "name": "Sabra FM",
     "stream_urls": [
@@ -348,6 +326,17 @@
     "name": "Six Days of Shawwal (ستة شوال)",
     "stream_urls": [
       "https://qurango.net/radio/SixDaysOfShawwal"
+    ],
+    "country": "tn",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "uSppWwTAAe9ywg",
+    "name": "Sodais Quran",
+    "stream_urls": [
+      "https://backup.qurango.net/radio/abdulrahman_alsudaes"
     ],
     "country": "tn",
     "languages": [

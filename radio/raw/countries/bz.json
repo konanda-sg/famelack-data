@@ -33,6 +33,17 @@
     ]
   },
   {
+    "nanoid": "y8S69uT6cHQY1j",
+    "name": "Faith FM 94.1",
+    "stream_urls": [
+      "https://stream.eleden.com/faithfm.aac/faithfm.aac.stream/chunklist_w2049373379.m3u8"
+    ],
+    "country": "bz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "kV1iUpUK9UlPA5",
     "name": "Harmony Christian Radio",
     "stream_urls": [
@@ -77,17 +88,6 @@
     ]
   },
   {
-    "nanoid": "jYYIgQgqoqv6Gt",
-    "name": "New Life Christian Radio 100.5",
-    "stream_urls": [
-      "https://stream-176.zeno.fm/6c3dhrvcp98uv"
-    ],
-    "country": "bz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "cBotsmcZ5Wd7zD",
     "name": "Power FM 95.5",
     "stream_urls": [
@@ -114,6 +114,17 @@
     "name": "Radio Restauración de Vida",
     "stream_urls": [
       "https://stream-174.zeno.fm/bnhezvpxcfhvv"
+    ],
+    "country": "bz",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KTtJ917y8FPZpz",
+    "name": "Radio Visión 91.9",
+    "stream_urls": [
+      "https://sonic.radiostreaminglatino.com:10968/stream/;"
     ],
     "country": "bz",
     "languages": [

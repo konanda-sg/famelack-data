@@ -72,10 +72,10 @@
     ]
   },
   {
-    "nanoid": "svqGAAzdRdQYUr",
-    "name": "Radio Buntu",
+    "nanoid": "GxOX5OKvW8NIPl",
+    "name": "Radio Agakiza",
     "stream_urls": [
-      "https://stream.rcast.net/62581"
+      "https://cast6.asurahosting.com/proxy/radioaga/stream"
     ],
     "country": "bi",
     "languages": [
@@ -136,18 +136,6 @@
     "name": "Radio Peace",
     "stream_urls": [
       "https://stream-176.zeno.fm/f08xxutefg8uv"
-    ],
-    "country": "bi",
-    "languages": [
-      "fra",
-      "run"
-    ]
-  },
-  {
-    "nanoid": "CvnYVFEx9wsxL3",
-    "name": "RTRI",
-    "stream_urls": [
-      "https://stream-175.zeno.fm/wbdf30rtxd0uv"
     ],
     "country": "bi",
     "languages": [

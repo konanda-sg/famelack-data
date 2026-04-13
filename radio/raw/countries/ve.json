@@ -11,17 +11,6 @@
     ]
   },
   {
-    "nanoid": "lpVbPeQFQEFU9s",
-    "name": "Activa 104.9 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/t31pbasum7zuv"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "PibRJ60Rz8ExMW",
     "name": "Adulto Joven 88.1 FM",
     "stream_urls": [
@@ -220,10 +209,10 @@
     ]
   },
   {
-    "nanoid": "zu3OlfNIarpxtt",
-    "name": "Circuito POP FM 105.9",
+    "nanoid": "nyl1yTWBlFziF8",
+    "name": "Cima Radio 100.9 FM",
     "stream_urls": [
-      "https://acp2.lorini.net:10120/stream"
+      "https://stream.zeno.fm/8vugdnevn18uv"
     ],
     "country": "ve",
     "languages": [
@@ -231,10 +220,10 @@
     ]
   },
   {
-    "nanoid": "tvI9laTkOj6EMK",
-    "name": "Club Retro Valles del Tuy Radio",
+    "nanoid": "zu3OlfNIarpxtt",
+    "name": "Circuito POP FM 105.9",
     "stream_urls": [
-      "https://stream.zeno.fm/zrsfcx3351zuv.aac"
+      "https://acp2.lorini.net:10120/stream"
     ],
     "country": "ve",
     "languages": [
@@ -309,10 +298,10 @@
     ]
   },
   {
-    "nanoid": "C5HvzorsE3teLQ",
-    "name": "Cuyuni 106.5 FM",
+    "nanoid": "4roCqxgWx5kPP3",
+    "name": "Costera 102.7 FM",
     "stream_urls": [
-      "https://stream.zeno.fm/xag8wa3c4v8uv"
+      "https://streamingned.com:7112/stream"
     ],
     "country": "ve",
     "languages": [
@@ -434,17 +423,6 @@
     "name": "Espléndida 91.9 FM",
     "stream_urls": [
       "https://stream.zeno.fm/jyrqyy8he4tvv"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "DikdM6X3Rwb4wH",
-    "name": "Evolussion Radio 92.9 FM",
-    "stream_urls": [
-      "https://laradiossl.online:8150/live"
     ],
     "country": "ve",
     "languages": [
@@ -777,17 +755,6 @@
     "name": "Máxima 104.3 FM",
     "stream_urls": [
       "https://stream.zeno.fm/tpg754xrclsuv"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "31yKNHjiYl3DQc",
-    "name": "Navidad Venezuela",
-    "stream_urls": [
-      "https://stream.zeno.fm/vbvpvf6a6uvtv"
     ],
     "country": "ve",
     "languages": [
@@ -1206,17 +1173,6 @@
     "name": "Utopica Stereo",
     "stream_urls": [
       "https://server6.globalhostla.com:9104/stream"
-    ],
-    "country": "ve",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "SJFwmWKBGJKBTT",
-    "name": "W Radio 99.7 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/19esq1mgzhhvv"
     ],
     "country": "ve",
     "languages": [

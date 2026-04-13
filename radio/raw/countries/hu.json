@@ -57,9 +57,7 @@
     "stream_urls": [
       "https://s2.audiostream.hu/bdpstrock_FLAC",
       "https://bdpstrock.hu/live_320.mp3",
-      "https://bdpstrock.hu/live_HiFi.mp3",
-      "https://bdpstrock.hu/live.mp3",
-      "https://bdpstrock.hu/live_128.mp3"
+      "https://bdpstrock.hu/live_HiFi.mp3"
     ],
     "country": "hu",
     "languages": [
@@ -82,8 +80,8 @@
     "nanoid": "IwyyxcU4DGXLSm",
     "name": "Best FM Eger",
     "stream_urls": [
-      "https://icast.connectmedia.hu/5116/live.mp3/;",
-      "https://icast.connectmedia.hu/5116/live.mp3"
+      "https://icast.connectmedia.hu/5116/live.mp3",
+      "https://icast.connectmedia.hu/5116/live.mp3/;"
     ],
     "country": "hu",
     "languages": [
@@ -572,6 +570,18 @@
     ]
   },
   {
+    "nanoid": "jBVhYYsPLXvlZ7",
+    "name": "DANCEable Radio",
+    "stream_urls": [
+      "https://s9.myradiostream.com:35944/;"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "ogdRFFSE7MxpgL",
     "name": "Dankó Rádió",
     "stream_urls": [
@@ -588,9 +598,7 @@
     "stream_urls": [
       "https://stream.danubiusradio.hu/danubius_HiFi",
       "https://danubiusradio.hu/live.mp3",
-      "https://stream.danubiusradio.hu/danubius_320k",
-      "https://stream.danubiusradio.hu/danubius_128k",
-      "https://stream.danubiusradio.hu/danubius_192k"
+      "https://stream.danubiusradio.hu/danubius_320k"
     ],
     "country": "hu",
     "languages": [
@@ -612,8 +620,8 @@
     "nanoid": "jQ8uQiyHysetkz",
     "name": "Disco Diamond Radio",
     "stream_urls": [
-      "https://discodiamond.radioca.st/stream",
-      "https://ddr2020.radioca.st/stream"
+      "https://ddr2020.radioca.st/stream",
+      "https://discodiamond.radioca.st/stream"
     ],
     "country": "hu",
     "languages": [
@@ -625,6 +633,17 @@
     "name": "Duna World Rádió",
     "stream_urls": [
       "https://mr-stream.connectmedia.hu/4761/dwr.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "yssvNpelyvDlDi",
+    "name": "Európa Rádió",
+    "stream_urls": [
+      "https://europaradio.hu/miskolc"
     ],
     "country": "hu",
     "languages": [
@@ -756,7 +775,6 @@
     "nanoid": "1l7aYu7nneZoSc",
     "name": "Klasszik Rádió 92.1",
     "stream_urls": [
-      "https://s04.diazol.hu:9600/live.mp3",
       "https://www.klasszikradio.hu/klasszik.mp3"
     ],
     "country": "hu",
@@ -1296,17 +1314,6 @@
     ]
   },
   {
-    "nanoid": "tTQXjurGXe7sQZ",
-    "name": "Radio Sunrise",
-    "stream_urls": [
-      "https://s03.diazol.hu:7172/stream"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ]
-  },
-  {
     "nanoid": "Qt8lLTym6qyY7M",
     "name": "Radiocafé 98.0",
     "stream_urls": [
@@ -1333,23 +1340,12 @@
     "nanoid": "0j59UgKdhlrJio",
     "name": "radiOzora Chill",
     "stream_urls": [
-      "https://chill.out.airtime.pro:8000/chill_a",
-      "https://chill.out.airtime.pro/chill_a"
+      "https://chill.out.airtime.pro/chill_a",
+      "https://chill.out.airtime.pro:8000/chill_a"
     ],
     "country": "hu",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "gxf9vTVz9lgyO2",
-    "name": "Reménység Hangja Rádió",
-    "stream_urls": [
-      "https://live.rvs.ro/mg"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
     ]
   },
   {
@@ -1624,8 +1620,8 @@
     "nanoid": "uyAMCevoIXClCK",
     "name": "SuperDj Rádió",
     "stream_urls": [
-      "https://s03.diazol.hu:35150/live",
-      "https://s03.diazol.hu:35152/stream"
+      "https://s03.diazol.hu:35152/stream",
+      "https://s03.diazol.hu:35150/live"
     ],
     "country": "hu",
     "languages": [
@@ -1699,12 +1695,23 @@
     ]
   },
   {
+    "nanoid": "ZJ25KEBtJiC0Ul",
+    "name": "Test Radio Station",
+    "stream_urls": [
+      "https://videos.prd.dlivecdn.com/dlive/live.m3u8"
+    ],
+    "country": "hu",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "MgxQbwKjOTnyq6",
     "name": "Tilos Rádió",
     "stream_urls": [
+      "https://stream.tilos.hu/tilos_128.mp3",
       "https://stream.tilos.hu/tilos_32.mp3",
-      "https://stream.tilos.hu/tilos",
-      "https://stream.tilos.hu/tilos_128.mp3"
+      "https://stream.tilos.hu/tilos"
     ],
     "country": "hu",
     "languages": [

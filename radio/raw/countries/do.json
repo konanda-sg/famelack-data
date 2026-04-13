@@ -66,6 +66,17 @@
     ]
   },
   {
+    "nanoid": "FNr65xuQJ9UtoL",
+    "name": "Club Sabroso Radio",
+    "stream_urls": [
+      "https://s5.radio.co:80/s688b80b65/listen"
+    ],
+    "country": "do",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "I6bwjQgdwtQxkH",
     "name": "Criolla 106.1 FM",
     "stream_urls": [
@@ -177,6 +188,17 @@
     ]
   },
   {
+    "nanoid": "CAoI6xWvhDNHhY",
+    "name": "KQ 94.5 FM",
+    "stream_urls": [
+      "https://radio.yaservers.com:9990/;"
+    ],
+    "country": "do",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "ZlHIPkqIZJ9cCN",
     "name": "KV 94.7 FM",
     "stream_urls": [
@@ -243,10 +265,33 @@
     ]
   },
   {
+    "nanoid": "mxALvOjYS8mkJZ",
+    "name": "MC Anime Radio",
+    "stream_urls": [
+      "https://cast.mcanimeradio.com/listen/mcradio/radio.mp3",
+      "https://cast.mcanimeradio.com/listen/mcradio/radio.aac"
+    ],
+    "country": "do",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "IXnFHdXFNHtQqw",
     "name": "Misionera FM 91.5",
     "stream_urls": [
       "https://stream.zeno.fm/vget1nz0czxvv"
+    ],
+    "country": "do",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "V7TYJ13j2UAR58",
+    "name": "Mortal 104.9 FM",
+    "stream_urls": [
+      "https://n03.radiojar.com/x84tcy2wm2zuv"
     ],
     "country": "do",
     "languages": [

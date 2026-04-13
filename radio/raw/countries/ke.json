@@ -126,18 +126,6 @@
     ]
   },
   {
-    "nanoid": "HmETdFABn9Uqv2",
-    "name": "Ghetto Radio 89.5",
-    "stream_urls": [
-      "https://stream.zeno.fm/kvudezx1h2zuv"
-    ],
-    "country": "ke",
-    "languages": [
-      "eng",
-      "swa"
-    ]
-  },
-  {
     "nanoid": "Us7aWHJDeQKhF2",
     "name": "Hot 96",
     "stream_urls": [
@@ -207,17 +195,6 @@
     ]
   },
   {
-    "nanoid": "bJWObKv80J6vda",
-    "name": "Kayu FM",
-    "stream_urls": [
-      "https://n01.radiojar.com/v3ny5z2mftuvv"
-    ],
-    "country": "ke",
-    "languages": [
-      "swa"
-    ]
-  },
-  {
     "nanoid": "IdT3wUKCHnjFqn",
     "name": "KBC Coro FM",
     "stream_urls": [
@@ -276,8 +253,8 @@
     "nanoid": "KHF8u6BFw33wVZ",
     "name": "KBC Radio Taifa",
     "stream_urls": [
-      "https://stream.zeno.fm/ud2u96xst5quv",
-      "https://stream-161.zeno.fm/4fdwx9mydbruv"
+      "https://stream-161.zeno.fm/4fdwx9mydbruv",
+      "https://stream.zeno.fm/ud2u96xst5quv"
     ],
     "country": "ke",
     "languages": [

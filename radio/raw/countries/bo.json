@@ -202,17 +202,6 @@
     ]
   },
   {
-    "nanoid": "Hd5uAkgw7GQfaU",
-    "name": "Radio Camargo",
-    "stream_urls": [
-      "https://stm1.streamproarte.com.br:7020/stream"
-    ],
-    "country": "bo",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "7Od6goFRSY0bhc",
     "name": "Radio CEPRA",
     "stream_urls": [
@@ -250,6 +239,17 @@
     "name": "Radio Constelación",
     "stream_urls": [
       "https://stream.zeno.fm/ks1tsgndvp8uv"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GuvBgNbezBZzja",
+    "name": "Radio Deseo",
+    "stream_urls": [
+      "https://conectperu.com/8046/stream"
     ],
     "country": "bo",
     "languages": [
@@ -336,17 +336,6 @@
     ]
   },
   {
-    "nanoid": "3H3iIX8TpGx6wM",
-    "name": "Radio La Patria",
-    "stream_urls": [
-      "https://inliveserver.com:2000/stream/8136"
-    ],
-    "country": "bo",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "q5E5HyCAGGgMEZ",
     "name": "Radio Luis de Fuentes 93.1",
     "stream_urls": [
@@ -396,17 +385,6 @@
     "stream_urls": [
       "https://stream.zeno.fm/5hfx7xfambruv",
       "https://stream.zeno.fm/pnwpbyfambruv"
-    ],
-    "country": "bo",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "5KAVVWL5uxw58W",
-    "name": "Radio Pío XII 97.9",
-    "stream_urls": [
-      "https://aler.org:8445/pio12cbba.mp3"
     ],
     "country": "bo",
     "languages": [

@@ -11,6 +11,41 @@
     ]
   },
   {
+    "nanoid": "mvDQPbI0k5qgTZ",
+    "name": "AFN Tokyo",
+    "stream_urls": [
+      "https://17803.live.streamtheworld.com:443/AFNP_TKO_SC",
+      "https://18433.live.streamtheworld.com:443/AFNP_TKO_SC",
+      "https://13743.live.streamtheworld.com:443/AFNP_TKO_SC"
+    ],
+    "country": "jp",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3Lp1KJYrrDm3Lh",
+    "name": "Air Station Hibiki",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "3jEe5R4IiIk0HM",
+    "name": "Amami FM",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
     "nanoid": "WKQh1IBLKb6VHn",
     "name": "Anime Para Ti",
     "stream_urls": [
@@ -45,6 +80,28 @@
     ]
   },
   {
+    "nanoid": "axgFSoQku5uwp4",
+    "name": "BAN-BAN Radio",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30078/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "96WHv2KH9B5E1v",
+    "name": "Bay Wave",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
     "nanoid": "tvciwj8VN4PZYW",
     "name": "Box Radio - Japan City Pop",
     "stream_urls": [
@@ -54,6 +111,39 @@
     "languages": [
       "jpn",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "LNOIWMVCoLMbTX",
+    "name": "Cassiopeia FM",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "swHuaf4WXxqMfl",
+    "name": "Chofu FM",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "N3rRZMBnR8Wzct",
+    "name": "Chokuraji!",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
     ]
   },
   {
@@ -68,10 +158,131 @@
     ]
   },
   {
+    "nanoid": "kWH3uRL2eOuqYh",
+    "name": "FM EGAO",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30040/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "9WoO6T8U6XK8be",
+    "name": "FM Fukka-chan",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30047/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "ITtbSObTw2M12q",
+    "name": "FM Jungle",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30013/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "2JsVKgPXSdlW34",
+    "name": "FM Kaon",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "SBmoCPAT2gvn3Q",
+    "name": "FM Kawaguchi",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30035/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "M6doUGwxZ9HPW7",
+    "name": "FM Mot.com",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "gDhLFR63yJcwHG",
+    "name": "FM Nobeoka",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
     "nanoid": "vnLU85mEvfL0En",
     "name": "FM Setagaya",
     "stream_urls": [
       "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "Nqe1CdGCHnDVjl",
+    "name": "FM Tango",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "PFCcbqkeaCnetN",
+    "name": "FM Ushiku",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "4PxJrMdg0jlppO",
+    "name": "FM Watarase",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "jJizoe3VwGcnOa",
+    "name": "FM Yanbaru",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8"
     ],
     "country": "jp",
     "languages": [
@@ -115,10 +326,32 @@
     ]
   },
   {
+    "nanoid": "rnAwGCRdVRhqlX",
+    "name": "Ginowan City FM",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
     "nanoid": "KQjtzJrNHracQa",
     "name": "Gotanno FM",
     "stream_urls": [
       "https://radio.gotanno.love/;"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "hhVEh8owqIw1Gd",
+    "name": "Harbor Station Tsuruga FM",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8"
     ],
     "country": "jp",
     "languages": [
@@ -219,8 +452,8 @@
     "nanoid": "MXmq6DBSJCVOW8",
     "name": "Jazz Sakura",
     "stream_urls": [
-      "https://kathy.torontocast.com:3330/stream/1/",
-      "https://kathy.torontocast.com:3330/;"
+      "https://kathy.torontocast.com:3330/;",
+      "https://kathy.torontocast.com:3330/stream/1/"
     ],
     "country": "jp",
     "languages": [
@@ -232,6 +465,28 @@
     "name": "Kamakura FM",
     "stream_urls": [
       "https://kamakura.stream.laut.fm/kamakura"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "MaVbRu7rsoqtKr",
+    "name": "Kazuno Kiritanpo FM",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "1DjzHArkyp7ujA",
+    "name": "Kyoto Sanjo Radio Cafe",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30082/livestream/playlist.m3u8"
     ],
     "country": "jp",
     "languages": [
@@ -265,6 +520,19 @@
     ]
   },
   {
+    "nanoid": "zCf3zSRxF7Uhqx",
+    "name": "Miku Radio",
+    "stream_urls": [
+      "https://miku.fm/listen/miku/mp3-320",
+      "https://miku.fm/listen/miku/mp3-128",
+      "https://miku.fm/listen/miku/aac-320"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
     "nanoid": "08xOGhndlTkFJY",
     "name": "NFRS Radio",
     "stream_urls": [
@@ -274,6 +542,18 @@
     "country": "jp",
     "languages": [
       "jpn"
+    ]
+  },
+  {
+    "nanoid": "usKRpN4ADShRlB",
+    "name": "NHK World Radio Japan",
+    "stream_urls": [
+      "https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8",
+      "https://nhkworld-radio.akamaized.net/hls/live/2115823/nhkworld-radio-rs1/index_rs1.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -333,6 +613,17 @@
     ]
   },
   {
+    "nanoid": "fG2Z12YYm6BzZj",
+    "name": "Patchwork Archive",
+    "stream_urls": [
+      "https://a4.asurahosting.com:6930/radio.mp3"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
     "nanoid": "2j0MSaEtTKcE8k",
     "name": "R/a/dio",
     "stream_urls": [
@@ -357,6 +648,50 @@
     ]
   },
   {
+    "nanoid": "QJ4G0joeDa55PX",
+    "name": "Radio Mix Kyoto",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "7wwpVcm59huDnu",
+    "name": "Radio Morioka",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "G2jbD7bBdJe6Rn",
+    "name": "Radio Myu",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "WgTgcLoEQxAIcD",
+    "name": "Radio3",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
+  },
+  {
     "nanoid": "lTIYUe2Gg7Rs83",
     "name": "Rainwave All",
     "stream_urls": [
@@ -364,6 +699,17 @@
     ],
     "country": "jp",
     "languages": []
+  },
+  {
+    "nanoid": "xe8qOeYHqSTYve",
+    "name": "Reds Wave",
+    "stream_urls": [
+      "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8"
+    ],
+    "country": "jp",
+    "languages": [
+      "jpn"
+    ]
   },
   {
     "nanoid": "9h2tQJO5TrD091",

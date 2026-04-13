@@ -11,17 +11,6 @@
     ]
   },
   {
-    "nanoid": "vpG9pOWjCB3bos",
-    "name": "103 The Beat",
-    "stream_urls": [
-      "https://stream.radiojar.com/01d8c449cyduv"
-    ],
-    "country": "bs",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "RSL9Zsqo4KG6Et",
     "name": "96.9 FM Guardian Radio",
     "stream_urls": [
@@ -70,6 +59,17 @@
     "name": "Kiss 96.1 FM",
     "stream_urls": [
       "https://ice42.securenetsystems.net/96KISSFM"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PQ9rsrVIsoX2rd",
+    "name": "LifeTalk Radio",
+    "stream_urls": [
+      "https://ais-sa1.streamon.fm/7013_64k.aac/playlist.m3u8"
     ],
     "country": "bs",
     "languages": [

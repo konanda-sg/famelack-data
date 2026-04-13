@@ -296,6 +296,7 @@
     "nanoid": "S0RsSNnE8UAdEj",
     "name": "Kan Bet",
     "stream_urls": [
+      "https://25583.live.streamtheworld.com/KAN_BET.mp3",
       "https://28563.live.streamtheworld.com/KAN_BET.mp3"
     ],
     "country": "il",
@@ -541,8 +542,8 @@
     "nanoid": "vVwTqaDPNxNkRy",
     "name": "Radio Lev Hamedina 91 FM",
     "stream_urls": [
-      "https://91fm.streamgates.net/Lev91Fm",
-      "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+      "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "https://91fm.streamgates.net/Lev91Fm"
     ],
     "country": "il",
     "languages": [

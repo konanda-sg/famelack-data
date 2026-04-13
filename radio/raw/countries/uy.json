@@ -134,17 +134,6 @@
     ]
   },
   {
-    "nanoid": "oA7i2CsnK0DYTH",
-    "name": "Concierto Punta 95.1 FM",
-    "stream_urls": [
-      "https://conectperu.com/8012/stream"
-    ],
-    "country": "uy",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "JBTq1rWuQ2wLhN",
     "name": "Cosquín Rock Radio Uruguay",
     "stream_urls": [
@@ -288,6 +277,17 @@
     ]
   },
   {
+    "nanoid": "7uCzKgWVeFM2Jb",
+    "name": "FM Digital 100.1",
+    "stream_urls": [
+      "https://sh1.radioonlinehd.com:8001/stream"
+    ],
+    "country": "uy",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "4nEhblCv88YNRg",
     "name": "FM HIT 90.3",
     "stream_urls": [
@@ -337,6 +337,17 @@
     "name": "La Clave 92.9 FM",
     "stream_urls": [
       "https://stream-151.zeno.fm/ndwvn44vebruv"
+    ],
+    "country": "uy",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FlEQZ4uL1eF4Ij",
+    "name": "La Nueva del Sur",
+    "stream_urls": [
+      "https://stream.zeno.fm/s6hdmgb9na0uv"
     ],
     "country": "uy",
     "languages": [
